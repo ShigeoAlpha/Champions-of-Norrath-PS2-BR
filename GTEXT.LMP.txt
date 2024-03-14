@@ -3998,500 +3998,500 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Machado do Executor<END>
 <BEGIN>Gnawer Frenético<END>
 <BEGIN>Esfolador de Faces<END>
-<BEGIN>Grave Binder<END>
-<BEGIN>Hates Edge<END>
+<BEGIN>Ligador do Túmulo<END>
+<BEGIN>Fio do Ódio<END>
 <BEGIN>Norgetal<END>
-<BEGIN>Palladium Axe<END>
-<BEGIN>Soul Defiler<END>
-<BEGIN>Viiks Dark Defender<END>
-<BEGIN>Vindication<END>
-<BEGIN>Beaked Bear Dagger<END>
-<BEGIN>Goblin Eye Poker<END>
-<BEGIN>Blood Bladed Dagger<END>
-<BEGIN>Blade of Angels<END>
-<BEGIN>Shissar Dagger<END>
-<BEGIN>Crypt Robbers Knife<END>
-<BEGIN>Claw of Veeshan<END>
-<BEGIN>Dagger of Defense<END>
-<BEGIN>Dagger of Marnek<END>
-<BEGIN>Dagger of Symbols<END>
-<BEGIN>Slick Finger Dirk<END>
-<BEGIN>Dirk of Ravaged Wind<END>
-<BEGIN>Dirk of the Traitor<END>
-<BEGIN>Dragoon Dirk<END>
-<BEGIN>Drogan Dagger<END>
-<BEGIN>Skinning Knife<END>
-<BEGIN>Fanged Skull Stilleto<END>
-<BEGIN>Ifir Dagger<END>
-<BEGIN>Kylong Hunting Knife<END>
-<BEGIN>Parrying Dagger<END>
+<BEGIN>Machado de Paládio<END>
+<BEGIN>Defilador de Almas<END>
+<BEGIN>Defensor Sombrio de Viiks<END>
+<BEGIN>Vindicação<END>
+<BEGIN>Punhal do Urso de Bico<END>
+<BEGIN>Poker de Olho de Goblin<END>
+<BEGIN>Punhal com Lâmina de Sangue<END>
+<BEGIN>Lâmina dos Anjos<END>
+<BEGIN>Punhal Shissar<END>
+<BEGIN>Faca de Ladrões de Cripta<END>
+<BEGIN>Garras de Veeshan<END>
+<BEGIN>Punhal de Defesa<END>
+<BEGIN>Punhal de Marnek<END>
+<BEGIN>Punhal de Símbolos<END>
+<BEGIN>Adaga Escorregadia<END>
+<BEGIN>Punhal de Vento Devastado<END>
+<BEGIN>Punhal do Traidor<END>
+<BEGIN>Punhal Dragoon<END>
+<BEGIN>Punhal Drogan<END>
+<BEGIN>Faca de Esfola<END>
+<BEGIN>Estileto de Caveira com Presas<END>
+<BEGIN>Punhal Ifir<END>
+<BEGIN>Faca de Caça Kylong<END>
+<BEGIN>Punhal de Defesa<END>
 <BEGIN>Pugius Dagger<END>
-<BEGIN>Sacrificial Dagger<END>
-<BEGIN>Singing Dagger<END>
-<BEGIN>Smokey Quartz Dagger<END>
-<BEGIN>Blood Claw Stilleto<END>
-<BEGIN>Thelins Dagger<END>
-<BEGIN>Thex Dagger<END>
-<BEGIN>Visceral Dagger<END>
-<BEGIN>Slikskins Dagger<END>
-<BEGIN>Blade of Champions<END>
-<BEGIN>Bloodbath<END>
-<BEGIN>Canyoneer Spike<END>
-<BEGIN>Dark Courage<END>
-<BEGIN>Fate Caller<END>
-<BEGIN>Impaler<END>
-<BEGIN>Farwater Tunic<END>
-<BEGIN>Burrowers Shirt<END>
-<BEGIN>Bile Drenched Robe<END>
-<BEGIN>Bragens Braided Tunic<END>
-<BEGIN>Cralaras Branded Robe<END>
-<BEGIN>Netted Kelp Shirt<END>
-<BEGIN>Snow Woven Robe<END>
-<BEGIN>Farwater Boots<END>
-<BEGIN>Burrowers Boots<END>
-<BEGIN>Bile Drenched Boots<END>
-<BEGIN>Bragens Braided Boots<END>
-<BEGIN>Cralaras Branded Boots<END>
-<BEGIN>Netted Kelp Boots<END>
-<BEGIN>Snow Woven Boots<END>
-<BEGIN>Farwater Helm<END>
-<BEGIN>Burrowers Helm<END>
-<BEGIN>Bile Drenched Cap<END>
-<BEGIN>Bragens Braided Cap<END>
-<BEGIN>Cralaras Branded Cap<END>
-<BEGIN>Netted Kelp Cap<END>
-<BEGIN>Snow Woven Cap<END>
-<BEGIN>Farwater Gloves<END>
-<BEGIN>Burrowers Gloves<END>
-<BEGIN>Bile Drenched Gloves<END>
-<BEGIN>Bragens Braided Gloves<END>
-<BEGIN>Cralaras Branded Gloves<END>
-<BEGIN>Netted Kelp Gloves<END>
-<BEGIN>Snow Woven Gloves<END>
-<BEGIN>Farwater Leggings<END>
-<BEGIN>Burrowers Leggings<END>
-<BEGIN>Bile Drenched Leggings<END>
-<BEGIN>Bragens Braided Leggings<END>
-<BEGIN>Cralaras Branded Leggings<END>
-<BEGIN>Netted Kelp Leggings<END>
-<BEGIN>Snow Woven Leggings<END>
-<BEGIN>Kizraks Chestplate of Battle<END>
-<BEGIN>Champions Breastplate<END>
-<BEGIN>Warlord Breastplate<END>
-<BEGIN>Raexs Chestplate of Destruction<END>
-<BEGIN>Breastplate of Void<END>
-<BEGIN>Chestplate of Fiery Might<END>
-<BEGIN>Breastplate of Superiority<END>
-<BEGIN>True Breastplate<END>
-<BEGIN>Valiant Chestplate<END>
-<BEGIN>Templar Breastplate<END>
-<BEGIN>Malevolent Breastplate<END>
-<BEGIN>Myrmidon Armor<END>
-<BEGIN>Grim Ror Sog Plague Armor<END>
-<BEGIN>Ultors Chestplate of Faith<END>
-<BEGIN>Hurricane Plate<END>
+<BEGIN>Punhal de Sacrifício<END>
+<BEGIN>Punhal Cantante<END>
+<BEGIN>Punhal de Quartzo Esfumaçado<END>
+<BEGIN>Estileto de Garras Sangrentas<END>
+<BEGIN>Punhal de Thelin<END>
+<BEGIN>Punhal de Thex<END>
+<BEGIN>Punhal Visceral<END>
+<BEGIN>Punhal de Slikskin<END>
+<BEGIN>Lâmina dos Campeões<END>
+<BEGIN>Banho de Sangue<END>
+<BEGIN>Estaca do Canionero<END>
+<BEGIN>Coragem Sombria<END>
+<BEGIN>Chamador de Destinos<END>
+<BEGIN>Empalador<END>
+<BEGIN>Túnica da Água Longínqua<END>
+<BEGIN>Camisa do Escavador<END>
+<BEGIN>Robe Banhada em Bile<END>
+<BEGIN>Túnica Trançada de Bragen<END>
+<BEGIN>Robe Marcada de Cralaras<END>
+<BEGIN>Camisa de Algas Tricotada<END>
+<BEGIN>Robe Tecido de Neve<END>
+<BEGIN>Botas da Água Longínqua<END>
+<BEGIN>Botas do Escavador<END>
+<BEGIN>Botas Banhadas em Bile<END>
+<BEGIN>Botas Trançadas de Bragen<END>
+<BEGIN>Botas Marcadas de Cralaras<END>
+<BEGIN>Botas de Algas Tricotadas<END>
+<BEGIN>Botas Tecido de Neve<END>
+<BEGIN>Casquete da Água Longínqua<END>
+<BEGIN>Casquete do Escavador<END>
+<BEGIN>Touca Banhada em Bile<END>
+<BEGIN>Touca Trançada de Bragen<END>
+<BEGIN>Touca Marcada de Cralaras<END>
+<BEGIN>Touca de Algas Tricotadas<END>
+<BEGIN>Touca Tecido de Neve<END>
+<BEGIN>Luvas da Água Longínqua<END>
+<BEGIN>Luvas do Escavador<END>
+<BEGIN>Luvas Banhadas em Bile<END>
+<BEGIN>Luvas Trançadas de Bragen<END>
+<BEGIN>Luvas Marcadas de Cralaras<END>
+<BEGIN>Luvas de Algas Tricotadas<END>
+<BEGIN>Luvas Tecido de Neve<END>
+<BEGIN>Calças da Água Longínqua<END>
+<BEGIN>Calças do Escavador<END>
+<BEGIN>Calças Banhadas em Bile<END>
+<BEGIN>Calças Trançadas de Bragen<END>
+<BEGIN>Calças Marcadas de Cralaras<END>
+<BEGIN>Calças de Algas Tricotadas<END>
+<BEGIN>Calças Tecido de Neve<END>
+<BEGIN>Peitoral de Batalha de Kizrak<END>
+<BEGIN>Peitoral dos Campeões<END>
+<BEGIN>Peitoral do Senhor da Guerra<END>
+<BEGIN>Peitoral de Destruição de Raex<END>
+<BEGIN>Peitoral do Vácuo<END>
+<BEGIN>Peitoral de Poder Ígneo<END>
+<BEGIN>Peitoral de Superioridade<END>
+<BEGIN>Peitoral Verdadeiro<END>
+<BEGIN>Peitoral Valente<END>
+<BEGIN>Peitoral Templário<END>
+<BEGIN>Peitoral Malevolente<END>
+<BEGIN>Armadura de Mirmeidon<END>
+<BEGIN>Armamento da Praga Ror Sog Sombrio<END>
+<BEGIN>Peitoral de Fé de Ultor<END>
+<BEGIN>Placa do Furacão<END>
 <BEGIN>Akkirus Risen<END>
-<BEGIN>Blood Lords Plate<END>
-<BEGIN>Tiec Forged Chestplate<END>
-<BEGIN>Chest of Vindication<END>
-<BEGIN>True Vision Armor<END>
-<BEGIN>Golden Leaf Chestplate<END>
-<BEGIN>Lava Forged Chestplate<END>
-<BEGIN>Glacial Breatplate<END>
-<BEGIN>Icescale Breastplate<END>
-<BEGIN>Blood Steel Breatplate<END>
-<BEGIN>Kizraks Greaves of Battle<END>
-<BEGIN>Champions Greaves<END>
-<BEGIN>Warlord Greaves<END>
-<BEGIN>Raexs Greaves of Destruction<END>
-<BEGIN>Greaves of Void<END>
-<BEGIN>Legplates of Fiery Might<END>
-<BEGIN>Legplates of Superiority<END>
-<BEGIN>True Legplates<END>
-<BEGIN>Valiant Legplates<END>
-<BEGIN>Templar Leggings<END>
-<BEGIN>Malevolent Greaves<END>
-<BEGIN>Myrmidon Leggings<END>
-<BEGIN>Grim Ror Sog Plague Leggings<END>
-<BEGIN>Ultors Greaves of Faith<END>
-<BEGIN>Hurricane Legplates<END>
-<BEGIN>Akkirus Risen Greaves<END>
-<BEGIN>Blood Lords Legplates<END>
-<BEGIN>Tiec Forged Legplates<END>
-<BEGIN>Greaves of Vindication<END>
-<BEGIN>True Vision Greaves<END>
-<BEGIN>Golden Leaf Greaves<END>
-<BEGIN>Lava Forged Greaves<END>
-<BEGIN>Glacial Greaves<END>
-<BEGIN>Icescale Legplates<END>
-<BEGIN>Blood Steel Legplates<END>
-<BEGIN>Kizraks Gauntlets of Battle<END>
-<BEGIN>Champions Gauntlets<END>
-<BEGIN>Warlord Gauntlets<END>
-<BEGIN>Raexs Gauntlets of Destruction<END>
-<BEGIN>Gauntlets of Void<END>
-<BEGIN>Gauntlets of Fiery Might<END>
-<BEGIN>Gauntlets of Superiority<END>
-<BEGIN>True Gauntlets<END>
-<BEGIN>Valiant Gauntlets<END>
-<BEGIN>Templar Gauntlets<END>
-<BEGIN>Malevolent Gauntlets<END>
-<BEGIN>Myrmidon Gauntlets<END>
-<BEGIN>Grim Ror Sog Plague Gauntlets<END>
-<BEGIN>Ultors Gauntlets of Faith<END>
-<BEGIN>Hurricane Gauntlets<END>
-<BEGIN>Akkirus Risen Gauntlets<END>
-<BEGIN>Blood Lords Gauntlets<END>
-<BEGIN>Tiec Forged Gauntlets<END>
-<BEGIN>Gauntlets of Vindication<END>
-<BEGIN>True Vision Gauntlets<END>
-<BEGIN>Golden Leaf Gauntlets<END>
-<BEGIN>Lava Forged Gauntlets<END>
-<BEGIN>Glacial Gauntlets<END>
-<BEGIN>Icescale Gauntlets<END>
-<BEGIN>Blood Steel Gauntlets<END>
-<BEGIN>Kizraks Helm of Battle<END>
-<BEGIN>Champions Helm<END>
-<BEGIN>Warlord Helm<END>
-<BEGIN>Raexs Helm of Destruction<END>
-<BEGIN>Helm of Void<END>
-<BEGIN>Helm of Fiery Might<END>
-<BEGIN>Helm of Superiority<END>
-<BEGIN>True Helm<END>
-<BEGIN>Valiant Helm<END>
-<BEGIN>Templar Helm<END>
-<BEGIN>Malevolent Helm<END>
-<BEGIN>Myrmidon Helm<END>
-<BEGIN>Grim Ror Sog Plague Helm<END>
-<BEGIN>Ultors Helm of Faith<END>
-<BEGIN>Hurricane Helm<END>
-<BEGIN>Akkirus Risen Helm<END>
-<BEGIN>Blood Lords Helm<END>
-<BEGIN>Tiec Forged Helm<END>
-<BEGIN>Helm of Vindication<END>
-<BEGIN>True Vision Helm<END>
-<BEGIN>Golden Leaf Helm<END>
-<BEGIN>Lava Forged Helm<END>
-<BEGIN>Glacial Helm<END>
-<BEGIN>Icescale Helm<END>
-<BEGIN>Blood Steel Helm<END>
-<BEGIN>Kizraks Boots of Battle<END>
-<BEGIN>Champions Boots<END>
-<BEGIN>Warlord Boots<END>
-<BEGIN>Raexs Boots of Destruction<END>
-<BEGIN>Boots of Void<END>
-<BEGIN>Boots of Fiery Might<END>
-<BEGIN>Boots of Superiority<END>
-<BEGIN>True Boots<END>
-<BEGIN>Valiant Boots<END>
-<BEGIN>Templar Boots<END>
-<BEGIN>Malevolent Boots<END>
-<BEGIN>Myrmidon Boots<END>
-<BEGIN>Grim Ror Sog Plague Boots<END>
-<BEGIN>Ultors Boots of Faith<END>
-<BEGIN>Hurricane Boots<END>
-<BEGIN>Akkirus Risen Boots<END>
-<BEGIN>Blood Lords Boots<END>
-<BEGIN>Tiec Forged Boots<END>
-<BEGIN>Boots of Vindication<END>
-<BEGIN>True Vision Boots<END>
-<BEGIN>Golden Leaf Boots<END>
-<BEGIN>Lava Forged Boots<END>
-<BEGIN>Glacial Boots<END>
-<BEGIN>Icescale Boots<END>
-<BEGIN>Blood Steel Boots<END>
+<BEGIN>Placa do Senhor do Sangue<END>
+<BEGIN>Peitoral Forjado de Tiec<END>
+<BEGIN>Peitoral de Vindicação<END>
+<BEGIN>Armadura da Visão Verdadeira<END>
+<BEGIN>Peitoral Folha Dourada<END>
+<BEGIN>Peitoral Forjado em Lava<END>
+<BEGIN>Peitoral de Sopro Glacial<END>
+<BEGIN>Peitoral de Escama de Gelo<END>
+<BEGIN>Peitoral de Aço Sanguíneo<END>
+<BEGIN>Perneiras de Kizrak de Batalha<END>
+<BEGIN>Perneiras dos Campeões<END>
+<BEGIN>Perneiras do Senhor da Guerra<END>
+<BEGIN>Perneiras de Destruição de Raex<END>
+<BEGIN>Perneiras do Vácuo<END>
+<BEGIN>Perneiras de Poder Ígneo<END>
+<BEGIN>Perneiras de Superioridade<END>
+<BEGIN>Perneiras Verdadeiras<END>
+<BEGIN>Perneiras Valentes<END>
+<BEGIN>Perneiras Templárias<END>
+<BEGIN>Perneiras Malevolentes<END>
+<BEGIN>Perneiras de Mirmeidon<END>
+<BEGIN>Perneiras da Praga Ror Sog Sombrio<END>
+<BEGIN>Perneiras de Fé de Ultor<END>
+<BEGIN>Perneiras do Furacão<END>
+<BEGIN>Perneiras Ressuscitadas de Akkirus<END>
+<BEGIN>Perneiras do Senhor do Sangue<END>
+<BEGIN>Perneiras Forjadas de Tiec<END>
+<BEGIN>Perneiras de Vindicação<END>
+<BEGIN>Perneiras da Visão Verdadeira<END>
+<BEGIN>Perneiras de Folha Dourada<END>
+<BEGIN>Perneiras Forjadas em Lava<END>
+<BEGIN>Perneiras Glaciais<END>
+<BEGIN>Perneiras de Escama de Gelo<END>
+<BEGIN>Perneiras de Aço Sanguíneo<END>
+<BEGIN>Manoplas de Kizrak de Batalha<END>
+<BEGIN>Manoplas dos Campeões<END>
+<BEGIN>Manoplas do Senhor da Guerra<END>
+<BEGIN>Manoplas de Destruição de Raex<END>
+<BEGIN>Manoplas do Vácuo<END>
+<BEGIN>Manoplas de Poder Ígneo<END>
+<BEGIN>Manoplas de Superioridade<END>
+<BEGIN>Manoplas Verdadeiras<END>
+<BEGIN>Manoplas Valentes<END>
+<BEGIN>Manoplas Templárias<END>
+<BEGIN>Manoplas Malevolentes<END>
+<BEGIN>Manoplas de Mirmeidon<END>
+<BEGIN>Manoplas da Praga Ror Sog Sombrio<END>
+<BEGIN>Manoplas de Fé de Ultor<END>
+<BEGIN>Manoplas do Furacão<END>
+<BEGIN>Manoplas Ressuscitadas de Akkirus<END>
+<BEGIN>Manoplas do Senhor do Sangue<END>
+<BEGIN>Manoplas Forjadas de Tiec<END>
+<BEGIN>Manoplas de Vindicação<END>
+<BEGIN>Manoplas da Visão Verdadeira<END>
+<BEGIN>Manoplas de Folha Dourada<END>
+<BEGIN>Manoplas Forjadas em Lava<END>
+<BEGIN>Manoplas Glaciais<END>
+<BEGIN>Manoplas de Escama de Gelo<END>
+<BEGIN>Manoplas de Aço Sanguíneo<END>
+<BEGIN>Elmo de Kizrak de Batalha<END>
+<BEGIN>Elmo dos Campeões<END>
+<BEGIN>Elmo do Senhor da Guerra<END>
+<BEGIN>Elmo de Destruição de Raex<END>
+<BEGIN>Elmo do Vácuo<END>
+<BEGIN>Elmo de Poder Ígneo<END>
+<BEGIN>Elmo de Superioridade<END>
+<BEGIN>Elmo Verdadeiro<END>
+<BEGIN>Elmo Valente<END>
+<BEGIN>Elmo Templário<END>
+<BEGIN>Elmo Malevolente<END>
+<BEGIN>Elmo de Mirmeidon<END>
+<BEGIN>Elmo da Praga Ror Sog Sombrio<END>
+<BEGIN>Elmo de Fé de Ultor<END>
+<BEGIN>Elmo do Furacão<END>
+<BEGIN>Elmo Ressuscitado de Akkirus<END>
+<BEGIN>Elmo do Senhor do Sangue<END>
+<BEGIN>Elmo Forjado de Tiec<END>
+<BEGIN>Elmo de Vindicação<END>
+<BEGIN>Elmo da Visão Verdadeira<END>
+<BEGIN>Elmo de Folha Dourada<END>
+<BEGIN>Elmo Forjado em Lava<END>
+<BEGIN>Elmo Glacial<END>
+<BEGIN>Elmo de Escama de Gelo<END>
+<BEGIN>Elmo de Aço Sanguíneo<END>
+<BEGIN>Botas de Kizrak de Batalha<END>
+<BEGIN>Botas dos Campeões<END>
+<BEGIN>Botas do Senhor da Guerra<END>
+<BEGIN>Botas de Destruição de Raex<END>
+<BEGIN>Botas do Vácuo<END>
+<BEGIN>Botas de Poder Ígneo<END>
+<BEGIN>Botas de Superioridade<END>
+<BEGIN>Botas Verdadeiras<END>
+<BEGIN>Botas Valentes<END>
+<BEGIN>Botas Templárias<END>
+<BEGIN>Botas Malevolentes<END>
+<BEGIN>Botas de Mirmeidon<END>
+<BEGIN>Botas da Praga Ror Sog Sombrio<END>
+<BEGIN>Botas de Fé de Ultor<END>
+<BEGIN>Botas do Furacão<END>
+<BEGIN>Botas Ressuscitadas de Akkirus<END>
+<BEGIN>Botas do Senhor do Sangue<END>
+<BEGIN>Botas Forjadas de Tiec<END>
+<BEGIN>Botas de Vindicação<END>
+<BEGIN>Botas da Visão Verdadeira<END>
+<BEGIN>Botas de Folha Dourada<END>
+<BEGIN>Botas Forjadas em Lava<END>
+<BEGIN>Botas Glaciais<END>
+<BEGIN>Botas de Escama de Gelo<END>
+<BEGIN>Botas de Aço Sanguíneo<END>
 <BEGIN>Folvous Darkscale<END>
-<BEGIN>Serene Mail Shirt<END>
-<BEGIN>Scale Shirt of Twilight<END>
-<BEGIN>Planetstriders Mail Shirt<END>
-<BEGIN>Banes Scale Shirt<END>
-<BEGIN>Hateforged Mail<END>
-<BEGIN>Darkscale Mail<END>
-<BEGIN>Folvous Darkscale Boots<END>
-<BEGIN>Serene Mail Boots<END>
-<BEGIN>Scale Boots of Twilight<END>
-<BEGIN>Planetstriders Mail Boots<END>
-<BEGIN>Banes Scale Boots<END>
-<BEGIN>Hateforged Mail	Boots<END>
-<BEGIN>Darkscale Mail Boots<END>
-<BEGIN>Folvous Darkscale Gloves<END>
-<BEGIN>Serene Mail Gloves<END>
-<BEGIN>Scale Gloves of Twilight<END>
-<BEGIN>Planetstriders Mail Gloves<END>
-<BEGIN>Banes Scale Gloves<END>
-<BEGIN>Hateforged Mail Gloves<END>
-<BEGIN>Darkscale Mail Gloves<END>
-<BEGIN>Folvous Darkscale Helm<END>
-<BEGIN>Serene Mail Helm<END>
-<BEGIN>Scale Helm of Twilight<END>
-<BEGIN>Planetstriders Mail Helm<END>
-<BEGIN>Banes Scale Helm<END>
-<BEGIN>Hateforged Mail	Helm<END>
-<BEGIN>Darkscale Mail Helm<END>
-<BEGIN>Folvous Darkscale Leggings<END>
-<BEGIN>Serene Mail Leggings<END>
-<BEGIN>Scale Leggings of Twilight<END>
-<BEGIN>Planetstriders Mail Leggings<END>
-<BEGIN>Banes Scale Leggings<END>
-<BEGIN>Hateforged Mail	Leggings<END>
-<BEGIN>Darkscale Mail Leggings<END>
-<BEGIN>Yakatizma Shield<END>
-<BEGIN>Midnight Shield<END>
-<BEGIN>Shield of Horrors<END>
-<BEGIN>Buckler of Insight<END>
-<BEGIN>Chitari Bone Shield<END>
-<BEGIN>Ashenbone Shield<END>
-<BEGIN>Treant Bark Shield<END>
-<BEGIN>Cold Bone Shield<END>
-<BEGIN>Burnished Shield<END>
-<BEGIN>Hard Stone Shield<END>
-<BEGIN>Shield of Valor<END>
-<BEGIN>Guardian Shield<END>
-<BEGIN>Chitin Shell Shield<END>
-<BEGIN>Shield of the Blaze<END>
-<BEGIN>Crustacean Shell Shield<END>
-<BEGIN>Cryosilk Web Shield<END>
-<BEGIN>Crystal Chitin Shield<END>
-<BEGIN>Dragonscale Shield<END>
-<BEGIN>Inlaid Shield<END>
-<BEGIN>Efreeti War Shield<END>
-<BEGIN>Etched Velium Shield<END>
-<BEGIN>Fearsome Shield<END>
-<BEGIN>Frostweaver Shield<END>
-<BEGIN>Lodizal Shell Shield<END>
-<BEGIN>Ornate Rune Shield<END>
-<BEGIN>Sentry Shield<END>
-<BEGIN>Sharkskin Shield<END>
-<BEGIN>Scute Shield<END>
-<BEGIN>Shield of Auras<END>
-<BEGIN>Shield of Fury<END>
-<BEGIN>Shield of Hatred<END>
-<BEGIN>Shield of Eldars<END>
-<BEGIN>Shield of Fortitude<END>
-<BEGIN>Shield of Shadows<END>
-<BEGIN>Shield of Freezing<END>
-<BEGIN>Shield of the Devout<END>
-<BEGIN>Shield of the Immaculate<END>
-<BEGIN>Shield of Thorns<END>
-<BEGIN>Horrors Storm Shield<END>
-<BEGIN>Skull Shield<END>
-<BEGIN>Tanglewood Shield<END>
-<BEGIN>Trueheart Shield<END>
-<BEGIN>Shield of Crafting<END>
-<BEGIN>Crystal Web Shield<END>
-<BEGIN>Dread Forged Shield<END>
-<BEGIN>Atramentous Shield<END>
-<BEGIN>Hilted Wind Bow<END>
-<BEGIN>Bone Carved Shortbow<END>
-<BEGIN>Bow of Doom<END>
-<BEGIN>Bow of Shadows<END>
-<BEGIN>Bow of the Underfoot<END>
-<BEGIN>Carved Ashenwood Bow<END>
-<BEGIN>Darkwood Bow<END>
-<BEGIN>Featherwood Bow<END>
-<BEGIN>Larktwitter Bow<END>
-<BEGIN>Longbow of the Intrepid<END>
-<BEGIN>Longbow	of the Storm Caller<END>
-<BEGIN>Nightmarewood Bow<END>
-<BEGIN>Wormwood Bow<END>
-<BEGIN>Ashwood Bow<END>
-<BEGIN>Sarnak Warbow<END>
-<BEGIN>Shaped Oak Bow<END>
+<BEGIN>Camisa de Malha Serena<END>
+<BEGIN>Camisa de Escamas do Crepúsculo<END>
+<BEGIN>Camisa de Malha dos Estriders Planetários<END>
+<BEGIN>Camisa de Escamas de Baned<END>
+<BEGIN>Malha Forjada pelo Ódio<END>
+<BEGIN>Malha de Escamas Escura<END>
+<BEGIN>Botas de Folvous Darkscale<END>
+<BEGIN>Botas de Malha Serena<END>
+<BEGIN>Botas de Escamas do Crepúsculo<END>
+<BEGIN>Botas de Malha dos Estriders Planetários<END>
+<BEGIN>Botas de Escamas de Baned<END>
+<BEGIN>Botas de Malha Forjada pelo Ódio<END>
+<BEGIN>Botas de Malha de Escamas Escuras<END>
+<BEGIN>Luvas de Folvous Darkscale<END>
+<BEGIN>Luvas de Malha Serena<END>
+<BEGIN>Luvas de Escamas do Crepúsculo<END>
+<BEGIN>Luvas de Malha dos Estriders Planetários<END>
+<BEGIN>Luvas de Escamas de Baned<END>
+<BEGIN>Luvas de Malha Forjada pelo Ódio<END>
+<BEGIN>Luvas de Malha de Escamas Escuras<END>
+<BEGIN>Capacete de Folvous Darkscale<END>
+<BEGIN>Capacete de Malha Serena<END>
+<BEGIN>Capacete de Escamas do Crepúsculo<END>
+<BEGIN>Capacete de Malha dos Estriders Planetários<END>
+<BEGIN>Capacete de Escamas de Baned<END>
+<BEGIN>Capacete de Malha Forjada pelo Ódio<END>
+<BEGIN>Capacete de Malha de Escamas Escuras<END>
+<BEGIN>Leggings de Folvous Darkscale<END>
+<BEGIN>Leggings de Malha Serena<END>
+<BEGIN>Leggings de Escamas do Crepúsculo<END>
+<BEGIN>Leggings de Malha dos Estriders Planetários<END>
+<BEGIN>Leggings de Escamas de Baned<END>
+<BEGIN>Leggings de Malha Forjada pelo Ódio<END>
+<BEGIN>Leggings de Malha de Escamas Escuras<END>
+<BEGIN>Escudo Yakatizma<END>
+<BEGIN>Escudo da Meia-noite<END>
+<BEGIN>Escudo dos Horrores<END>
+<BEGIN>Broquel da Perspicácia<END>
+<BEGIN>Escudo de Osso Chitari<END>
+<BEGIN>Escudo de Osso Cinza<END>
+<BEGIN>Escudo de Casca de Treant<END>
+<BEGIN>Escudo de Osso Frio<END>
+<BEGIN>Escudo Polido<END>
+<BEGIN>Escudo de Pedra Dura<END>
+<BEGIN>Escudo de Valor<END>
+<BEGIN>Escudo Guardião<END>
+<BEGIN>Escudo de Casca de Quitina<END>
+<BEGIN>Escudo da Labareda<END>
+<BEGIN>Escudo de Casca de Crustáceo<END>
+<BEGIN>Escudo de Teia de Seda Criossilvano<END>
+<BEGIN>Escudo de Quitina de Cristal<END>
+<BEGIN>Escudo de Escamas de Dragão<END>
+<BEGIN>Escudo Entalhado<END>
+<BEGIN>Escudo de Guerra Efreeti<END>
+<BEGIN>Escudo de Velium Gravado<END>
+<BEGIN>Escudo Temeroso<END>
+<BEGIN>Escudo de Tece-gelo<END>
+<BEGIN>Escudo de Casca Lodizal<END>
+<BEGIN>Escudo de Runa Ornado<END>
+<BEGIN>Escudo Sentinela<END>
+<BEGIN>Escudo de Pele de Tubarão<END>
+<BEGIN>Escudo de Escute<END>
+<BEGIN>Escudo de Auras<END>
+<BEGIN>Escudo de Fúria<END>
+<BEGIN>Escudo do Ódio<END>
+<BEGIN>Escudo de Eldars<END>
+<BEGIN>Escudo de Fortitude<END>
+<BEGIN>Escudo das Sombras<END>
+<BEGIN>Escudo do Congelamento<END>
+<BEGIN>Escudo dos Devotos<END>
+<BEGIN>Escudo do Imaculado<END>
+<BEGIN>Escudo dos Espinhos<END>
+<BEGIN>Escudo da Tempestade dos Horrores<END>
+<BEGIN>Escudo de Crânio<END>
+<BEGIN>Escudo da Tanglewood<END>
+<BEGIN>Escudo do Verdadeiro Coração<END>
+<BEGIN>Escudo de Fabricação<END>
+<BEGIN>Escudo de Teia de Cristal<END>
+<BEGIN>Escudo Forjado pelas Trevas<END>
+<BEGIN>Escudo de Atramentoso<END>
+<BEGIN>Arco do Vento Empunhado<END>
+<BEGIN>Arco de Madeira Entalhada em Ossos<END>
+<BEGIN>Arco da Perdição<END>
+<BEGIN>Arco das Sombras<END>
+<BEGIN>Arco do Subpé<END>
+<BEGIN>Arco de Madeira de Cinza Entalhada<END>
+<BEGIN>Arco de Madeira Escura<END>
+<BEGIN>Arco de Madeira de Penas<END>
+<BEGIN>Arco de Larktwitter<END>
+<BEGIN>Arco Longo do Intrépido<END>
+<BEGIN>Arco Longo do Chamador de Tempestades<END>
+<BEGIN>Arco da Madeira do Pesadelo<END>
+<BEGIN>Arco de Madeira de Verme<END>
+<BEGIN>Arco de Madeira de Cinzas<END>
+<BEGIN>Arco de Guerra Sarnak<END>
+<BEGIN>Arco de Madeira de Carvalho Entalhado<END>
 <BEGIN>Ssraeshzian<END>
-<BEGIN>Bow of the Trailblazer<END>
-<BEGIN>Twisted Longbow<END>
-<BEGIN>Blackbolt<END>
-<BEGIN>Centaur Bow<END>
-<BEGIN>Goblin Bow<END>
-<BEGIN>Orc Bow<END>
-<BEGIN>Bow of Flames<END>
-<BEGIN>Bow of the Destroyer<END>
-<BEGIN>Bow of the Huntsman<END>
-<BEGIN>Bow of Suffering<END>
-<BEGIN>Ice Cam Bow<END>
-<BEGIN>Flame Hardened Bow<END>
-<BEGIN>Efreeti War Bow<END>
-<BEGIN>Forlorn Bow<END>
-<BEGIN>Disembowler<END>
-<BEGIN>Custodus Longbow<END>
-<BEGIN>Custodus Shortbow<END>
-<BEGIN>Acrylic Ring<END>
-<BEGIN>Blood Stained Ring<END>
-<BEGIN>Bone Studded Ring<END>
-<BEGIN>Ring of Beetle Kind<END>
-<BEGIN>Ring of Clarification<END>
-<BEGIN>Ring of Comprehension<END>
-<BEGIN>Ring of Distortion<END>
-<BEGIN>Ring of Exertion<END>
-<BEGIN>Ring of Frostbite<END>
-<BEGIN>Ring of Sense<END>
-<BEGIN>Ring of the Deep Sky<END>
-<BEGIN>Ring of the Spirits<END>
-<BEGIN>Chipped Bone Ring<END>
-<BEGIN>Dragonscale Ring<END>
-<BEGIN>Ring of the Prime<END>
-<BEGIN>Elysian Ring<END>
-<BEGIN>Guard Ring<END>
-<BEGIN>Woven Ring<END>
-<BEGIN>Icicle Ring<END>
-<BEGIN>Hardened Clay Ring<END>
-<BEGIN>Elemental Ring<END>
-<BEGIN>Scale Ring<END>
-<BEGIN>Indigo Snake Ring<END>
-<BEGIN>Mesh Ring<END>
-<BEGIN>Netted Kelp Ring<END>
-<BEGIN>Ring of Lore<END>
-<BEGIN>Ivory Ring<END>
-<BEGIN>Rotbone Ring<END>
-<BEGIN>Sages Ring<END>
-<BEGIN>Ring of Rage<END>
-<BEGIN>Skull Chip Ring<END>
-<BEGIN>True Silver Ring<END>
-<BEGIN>Vermiculated Ring<END>
-<BEGIN>Ring of the Storm<END>
-<BEGIN>Acrylic Amulet<END>
-<BEGIN>Blood Stained Amulet<END>
-<BEGIN>Bone Studded Amulet<END>
-<BEGIN>Amulet of Beetle Kind<END>
-<BEGIN>Amulet of Clarification<END>
-<BEGIN>Amulet of Comprehension<END>
-<BEGIN>Amulet of Distortion<END>
-<BEGIN>Amulet of Exertion<END>
-<BEGIN>Amulet of Frostbite<END>
-<BEGIN>Amulet of Sense<END>
-<BEGIN>Amulet of the Deep Sky<END>
-<BEGIN>Amulet of the Spirits<END>
-<BEGIN>Chipped Bone Amulet<END>
-<BEGIN>Dragonscale Amulet<END>
-<BEGIN>Amulet of the Prime<END>
-<BEGIN>Elysian Amulet<END>
-<BEGIN>Guard Amulet<END>
-<BEGIN>Woven Amulet<END>
-<BEGIN>Icicle Amulet<END>
-<BEGIN>Hardened Clay Amulet<END>
-<BEGIN>Elemental Amulet<END>
-<BEGIN>Scale Amulet<END>
-<BEGIN>Indigo Snake Amulet<END>
-<BEGIN>Mesh Amulet<END>
-<BEGIN>Netted Kelp Amulet<END>
-<BEGIN>Amulet of Lore<END>
-<BEGIN>Ivory Amulet<END>
-<BEGIN>Rotbone Amulet<END>
-<BEGIN>Sages Amulet<END>
-<BEGIN>Amulet of Rage<END>
-<BEGIN>Skull Chip Amulet<END>
-<BEGIN>True Silver Amulet<END>
-<BEGIN>Vermiculated Amulet<END>
-<BEGIN>Amulet of the Storm<END>
-<BEGIN>Acrylic Earrings<END>
-<BEGIN>Blood Stained Earrings<END>
-<BEGIN>Bone Studded Earrings<END>
-<BEGIN>Earring of Beetle Kind<END>
-<BEGIN>Earring of Clarification<END>
-<BEGIN>Earring of Comprehension<END>
-<BEGIN>Earring of Distortion<END>
-<BEGIN>Earring of Exertion<END>
-<BEGIN>Earring of Frostbite<END>
-<BEGIN>Earring of Sense<END>
-<BEGIN>Earring of the Deep Sky<END>
-<BEGIN>Earring of the Spirits<END>
-<BEGIN>Chipped Bone Earrings<END>
-<BEGIN>Dragonscale Earrings<END>
-<BEGIN>Earring of the Prime<END>
-<BEGIN>Elysian Earrings<END>
-<BEGIN>Guard Earrings<END>
-<BEGIN>Woven Earrings<END>
-<BEGIN>Icicle Earrings<END>
-<BEGIN>Hardened Clay Earrings<END>
-<BEGIN>Elemental Earrings<END>
-<BEGIN>Scale Earrings<END>
-<BEGIN>Indigo Snake Earrings<END>
-<BEGIN>Mesh Earrings<END>
-<BEGIN>Netted Kelp Earrings<END>
-<BEGIN>Earring of Lore<END>
-<BEGIN>Ivory Earrings<END>
-<BEGIN>Rotbone Earrings<END>
-<BEGIN>Sages Earrings<END>
-<BEGIN>Earring of Rage<END>
-<BEGIN>Skull Chip Earrings<END>
-<BEGIN>True Silver Amulet<END>
-<BEGIN>Vermiculated Earrings<END>
-<BEGIN>Earring of the Storm<END>
-<BEGIN>Acrylic Choker<END>
-<BEGIN>Blood Stained Choker<END>
-<BEGIN>Bone Studded Choker<END>
-<BEGIN>Choker of Beetle Kind<END>
-<BEGIN>Choker of Clarification<END>
-<BEGIN>Choker of Comprehension<END>
-<BEGIN>Choker of Distortion<END>
-<BEGIN>Choker of Exertion<END>
-<BEGIN>Choker of Frostbite<END>
-<BEGIN>Choker of Sense<END>
-<BEGIN>Choker of the Deep Sky<END>
-<BEGIN>Choker of the Spirits<END>
-<BEGIN>Chipped Bone Choker<END>
-<BEGIN>Dragonscale Choker<END>
-<BEGIN>Choker of the Prime<END>
-<BEGIN>Elysian Choker<END>
-<BEGIN>Guard Choker<END>
-<BEGIN>Woven Choker<END>
-<BEGIN>Icicle Choker<END>
-<BEGIN>Hardened Clay Choker<END>
-<BEGIN>Elemental Choker<END>
-<BEGIN>Scale Choker<END>
-<BEGIN>Indigo Snake Choker<END>
-<BEGIN>Mesh Choker<END>
-<BEGIN>Netted Kelp Choker<END>
-<BEGIN>Choker of Lore<END>
-<BEGIN>Ivory Choker<END>
-<BEGIN>Rotbone Choker<END>
-<BEGIN>Sages Choker<END>
-<BEGIN>Choker of Rage<END>
-<BEGIN>Skull Chip Choker<END>
-<BEGIN>True Silver Choker<END>
-<BEGIN>Vermiculated Choker<END>
-<BEGIN>Choker of the Storm<END>
-<BEGIN>Cannot Sell<END>
-<BEGIN>You cannot sell quest items.<END>
-<BEGIN>Weapons:<END>
-<BEGIN>Armor:<END>
-<BEGIN> Adds fire damage<END>
-<BEGIN> Adds fire resistance<END>
-<BEGIN> Adds cold damage<END>
-<BEGIN> Adds cold resistance<END>
-<BEGIN> Adds poison damage<END>
-<BEGIN> Adds poison resistance<END>
-<BEGIN> Adds poison burst<END>
-<BEGIN> Adds poison resistance<END>
-<BEGIN> Adds disease damage<END>
-<BEGIN> Adds disease resistance<END>
-<BEGIN> Adds shock bonus<END>
-<BEGIN> Adds shock resistance<END>
-<BEGIN> Adds health bonus<END>
-<BEGIN> Adds health bonus<END>
-<BEGIN> Adds mana bonus<END>
-<BEGIN> Adds mana bonus<END>
-<BEGIN> Adds strength bonus<END>
-<BEGIN> Adds strength bonus<END>
-<BEGIN> Adds intelligence bonus<END>
-<BEGIN> Adds intelligence bonus<END>
-<BEGIN> Adds dexterity bonus<END>
-<BEGIN> Adds dexterity bonus<END>
-<BEGIN> Adds stamina bonus<END>
-<BEGIN> Adds stamina bonus<END>
-<BEGIN> Health regeneration<END>
-<BEGIN> Health regeneration<END>
-<BEGIN> Mana regeneration<END>
-<BEGIN> Mana regeneration<END>
-<BEGIN> Increases armor bonus<END>
-<BEGIN> No Effect<END>
-<BEGIN> Increases attack speed<END>
-<BEGIN> No Effect<END>
-<BEGIN> Increases critical hit<END>
-<BEGIN> No Effect<END>
-<BEGIN> No Effect<END>
+<BEGIN>Arco do Desbravador<END>
+<BEGIN>Arco Longo Torcido<END>
+<BEGIN>Seta Negra<END>
+<BEGIN>Arco do Centauro<END>
+<BEGIN>Arco Goblin<END>
+<BEGIN>Arco Orc<END>
+<BEGIN>Arco das Chamas<END>
+<BEGIN>Arco do Destruidor<END>
+<BEGIN>Arco do Caçador<END>
+<BEGIN>Arco do Sofrimento<END>
+<BEGIN>Arco de Gelo Cam<END>
+<BEGIN>Arco Temperado pelas Chamas<END>
+<BEGIN>Arco de Guerra Efreeti<END>
+<BEGIN>Arco Desolado<END>
+<BEGIN>Desembainhador<END>
+<BEGIN>Arco Longo Custodus<END>
+<BEGIN>Arco Curto Custodus<END>
+<BEGIN>Anel Acrílico<END>
+<BEGIN>Anel Manchado de Sangue<END>
+<BEGIN>Anel Ornamentado de Ossos<END>
+<BEGIN>Anel da Bondade do Besouro<END>
+<BEGIN>Anel de Clarificação<END>
+<BEGIN>Anel de Compreensão<END>
+<BEGIN>Anel de Distorção<END>
+<BEGIN>Anel de Exertion<END>
+<BEGIN>Anel de Congelamento<END>
+<BEGIN>Anel do Sentido<END>
+<BEGIN>Anel do Céu Profundo<END>
+<BEGIN>Anel dos Espíritos<END>
+<BEGIN>Anel de Osso Quebrado<END>
+<BEGIN>Anel de Escamas de Dragão<END>
+<BEGIN>Anel do Prime<END>
+<BEGIN>Anel Elísio<END>
+<BEGIN>Anel do Guardião<END>
+<BEGIN>Anel Tecido<END>
+<BEGIN>Anel de Icicle<END>
+<BEGIN>Anel de Barro Endurecido<END>
+<BEGIN>Anel Elemental<END>
+<BEGIN>Anel de Escamas<END>
+<BEGIN>Anel de Serpente Índigo<END>
+<BEGIN>Anel de Malha<END>
+<BEGIN>Anel de Alga Amarrada<END>
+<BEGIN>Anel de Lore<END>
+<BEGIN>Anel de Marfim<END>
+<BEGIN>Anel de Osso Podre<END>
+<BEGIN>Anel de Sábios<END>
+<BEGIN>Anel da Fúria<END>
+<BEGIN>Chip de Crânio Anel<END>
+<BEGIN>Anel de Prata Verdadeira<END>
+<BEGIN>Anel Vermiculado<END>
+<BEGIN>Anel da Tempestade<END>
+<BEGIN>Amuleto Acrílico<END>
+<BEGIN>Amuleto Manchado de Sangue<END>
+<BEGIN>Amuleto Ornamentado de Ossos<END>
+<BEGIN>Amuleto da Bondade do Besouro<END>
+<BEGIN>Amuleto de Clarificação<END>
+<BEGIN>Amuleto de Compreensão<END>
+<BEGIN>Amuleto de Distorção<END>
+<BEGIN>Amuleto de Exertion<END>
+<BEGIN>Amuleto de Congelamento<END>
+<BEGIN>Amuleto do Sentido<END>
+<BEGIN>Amuleto do Céu Profundo<END>
+<BEGIN>Amuleto dos Espíritos<END>
+<BEGIN>Amuleto de Osso Quebrado<END>
+<BEGIN>Amuleto de Escamas de Dragão<END>
+<BEGIN>Amuleto do Prime<END>
+<BEGIN>Amuleto Elísio<END>
+<BEGIN>Amuleto do Guardião<END>
+<BEGIN>Amuleto Tecido<END>
+<BEGIN>Amuleto de Icicle<END>
+<BEGIN>Amuleto de Barro Endurecido<END>
+<BEGIN>Amuleto Elemental<END>
+<BEGIN>Amuleto de Escamas<END>
+<BEGIN>Amuleto de Serpente Índigo<END>
+<BEGIN>Amuleto de Malha<END>
+<BEGIN>Amuleto de Alga Amarrada<END>
+<BEGIN>Amuleto de Lore<END>
+<BEGIN>Amuleto de Marfim<END>
+<BEGIN>Amuleto de Osso Podre<END>
+<BEGIN>Amuleto de Sábios<END>
+<BEGIN>Amuleto da Fúria<END>
+<BEGIN>Chip de Crânio Amuleto<END>
+<BEGIN>Amuleto de Prata Verdadeira<END>
+<BEGIN>Amuleto Vermiculado<END>
+<BEGIN>Amuleto da Tempestade<END>
+<BEGIN>Brincos Acrílicos<END>
+<BEGIN>Brincos Manchados de Sangue<END>
+<BEGIN>Brincos Ornamentados de Ossos<END>
+<BEGIN>Brincos da Bondade do Besouro<END>
+<BEGIN>Brincos de Clarificação<END>
+<BEGIN>Brincos de Compreensão<END>
+<BEGIN>Brincos de Distorção<END>
+<BEGIN>Brincos de Exertion<END>
+<BEGIN>Brincos de Congelamento<END>
+<BEGIN>Brincos do Sentido<END>
+<BEGIN>Brincos do Céu Profundo<END>
+<BEGIN>Brincos dos Espíritos<END>
+<BEGIN>Chip de Osso Brincos<END>
+<BEGIN>Brincos de Escamas de Dragão<END>
+<BEGIN>Brincos do Prime<END>
+<BEGIN>Brincos Elísios<END>
+<BEGIN>Brincos do Guardião<END>
+<BEGIN>Brincos Tecidos<END>
+<BEGIN>Brincos de Icicle<END>
+<BEGIN>Brincos de Argila Endurecida<END>
+<BEGIN>Brincos Elementais<END>
+<BEGIN>Brincos de Escamas<END>
+<BEGIN>Brincos de Serpente Índigo<END>
+<BEGIN>Brincos de Malha<END>
+<BEGIN>Brincos de Alga Amarrada<END>
+<BEGIN>Brincos de Lore<END>
+<BEGIN>Brincos de Marfim<END>
+<BEGIN>Brincos de Osso Podre<END>
+<BEGIN>Brincos de Sábios<END>
+<BEGIN>Brincos da Fúria<END>
+<BEGIN>Chip de Crânio Brincos<END>
+<BEGIN>Amuleto de Prata Verdadeira<END>
+<BEGIN>Brincos Vermiculados<END>
+<BEGIN>Brincos da Tempestade<END>
+<BEGIN>Colar Acrílico<END>
+<BEGIN>Colar Manchado de Sangue<END>
+<BEGIN>Colar Ornamentado de Ossos<END>
+<BEGIN>Colar da Bondade do Besouro<END>
+<BEGIN>Colar de Clarificação<END>
+<BEGIN>Colar de Compreensão<END>
+<BEGIN>Colar de Distorção<END>
+<BEGIN>Colar de Exertion<END>
+<BEGIN>Colar de Congelamento<END>
+<BEGIN>Colar do Sentido<END>
+<BEGIN>Colar do Céu Profundo<END>
+<BEGIN>Colar dos Espíritos<END>
+<BEGIN>Osso Quebrado Colar<END>
+<BEGIN>Colar de Escamas de Dragão<END>
+<BEGIN>Colar do Prime<END>
+<BEGIN>Colar Elísio<END>
+<BEGIN>Colar do Guardião<END>
+<BEGIN>Colar Tecido<END>
+<BEGIN>Colar de Icicle<END>
+<BEGIN>Colar de Argila Endurecida<END>
+<BEGIN>Colar Elemental<END>
+<BEGIN>Colar de Escamas<END>
+<BEGIN>Colar de Serpente Índigo<END>
+<BEGIN>Colar de Malha<END>
+<BEGIN>Colar de Alga Amarrada<END>
+<BEGIN>Colar de Lore<END>
+<BEGIN>Colar de Marfim<END>
+<BEGIN>Colar de Osso Podre<END>
+<BEGIN>Colar de Sábios<END>
+<BEGIN>Colar da Fúria<END>
+<BEGIN>Chip de Crânio Colar<END>
+<BEGIN>Colar de Prata Verdadeira<END>
+<BEGIN>Colar Vermiculado<END>
+<BEGIN>Colar da Tempestade<END>
+<BEGIN>Não é possível vender<END>
+<BEGIN>Você não pode vender itens de missão.<END>
+<BEGIN>Armas:<END>
+<BEGIN>Armaduras:<END>
+<BEGIN> Adiciona dano de fogo<END>
+<BEGIN> Adiciona resistência ao fogo<END>
+<BEGIN> Adiciona dano de gelo<END>
+<BEGIN> Adiciona resistência ao gelo<END>
+<BEGIN> Adiciona dano de veneno<END>
+<BEGIN> Adiciona resistência ao veneno<END>
+<BEGIN> Adiciona explosão de veneno<END>
+<BEGIN> Adiciona resistência ao veneno<END>
+<BEGIN> Adiciona dano de doença<END>
+<BEGIN> Adiciona resistência a doença<END>
+<BEGIN> Bônus de choque<END>
+<BEGIN> Resistência a choque<END>
+<BEGIN> Bônus de saúde<END>
+<BEGIN> Bônus de saúde<END>
+<BEGIN> Bônus de mana<END>
+<BEGIN> Bônus de mana<END>
+<BEGIN> Bônus de força<END>
+<BEGIN> Bônus de força<END>
+<BEGIN> Bônus de inteligência<END>
+<BEGIN> Bônus de inteligência<END>
+<BEGIN> Bônus de destreza<END>
+<BEGIN> Bônus de destreza<END>
+<BEGIN> Bônus de resistência<END>
+<BEGIN> Bônus de resistência<END>
+<BEGIN> Regeneração de saúde<END>
+<BEGIN> Regeneração de saúde<END>
+<BEGIN> Regeneração de mana<END>
+<BEGIN> Regeneração de mana<END>
+<BEGIN> Aumenta o bônus de armadura<END>
+<BEGIN> Sem efeito<END>
+<BEGIN> Aumenta a velocidade de ataque<END>
+<BEGIN> Sem efeito<END>
+<BEGIN> Aumenta o acerto crítico<END>
+<BEGIN> Sem efeito<END>
+<BEGIN> Sem efeito<END>
 <BEGIN>Dois Jogadores<END>
-<BEGIN>Trêz Jogadores<END>
+<BEGIN>Três Jogadores<END>
 <BEGIN>Quatro Jogadores<END>
 <BEGIN>No save data present on memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.<END>
 <BEGIN>Saving data to memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.  Do not remove memory card (8MB)(for PlayStation%c2), reset or switch off console.
