@@ -344,13 +344,13 @@ sem ódio?<END>
 <BEGIN>Ouça aqui. Se você encontrar esse chifre, traga-o de volta, e eu te ensinarei como usá-lo. Dizem que o chifre tem algum tipo de poder sobre barreiras planares. Eu posso ser capaz de usá-lo para te levar onde você precisa ir, até mesmo te mandar para casa, se quiser.<END>
 <BEGIN>Tem ideia de onde o chifre possa estar?<END>
 <BEGIN>Bem, eu aposto que alguns dos aldeöes podem ter algumas pistas sobre onde encontrá-lo. Talvez até mesmo o velho maluco do Lazlo. Ele foi capturado quando o orc e seus escravos atacaram Water's Edge, no entanto, näo o vi desde entäo. Ele pode estar em uma das outras ilhas, ainda vivo, mas quem sabe? Se for o caso, você provavelmente o encontraria através de um dos portais que conectam as ilhas.<END>
-<BEGIN>End.<END>
+<BEGIN>Fim.<END>
 <BEGIN>Obtenha o Chifre do Mau Presságio<END>
 <BEGIN>Siga todas as pistas que puder para encontrar a localizaçäo do chifre. Uma vez encontrado, traga-o para Davel.<END>
 <BEGIN>Explore a ilha<END>
 <BEGIN>Procure ao redor da ilha pelos portais antigos dos quais Davel falou.<END>
 <BEGIN>Você já encontrou aquele Chifre do Mau Presságio? Se encontrar, traga-o de volta aqui, e eu te mostrarei como usá-lo.<END>
-<BEGIN>End.<END>
+<BEGIN>Fim.<END>
 <BEGIN>Pelos Deuses de Norrath, você encontrou a coisa maldita! Dê aqui, eu vou te mostrar como usar. Suponho que agora você quer alguma recompensa...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Obtenha o Chifre do Mau Presságio<END>
@@ -480,7 +480,7 @@ sem ódio?<END>
 <BEGIN>Ainda consigo ouvi-lo, sabe. Sei onde ele está.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Lazlo vai te ajudar a encontrá-lo, mas você deve seguir Lazlo. Vou te mostrar o portal do gigante, os segredos e tudo o que está além.<END>
-<BEGIN>End.<END>
+<BEGIN>Fim.<END>
 <BEGIN>Como você näo está acorrentado? Eu estou! Estou acorrentado! Tenho mais correntes do que pele. Isso näo está certo, näo é? Quero dizer, por que você deveria estar livre e näo Lazlo, né?<END>
 <BEGIN>Está tudo bem, Lazlo. Se acalme. Vai com calma. Näo fique bravo. Näo é culpa deste aqui. Este aqui até pode estar aqui para te ajudar.<END>
 <BEGIN>Desculpe... eu me empolguei ali. Passou tanto tempo desde... bem, desde qualquer coisa. Os escravagistas... eles me torturaram. E quando näo conseguiam entender o que eu dizia, me mandaram para cá para trabalhar para aquele gigante das nuvens.<END>
