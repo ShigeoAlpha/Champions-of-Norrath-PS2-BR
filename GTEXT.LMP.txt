@@ -2098,111 +2098,111 @@ sem ódio?<END>
 <BEGIN>Relâmpago<END>
 <BEGIN>Um raio de relâmpago raios do conjurador em direção a um inimigo próximo.<END>
 <BEGIN>Relâmpago em Cadeia<END>
-<BEGIN>Power Attack<END>
-<BEGIN>A more powerful form of a standard melee attack.  This can be used with any weapon besides bows.<END>
-<BEGIN>Melf's Acid Arrow<END>
-<BEGIN>Ice Arrows<END>
-<BEGIN>Shock Arrows<END>
-<BEGIN>This skill enchants arrows with an electric aura, increasing damage and shocking opponents.<END>
-<BEGIN>Shock Arrow<END>
-<BEGIN>Ice Arrow<END>
-<BEGIN>Flaming Arrow<END>
-<BEGIN>Flaming Arrow<END>
-<BEGIN>Inferno Arrow<END>
-<BEGIN>Exploding Arrow<END>
-<BEGIN>Fire Shield<END>
-<BEGIN>This spell creates a flaming wreath around the caster that damages enemies.<END>
-<BEGIN>Meteor Swarm<END>
-<BEGIN>Magic Missile<END>
-<BEGIN>Ruby<END>
-<BEGIN>Emerald<END>
-<BEGIN>Sapphire<END>
-<BEGIN>Diamond<END>
-<BEGIN>Continue...<END>
-<BEGIN>Attack<END>
-<BEGIN>Jump<END>
-<BEGIN>Block<END>
-<BEGIN>Drink Health Potion<END>
-<BEGIN>Drink Mana Potion<END>
-<BEGIN>Toggle Automap<END>
-<BEGIN>Use Magic/Feat<END>
-<BEGIN>Action (Talk/Open)<END>
-<BEGIN>Toggle Ranged/Melee<END>
-<BEGIN>Press new button for action:<END>
-<BEGIN>Move<END>
-<BEGIN>Inventory<END>
-<BEGIN>Camera<END>
-<BEGIN>Pause Menu<END>
-<BEGIN>Spells<END>
-<BEGIN>Import Player<END>
-<BEGIN>Save Game<END>
-<BEGIN>Load Game<END>
-<BEGIN>memory card (8MB)(for PlayStation%c2) Error<END>
-<BEGIN>Could not complete Save Game operation.<END>
-<BEGIN>Could not complete Load Game operation.<END>
-<BEGIN>Not enough free space to create new save game.<END>
-<BEGIN>Overwrite save game %d?<END>
-<BEGIN>Are you sure you want to delete<END>
-<BEGIN>Cannot Delete Current Save Game.<END>
-<BEGIN>Accessing memory card (8MB)(for PlayStation%c2),<END>
-<BEGIN>please do NOT remove.<END>
-<BEGIN>Your adventure has ended.<END>
-<BEGIN>memory card (8MB)(for PlayStation%c2) save data is corrupt.<END>
-<BEGIN>Game cannot continue with invalid save data.<END>
-<BEGIN>Please insert original memory card (8MB)(for PlayStation%c2).<END>
-<BEGIN>Original request may not have been<END>
-<BEGIN>able to complete due to error.<END>
-<BEGIN>Saving...<END>
-<BEGIN>Do not turn power off or remove<END>
-<BEGIN>Saving Configuration...<END>
-<BEGIN>Player %d's current character will be lost.  Continue?<END>
-<BEGIN>(Not Present)<END>
-<BEGIN>Player Import<END>
-<BEGIN>Players Available For Import<END>
-<BEGIN>Race<END>
-<BEGIN>Race/Class<END>
-<BEGIN>Level<END>
-<BEGIN>Experience<END>
-<BEGIN>Gold<END>
-<BEGIN>Health<END>
-<BEGIN>Player Changer<END>
-<BEGIN>%c New  %c Import  %c Back<END>
-<BEGIN>%c New  %c Import  %c Delete  %c Back<END>
-<BEGIN>Add New Player (Player %d)<END>
-<BEGIN>< Create New Save Game ><END>
-<BEGIN>Play Time(Dev build)<END>
-<BEGIN>Started<END>
-<BEGIN>Players<END>
-<BEGIN>%c Select   %c Back<END>
-<BEGIN>%c Select   %c Delete   %c Back<END>
-<BEGIN>%c Back<END>
-<BEGIN>%c Yes   %c Back<END>
-<BEGIN>%c Continue<END>
-<BEGIN>%c Continue   %c Back<END>
-<BEGIN>%c Import   %c Back<END>
-<BEGIN>save game %d?<END>
-<BEGIN>:  %d hour%s, %d minute%s.<END>
-<BEGIN>:  %d minute%s.<END>
-<BEGIN>:  None.<END>
-<BEGIN>%c Main Menu   %c Load Last<END>
-<BEGIN>%c Restart<END>
-<BEGIN>%c Main Menu<END>
-<BEGIN>memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s:<END>
+<BEGIN>Ataque Poderoso<END>
+<BEGIN>Uma forma mais poderosa de um ataque corpo a corpo padrão. Isso pode ser usado com qualquer arma, exceto arcos.<END>
+<BEGIN>Flecha de Ácido de Melf<END>
+<BEGIN>Flechas de Gelo<END>
+<BEGIN>Flechas Elétricas<END>
+<BEGIN>Este skill encanta flechas com uma aura elétrica, aumentando o dano e chocando oponentes.<END>
+<BEGIN>Flecha Elétrica<END>
+<BEGIN>Flecha de Gelo<END>
+<BEGIN>Flecha Flamejante<END>
+<BEGIN>Flecha Flamejante<END>
+<BEGIN>Flecha Infernal<END>
+<BEGIN>Flecha Explosiva<END>
+<BEGIN>Escudo de Fogo<END>
+<BEGIN>Este feitiço cria uma coroa flamejante ao redor do conjurador que causa danos aos inimigos.<END>
+<BEGIN>Chuva de Meteoros<END>
+<BEGIN>Missão Mágica<END>
+<BEGIN>Rubi<END>
+<BEGIN>Esmeralda<END>
+<BEGIN>Safira<END>
+<BEGIN>Diamante<END>
+<BEGIN>Continuar...<END>
+<BEGIN>Ataque<END>
+<BEGIN>Pulo<END>
+<BEGIN>Bloqueio<END>
+<BEGIN>Beber Poção de Vida<END>
+<BEGIN>Beber Poção de Mana<END>
+<BEGIN>Alternar Mapa Automático<END>
+<BEGIN>Usar Magia/Habilidade<END>
+<BEGIN>Ação (Falar/Abrir)<END>
+<BEGIN>Alternar Corpo a Corpo/Distância<END>
+<BEGIN>Pressionar novo botão para ação:<END>
+<BEGIN>Movimento<END>
+<BEGIN>Inventário<END>
+<BEGIN>Câmera<END>
+<BEGIN>Menu de Pausa<END>
+<BEGIN>Feitiços<END>
+<BEGIN>Importar Jogador<END>
+<BEGIN>Salvar Jogo<END>
+<BEGIN>Carregar Jogo<END>
+<BEGIN>cartão de memória (8MB)(para PlayStation%c2) Erro<END>
+<BEGIN>Não foi possível concluir a operação de Salvar Jogo.<END>
+<BEGIN>Não foi possível concluir a operação de Carregar Jogo.<END>
+<BEGIN>Não há espaço livre suficiente para criar um novo jogo salvo.<END>
+<BEGIN>Sobrescrever jogo salvo %d?<END>
+<BEGIN>Tem certeza de que deseja excluir<END>
+<BEGIN>Não é possível excluir o Jogo Salvo Atual.<END>
+<BEGIN>Acessando cartão de memória (8MB)(para PlayStation%c2),<END>
+<BEGIN>por favor NÃO remova.<END>
+<BEGIN>Sua aventura chegou ao fim.<END>
+<BEGIN>Os dados salvos do cartão de memória (8MB)(para PlayStation%c2) estão corrompidos.<END>
+<BEGIN>O jogo não pode continuar com dados salvos inválidos.<END>
+<BEGIN>Por favor, insira o cartão de memória original (8MB)(para PlayStation%c2).<END>
+<BEGIN>A solicitação original pode não ter sido<END>
+<BEGIN>capaz de ser concluída devido a um erro.<END>
+<BEGIN>Salvando...<END>
+<BEGIN>Não desligue o console ou remova<END>
+<BEGIN>Salvando Configuração...<END>
+<BEGIN>O personagem atual do jogador %d será perdido. Continuar?<END>
+<BEGIN>(Não Presente)<END>
+<BEGIN>Importar Jogador<END>
+<BEGIN>Jogadores Disponíveis para Importação<END>
+<BEGIN>Raça<END>
+<BEGIN>Raça/Classe<END>
+<BEGIN>Nível<END>
+<BEGIN>Experiência<END>
+<BEGIN>Ouro<END>
+<BEGIN>Vida<END>
+<BEGIN>Troca de Jogador<END>
+<BEGIN>%c Novo  %c Importar  %c Voltar<END>
+<BEGIN>%c Novo  %c Importar  %c Excluir  %c Voltar<END>
+<BEGIN>Adicionar Novo Jogador (Jogador %d)<END>
+<BEGIN>< Criar Novo Jogo Salvo ><END>
+<BEGIN>Tempo de Jogo (Versão de Desenvolvimento)<END>
+<BEGIN>Iniciado<END>
+<BEGIN>Jogadores<END>
+<BEGIN>%c Selecionar   %c Voltar<END>
+<BEGIN>%c Selecionar   %c Excluir   %c Voltar<END>
+<BEGIN>%c Voltar<END>
+<BEGIN>%c Sim   %c Voltar<END>
+<BEGIN>%c Continuar<END>
+<BEGIN>%c Continuar   %c Voltar<END>
+<BEGIN>%c Importar   %c Voltar<END>
+<BEGIN>salvar jogo %d?<END>
+<BEGIN>:  %d hora%s, %d minuto%s.<END>
+<BEGIN>:  %d minuto%s.<END>
+<BEGIN>:  Nenhum.<END>
+<BEGIN>%c Menu Principal   %c Carregar Último<END>
+<BEGIN>%c Reiniciar<END>
+<BEGIN>%c Menu Principal<END>
+<BEGIN>cartão de memória (8MB)(para PlayStation%c2) no SLOT do CARTÃO DE MEMÓRIA %s:<END>
 <BEGIN>:  %s<END>
-<BEGIN>memory card (8MB)(for PlayStation%c2) Configuration<END>
-<BEGIN>Accessing memory card (8MB)(for PlayStation%c2)...<END>
-<BEGIN>No memory card (8MB)(for PlayStation%c2) found.  This game requires<END>
-<BEGIN>%dKB of free space to save your game data.<END>
-<BEGIN>Corrupted save games found.  Delete them now?<END>
-<BEGIN>Which MEMORY CARD slot do you wish to use?<END>
-<BEGIN>1<END>
-<BEGIN>2<END>
-<BEGIN>Not formatted.  Format now?<END>
-<BEGIN>Data corruption was found.  Re-initialize?<END>
-<BEGIN>Insufficient free space.  This game requires %dKB.<END>
-<BEGIN>An error occured while accessing data.<END>
-<BEGIN>%c Try Again<END>
-<BEGIN>%c Select<END>
+<BEGIN>Configuração do cartão de memória (8MB)(para PlayStation%c2)<END>
+<BEGIN>Acessando cartão de memória (8MB)(para PlayStation%c2)...<END>
+<BEGIN>Nenhum cartão de memória (8MB)(para PlayStation%c2) encontrado. Este jogo requer<END>
+<BEGIN>%dKB de espaço livre para salvar seus dados de jogo.<END>
+<BEGIN>Salvos corrompidos encontrados. Deletá-los agora?<END>
+<BEGIN>Qual SLOT do MEMORY CARD você deseja usar?<END>
+<BEGIN>Memory Card Slot 1<END>
+<BEGIN>Memory Card Slot 2<END>
+<BEGIN>Não formatado. Formatar agora?<END>
+<BEGIN>Foi encontrada corrupção de dados. Reinicializar?<END>
+<BEGIN>Espaço livre insuficiente. Este jogo requer %dKB.<END>
+<BEGIN>Ocorreu um erro ao acessar os dados.<END>
+<BEGIN>%c Tentar Novamente<END>
+<BEGIN>%c Selecionar<END>
 <BEGIN>Começar Novo Jogo<END>
 <BEGIN>Carregar Jogo Salvo<END>
 <BEGIN>Opçöes<END>
@@ -2211,1252 +2211,1252 @@ sem ódio?<END>
 <BEGIN>Tutorial<END>
 <BEGIN>Voltar ao Jogo<END>
 <BEGIN>Salvar Jogo<END>
-<BEGIN>Load Game<END>
-<BEGIN>Level Warp...<END>
-<BEGIN>Invulnerability<END>
-<BEGIN>Options...<END>
-<BEGIN>Add/Remove Players...<END>
-<BEGIN>Exit to Menu<END>
-<BEGIN>Exit Multiplayer<END>
-<BEGIN>Exit multiplayer game?<END>
-<BEGIN>Vibration<END>
-<BEGIN>Bright<END>
-<BEGIN>Music/Amb<END>
-<BEGIN>SFX<END>
-<BEGIN>Stereo<END>
-<BEGIN>Kick Player<END>
-<BEGIN>Kick which player?<END>
-<BEGIN>Player Markers<END>
-<BEGIN>Hide Dialog<END>
-<BEGIN>Subtitles<END>
-<BEGIN>Controls...<END>
-<BEGIN>Camera...<END>
-<BEGIN>Combat Camera Swivel<END>
-<BEGIN>Reverse Camera Inputs<END>
-<BEGIN>Headset settings...<END>
-<BEGIN>Enable<END>
-<BEGIN>Mic Check<END>
-<BEGIN>Record<END>
-<BEGIN>Threshold<END>
-<BEGIN>Playback<END>
+<BEGIN>Carregar Jogo<END>
+<BEGIN>Teleporte de Nível...<END>
+<BEGIN>Invulnerabilidade<END>
+<BEGIN>Opções...<END>
+<BEGIN>Adicionar/Remover Jogadores...<END>
+<BEGIN>Sair para o Menu<END>
+<BEGIN>Sair do Multijogador<END>
+<BEGIN>Sair do jogo multijogador?<END>
+<BEGIN>Vibração<END>
+<BEGIN>Brilho<END>
+<BEGIN>Música/Amb<END>
+<BEGIN>Efeitos Sonoros<END>
+<BEGIN>Estéreo<END>
+<BEGIN>Expulsar Jogador<END>
+<BEGIN>Expulsar qual jogador?<END>
+<BEGIN>Marcadores de Jogadores<END>
+<BEGIN>Ocultar Diálogo<END>
+<BEGIN>Legendas<END>
+<BEGIN>Controles...<END>
+<BEGIN>Câmera...<END>
+<BEGIN>Giro da Câmera de Combate<END>
+<BEGIN>Inverter Entradas da Câmera<END>
+<BEGIN>Configurações de Fone de Ouvido...<END>
+<BEGIN>Habilitar<END>
+<BEGIN>Verificação de Microfone<END>
+<BEGIN>Gravar<END>
+<BEGIN>Limiar<END>
+<BEGIN>Reprodução<END>
 <BEGIN>Volume<END>
-<BEGIN>MemcardImportRaceTakenPost (Race Already In Use)<END>
-<BEGIN>(In Use)<END>
-<BEGIN>Available<END>
-<BEGIN>(Controller Required)<END>
-<BEGIN>%c Back To Main Menu<END>
-<BEGIN>Insert original memory card (8MB)(for PlayStation%c2)<END>
-<BEGIN>:  2 (%s and %s)<END>
+<BEGIN>MemcardImportRaceTakenPost (Raça Já Em Uso)<END>
+<BEGIN>(Em Uso)<END>
+<BEGIN>Disponível<END>
+<BEGIN>(Controlador Necessário)<END>
+<BEGIN>%c Voltar para o Menu Principal<END>
+<BEGIN>Insira o cartão de memória original (8MB)(para PlayStation%c2)<END>
+<BEGIN>:  2 (%s e %s)<END>
 <BEGIN>:  1 (%s)<END>
-<BEGIN>Accessing memory card (8MB)(for PlayStation%c2)<END>
-<BEGIN>please do NOT remove.<END>
-<BEGIN>Accessing... Please do NOT remove.<END>
-<BEGIN>%d Arrows<END>
-<BEGIN>This feat will allow you to fire multiple arrows at once.<END>
-<BEGIN>Repulsion<END>
-<BEGIN>A circular wall of force emanates from the caster driving nearby opponents back.<END>
-<BEGIN>Arcane Quiver<END>
-<BEGIN>This feat halves the weight of all arrows carried.<END>
-<BEGIN>Damage: Double Normal Melee Damage<END>
-<BEGIN>When cast, meteors rain down around the caster damaging nearby enemies.<END>
-<BEGIN>This feat enchants arrows with an icy aura, increasing damage and freezing opponents.<END>
-<BEGIN>No recall possible in Onyx Tower.<END>
-<BEGIN>Onyx Sword<END>
-<BEGIN>Larger Blade<END>
-<BEGIN>Cannot Buy<END>
-<BEGIN>You do not have enough gold to buy that.<END>
-<BEGIN>Cannot Carry<END>
-<BEGIN>You are not strong enough to carry any more.<END>
-<BEGIN>Cannot Drop<END>
-<BEGIN>You cannot drop that here.<END>
-<BEGIN>Damage Text<END>
-<BEGIN>Helpful Hint<END>
-<BEGIN>You can use potions quickly when not in the inventory by pressing † for healing and „ for rejuvenation.  This will automatically select the most appropriate size potion.<END>
-<BEGIN>This feat allows you to do a continuous block with a melee weapon as if it was a shield when none is equipped.<END>
-<BEGIN>You get an amulet of protection.
-You gain 750 experience.<END>
-<BEGIN>of Regeneration<END>
-<BEGIN>of Rejuvenation<END>
-<BEGIN>You can now adjust any of your abilities by one point.  Move the cursor up and down to see what raising that ability will do.  Press the ~ button on the ability you want to raise.<END>
-<BEGIN>Back to Main Menu<END>
-<BEGIN>Player One<END>
-<BEGIN>Player Two<END>
-<BEGIN>Player Three<END>
-<BEGIN>Player Four<END>
-<BEGIN>%d second duration<END>
-<BEGIN>%d seconds duration<END>
-<BEGIN>A fireball is a ball of flame that detonates when it strikes a target, damaging nearby opponents.<END>
-<BEGIN>%d damage/second<END>
-<BEGIN>%d damage, chains up to %d enemies.<END>
-<BEGIN>Waiting for player %d...<END>
-<BEGIN>Press ~ to enter shop.<END>
-<BEGIN>Damage: By Bow Type<END>
-<BEGIN>Adventurous (1-20)<END>
-<BEGIN>Courageous (20-35)<END>
-<BEGIN>Champion (35-50)<END>
-<BEGIN>Proceed into the next room to begin the tutorial. You can exit the tutorial at any time by pressing START and selecting Exit To Menu.  The tutorial uses the default controller configuration.<END>
-<BEGIN>A mysterious magical force blocks your path.<END>
-<BEGIN>1 Missile<END>
-<BEGIN>%d Missiles<END>
+<BEGIN>Acessando cartão de memória (8MB)(para PlayStation%c2)<END>
+<BEGIN>Por favor, NÃO remova.<END>
+<BEGIN>Acessando... Por favor, NÃO remova.<END>
+<BEGIN>%d Flechas<END>
+<BEGIN>Este feito permitirá que você dispare várias flechas de uma vez.<END>
+<BEGIN>Repulsão<END>
+<BEGIN>Uma parede circular de força emana do conjurador, empurrando os oponentes próximos para trás.<END>
+<BEGIN>Aljava Arcana<END>
+<BEGIN>Este feito reduz pela metade o peso de todas as flechas carregadas.<END>
+<BEGIN>Dano: Dobre o Dano Normal de Combate Corpo a Corpo<END>
+<BEGIN>Ao ser conjurado, meteoros caem ao redor do conjurador, causando danos aos inimigos próximos.<END>
+<BEGIN>Este feito encanta flechas com uma aura gélida, aumentando o dano e congelando os oponentes.<END>
+<BEGIN>Não é possível se teletransportar na Torre Ônix.<END>
+<BEGIN>Espada de Ônix<END>
+<BEGIN>Lâmina Maior<END>
+<BEGIN>Não pode Comprar<END>
+<BEGIN>Você não tem ouro suficiente para comprar isso.<END>
+<BEGIN>Não pode Carregar<END>
+<BEGIN>Você não é forte o suficiente para carregar mais.<END>
+<BEGIN>Não pode Soltar<END>
+<BEGIN>Você não pode soltar isso aqui.<END>
+<BEGIN>Texto de Dano<END>
+<BEGIN>Dica Útil<END>
+<BEGIN>Você pode usar poções rapidamente quando não estiver no inventário pressionando † para cura e „ para rejuvenescimento. Isso selecionará automaticamente a poção de tamanho mais apropriado.<END>
+<BEGIN>Este feito permite que você faça um bloqueio contínuo com uma arma de combate corpo a corpo como se fosse um escudo quando nenhum estiver equipado.<END>
+<BEGIN>Você recebe um amuleto de proteção.
+Você ganha 750 de experiência.<END>
+<BEGIN>de Regeneração<END>
+<BEGIN>de Rejuvenescimento<END>
+<BEGIN>Agora você pode aumentar qualquer uma de suas habilidades em um ponto. Mova o cursor para cima e para baixo para ver o que aumentar essa habilidade fará. Pressione o botão ~ na habilidade que deseja aumentar.<END>
+<BEGIN>Voltar para o Menu Principal<END>
+<BEGIN>Jogador Um<END>
+<BEGIN>Jogador Dois<END>
+<BEGIN>Jogador Três<END>
+<BEGIN>Jogador Quatro<END>
+<BEGIN>Duração de %d segundo<END>
+<BEGIN>Duração de %d segundos<END>
+<BEGIN>Uma bola de fogo é uma esfera de chamas que explode quando atinge um alvo, danificando os oponentes próximos.<END>
+<BEGIN>Dano: %d por segundo<END>
+<BEGIN>Dano: %d, encadeia até %d inimigos.<END>
+<BEGIN>Esperando pelo jogador %d...<END>
+<BEGIN>Pressione ~ para entrar na loja.<END>
+<BEGIN>Dano: Por Tipo de Arco<END>
+<BEGIN>Aventureiro (1-20)<END>
+<BEGIN>Corajoso (20-35)<END>
+<BEGIN>Campeão (35-50)<END>
+<BEGIN>Prossiga para a próxima sala para começar o tutorial. Você pode sair do tutorial a qualquer momento pressionando START e selecionando Sair para o Menu. O tutorial usa a configuração padrão do controlador.<END>
+<BEGIN>Uma misteriosa força mágica bloqueia seu caminho.<END>
+<BEGIN>1 Míssil<END>
+<BEGIN>%d Mísseis<END>
 <BEGIN>P%d<END>
-<BEGIN>Are You Sure?<END>
-<BEGIN>%c Continue   %c Try Again<END>
-<BEGIN>%c Cancel Request<END>
-<BEGIN>%c Try Again   %c Cancel Request<END>
-<BEGIN>%c Continue   %c Cancel Request<END>
-<BEGIN>An error has occurred accessing<END>
-<BEGIN>Save Game Configuartion<END>
-<BEGIN>inserted.<END>
+<BEGIN>Tem Certeza?<END>
+<BEGIN>%c Continuar   %c Tentar Novamente<END>
+<BEGIN>%c Cancelar Solicitação<END>
+<BEGIN>%c Tentar Novamente   %c Cancelar Solicitação<END>
+<BEGIN>%c Continuar   %c Cancelar Solicitação<END>
+<BEGIN>Ocorreu um erro ao acessar<END>
+<BEGIN>Configuração de Salvar Jogo<END>
+<BEGIN>inserido.<END>
 <BEGIN>%c Importar   %c Aceitar   %c Cancelar<END>
 <BEGIN>x Novo   %c Importar   %c Aceitar   %c Cancelar<END>
 <BEGIN>%c Importar   %c Deletar   %c Aceitar   %c Cancelar<END>
 <BEGIN>Importar Jogadores<END>
-<BEGIN>If you want to be able to access your most<END>
-<BEGIN>recent save game data please ensure that<END>
-<BEGIN>your original MEMORY CARD is in slot<END>
-<BEGIN>%c Load Game   %c Main Menu<END>
-<BEGIN>%c Try Again   %c Main Menu<END>
-<BEGIN>Select the MEMORY CARD slot that you<END>
-<BEGIN>would like to import from.<END>
-<BEGIN>Could not complete Save Options operation.<END>
-<BEGIN>No memory card (8MB)(for PlayStation%c2) found.<END>
-<BEGIN>%c Yes   %c No<END>
-<BEGIN>memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s is unformatted, format memory card (8MB)(for PlayStation%c2)?<END>
-<BEGIN>Caution! If you wish to save your game data, insert a<END>
-<BEGIN>memory card (8MB)(for PlayStation%c2) with at least %dKB of free space.<END>
-<BEGIN>Save Game Flags<END>
-<BEGIN>Extreme Mode<END>
-<BEGIN>Difficulty<END>
-<BEGIN>:  Easy<END>
+<BEGIN>Se deseja acessar seus dados de jogo mais<END>
+<BEGIN>recentes, certifique-se de que<END>
+<BEGIN>seu CARTÃO DE MEMÓRIA original esteja no slot<END>
+<BEGIN>%c Carregar Jogo   %c Menu Principal<END>
+<BEGIN>%c Tentar Novamente   %c Menu Principal<END>
+<BEGIN>Selecione o slot do CARTÃO DE MEMÓRIA do qual<END>
+<BEGIN>deseja importar.<END>
+<BEGIN>Não foi possível concluir a operação de Opções de Salvar.<END>
+<BEGIN>Nenhum cartão de memória (8MB)(para PlayStation%c2) encontrado.<END>
+<BEGIN>%c Sim   %c Não<END>
+<BEGIN>o cartão de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÃO DE MEMÓRIA %s está sem formato, formatar o cartão de memória (8MB)(para PlayStation%c2)?<END>
+<BEGIN>Cuidado! Se deseja salvar seus dados de jogo, insira um<END>
+<BEGIN>cartão de memória (8MB)(para PlayStation%c2) com pelo menos %dKB de espaço livre.<END>
+<BEGIN>Flags de Salvar Jogo<END>
+<BEGIN>Modo Extremo<END>
+<BEGIN>Dificuldade<END>
+<BEGIN>:  Fácil<END>
 <BEGIN>:  Normal<END>
-<BEGIN>:  Hard<END>
-<BEGIN>:  Extreme<END>
-<BEGIN>Data corruption was found.  All data will<END>
-<BEGIN>be erased and re-initialized.  Continue?<END>
-<BEGIN>Save Game<END>
-<BEGIN>Your game has been saved!<END>
-<BEGIN>Format is complete!<END>
-<BEGIN>Data initialization is complete!<END>
-<BEGIN>Dialog Text<END>
-<BEGIN>Player 1<END>
-<BEGIN>Player 2<END>
-<BEGIN>Player 3<END>
-<BEGIN>Player 4<END>
-<BEGIN>Extreme Mode starts a new game using characters<END>
-<BEGIN>from a previous game.  Continue?<END>
-<BEGIN>Selecting this save game will start a single<END>
-<BEGIN>Selecting this save game will start a two<END>
-<BEGIN>player game.  Continue?<END>
-<BEGIN>Extreme Mode %d Player<END>
+<BEGIN>:  Difícil<END>
+<BEGIN>:  Extremo<END>
+<BEGIN>Corrupção de dados foi encontrada. Todos os dados serão<END>
+<BEGIN>apagados e re-inicializados. Continuar?<END>
+<BEGIN>Salvar Jogo<END>
+<BEGIN>Seu jogo foi salvo!<END>
+<BEGIN>O formato está completo!<END>
+<BEGIN>Inicialização de dados está completa!<END>
+<BEGIN>Texto de Diálogo<END>
+<BEGIN>Jogador 1<END>
+<BEGIN>Jogador 2<END>
+<BEGIN>Jogador 3<END>
+<BEGIN>Jogador 4<END>
+<BEGIN>O Modo Extremo inicia um novo jogo usando personagens<END>
+<BEGIN>de um jogo anterior. Continuar?<END>
+<BEGIN>Selecionar este jogo salvo iniciará um único<END>
+<BEGIN>Selecionar este jogo salvo iniciará um jogo de dois<END>
+<BEGIN>jogadores. Continuar?<END>
+<BEGIN>Modo Extremo %d Jogador<END>
 <BEGIN>Saving is disabled during combat!<END>
-<BEGIN>%d minutes left.<END>
-<BEGIN>%d seconds left.<END>
-<BEGIN>In Extreme Mode imported characters will have<END>
-<BEGIN>basic weapons/armor only unless they are<END>
-<BEGIN>from another Extreme Mode save game.<END>
-<BEGIN>Continue?<END>
-<BEGIN>Cannot Sell<END>
-<BEGIN>More...<END>
-<BEGIN>Insufficient space on memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.  At least %d KB of free space is required to save data.<END>
-<BEGIN>%c Cancel<END>
-<BEGIN>Format failed!  Please check memory card (8MB)(for PlayStation%c2)<END>
-<BEGIN>and try again.<END>
-<BEGIN>Dual Wield<END>
-<BEGIN>This skill will allow you to wield a weapon in each hand.<END>
-<BEGIN>Cannot gate from here.<END>
-<BEGIN>Cannot gate while dead!<END>
-<BEGIN>No gate target set!<END>
-<BEGIN>No Safe Gate Target Found Yet!<END>
-<BEGIN>No gate scrolls left!<END>
-<BEGIN>Gate Scroll<END>
-<BEGIN>Gate Scroll<END>
-<BEGIN>Use Gate Scroll (%d)<END>
-<BEGIN>Gate scrolls are very useful.  They will teleport you back to the hub of any act.  You can then use them again to return to the location you recalled from. Gate scrolls are used through the PAUSE menu or by holding down the ACTION button and pressing the SELECT button.<END>
-<BEGIN>%cEquip  %cDrop %cBack<END>
-<BEGIN>%cUnequip  %cDrop %cBack<END>
-<BEGIN>Current Damage: %d-%d<END>
-<BEGIN>   New Damage: %d-%d<END>
-<BEGIN>Female Barbarian<END>
-<BEGIN>Male Barbarian<END>
-<BEGIN>Female ShadowKnight<END>
-<BEGIN>Female Cleric<END>
-<BEGIN>Male Ranger<END>
-<BEGIN>Female Ranger<END>
+<BEGIN>%d minutos restantes.<END>
+<BEGIN>%d segundos restantes.<END>
+<BEGIN>No Modo Extremo, personagens importados terão<END>
+<BEGIN>apenas armas/armor básicas, a menos que sejam<END>
+<BEGIN>de outro jogo salvo do Modo Extremo.<END>
+<BEGIN>Continuar?<END>
+<BEGIN>Não é Possível Vender<END>
+<BEGIN>Mais...<END>
+<BEGIN>Espaço insuficiente no cartão de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÃO DE MEMÓRIA %s.  Pelo menos %d KB de espaço livre é necessário para salvar os dados.<END>
+<BEGIN>%c Cancelar<END>
+<BEGIN>Falha na Formatação!  Por favor, verifique o cartão de memória (8MB)(para PlayStation%c2)<END>
+<BEGIN>e tente novamente.<END>
+<BEGIN>Empunhadura Dupla<END>
+<BEGIN>Esta habilidade permite empunhar uma arma em cada mão.<END>
+<BEGIN>Não é possível fazer portal daqui.<END>
+<BEGIN>Não é possível fazer portal enquanto morto!<END>
+<BEGIN>Nenhum alvo de portal definido!<END>
+<BEGIN>Ainda não foi encontrado um alvo seguro de portal!<END>
+<BEGIN>Nenhum pergaminho de portal restante!<END>
+<BEGIN>Pergaminho de Portal<END>
+<BEGIN>Pergaminho de Portal<END>
+<BEGIN>Usar Pergaminho de Portal (%d)<END>
+<BEGIN>Os pergaminhos de portal são muito úteis. Eles teleportam você de volta para o centro de qualquer ato. Você pode então usá-los novamente para retornar à localização de onde foi teletransportado. Os pergaminhos de portal são usados através do menu PAUSE ou mantendo pressionado o botão AÇÃO e pressionando o botão SELECT.<END>
+<BEGIN>%cEquipar  %cDescartar %cVoltar<END>
+<BEGIN>%cDesequipar  %cDescartar %cVoltar<END>
+<BEGIN>Dano Atual: %d-%d<END>
+<BEGIN>   Novo Dano: %d-%d<END>
+<BEGIN>Bárbara Feminina<END>
+<BEGIN>Bárbaro Masculino<END>
+<BEGIN>Paladina Feminina<END>
+<BEGIN>Clériga Feminina<END>
+<BEGIN>Ranger Masculino<END>
+<BEGIN>Ranger Feminina<END>
 <BEGIN>Claymore<END>
-<BEGIN>Stamina Increase<END>
-<BEGIN>Small Venom Sac<END>
-<BEGIN>Fire Potion<END>
-<BEGIN>Exploding Potion<END>
-<BEGIN>Armageddon Potion<END>
-<BEGIN>Inferno Potion<END>
-<BEGIN>Gas Potion<END>
-<BEGIN>Bind Wound<END>
-<BEGIN>Barbarian Warrior<END>
-<BEGIN>High Elf Cleric<END>
-<BEGIN>Dark Elf Shadow Knight<END>
-<BEGIN>Wood Elf Ranger<END>
-<BEGIN>Defense<END>
-<BEGIN>This feat gives you +3 hit points permanently.<END>
-<BEGIN>Mace<END>
-<BEGIN>Double Handed Mace<END>
-<BEGIN>Pick<END>
-<BEGIN>Hammer<END>
-<BEGIN>Rod<END>
-<BEGIN>Great Staff<END>
-<BEGIN>Composite Bow<END>
-<BEGIN>Broad Sword<END>
-<BEGIN>Flamberge<END>
+<BEGIN>Aumento de Estamina<END>
+<BEGIN>Pequeno Saco de Veneno<END>
+<BEGIN>Poção de Fogo<END>
+<BEGIN>Poção Explosiva<END>
+<BEGIN>Poção de Armageddon<END>
+<BEGIN>Poção de Inferno<END>
+<BEGIN>Poção de Gás<END>
+<BEGIN>Curar Ferimentos<END>
+<BEGIN>Bárbaro Guerreiro<END>
+<BEGIN>Clériga Alta Elfa<END>
+<BEGIN>Cavaleiro das Sombras Elfo Negro<END>
+<BEGIN>Ranger Elfo da Floresta<END>
+<BEGIN>Defesa<END>
+<BEGIN>Esta habilidade concede +3 pontos de vida permanentemente.<END>
+<BEGIN>Maça<END>
+<BEGIN>Maça de Duas Mãos<END>
+<BEGIN>Pegar<END>
+<BEGIN>Martelo<END>
+<BEGIN>Varinha<END>
+<BEGIN>Grande Cajado<END>
+<BEGIN>Arco Composto<END>
+<BEGIN>Espada Larga<END>
+<BEGIN>Flâmula<END>
 <BEGIN>Cleaver<END>
-<BEGIN>Blood<END>
-<BEGIN>Your character class cannot use this weapon type.<END>
-<BEGIN>Melee<END>
-<BEGIN>Ranged<END>
-<BEGIN>Quick Spell 1<END>
-<BEGIN>Quick Spell 2<END>
-<BEGIN>Next Spell/Skill<END>
-<BEGIN>Previous Spell/Skill<END>
-<BEGIN>Toggle Ranged/Melee<END>
+<BEGIN>Sangue<END>
+<BEGIN>Sua classe de personagem não pode usar este tipo de arma.<END>
+<BEGIN>Corpo a Corpo<END>
+<BEGIN>À Distância<END>
+<BEGIN>Feitiço Rápido 1<END>
+<BEGIN>Feitiço Rápido 2<END>
+<BEGIN>Próximo Feitiço/Habilidade<END>
+<BEGIN>Feitiço/Habilidade Anterior<END>
+<BEGIN>Alternar entre Corpo a Corpo/À Distância<END>
 <BEGIN>- - -<END>
-<BEGIN>Cyclone Attack<END>
-<BEGIN>A devastating circular attack which requires a two handed axe or hammer to use.<END>
-<BEGIN>Berserker Charge<END>
-<BEGIN>A powerful charge that inflicts tremendous damage.<END>
-<BEGIN>Resist<END>
-<BEGIN>Fire:<END>
-<BEGIN>Cold:<END>
-<BEGIN>Poison:<END>
-<BEGIN>Disease:<END>
-<BEGIN>Magic:<END>
-<BEGIN>+%d%% Fire Resistance<END>
-<BEGIN>+%d%% Cold Resistance<END>
-<BEGIN>+%d%% Poison Resistance<END>
-<BEGIN>+%d%% Disease Resistance<END>
-<BEGIN>+%d%% Magic Resistance<END>
-<BEGIN>+%d Health Bonus<END>
-<BEGIN>+%d Mana Bonus<END>
-<BEGIN>+%d Strength Bonus<END>
-<BEGIN>+%d Intelligence Bonus<END>
-<BEGIN>+%d Dexterity Bonus<END>
-<BEGIN>+%d Stamina Bonus<END>
-<BEGIN>+%d%% Health Regeneration<END>
-<BEGIN>+%d%% Mana Regeneration<END>
-<BEGIN>+%d Armor Bonus<END>
-<BEGIN>Required Level: %d<END>
-<BEGIN>Required Strength: %d<END>
-<BEGIN>Required Intelligence: %d<END>
-<BEGIN>Required Dexterity: %d<END>
-<BEGIN>Required Stamina: %d<END>
-<BEGIN>Required Class:<END>
-<BEGIN>Req. Blunt Level: %d<END>
-<BEGIN>Req. Slashing Level: %d<END>
-<BEGIN>Your character class cannot use this item.<END>
-<BEGIN>You are not high enough level to use this item.<END>
-<BEGIN>You do not have enough strength to use this item.<END>
-<BEGIN>You do not have enough intelligence to use this item.<END>
-<BEGIN>You do not have enough dexterity to use this item.<END>
-<BEGIN>You do not have enough stamina to use this item.<END>
-<BEGIN>You do not have a high enough blunt skill to use this item.<END>
-<BEGIN>You do not have a high enough slashing skill to use this item.<END>
-<BEGIN>Warrior<END>
-<BEGIN>Shadow Knight<END>
-<BEGIN>Cleric<END>
+<BEGIN>Ataque Ciclone<END>
+<BEGIN>Um ataque circular devastador que requer um machado ou martelo de duas mãos para ser usado.<END>
+<BEGIN>Carga do Berserker<END>
+<BEGIN>Uma carga poderosa que inflige um tremendo dano.<END>
+<BEGIN>Resistência<END>
+<BEGIN>Fogo:<END>
+<BEGIN>Gelo:<END>
+<BEGIN>Veneno:<END>
+<BEGIN>Doença:<END>
+<BEGIN>Mágica:<END>
+<BEGIN>+%d%% Resistência ao Fogo<END>
+<BEGIN>+%d%% Resistência ao Gelo<END>
+<BEGIN>+%d%% Resistência ao Veneno<END>
+<BEGIN>+%d%% Resistência a Doenças<END>
+<BEGIN>+%d%% Resistência Mágica<END>
+<BEGIN>+%d Bônus de Vida<END>
+<BEGIN>+%d Bônus de Mana<END>
+<BEGIN>+%d Bônus de Força<END>
+<BEGIN>+%d Bônus de Inteligência<END>
+<BEGIN>+%d Bônus de Destreza<END>
+<BEGIN>+%d Bônus de Resistência<END>
+<BEGIN>+%d%% Regeneração de Vida<END>
+<BEGIN>+%d%% Regeneração de Mana<END>
+<BEGIN>+%d Bônus de Armadura<END>
+<BEGIN>Nível Requerido: %d<END>
+<BEGIN>Força Requerida: %d<END>
+<BEGIN>Inteligência Requerida: %d<END>
+<BEGIN>Destreza Requerida: %d<END>
+<BEGIN>Stamina Requerida: %d<END>
+<BEGIN>Classe Requerida:<END>
+<BEGIN>Nível de Contusão Requerido: %d<END>
+<BEGIN>Nível de Corte Requerido: %d<END>
+<BEGIN>Sua classe de personagem não pode usar este item.<END>
+<BEGIN>Você não tem nível suficiente para usar este item.<END>
+<BEGIN>Você não tem força suficiente para usar este item.<END>
+<BEGIN>Você não tem inteligência suficiente para usar este item.<END>
+<BEGIN>Você não tem destreza suficiente para usar este item.<END>
+<BEGIN>Você não tem resistência suficiente para usar este item.<END>
+<BEGIN>Você não tem habilidade de contusão suficiente para usar este item.<END>
+<BEGIN>Você não tem habilidade de corte suficiente para usar este item.<END>
+<BEGIN>Guerreiro<END>
+<BEGIN>Cavaleiro Sombrio<END>
+<BEGIN>Clérigo<END>
 <BEGIN>Ranger<END>
-<BEGIN>Rogue<END>
-<BEGIN>Wizard<END>
-<BEGIN>Speed:<END>
-<BEGIN>Glacial<END>
-<BEGIN>Sluggish<END>
+<BEGIN>Ladino<END>
+<BEGIN>Mago<END>
+<BEGIN>Velocidade:<END>
+<BEGIN>Gélida<END>
+<BEGIN>Lenta<END>
 <BEGIN>Normal<END>
-<BEGIN>Fast<END>
-<BEGIN>Faster<END>
-<BEGIN>Lightning<END>
-<BEGIN>Godly<END>
-<BEGIN>%d-%d Fire Damage<END>
-<BEGIN>%d-%d Cold Damage<END>
-<BEGIN>%d-%d Poison Damage<END>
-<BEGIN>%d-%d Lightning Damage<END>
-<BEGIN>%d-%d Lightning Damage vs. Bugs<END>
-<BEGIN>%d%% Instant Bug Kill<END>
-<BEGIN>+%d%% Damage vs. Undead<END>
-<BEGIN>%d%% Destroy Undead<END>
-<BEGIN>%d%% Critical Hit<END>
-<BEGIN>+%d%% Stun Resistance<END>
-<BEGIN>%d%% Fire burst: %d-%d<END>
-<BEGIN>%d%% Frost Burst: %d-%d<END>
-<BEGIN>%d%% Lightning Burst: %d-%d<END>
-<BEGIN>%d%% Small Poison Cloud<END>
-<BEGIN>%d%% Medium Poison Cloud<END>
-<BEGIN>%d%% Large Poison Cloud<END>
-<BEGIN>%d%% Massive Poison Cloud<END>
+<BEGIN>Rápida<END>
+<BEGIN>Mais Rápida<END>
+<BEGIN>Relâmpago<END>
+<BEGIN>Divina<END>
+<BEGIN>%d-%d Dano de Fogo<END>
+<BEGIN>%d-%d Dano de Frio<END>
+<BEGIN>%d-%d Dano de Veneno<END>
+<BEGIN>%d-%d Dano de Raios<END>
+<BEGIN>%d-%d Dano de Raios vs. Insetos<END>
+<BEGIN>%d%% Matar Insetos Instantaneamente<END>
+<BEGIN>+%d%% Dano vs. Mortos-Vivos<END>
+<BEGIN>%d%% Destruir Mortos-Vivos<END>
+<BEGIN>%d%% Golpe Crítico<END>
+<BEGIN>+%d%% Resistência a Atordoamento<END>
+<BEGIN>%d%% Explosão de Fogo: %d-%d<END>
+<BEGIN>%d%% Explosão de Gelo: %d-%d<END>
+<BEGIN>%d%% Explosão de Raios: %d-%d<END>
+<BEGIN>%d%% Pequena Nuvem de Veneno<END>
+<BEGIN>%d%% Nuvem Média de Veneno<END>
+<BEGIN>%d%% Grande Nuvem de Veneno<END>
+<BEGIN>%d%% Enorme Nuvem de Veneno<END>
 <BEGIN> / %d-%d<END>
-<BEGIN>Rusty<END>
-<BEGIN>Tattered<END>
-<BEGIN>Tarnished<END>
-<BEGIN>Battle Worn<END>
+<BEGIN>Ferrugento<END>
+<BEGIN>Esfarrapado<END>
+<BEGIN>Desgastado<END>
+<BEGIN>Desgastado em Batalha<END>
 <BEGIN>Bronze<END>
-<BEGIN>Cast Iron<END>
-<BEGIN>Sharp<END>
-<BEGIN>Forged<END>
-<BEGIN>Elven<END>
-<BEGIN>Dwarven<END>
-<BEGIN>Alloy<END>
-<BEGIN>Blackened Iron<END>
+<BEGIN>Ferro Fundido<END>
+<BEGIN>Afiado<END>
+<BEGIN>Forjado<END>
+<BEGIN>Élfico<END>
+<BEGIN>Anão<END>
+<BEGIN>Liga<END>
+<BEGIN>Ferro Enegrecido<END>
 <BEGIN>Teir'Dal<END>
-<BEGIN>Combine<END>
-<BEGIN>Fine Steel<END>
+<BEGIN>Combinar<END>
+<BEGIN>Aço Fino<END>
 <BEGIN>Feir'Dal<END>
-<BEGIN>Steel War<END>
-<BEGIN>Well Balanced<END>
-<BEGIN>Silvery War<END>
-<BEGIN>Serrated<END>
-<BEGIN>Silverish<END>
-<BEGIN>Obsidian<END>
-<BEGIN>Shadowed<END>
+<BEGIN>Guerra de Aço<END>
+<BEGIN>Bem Equilibrado<END>
+<BEGIN>Guerra Prateada<END>
+<BEGIN>Serrilhado<END>
+<BEGIN>Prateado<END>
+<BEGIN>Obsidiana<END>
+<BEGIN>Sombreado<END>
 <BEGIN>Falchion<END>
-<BEGIN>of<END>
-<BEGIN>Flame<END>
-<BEGIN>Frost<END>
-<BEGIN>Justice<END>
+<BEGIN>de<END>
+<BEGIN>Chama<END>
+<BEGIN>Gelo<END>
+<BEGIN>Justiça<END>
 <BEGIN>Requital<END>
-<BEGIN>Wrath<END>
-<BEGIN>Striking<END>
-<BEGIN>Warding<END>
-<BEGIN>the Planes<END>
-<BEGIN>Destruction<END>
-<BEGIN>the Snake<END>
-<BEGIN>the Scorpion<END>
-<BEGIN>the Adder<END>
-<BEGIN>Death<END>
-<BEGIN>Strength<END>
-<BEGIN>the Bull<END>
-<BEGIN>the Gorilla<END>
-<BEGIN>the Giants<END>
-<BEGIN>the Goliath<END>
-<BEGIN>Godly Strength<END>
-<BEGIN>Intellect<END>
-<BEGIN>Cunning<END>
-<BEGIN>Foresight<END>
-<BEGIN>Godly Thought<END>
-<BEGIN>Agility<END>
-<BEGIN>the Acrobat<END>
-<BEGIN>Deftness<END>
-<BEGIN>Skill<END>
-<BEGIN>the Cat<END>
-<BEGIN>the Mongoose<END>
-<BEGIN>Godly Reflexes<END>
-<BEGIN>Stamina<END>
+<BEGIN>Ira<END>
+<BEGIN>Impactante<END>
+<BEGIN>Guardião<END>
+<BEGIN>os Planos<END>
+<BEGIN>Destruição<END>
+<BEGIN>a Serpente<END>
+<BEGIN>o Escorpião<END>
+<BEGIN>o Adaga<END>
+<BEGIN>Morte<END>
+<BEGIN>Força<END>
+<BEGIN>o Touro<END>
+<BEGIN>o Gorila<END>
+<BEGIN>os Gigantes<END>
+<BEGIN>o Golias<END>
+<BEGIN>Força Divina<END>
+<BEGIN>Intelecto<END>
+<BEGIN>Engenhosidade<END>
+<BEGIN>Previsão<END>
+<BEGIN>Pensamento Divino<END>
+<BEGIN>Agilidade<END>
+<BEGIN>o Acrobata<END>
+<BEGIN>Destreza<END>
+<BEGIN>Habilidade<END>
+<BEGIN>o Gato<END>
+<BEGIN>o Mangusto<END>
+<BEGIN>Reflexos Divinos<END>
+<BEGIN>Resistência<END>
 <BEGIN>Fortitude<END>
 <BEGIN>Vigor<END>
-<BEGIN>Resilience<END>
-<BEGIN>the Rhino<END>
-<BEGIN>Godly Endurance<END>
-<BEGIN>Runes<END>
-<BEGIN>Symbols<END>
-<BEGIN>Evade<END>
-<BEGIN>A quick defensive jump back used to dodge powerful attacks.<END>
-<BEGIN>Shield Combo<END>
-<BEGIN>Randomly adds a powerful shield bash attack to your standard one handed weapon combos.<END>
-<BEGIN>Mule Kick<END>
-<BEGIN>An automatic defensive kick used to knock back enemies when using ranged weapons.<END>
-<BEGIN>Battle Cry<END>
-<BEGIN>Temporarily gives warrior bonuses to damage and attack ratings.<END>
-<BEGIN>War Cry<END>
-<BEGIN>Temporarily gives all nearby friendly characters a bonus to damage and attack ratings.<END>
-<BEGIN>Berserker Rage<END>
-<BEGIN>Filled with a berserker rage your attack speed and damage is temporarily increased.  This feat requires full mana to use.<END>
-<BEGIN>Dead Eye<END>
-<BEGIN>Improves your ability to accurately lead targets with ranged weapons.<END>
-<BEGIN>Ride On Vehicle<END>
-<BEGIN>Drive Vehicle<END>
-<BEGIN>Dismiss Undead<END>
-<BEGIN>A direct damage spell which only works against the undead.<END>
-<BEGIN>Hammer of Wrath<END>
-<BEGIN>This spell summons a floating spectral hammer which follows the caster around striking at nearby foes.<END>
-<BEGIN>Resurrection<END>
-<BEGIN>This spell resurrects fallen comrades.<END>
-<BEGIN>Gate<END>
-<BEGIN>The gate spell will teleport you to and from the hub of any act.<END>
-<BEGIN>Undead Shield<END>
-<BEGIN>This powerful aura causes 100% of melee damage dealt to you to also be reflected back at your attacker if they are undead.<END>
-<BEGIN>Repulse Undead<END>
-<BEGIN>A wave of energy emanates from the caster driving back and damaging the undead.<END>
-<BEGIN>Shield Skin<END>
-<BEGIN>This spell temporarily increases the armor class of the caster.<END>
-<BEGIN>Check Point Saved<END>
-<BEGIN>Player %d<END>
-<BEGIN>Barbarian Male<END>
-<BEGIN>Barbarian Female<END>
-<BEGIN>Wood Elf Male<END>
-<BEGIN>Wood Elf Female<END>
-<BEGIN>High Elf Male<END>
-<BEGIN>High Elf Female<END>
-<BEGIN>Dark Elf Male<END>
-<BEGIN>Dark Elf Female<END>
-<BEGIN>Erudite Male<END>
-<BEGIN>Erudite Female<END>
-<BEGIN>Halfling Male<END>
-<BEGIN>Halfling Female<END>
-<BEGIN>Barbarian Warrior<END>
-<BEGIN>Wood Elf Ranger<END>
-<BEGIN>High Elf Cleric<END>
-<BEGIN>Dark Elf Shadow Knight<END>
-<BEGIN>Erudite Wizard<END>
-<BEGIN>Halfling Rogue<END>
-<BEGIN>Male<END>
-<BEGIN>Female<END>
-<BEGIN>%c Enter Inventory<END>
-<BEGIN>Mana: %f per second<END>
+<BEGIN>Resiliência<END>
+<BEGIN>o Rinoceronte<END>
+<BEGIN>Resistência Divina<END>
+<BEGIN>Runas<END>
+<BEGIN>Símbolos<END>
+<BEGIN>Evitar<END>
+<BEGIN>Um rápido salto defensivo para trás usado para esquivar-se de ataques poderosos.<END>
+<BEGIN>Combo de Escudo<END>
+<BEGIN>Adiciona aleatoriamente um poderoso ataque de escudo aos combos padrão de arma de uma mão.<END>
+<BEGIN>Chute de Mula<END>
+<BEGIN>Um chute defensivo automático usado para afastar inimigos ao usar armas de longo alcance.<END>
+<BEGIN>Grito de Batalha<END>
+<BEGIN>Dá temporariamente bônus de guerreiro ao dano e às classificações de ataque.<END>
+<BEGIN>Grito de Guerra<END>
+<BEGIN>Dá temporariamente a todos os personagens amigáveis próximos um bônus ao dano e às classificações de ataque.<END>
+<BEGIN>Fúria Berserker<END>
+<BEGIN>Repleto de uma fúria berserker, sua velocidade de ataque e dano aumentam temporariamente. Este feitiço requer mana total para ser usado.<END>
+<BEGIN>Mira Certa<END>
+<BEGIN>Melhora sua habilidade de liderar com precisão alvos com armas de longo alcance.<END>
+<BEGIN>Montar Veículo<END>
+<BEGIN>Dirigir Veículo<END>
+<BEGIN>Despedir Mortos-Vivos<END>
+<BEGIN>Um feitiço de dano direto que só funciona contra os mortos-vivos.<END>
+<BEGIN>Martelo da Ira<END>
+<BEGIN>Este feitiço invoca um martelo espectral flutuante que segue o conjurador e ataca inimigos próximos.<END>
+<BEGIN>Ressurreição<END>
+<BEGIN>Este feitiço ressuscita camaradas caídos.<END>
+<BEGIN>Portão<END>
+<BEGIN>O feitiço de portão teleporta você para e do centro de qualquer ato.<END>
+<BEGIN>Escudo Mortos-Vivos<END>
+<BEGIN>Este poderoso aura faz com que 100% do dano corpo a corpo causado a você seja também refletido de volta ao seu atacante se ele for um morto-vivo.<END>
+<BEGIN>Repulsão de Mortos-Vivos<END>
+<BEGIN>Uma onda de energia emana do conjurador, afastando e danificando os mortos-vivos.<END>
+<BEGIN>Pele de Escudo<END>
+<BEGIN>Este feitiço aumenta temporariamente a classe de armadura do conjurador.<END>
+<BEGIN>Ponto de Verificação Salvo<END>
+<BEGIN>Jogador %d<END>
+<BEGIN>Bárbaro Masculino<END>
+<BEGIN>Bárbaro Feminino<END>
+<BEGIN>Elfo da Floresta Masculino<END>
+<BEGIN>Elfo da Floresta Feminino<END>
+<BEGIN>Alto Elfo Masculino<END>
+<BEGIN>Alto Elfo Feminino<END>
+<BEGIN>Elfo Negro Masculino<END>
+<BEGIN>Elfo Negro Feminino<END>
+<BEGIN>Erudito Masculino<END>
+<BEGIN>Erudito Feminino<END>
+<BEGIN>Halfling Masculino<END>
+<BEGIN>Halfling Feminino<END>
+<BEGIN>Guerrero Bárbaro<END>
+<BEGIN>Ranger Elfo da Floresta<END>
+<BEGIN>Clérigo de Alto Elfo<END>
+<BEGIN>Cavaleiro Sombrio Elfo Negro<END>
+<BEGIN>Mago Erudito<END>
+<BEGIN>Rogue Meio Lingotamento<END>
+<BEGIN>Macho<END>
+<BEGIN>Fêmea<END>
+<BEGIN>%c Entrar no Inventário<END>
+<BEGIN>Mana: %f por segundo<END>
 <BEGIN>Mana: %d<END>
-<BEGIN>Padded Armor<END>
-<BEGIN>Padded Leggings<END>
-<BEGIN>Padded Boots<END>
-<BEGIN>Padded Gloves<END>
-<BEGIN>Padded Helmet<END>
-<BEGIN>Quilted Armor<END>
-<BEGIN>Quilted Leggings<END>
-<BEGIN>Quilted Boots<END>
-<BEGIN>Quilted Gloves<END>
-<BEGIN>Quilted Helmet<END>
-<BEGIN>Leather Armor<END>
-<BEGIN>Leather Leggings<END>
-<BEGIN>Leather Boots<END>
-<BEGIN>Leather Gloves<END>
-<BEGIN>Leather Helmet<END>
-<BEGIN>Studded Leather Armor<END>
-<BEGIN>Studded Leather Leggings<END>
-<BEGIN>Studded Leather Boots<END>
-<BEGIN>Studded Leather Gloves<END>
-<BEGIN>Studded Leather Helmet<END>
-<BEGIN>Scalemail Leggings<END>
-<BEGIN>Scalemail<END>
-<BEGIN>Scalemail Boots<END>
-<BEGIN>Scalemail Gloves<END>
-<BEGIN>Scalemail Helmet<END>
-<BEGIN>Banded Leggings<END>
-<BEGIN>Banded Armor<END>
-<BEGIN>Banded Boots<END>
-<BEGIN>Banded Gloves<END>
-<BEGIN>Banded Helmet<END>
-<BEGIN>Chain Leggings<END>
-<BEGIN>Chainmail<END>
-<BEGIN>Chain Boots<END>
-<BEGIN>Chain Gloves<END>
-<BEGIN>Chain Helmet<END>
-<BEGIN>Plate Leggings<END>
-<BEGIN>Platemail<END>
-<BEGIN>Plate Boots<END>
-<BEGIN>Plate Gloves<END>
-<BEGIN>Plate Helmet<END>
-<BEGIN>Imperial Leggings<END>
-<BEGIN>Imperial Armor<END>
-<BEGIN>Imperial Boots<END>
-<BEGIN>Imperial Gloves<END>
-<BEGIN>Imperial Helmet<END>
-<BEGIN>Rathesteel Leggings<END>
-<BEGIN>Rathesteel Armor<END>
-<BEGIN>Rathesteel Boots<END>
-<BEGIN>Rathesteel Gloves<END>
-<BEGIN>Rathesteel Helmet<END>
-<BEGIN>Battle Plans<END>
-<BEGIN>Elf Draught<END>
-<BEGIN>Kitten<END>
-<BEGIN>Boat Deed<END>
-<BEGIN>Crankshaft<END>
-<BEGIN>Cell Key<END>
-<BEGIN>Choker<END>
-<BEGIN>Earrings<END>
-<BEGIN>Lesser Faydark<END>
-<BEGIN>Greater Faydark<END>
-<BEGIN>Faydark Ruins<END>
+<BEGIN>Armadura Acolchoada<END>
+<BEGIN>Calças Acolchoadas<END>
+<BEGIN>Botas Acolchoadas<END>
+<BEGIN>Luvas Acolchoadas<END>
+<BEGIN>Capacete Acolchoado<END>
+<BEGIN>Armadura de Retalhos<END>
+<BEGIN>Calças de Retalhos<END>
+<BEGIN>Botas de Retalhos<END>
+<BEGIN>Luvas de Retalhos<END>
+<BEGIN>Capacete de Retalhos<END>
+<BEGIN>Armadura de Couro<END>
+<BEGIN>Calças de Couro<END>
+<BEGIN>Botas de Couro<END>
+<BEGIN>Luvas de Couro<END>
+<BEGIN>Capacete de Couro<END>
+<BEGIN>Armadura de Couro Cravada<END>
+<BEGIN>Calças de Couro Cravado<END>
+<BEGIN>Botas de Couro Cravado<END>
+<BEGIN>Luvas de Couro Cravado<END>
+<BEGIN>Capacete de Couro Cravado<END>
+<BEGIN>Calças de Cota de Malha<END>
+<BEGIN>Cota de Malha<END>
+<BEGIN>Botas de Cota de Malha<END>
+<BEGIN>Luvas de Cota de Malha<END>
+<BEGIN>Capacete de Cota de Malha<END>
+<BEGIN>Calças de Cinto<END>
+<BEGIN>Armadura de Cinto<END>
+<BEGIN>Botas de Cinto<END>
+<BEGIN>Luvas de Cinto<END>
+<BEGIN>Capacete de Cinto<END>
+<BEGIN>Calças de Corrente<END>
+<BEGIN>Corrente de Corrente<END>
+<BEGIN>Botas de Corrente<END>
+<BEGIN>Luvas de Corrente<END>
+<BEGIN>Capacete de Corrente<END>
+<BEGIN>Calças de Placa<END>
+<BEGIN>Placa de Metal<END>
+<BEGIN>Botas de Placa<END>
+<BEGIN>Luvas de Placa<END>
+<BEGIN>Capacete de Placa<END>
+<BEGIN>Calças Imperiais<END>
+<BEGIN>Armadura Imperial<END>
+<BEGIN>Botas Imperiais<END>
+<BEGIN>Luvas Imperiais<END>
+<BEGIN>Capacete Imperial<END>
+<BEGIN>Calças de Rathesteel<END>
+<BEGIN>Armadura de Rathesteel<END>
+<BEGIN>Botas de Rathesteel<END>
+<BEGIN>Luvas de Rathesteel<END>
+<BEGIN>Capacete de Rathesteel<END>
+<BEGIN>Planos de Batalha<END>
+<BEGIN>Pocão Élfica<END>
+<BEGIN>Gatinho<END>
+<BEGIN>Escritura de Barco<END>
+<BEGIN>Virabrequim<END>
+<BEGIN>Chave de Cela<END>
+<BEGIN>Gargantilha<END>
+<BEGIN>Brincos<END>
+<BEGIN>Faydark Inferior<END>
+<BEGIN>Faydark Superior<END>
+<BEGIN>Ruínas Faydark<END>
 <BEGIN>Kelethin<END>
-<BEGIN>Hidden Tunnels<END>
-<BEGIN>Orc Cave 1<END>
-<BEGIN>Orc Cave 2<END>
-<BEGIN>Orc Cave 3<END>
-<BEGIN>Forest Ruins Interior 1<END>
-<BEGIN>Forest Ruins Interior 2<END>
-<BEGIN>Ant Hill<END>
-<BEGIN>Vanarhost Castle Level 1<END>
-<BEGIN>Vanarhost Castle Level 2<END>
-<BEGIN>Blackdelve Reach<END>
-<BEGIN>The Under World<END>
-<BEGIN>The Under World 2<END>
-<BEGIN>Ant Caves Level 1<END>
-<BEGIN>Ant Caves Level 2<END>
-<BEGIN>Blackdelve Lava Fields 1<END>
-<BEGIN>Blackdelve Lava Fields 2<END>
-<BEGIN>Blackdelve Lava Fields 3<END>
-<BEGIN>Caverns of the Fallen 1<END>
-<BEGIN>Caverns of the Fallen 2<END>
-<BEGIN>Caverns of the Fallen 2<END>
-<BEGIN>Vanarhost Castle Dungeons<END>
-<BEGIN>Water's Edge<END>
-<BEGIN>Western Island<END>
-<BEGIN>Hidden Shore<END>
-<BEGIN>Tropical Cave<END>
-<BEGIN>Sea Cave 2<END>
-<BEGIN>Sea Cave 1<END>
-<BEGIN>The Depths<END>
-<BEGIN>Mormaz's Temple<END>
-<BEGIN>Sealed Temple<END>
-<BEGIN>The Grass Sea<END>
-<BEGIN>Ashen Plain<END>
+<BEGIN>Túneis Escondidos<END>
+<BEGIN>Caverna dos Orcs 1<END>
+<BEGIN>Caverna dos Orcs 2<END>
+<BEGIN>Caverna dos Orcs 3<END>
+<BEGIN>Interior das Ruínas da Floresta 1<END>
+<BEGIN>Interior das Ruínas da Floresta 2<END>
+<BEGIN>Formigueiro<END>
+<BEGIN>Castelo de Vanarhost Nível 1<END>
+<BEGIN>Castelo de Vanarhost Nível 2<END>
+<BEGIN>Cume do Blackdelve<END>
+<BEGIN>O Submundo<END>
+<BEGIN>O Submundo 2<END>
+<BEGIN>Cavernas das Formigas 1<END>
+<BEGIN>Cavernas das Formigas 2<END>
+<BEGIN>Campos de Lava do Blackdelve 1<END>
+<BEGIN>Campos de Lava do Blackdelve 2<END>
+<BEGIN>Campos de Lava do Blackdelve 3<END>
+<BEGIN>Cavernas dos Caídos 1<END>
+<BEGIN>Cavernas dos Caídos 2<END>
+<BEGIN>Cavernas dos Caídos 2<END>
+<BEGIN>Masmorras do Castelo de Vanarhost<END>
+<BEGIN>Borda da Água<END>
+<BEGIN>Ilha Ocidental<END>
+<BEGIN>Costa Escondida<END>
+<BEGIN>Caverna Tropical<END>
+<BEGIN>Caverna Marinha 2<END>
+<BEGIN>Caverna Marinha 1<END>
+<BEGIN>As Profundezas<END>
+<BEGIN>Templo de Mormaz<END>
+<BEGIN>Templo Lacrado<END>
+<BEGIN>O Mar de Grama<END>
+<BEGIN>Planície Cinzenta<END>
 <BEGIN>Bronzeholt<END>
-<BEGIN>The Frozen Sea<END>
-<BEGIN>Tower Of Clouds<END>
-<BEGIN>City of Khathuun<END>
-<BEGIN>Khathuun North<END>
-<BEGIN>Dungeons of Khathuun<END>
-<BEGIN>Completed Game<END>
-<BEGIN>The Arena<END>
-<BEGIN>The Hanging Gardens<END>
-<BEGIN>Plane of Air<END>
-<BEGIN>Plane of Hate<END>
-<BEGIN>Halls of Despair<END>
-<BEGIN>Innoruuk's Lair<END>
-<BEGIN>Cauldron of Hate<END>
-<BEGIN>Ruins Interior<END>
-<BEGIN>%c To Accelerate  %c To Brake/Reverse<END>
-<BEGIN>Waiting for passengers.<END>
-<BEGIN>Data corruption was found.  All Data will be erased and re-initialized.  Continue?<END>
-<BEGIN>memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s is unformatted.<END>
-<BEGIN>Champions Of Norrath data is not present.  This game requires %dKB of free space.  Initialize?<END>
-<BEGIN>No save data present.<END>
-<BEGIN>Insufficient space on memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.  This game requires %dKB of free space to save data.<END>
-<BEGIN>Caution! If you wish to save your game data, insert a memory card (8MB)(for PlayStation%c2) with at least %dKB of free space.<END>
-<BEGIN>No memory card (8MB)(for PlayStation%c2) inserted.<END>
-<BEGIN>Format failed!  Please check memory card (8MB)(for PlayStation%c2) and try again.<END>
-<BEGIN>Formatting memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.  Do not remove memory card (8MB)(for PlayStation%c2), reset, or switch off console.<END>
-<BEGIN>Select MEMORY CARD slot<END>
-<BEGIN>Which MEMORY CARD slot do you wish to use?
+<BEGIN>O Mar Congelado<END>
+<BEGIN>Torre das Nuvens<END>
+<BEGIN>Cidade de Khathuun<END>
+<BEGIN>Khathuun Norte<END>
+<BEGIN>Masmorras de Khathuun<END>
+<BEGIN>Jogo Concluído<END>
+<BEGIN>A Arena<END>
+<BEGIN>Os Jardins Suspensos<END>
+<BEGIN>Plano do Ar<END>
+<BEGIN>Plano do Ódio<END>
+<BEGIN>Salões do Desespero<END>
+<BEGIN>Esconderijo de Innoruuk<END>
+<BEGIN>Caldeirão do Ódio<END>
+<BEGIN>Ruínas Interiores<END>
+<BEGIN>%c Para Acelerar  %c Para Frear/Ré<END>
+<BEGIN>Esperando por passageiros.<END>
+<BEGIN>Foi encontrada corrupção de dados. Todos os dados serão apagados e re-inicializados. Continuar?<END>
+<BEGIN>O cartão de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÃO DE MEMÓRIA %s não está formatado.<END>
+<BEGIN>Dados de Champions Of Norrath não estão presentes. Este jogo requer %dKB de espaço livre. Inicializar?<END>
+<BEGIN>Nenhum dado de salvamento presente.<END>
+<BEGIN>Espaço insuficiente no cartão de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÃO DE MEMÓRIA %s. Este jogo requer %dKB de espaço livre para salvar dados.<END>
+<BEGIN>Cuidado! Se você deseja salvar seus dados de jogo, insira um cartão de memória (8MB)(para PlayStation%c2) com pelo menos %dKB de espaço livre.<END>
+<BEGIN>Nenhum cartão de memória (8MB)(para PlayStation%c2) inserido.<END>
+<BEGIN>Falha na formatação! Por favor, verifique o cartão de memória (8MB)(para PlayStation%c2) e tente novamente.<END>
+<BEGIN>Formatando o cartão de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÃO DE MEMÓRIA %s. Não remova o cartão de memória (8MB)(para PlayStation%c2), reinicie ou desligue o console.<END>
+<BEGIN>Selecione o SLOT DO CARTÃO DE MEMÓRIA<END>
+<BEGIN>Qual SLOT DO CARTÃO DE MEMÓRIA você deseja usar?
 
 <END>
 <BEGIN>1                         2<END>
-<BEGIN>Deleting save game.  Do not remove memory card (8MB)(for PlayStation%c2), reset or switch off console.<END>
-<BEGIN>Overwriting data on memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.  Do not remove memory card (8MB)(for PlayStation%c2), reset or switch off console.
+<BEGIN>Excluindo jogo salvo. Não remova o cartão de memória (8MB)(para PlayStation%c2), reinicie ou desligue o console.<END>
+<BEGIN>Sobrescrevendo dados no cartão de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÃO DE MEMÓRIA %s. Não remova o cartão de memória (8MB)(para PlayStation%c2), reinicie ou desligue o console.
 
 <END>
-<BEGIN>Saving data to memory card (8MB)(for PlayStation%c2) in Overwriting data on memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.  Do not remove memory card (8MB)(for PlayStation%c2), reset or switch off console.
+<BEGIN>Salvando dados no cartão de memória (8MB)(para PlayStation%c2) em Sobrescrevendo dados no cartão de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÃO DE MEMÓRIA %s. Não remova o cartão de memória (8MB)(para PlayStation%c2), reinicie ou desligue o console.
 
 <END>
-<BEGIN>Restart Race<END>
-<BEGIN>Quit Race<END>
-<BEGIN>Main Menu<END>
+<BEGIN>Reiniciar Corrida<END>
+<BEGIN>Sair da Corrida<END>
+<BEGIN>Menu Principal<END>
 <BEGIN>%cAceitar  %cVoltar<END>
-<BEGIN>%cAccept  %cBack  Next %c<END>
-<BEGIN>%c Prev  %cAccept  %cBack<END>
-<BEGIN>%c Prev  %cAccept  %cBack  Next %c<END>
-<BEGIN>%cBack  Next %c<END>
-<BEGIN>%c Prev  %cBack<END>
-<BEGIN>%c Prev  %cBack  Next %c<END>
-<BEGIN>%cBack<END>
-<BEGIN>Player %d -<END>
-<BEGIN>Select Your Character<END>
-<BEGIN>Customize Your Character<END>
-<BEGIN>Finished<END>
-<BEGIN>Player %d has finished.  Continue to player %d?<END>
-<BEGIN>Player Complete<END>
+<BEGIN>%cAceitar  %cVoltar  Próximo %c<END>
+<BEGIN>%c Anterior  %cAceitar  %cVoltar<END>
+<BEGIN>%c Anterior  %cAceitar  %cVoltar  Próximo %c<END>
+<BEGIN>%cVoltar  Próximo %c<END>
+<BEGIN>%c Anterior  %cVoltar<END>
+<BEGIN>%c Anterior  %cVoltar  Próximo %c<END>
+<BEGIN>%cVoltar<END>
+<BEGIN>Jogador %d -<END>
+<BEGIN>Selecione Seu Personagem<END>
+<BEGIN>Personalize Seu Personagem<END>
+<BEGIN>Finalizado<END>
+<BEGIN>O Jogador %d terminou.  Continuar com o jogador %d?<END>
+<BEGIN>Jogador Completo<END>
 <BEGIN>Backup<END>
-<BEGIN>Backup to player %d.  Are you sure?<END>
-<BEGIN>Race/Class:<END>
-<BEGIN>Race:<END>
-<BEGIN>Strengths:<END>
-<BEGIN>Weaknesses:<END>
-<BEGIN>Sex:<END>
-<BEGIN>Description:<END>
-<BEGIN>Primarily a tank that absorbs and deals damage.<END>
-<BEGIN>Primarily a tank that absorbs and deals damage.<END>
-<BEGIN>A master of the bow. With some skills in melee, they can learn powerful bow attacks.<END>
-<BEGIN>A master of the bow. With some skills in melee, they can learn powerful bow attacks.<END>
-<BEGIN>Strong melee class with substantial magic ability. Can learn offensive and defensive spells.<END>
-<BEGIN>Strong melee class with substantial magic ability. Can learn offensive and defensive spells.<END>
-<BEGIN>Primarily a melee class with some disease and pet spells.<END>
-<BEGIN>Primarily a melee class with some disease and pet spells.<END>
-<BEGIN>Pure spell caster. Can learn powerful direct damage and area of effect spells.<END>
-<BEGIN>Pure spell caster. Can learn powerful direct damage and area of effect spells.<END>
-<BEGIN>Regenerates mana by defeating enemies. Can wield any weapon type.<END>
-<BEGIN>Virtually no magic. Mana does not regenerate while idle.<END>
-<BEGIN>Regenerates mana by defeating enemies. Can wield any weapon type.<END>
-<BEGIN>Virtually no magic. Mana does not regenerate while idle.<END>
-<BEGIN>Can combine close in fighting with heavy ranged damage.<END>
-<BEGIN>Close quarter fighting limits the benefits of their ranged weapons.<END>
-<BEGIN>Can combine close in fighting with heavy ranged damage.<END>
-<BEGIN>Close quarter fighting limits the benefits of their ranged weapons.<END>
-<BEGIN>Calling on the divine, they can deal damage to undead creatures. Buffing spells benefit teammates.<END>
-<BEGIN>Limited to using blunt weapons.<END>
-<BEGIN>Calling on the divine, they can deal damage to undead creatures. Buffing spells benefit teammates.<END>
-<BEGIN>Limited to using blunt weapons.<END>
-<BEGIN>Able to deal damage from great distances. Can imbue weapons with elemental energy.<END>
-<BEGIN>Not proficient in melee combat. Limited in weapon usage. May not use shields.<END>
-<BEGIN>Able to deal damage from great distances. Can imbue weapons with elemental energy.<END>
-<BEGIN>Not proficient in melee combat. Limited in weapon usage. May not use shields.<END>
-<BEGIN>Can summon the undead. Uses corrosive short and long range spells.<END>
-<BEGIN>Weaker against disease immune enemies. Spells cost more percentage of mana.<END>
-<BEGIN>Can summon the undead. Uses corrosive short and long range spells.<END>
-<BEGIN>Weaker against disease immune enemies. Spells cost more percentage of mana.<END>
-<BEGIN>%cCombine with... %cCancel<END>
-<BEGIN>Change Appearence:<END>
-<BEGIN>You may now modify the appearence of your character.  Use the left digital pad alter skin and hair color.  Press %c when finished.<END>
-<BEGIN>Allocate your bonus bonus ability points now using the left digital pad.  Press %c when finished.<END>
-<BEGIN>Allocation Incomplete<END>
-<BEGIN>You must allocate all points before continuing.<END>
-<BEGIN>Allocate Abilities:<END>
-<BEGIN>Points remaining<END>
-<BEGIN>Strength<END>
-<BEGIN>Intelligence<END>
-<BEGIN>Dexterity<END>
-<BEGIN>Stamina<END>
-<BEGIN>Strength increases melee damage and carrying capacity.<END>
-<BEGIN>Intelligence increases total mana and mana regeneration.<END>
-<BEGIN>Dexterity increases damage for ranged weapons and the ability to hit with all weapons.<END>
-<BEGIN>Stamina increases total health and health regeneration.<END>
-<BEGIN>Character Name:<END>
-<BEGIN>DONE<END>
-<BEGIN>SPACE<END>
-<BEGIN>%c Shift<END>
-<BEGIN>%c Backspace<END>
+<BEGIN>Backup para o jogador %d.  Tem certeza?<END>
+<BEGIN>Raça/Classe:<END>
+<BEGIN>Raça:<END>
+<BEGIN>Forças:<END>
+<BEGIN>Fraquezas:<END>
+<BEGIN>Sexo:<END>
+<BEGIN>Descrição:<END>
+<BEGIN>Principalmente um tanque que absorve e causa dano.<END>
+<BEGIN>Principalmente um tanque que absorve e causa dano.<END>
+<BEGIN>Um mestre do arco. Com algumas habilidades em combate corpo a corpo, eles podem aprender ataques poderosos com arco.<END>
+<BEGIN>Um mestre do arco. Com algumas habilidades em combate corpo a corpo, eles podem aprender ataques poderosos com arco.<END>
+<BEGIN>Classe corpo a corpo forte com habilidade mágica substancial. Pode aprender feitiços ofensivos e defensivos.<END>
+<BEGIN>Classe corpo a corpo forte com habilidade mágica substancial. Pode aprender feitiços ofensivos e defensivos.<END>
+<BEGIN>Principalmente uma classe corpo a corpo com alguns feitiços de doença e de invocação de mascotes.<END>
+<BEGIN>Principalmente uma classe corpo a corpo com alguns feitiços de doença e de invocação de mascotes.<END>
+<BEGIN>Conjurador de magias puras. Pode aprender feitiços poderosos de dano direto e de área de efeito.<END>
+<BEGIN>Conjurador de magias puras. Pode aprender feitiços poderosos de dano direto e de área de efeito.<END>
+<BEGIN>Regenera mana derrotando inimigos. Pode empunhar qualquer tipo de arma.<END>
+<BEGIN>Virtualmente nenhuma magia. A mana não se regenera enquanto está parado.<END>
+<BEGIN>Regenera mana derrotando inimigos. Pode empunhar qualquer tipo de arma.<END>
+<BEGIN>Virtualmente nenhuma magia. A mana não se regenera enquanto está parado.<END>
+<BEGIN>Pode combinar luta de curta distância com alto dano à distância.<END>
+<BEGIN>Luta de curta distância limita os benefícios de suas armas à distância.<END>
+<BEGIN>Pode combinar luta de curta distância com alto dano à distância.<END>
+<BEGIN>Luta de curta distância limita os benefícios de suas armas à distância.<END>
+<BEGIN>Invocando o divino, eles podem causar dano a criaturas mortas-vivas. Feitiços de reforço beneficiam os companheiros de equipe.<END>
+<BEGIN>Limitado ao uso de armas contundentes.<END>
+<BEGIN>Invocando o divino, eles podem causar dano a criaturas mortas-vivas. Feitiços de reforço beneficiam os companheiros de equipe.<END>
+<BEGIN>Limitado ao uso de armas contundentes.<END>
+<BEGIN>Capaz de causar dano a grandes distâncias. Pode imbuir armas com energia elemental.<END>
+<BEGIN>Não proficiente em combate corpo a corpo. Limitado no uso de armas. Não pode usar escudos.<END>
+<BEGIN>Capaz de causar dano a grandes distâncias. Pode imbuir armas com energia elemental.<END>
+<BEGIN>Não proficiente em combate corpo a corpo. Limitado no uso de armas. Não pode usar escudos.<END>
+<BEGIN>Pode invocar os mortos-vivos. Usa feitiços corrosivos de curto e longo alcance.<END>
+<BEGIN>Mais fraco contra inimigos imunes a doenças. Feitiços custam mais porcentagem de mana.<END>
+<BEGIN>Pode invocar os mortos-vivos. Usa feitiços corrosivos de curto e longo alcance.<END>
+<BEGIN>Mais fraco contra inimigos imunes a doenças. Feitiços custam mais porcentagem de mana.<END>
+<BEGIN>%cCombinar com... %cCancelar<END>
+<BEGIN>Alterar Aparência:<END>
+<BEGIN>Você pode modificar a aparência do seu personagem agora. Use o direcional esquerdo para alterar a cor da pele e do cabelo. Pressione %c quando terminar.<END>
+<BEGIN>Aloque seus pontos de habilidade bônus agora usando o direcional esquerdo. Pressione %c quando terminar.<END>
+<BEGIN>Alocação Incompleta<END>
+<BEGIN>Você deve alocar todos os pontos antes de continuar.<END>
+<BEGIN>Alocar Habilidades:<END>
+<BEGIN>Pontos restantes<END>
+<BEGIN>Força<END>
+<BEGIN>Inteligência<END>
+<BEGIN>Destreza<END>
+<BEGIN>Vigor<END>
+<BEGIN>A força aumenta o dano em combate corpo a corpo e a capacidade de carga.<END>
+<BEGIN>A inteligência aumenta a mana total e a regeneração de mana.<END>
+<BEGIN>A destreza aumenta o dano para armas de longo alcance e a capacidade de acerto com todas as armas.<END>
+<BEGIN>O vigor aumenta a saúde total e a regeneração de saúde.<END>
+<BEGIN>Nome do Personagem:<END>
+<BEGIN>CONCLUÍDO<END>
+<BEGIN>ESPAÇO<END>
+<BEGIN>%c Mudança<END>
+<BEGIN>%c Apagar<END>
 <BEGIN>%c Aceitar<END>
-<BEGIN>Exit game.  Are you sure?<END>
-<BEGIN>Return to game.  Are you sure?<END>
-<BEGIN>Blunt Weapons<END>
-<BEGIN>Increases blunt weapon damage by %d%%.<END>
-<BEGIN>This skill increases damage when blunt weapons are used.<END>
-<BEGIN>Slashing<END>
-<BEGIN>Increases slashing weapon damage by %d%%.<END>
-<BEGIN>This skill increases damage when slashing weapons are used.<END>
-<BEGIN>Ruined<END>
-<BEGIN>Cracked<END>
-<BEGIN>Worn<END>
-<BEGIN>Tainted<END>
-<BEGIN>Charred<END>
-<BEGIN>Reinforced<END>
-<BEGIN>Weighted<END>
-<BEGIN>Polished<END>
-<BEGIN>Crystal<END>
-<BEGIN>Encrusted<END>
+<BEGIN>Sair do jogo. Tem certeza?<END>
+<BEGIN>Retornar ao jogo. Tem certeza?<END>
+<BEGIN>Armas Contundentes<END>
+<BEGIN>Aumenta o dano de armas contundentes em %d%%.<END>
+<BEGIN>Esta habilidade aumenta o dano quando armas contundentes são usadas.<END>
+<BEGIN>Corte<END>
+<BEGIN>Aumenta o dano de armas de corte em %d%%.<END>
+<BEGIN>Esta habilidade aumenta o dano quando armas de corte são usadas.<END>
+<BEGIN>Arruinado<END>
+<BEGIN>Rachado<END>
+<BEGIN>Gasto<END>
+<BEGIN>Corrompido<END>
+<BEGIN>Carbonizado<END>
+<BEGIN>Reforçado<END>
+<BEGIN>Pesado<END>
+<BEGIN>Polido<END>
+<BEGIN>Cristal<END>
+<BEGIN>Encrustado<END>
 <BEGIN>Velium<END>
-<BEGIN>Hulking<END>
-<BEGIN>Ancient<END>
-<BEGIN>Titan<END>
-<BEGIN>Rugged<END>
-<BEGIN>Well Built<END>
-<BEGIN>Sturdy<END>
-<BEGIN>Strong<END>
-<BEGIN>Masterwork<END>
-<BEGIN>Fortified<END>
-<BEGIN>Imbued<END>
-<BEGIN>Dirtied<END>
-<BEGIN>Battered<END>
-<BEGIN>Torn<END>
-<BEGIN>Woven<END>
-<BEGIN>Enlaced<END>
-<BEGIN>Bronze Lined<END>
-<BEGIN>Iron Lined<END>
-<BEGIN>Shiny<END>
-<BEGIN>Steel Lined<END>
-<BEGIN>Embroidered<END>
-<BEGIN>Silver Lined<END>
-<BEGIN>Alliance<END>
-<BEGIN>Velium Lined<END>
-<BEGIN>Arcane<END>
-<BEGIN>Wooden<END>
-<BEGIN>Embers<END>
-<BEGIN>Flame<END>
-<BEGIN>Fire<END>
-<BEGIN>Blaze<END>
+<BEGIN>Maciço<END>
+<BEGIN>Antigo<END>
+<BEGIN>Titã<END>
+<BEGIN>Áspera<END>
+<BEGIN>Bem Construído<END>
+<BEGIN>Robusto<END>
+<BEGIN>Forte<END>
+<BEGIN>Obra-Prima<END>
+<BEGIN>Fortificado<END>
+<BEGIN>Imbuído<END>
+<BEGIN>Empoeirado<END>
+<BEGIN>Desgastado<END>
+<BEGIN>Rasgado<END>
+<BEGIN>Tecido<END>
+<BEGIN>Entrelaçado<END>
+<BEGIN>Forrado de Bronze<END>
+<BEGIN>Forrado de Ferro<END>
+<BEGIN>Brilhante<END>
+<BEGIN>Forrado de Aço<END>
+<BEGIN>Bordado<END>
+<BEGIN>Forrado de Prata<END>
+<BEGIN>Aliança<END>
+<BEGIN>Forrado de Velium<END>
+<BEGIN>Arcano<END>
+<BEGIN>De Madeira<END>
+<BEGIN>Brasas<END>
+<BEGIN>Chama<END>
+<BEGIN>Fogo<END>
+<BEGIN>Labareda<END>
 <BEGIN>Inferno<END>
-<BEGIN>Warmth<END>
-<BEGIN>Burning<END>
-<BEGIN>Heat<END>
-<BEGIN>Scorching<END>
-<BEGIN>Searing<END>
-<BEGIN>Sleet<END>
+<BEGIN>Calor<END>
+<BEGIN>Queimando<END>
+<BEGIN>Calor<END>
+<BEGIN>Escaldante<END>
+<BEGIN>Glaciar<END>
+<BEGIN>Granizo<END>
 <BEGIN>Hail<END>
-<BEGIN>Cold<END>
-<BEGIN>Freezing<END>
-<BEGIN>Chilling<END>
-<BEGIN>Numbing<END>
-<BEGIN>Ice<END>
-<BEGIN>The North<END>
-<BEGIN>Winter<END>
-<BEGIN>Tainting<END>
-<BEGIN>Acidity<END>
-<BEGIN>Poison<END>
+<BEGIN>Frio<END>
+<BEGIN>Gelado<END>
+<BEGIN>Arrepiante<END>
+<BEGIN>Entorpecimento<END>
+<BEGIN>Gelo<END>
+<BEGIN>O Norte<END>
+<BEGIN>Inverno<END>
+<BEGIN>Contaminação<END>
+<BEGIN>Acidez<END>
+<BEGIN>Veneno<END>
 <BEGIN>Venom<END>
-<BEGIN>Toxin<END>
-<BEGIN>Virulence<END>
-<BEGIN>Taint<END>
-<BEGIN>Poisoning<END>
-<BEGIN>Envenoming<END>
-<BEGIN>Toxicity<END>
-<BEGIN>Tainted Haze<END>
-<BEGIN>Acidic Mist<END>
-<BEGIN>Poison Cloud<END>
-<BEGIN>Venom Spray<END>
-<BEGIN>Toxic Brume<END>
-<BEGIN>Ache<END>
-<BEGIN>Infirmity<END>
-<BEGIN>Disease<END>
-<BEGIN>Illness<END>
-<BEGIN>Affliction<END>
-<BEGIN>Contagion<END>
-<BEGIN>Infection<END>
-<BEGIN>Rot<END>
-<BEGIN>Decay<END>
-<BEGIN>Agony<END>
-<BEGIN>Ravaging<END>
-<BEGIN>Scourge<END>
-<BEGIN>Pestilence<END>
-<BEGIN>Blight<END>
-<BEGIN>Plague<END>
-<BEGIN>Jolts<END>
-<BEGIN>Volts<END>
-<BEGIN>Shock<END>
-<BEGIN>Current<END>
-<BEGIN>Lightning<END>
-<BEGIN>Sparking<END>
-<BEGIN>Friction<END>
-<BEGIN>Shocking<END>
-<BEGIN>Jolting<END>
-<BEGIN>Electricity<END>
-<BEGIN>Depletion<END>
-<BEGIN>Dispersion<END>
-<BEGIN>Dissipation<END>
-<BEGIN>Negation<END>
-<BEGIN>Dissolution<END>
-<BEGIN>Dimming<END>
-<BEGIN>Shadow<END>
-<BEGIN>Gloom<END>
-<BEGIN>Doom<END>
+<BEGIN>Toxina<END>
+<BEGIN>Virulência<END>
+<BEGIN>Mácula<END>
+<BEGIN>Contaminação<END>
+<BEGIN>Envenenamento<END>
+<BEGIN>Toxicidade<END>
+<BEGIN>Névoa Contaminada<END>
+<BEGIN>Névoa Ácida<END>
+<BEGIN>Nuvem de Veneno<END>
+<BEGIN>Spray de Veneno<END>
+<BEGIN>Breuma Tóxica<END>
+<BEGIN>Dor<END>
+<BEGIN>Enfraquecimento<END>
+<BEGIN>Doença<END>
+<BEGIN>Enfermidade<END>
+<BEGIN>Aflição<END>
+<BEGIN>Contágio<END>
+<BEGIN>Infecção<END>
+<BEGIN>Putrefação<END>
+<BEGIN>Decaimento<END>
+<BEGIN>Agonia<END>
+<BEGIN>Devastação<END>
+<BEGIN>Flagelo<END>
+<BEGIN>Peste<END>
+<BEGIN>Praga<END>
+<BEGIN>Plaga<END>
+<BEGIN>Sacudidas<END>
+<BEGIN>Voltagens<END>
+<BEGIN>Choque<END>
+<BEGIN>Corrente<END>
+<BEGIN>Raios<END>
+<BEGIN>Centelhamento<END>
+<BEGIN>Atrito<END>
+<BEGIN>Chocante<END>
+<BEGIN>Chocalho<END>
+<BEGIN>Eletricidade<END>
+<BEGIN>Depleção<END>
+<BEGIN>Dispersão<END>
+<BEGIN>Dissipação<END>
+<BEGIN>Negação<END>
+<BEGIN>Dissolução<END>
+<BEGIN>Ofuscação<END>
+<BEGIN>Sombra<END>
+<BEGIN>Sombrio<END>
+<BEGIN>Destino<END>
 <BEGIN>Fitness<END>
-<BEGIN>Well Being<END>
-<BEGIN>Health<END>
-<BEGIN>Resiliance<END>
-<BEGIN>Life<END>
-<BEGIN>Lesser Mana<END>
-<BEGIN>Balance<END>
+<BEGIN>Bem-estar<END>
+<BEGIN>Saludável<END>
+<BEGIN>Resiliência<END>
+<BEGIN>Vida<END>
+<BEGIN>Mana Menor<END>
+<BEGIN>Equilíbrio<END>
 <BEGIN>Mana<END>
-<BEGIN>Energy<END>
-<BEGIN>Greater Mana<END>
-<BEGIN>Power<END>
-<BEGIN>Wisdom<END>
-<BEGIN>Brilliance<END>
-<BEGIN>Genius<END>
-<BEGIN>Poise<END>
-<BEGIN>Dexterity<END>
-<BEGIN>Precision<END>
-<BEGIN>Vitality<END>
-<BEGIN>Perk<END>
-<BEGIN>Mending<END>
-<BEGIN>Healing<END>
-<BEGIN>Rejuvenation<END>
-<BEGIN>Restoration<END>
-<BEGIN>Sap Life<END>
-<BEGIN>Leeching<END>
-<BEGIN>Life Tap<END>
-<BEGIN>Parasites<END>
-<BEGIN>the Vampire<END>
-<BEGIN>Calm<END>
-<BEGIN>Trance<END>
-<BEGIN>Concentration<END>
-<BEGIN>Focus<END>
-<BEGIN>Will<END>
-<BEGIN>Sap Mana<END>
-<BEGIN>Mana Leech<END>
-<BEGIN>Mana tap<END>
-<BEGIN>Absorption<END>
-<BEGIN>the Revenant<END>
-<BEGIN>Guarding<END>
-<BEGIN>Defense<END>
-<BEGIN>Shielding<END>
-<BEGIN>Protection<END>
-<BEGIN>Swiftness<END>
-<BEGIN>Haste<END>
-<BEGIN>Motion<END>
-<BEGIN>Zeal<END>
-<BEGIN>Speed<END>
-<BEGIN>Harm<END>
-<BEGIN>Bashing<END>
-<BEGIN>Assault<END>
-<BEGIN>Crushing<END>
-<BEGIN>Divinity<END>
-<BEGIN>Dismissal<END>
-<BEGIN>Banishing<END>
-<BEGIN>Repulsion<END>
-<BEGIN>Expulsion<END>
-<BEGIN>Ire<END>
-<BEGIN>Hatred<END>
-<BEGIN>Rage<END>
-<BEGIN>Orcs Bane<END>
-<BEGIN>Punishment<END>
-<BEGIN>Reprisal<END>
-<BEGIN>Retribution<END>
-<BEGIN>Vengeance<END>
-<BEGIN>Goblins Bane<END>
-<BEGIN>Snaring<END>
-<BEGIN>Hounding<END>
-<BEGIN>Poaching<END>
-<BEGIN>Hunting<END>
-<BEGIN>Extinction<END>
-<BEGIN>Impairing<END>
-<BEGIN>Mangling<END>
-<BEGIN>Cleaving<END>
-<BEGIN>Gouging<END>
-<BEGIN>Mauling<END>
-<BEGIN>Staggering<END>
-<BEGIN>Dazing<END>
-<BEGIN>Stunning<END>
-<BEGIN>Crippling<END>
-<BEGIN>Paralysis<END>
-<BEGIN>Use Portal<END>
-<BEGIN>Portal Destinations<END>
-<BEGIN>Other players needed to enter portal<END>
-<BEGIN>Find another portal to return here<END>
-<BEGIN>Portal is now active<END>
-<BEGIN>This portal appears to be damaged<END>
-<BEGIN>Cloth Armor<END>
-<BEGIN>Cloth Leggings<END>
-<BEGIN>Cloth Gloves<END>
-<BEGIN>Cloth Boots<END>
-<BEGIN>Cloth Helm<END>
-<BEGIN>Burlap Armor<END>
-<BEGIN>Burlap Leggings<END>
-<BEGIN>Burlap Gloves<END>
-<BEGIN>Burlap Boots<END>
-<BEGIN>Burlap Helm<END>
-<BEGIN>Woolen Armor<END>
-<BEGIN>Woolen Leggings<END>
-<BEGIN>Woolen Gloves<END>
-<BEGIN>Woolen Boots<END>
-<BEGIN>Woolen Helm<END>
-<BEGIN>Silk Armor<END>
-<BEGIN>Silk Leggings<END>
-<BEGIN>Silk Gloves<END>
-<BEGIN>Silk Boots<END>
-<BEGIN>Silk Helm<END>
-<BEGIN>Skin<END>
-<BEGIN>Hair Style<END>
-<BEGIN>Hair Color<END>
-<BEGIN>Facial Hair<END>
-<BEGIN>Shield<END>
-<BEGIN>Erudite Wizard<END>
-<BEGIN>Shock of Frost<END>
-<BEGIN>A bolt of ice that deals cold damage to any creature it hits.<END>
-<BEGIN>Cone of Fire<END>
-<BEGIN>A cone of flame shoots from the casters outspread fingtertips.<END>
-<BEGIN>Wrong Way!<END>
-<BEGIN>Cold Weapons<END>
-<BEGIN>Heat Weapons<END>
-<BEGIN>Lightning Weapons<END>
-<BEGIN>Point Remaining<END>
-<BEGIN>Points Remaining<END>
-<BEGIN>Wizard Beam<END>
-<BEGIN>Wizard Beam<END>
-<BEGIN>Attack<END>
-<BEGIN>Experience<END>
-<BEGIN>Next Level<END>
-<BEGIN>Health<END>
+<BEGIN>Energia<END>
+<BEGIN>Mana Maior<END>
+<BEGIN>Poder<END>
+<BEGIN>Sabedoria<END>
+<BEGIN>Brilhantismo<END>
+<BEGIN>Gênio<END>
+<BEGIN>Postura<END>
+<BEGIN>Destreza<END>
+<BEGIN>Precisão<END>
+<BEGIN>Vitalidade<END>
+<BEGIN>Vantagem<END>
+<BEGIN>Reparo<END>
+<BEGIN>Cura<END>
+<BEGIN>Rejuvenescimento<END>
+<BEGIN>Restauração<END>
+<BEGIN>Sugador de Vida<END>
+<BEGIN>Sanguessuga<END>
+<BEGIN>Escoamento de Vida<END>
+<BEGIN>Parasitas<END>
+<BEGIN>o Vampiro<END>
+<BEGIN>Calma<END>
+<BEGIN>Transe<END>
+<BEGIN>Concentração<END>
+<BEGIN>Foco<END>
+<BEGIN>Vontade<END>
+<BEGIN>Sugador de Mana<END>
+<BEGIN>Sanguessuga de Mana<END>
+<BEGIN>Torneira de Mana<END>
+<BEGIN>Absorção<END>
+<BEGIN>o Renegado<END>
+<BEGIN>Guarda<END>
+<BEGIN>Defesa<END>
+<BEGIN>Escudo<END>
+<BEGIN>Proteção<END>
+<BEGIN>Agilidade<END>
+<BEGIN>Pressa<END>
+<BEGIN>Movimento<END>
+<BEGIN>Zelo<END>
+<BEGIN>Velocidade<END>
+<BEGIN>Dano<END>
+<BEGIN>Batida<END>
+<BEGIN>Assalto<END>
+<BEGIN>Esmagamento<END>
+<BEGIN>Divindade<END>
+<BEGIN>Demissão<END>
+<BEGIN>Banimento<END>
+<BEGIN>Repulsão<END>
+<BEGIN>Expulsão<END>
+<BEGIN>Fúria<END>
+<BEGIN>Ódio<END>
+<BEGIN>Raiva<END>
+<BEGIN>Maldição dos Orcs<END>
+<BEGIN>Punição<END>
+<BEGIN>Repreensão<END>
+<BEGIN>Retribuição<END>
+<BEGIN>Vingança<END>
+<BEGIN>Maldição dos Goblins<END>
+<BEGIN>Enredamento<END>
+<BEGIN>Caça<END>
+<BEGIN>Caça Ilegal<END>
+<BEGIN>Caça<END>
+<BEGIN>Extinção<END>
+<BEGIN>Prejudicando<END>
+<BEGIN>Despedaçando<END>
+<BEGIN>Fatiando<END>
+<BEGIN>Estraçalhando<END>
+<BEGIN>Despedaçando<END>
+<BEGIN>Atordoante<END>
+<BEGIN>Atordoando<END>
+<BEGIN>Atordoante<END>
+<BEGIN>Debilitando<END>
+<BEGIN>Paralisia<END>
+<BEGIN>Usar Portal<END>
+<BEGIN>Destinos do Portal<END>
+<BEGIN>Outros jogadores necessários para entrar no portal<END>
+<BEGIN>Encontre outro portal para retornar aqui<END>
+<BEGIN>Portal agora está ativo<END>
+<BEGIN>Este portal parece estar danificado<END>
+<BEGIN>Armadura de Pano<END>
+<BEGIN>Calças de Pano<END>
+<BEGIN>Luvas de Pano<END>
+<BEGIN>Botas de Pano<END>
+<BEGIN>Capacete de Pano<END>
+<BEGIN>Armadura de Estopa<END>
+<BEGIN>Calças de Estopa<END>
+<BEGIN>Luvas de Estopa<END>
+<BEGIN>Botas de Estopa<END>
+<BEGIN>Capacete de Estopa<END>
+<BEGIN>Armadura de Lã<END>
+<BEGIN>Calças de Lã<END>
+<BEGIN>Luvas de Lã<END>
+<BEGIN>Botas de Lã<END>
+<BEGIN>Capacete de Lã<END>
+<BEGIN>Armadura de Seda<END>
+<BEGIN>Calças de Seda<END>
+<BEGIN>Luvas de Seda<END>
+<BEGIN>Botas de Seda<END>
+<BEGIN>Capacete de Seda<END>
+<BEGIN>Peles<END>
+<BEGIN>Estilo de Cabelo<END>
+<BEGIN>Cor do Cabelo<END>
+<BEGIN>Barba<END>
+<BEGIN>Escudo<END>
+<BEGIN>Feiticeiro Erudito<END>
+<BEGIN>Rajada de Gelo<END>
+<BEGIN>Um raio de gelo que causa dano frio a qualquer criatura atingida.<END>
+<BEGIN>Cone de Fogo<END>
+<BEGIN>Um cone de chamas sai das pontas dos dedos estendidos do conjurador.<END>
+<BEGIN>Caminho Errado!<END>
+<BEGIN>Armas Frias<END>
+<BEGIN>Armas Quentes<END>
+<BEGIN>Armas de Raios<END>
+<BEGIN>Pontos Restantes<END>
+<BEGIN>Pontos Restantes<END>
+<BEGIN>Raio do Mago<END>
+<BEGIN>Raio do Mago<END>
+<BEGIN>Ataque<END>
+<BEGIN>Experiência<END>
+<BEGIN>Próximo Nível<END>
+<BEGIN>Vida<END>
 <BEGIN>Mana<END>
-<BEGIN>Armor<END>
-<BEGIN>Damage<END>
-<BEGIN>Strength<END>
-<BEGIN>Intelligence<END>
-<BEGIN>Dexterity<END>
-<BEGIN>Stamina<END>
-<BEGIN>Warveil Armor<END>
-<BEGIN>Warveil Leggings<END>
-<BEGIN>Warveil Gloves<END>
-<BEGIN>Warveil Boots<END>
-<BEGIN>Warveil Helm<END>
-<BEGIN>Cryosilk Armor<END>
-<BEGIN>Cryosilk Leggings<END>
-<BEGIN>Cryosilk Gloves<END>
-<BEGIN>Cryosilk Boots<END>
-<BEGIN>Cryosilk Helm<END>
-<BEGIN>Velvet Armor<END>
-<BEGIN>Velvet Leggings<END>
-<BEGIN>Velvet Gloves<END>
-<BEGIN>Velvet Boots<END>
-<BEGIN>Velvet Helm<END>
-<BEGIN>Gossamer Armor<END>
-<BEGIN>Gossamer Leggings<END>
-<BEGIN>Gossamer Gloves<END>
-<BEGIN>Gossamer Boots<END>
-<BEGIN>Gossamer Helm<END>
-<BEGIN>Damask Armor<END>
-<BEGIN>Damask Leggings<END>
-<BEGIN>Damask Gloves<END>
-<BEGIN>Damask Boots<END>
-<BEGIN>Damask Helm<END>
-<BEGIN>Steelsilk Armor<END>
-<BEGIN>Steelsilk Leggings<END>
-<BEGIN>Steelsilk Gloves<END>
-<BEGIN>Steelsilk Boots<END>
-<BEGIN>Steelsilk Helm<END>
-<BEGIN>Resist Poison<END>
-<BEGIN>Endure Cold<END>
-<BEGIN>Endure Disease<END>
-<BEGIN>Endure Fire<END>
-<BEGIN>Engulfing Darkness<END>
-<BEGIN>Creates a cloud of darkness that confuses and harms enemies. Higher ranks increase damage and confusion.<END>
-<BEGIN>%d-%d Area damage, %d%% chance of confusion, %d seconds of confusion.<END>
-<BEGIN>Charge<END>
-<BEGIN>A running attack that deals tremendous damage when enemy is hit. Higher ranks add radial damage and improve steering.<END>
-<BEGIN>%d-%d damage.<END>
-<BEGIN>%d-%d damage, area damage %d-%d within radius of %d feet.<END>
-<BEGIN>%d-%d damage, area damage %d-%d within radius of %d feet. %d%% turning ability.<END>
-<BEGIN>Disease Bolt<END>
-<BEGIN>Fires a bolt of disease at a target. At higher ranks the bolt does more damage and tracks its targets.<END>
-<BEGIN>%d-%d damage.<END>
-<BEGIN>%d-%d damage, %d degrees of motion for tracking.<END>
-<BEGIN>Disease Shield<END>
-<BEGIN>A disease cloud that follows the character. At higher ranks the damage, radius and duration go up.<END>
-<BEGIN>%d-%d damage per second within a %d foot radius for %d second.<END>
-<BEGIN>%d-%d damage per second within a %d foot radius for %d seconds.<END>
-<BEGIN>Disease Trail<END>
-<BEGIN>A stream of diseased cloud is left behind the caster, as rank goes up so does damage and duration.<END>
-<BEGIN>%d-%d damage per second, lasting %d second.<END>
-<BEGIN>%d-%d damage per second, lasting %d seconds.<END>
-<BEGIN>Fire Storm<END>
-<BEGIN>A storm of fire is created that sets the enemies within it alight. At higher ranks the damage, radius and duration go up.<END>
-<BEGIN>%d-%d damage per second within a %d foot radius for %d second.<END>
-<BEGIN>%d-%d damage per second within a %d foot radius for %d seconds.<END>
-<BEGIN>Fire Flares<END>
-<BEGIN>Creates flares that orbit the caster.  Higher ranks give more flares, impact damage, and area of effect damage.<END>
-<BEGIN>%d-%d damage on impact, %d flare that lasts %d seconds.<END>
-<BEGIN>%d-%d damage on impact, %d flares that last %d seconds.<END>
-<BEGIN>%d-%d damage on impact, %d-%d area effect damage, %d flares that last %d seconds.<END>
+<BEGIN>Armadura<END>
+<BEGIN>Dano<END>
+<BEGIN>Força<END>
+<BEGIN>Inteligência<END>
+<BEGIN>Destreza<END>
+<BEGIN>Vigor<END>
+<BEGIN>Armadura de Guerálios<END>
+<BEGIN>Calças de Guerálios<END>
+<BEGIN>Luvas de Guerálios<END>
+<BEGIN>Botas de Guerálios<END>
+<BEGIN>Capacete de Guerálios<END>
+<BEGIN>Armadura de Seda Gélida<END>
+<BEGIN>Calças de Seda Gélida<END>
+<BEGIN>Luvas de Seda Gélida<END>
+<BEGIN>Botas de Seda Gélida<END>
+<BEGIN>Capacete de Seda Gélida<END>
+<BEGIN>Armadura de Veludo<END>
+<BEGIN>Calças de Veludo<END>
+<BEGIN>Luvas de Veludo<END>
+<BEGIN>Botas de Veludo<END>
+<BEGIN>Capacete de Veludo<END>
+<BEGIN>Armadura de Gaze<END>
+<BEGIN>Calças de Gaze<END>
+<BEGIN>Luvas de Gaze<END>
+<BEGIN>Botas de Gaze<END>
+<BEGIN>Capacete de Gaze<END>
+<BEGIN>Armadura de Damasco<END>
+<BEGIN>Calças de Damasco<END>
+<BEGIN>Luvas de Damasco<END>
+<BEGIN>Botas de Damasco<END>
+<BEGIN>Capacete de Damasco<END>
+<BEGIN>Armadura de Seda de Aço<END>
+<BEGIN>Calças de Seda de Aço<END>
+<BEGIN>Luvas de Seda de Aço<END>
+<BEGIN>Botas de Seda de Aço<END>
+<BEGIN>Capacete de Seda de Aço<END>
+<BEGIN>Resistir a Veneno<END>
+<BEGIN>Suportar o Frio<END>
+<BEGIN>Suportar Doenças<END>
+<BEGIN>Suportar o Fogo<END>
+<BEGIN>Escuridão Abrasadora<END>
+<BEGIN>Cria uma nuvem de escuridão que confunde e prejudica os inimigos. Ranks mais altos aumentam o dano e a confusão.<END>
+<BEGIN>Dano de área de %d-%d, %d%% de chance de confusão, %d segundos de confusão.<END>
+<BEGIN>Carga<END>
+<BEGIN>Um ataque em corrida que causa um dano tremendo quando o inimigo é atingido. Ranks mais altos adicionam dano radial e melhoram a direção.<END>
+<BEGIN>%d-%d de dano.<END>
+<BEGIN>%d-%d de dano, dano de área %d-%d dentro de um raio de %d pés.<END>
+<BEGIN>%d-%d de dano, dano de área %d-%d dentro de um raio de %d pés. %d%% de habilidade de virar.<END>
+<BEGIN>Raio da Doença<END>
+<BEGIN>Dispara um raio de doença em um alvo. Em ranks mais altos, o raio causa mais dano e rastreia seus alvos.<END>
+<BEGIN>%d-%d de dano.<END>
+<BEGIN>%d-%d de dano, %d graus de movimento para rastreamento.<END>
+<BEGIN>Escudo de Doença<END>
+<BEGIN>Uma nuvem de doença que segue o personagem. Em ranks mais altos, o dano, o raio e a duração aumentam.<END>
+<BEGIN>%d-%d de dano por segundo dentro de um raio de %d pés por %d segundo.<END>
+<BEGIN>%d-%d de dano por segundo dentro de um raio de %d pés por %d segundos.<END>
+<BEGIN>Rastro de Doença<END>
+<BEGIN>Um fluxo de nuvem doente é deixado para trás pelo conjurador, conforme o rank aumenta, também aumenta o dano e a duração.<END>
+<BEGIN>%d-%d de dano por segundo, durando %d segundo.<END>
+<BEGIN>%d-%d de dano por segundo, durando %d segundos.<END>
+<BEGIN>Tempestade de Fogo<END>
+<BEGIN>Uma tempestade de fogo é criada que incendeia os inimigos dentro dela. Em ranks mais altos, o dano, o raio e a duração aumentam.<END>
+<BEGIN>%d-%d de dano por segundo dentro de um raio de %d pés por %d segundo.<END>
+<BEGIN>%d-%d de dano por segundo dentro de um raio de %d pés por %d segundos.<END>
+<BEGIN>Flares de Fogo<END>
+<BEGIN>Cria flares que orbitam o conjurador. Ranks mais altos fornecem mais flares, dano de impacto e dano de área de efeito.<END>
+<BEGIN>%d-%d de dano no impacto, %d flare que dura %d segundos.<END>
+<BEGIN>%d-%d de dano no impacto, %d flares que duram %d segundos.<END>
+<BEGIN>%d-%d de dano no impacto, %d-%d de dano de área, %d flares que duram %d segundos.<END>
 <BEGIN>Riposte<END>
-<BEGIN>A creature striking the player has a chance of being hit back.<END>
-<BEGIN>%d-%d damage on counter hit, with a %d%% chance of success.<END>
-<BEGIN>Blessed<END>
-<BEGIN>A blessed character will regain their mana more quickly. A higher ranked blessing will give greater speed of regeneration.<END>
-<BEGIN>%d%% faster mana regeneration for the duration of the spell.<END>
-<BEGIN>Summon Skeleton<END>
-<BEGIN>Raises a skeleton warrior to assist in battle. Higher ranks add an enchanted weapon.<END>
-<BEGIN>Level %d skeleton with a %d%% chance of having an enchanted weapon.<END>
-<BEGIN>Lightning Weapons<END>
-<BEGIN>Gives an electrical charge to your weapons, higher ranks increase damage, duration, aura size and aura effect.<END>
-<BEGIN>%d-%d additional lightning damage for %d seconds.<END>
-<BEGIN>Adds %d-%d damage for %d seconds, with a %d foot aura giving %d-%d damage.<END>
-<BEGIN>Fire Weapons<END>
-<BEGIN>Adds a flame effect to your weapons, higher ranks increase damage, duration, aura size and aura effect.<END>
-<BEGIN>%d-%d additional fire damage for %d seconds.<END>
-<BEGIN>Adds %d-%d damage for %d seconds, with a %d foot aura giving %d-%d damage.<END>
-<BEGIN>Cold Weapons<END>
-<BEGIN>Gives an ice effect to your weapons, higher ranks increase damage, duration, aura size and aura effect.<END>
-<BEGIN>%d-%d additional cold damage for %d seconds.<END>
-<BEGIN>Adds %d-%d damage for %d seconds, with a %d foot aura giving %d-%d damage.<END>
-<BEGIN>Undead Shield<END>
-<BEGIN>Any undead creature attacking the protected individual will receive damage. Aura for teammates at higher ranks.<END>
-<BEGIN>%d%% of damage returned for %d seconds, with an aura that grants %d%% damage.<END>
-<BEGIN>Holy Strike<END>
-<BEGIN>A bolt of light that harms on impact, particularly undead creatures.  Higher ranks give damage and tracking.<END>
-<BEGIN>%d-%d regular damage, %d-%d damage to undead.<END>
-<BEGIN>%d-%d regular damage, %d-%d damage to undead. %d degree turn rate.<END>
-<BEGIN>Hammer of Wrath<END>
-<BEGIN>Summons a hammer that attacks enemies. Higher ranks gives damage, duration, and chance for a spin move.<END>
-<BEGIN>%d-%d damage, lasts for %d seconds, %d%% chance for spin attack.<END>
-<BEGIN>Cone of Fire<END>
-<BEGIN>Fires a cone of flame in front of the caster. Higher rank gives more damage and larger cone.<END>
-<BEGIN>%d-%d damage per second.  The cone is %d degrees wide.<END>
-<BEGIN>Regeneration<END>
-<BEGIN>A character with regeneration will regain their mana more quickly. Higher rank gives greater speed of regeneration.<END>
-<BEGIN>%d%% faster mana regeneration.<END>
-<BEGIN>Lightning Beam<END>
-<BEGIN>A stream of lightning is launched from the caster. Higher rank gives more damage and longer reach to the beam.<END>
-<BEGIN>%d-%d damage per second, %d feet long.<END>
-<BEGIN>Blinding Light<END>
-<BEGIN>A blinding flash causes nearby creatures to become confused. Higher rank gives more range, duration, damage and effectiveness.<END>
-<BEGIN>%d%% chance of effect, %d-%d damage per second for %d seconds with %d foot radius.<END>
-<BEGIN>Repulse Undead<END>
-<BEGIN>Knocks away undead creatures and does severe damage to them. Higher rank gives higher radius and damage.<END>
-<BEGIN>%d damage with %d foot radius.<END>
-<BEGIN>Dismiss Undead<END>
-<BEGIN>A powerful spell that is extremely damaging to undead. Damage goes up with rank.<END>
-<BEGIN>%d-%d regular damage, %d-%d damage to undead. Lasts %d seconds.<END>
-<BEGIN>Wizard Beam<END>
-<BEGIN>A beam of energy from the caster latches onto enemies. Ranks bring damage and range.<END>
-<BEGIN>%d-%d damage per second. The beam is %d feet long.<END>
-<BEGIN>%d-%d damage per second, with %d foot beam. %d tendrils, %d feet long.<END>
-<BEGIN>Shock of Frost<END>
-<BEGIN>A bolt of ice is fired at enemies for cold damage. Higher rank gives more damage, and shrapnel.<END>
-<BEGIN>%d-%d cold damage damage.<END>
-<BEGIN>%d-%d cold damage, %d pieces of ice shrapnel for %d-%d damage.<END>
-<BEGIN>Bolt of Shock<END>
-<BEGIN>Fires a bolt of lightning at creatures.  At higher ranks the lightning will chain to others.<END>
-<BEGIN>%d-%d Damage.<END>
-<BEGIN>%d-%d Damage.  Chains to up to %d enemies.<END>
-<BEGIN>%d-%d Damage.  Chains to up to %d enemy.<END>
-<BEGIN>Ground Pound<END>
-<BEGIN>A two handed hammer or mace is used to strike the ground and damage enemies in the area. Higher ranks stun enemies as well.<END>
-<BEGIN>%d-%d Damage with radius of %d feet. %d%% chance of stunning enemies for %ds.<END>
-<BEGIN>%d-%d Damage with radius of %d feet.<END>
-<BEGIN>Two handed mace or hammer required for this spell.<END>
-<BEGIN>Convert Enemy<END>
-<BEGIN>Converts enemies to friendlies. Undead are immune. 10 second cast recovery time.<END>
-<BEGIN>Converts up to %d %u for %d seconds. Odds of conversion are %d%%.<END>
-<BEGIN>Cannot Combine<END>
-<BEGIN>The item already contains an attribute of this type.<END>
-<BEGIN>Combining these two items would exceed the maximum attribute limit of this item.<END>
-<BEGIN>enemy<END>
-<BEGIN>enemies<END>
-<BEGIN>Immune<END>
-<BEGIN>Resist<END>
-<BEGIN>Convert Undead<END>
-<BEGIN>Converts undead to friendlies. 10 second cast recovery time.<END>
-<BEGIN>Converts up to %d %u for %d seconds. Odds of conversion are %d%%.<END>
-<BEGIN>%d%% of normal damage per weapon<END>
-<BEGIN>Cyclone<END>
-<BEGIN>Spinning attack damages multiple enemies. Higher ranks boost damage, allow multiple revolutions, and better control.<END>
-<BEGIN>%d%% of normal damage per hit. %d revolution(s). %d%% Motion control.<END>
-<BEGIN>A melee weapon is needed to cast this spell<END>
-<BEGIN>Harm Touch<END>
-<BEGIN>Massive boost in damage to melee attacks.<END>
-<BEGIN>%d-%d Damage, %d seconds to recast.<END>
-<BEGIN>Fire Arrow<END>
-<BEGIN>Shoots an arrow of hot fire.  Higher ranks increase damage, speed and size of fire.<END>
-<BEGIN>+%d fire damage, velocity of %d feet per second, and radius of %d inches.<END>
-<BEGIN>Cold Arrow<END>
-<BEGIN>Shoots a blast of super cooled gas that freezes enemies.  Higher ranks increase damage, velocity and freeze time.<END>
-<BEGIN>+%d cold damage, velocity of %d feet per second, and freeze time of %d seconds.<END>
-<BEGIN>Poison Arrow<END>
-<BEGIN>Fires a burst of toxic gas that spawns a poison cloud. Higher ranks boost damage, size of poison cloud, and poison duration.<END>
-<BEGIN>+%d poison damage, cloud radius of %d foot, duration %d seconds.<END>
-<BEGIN>+%d poison damage, cloud radius of %d feet, duration %d seconds.<END>
-<BEGIN>This skill increases your health regeneration rate.<END>
-<BEGIN>This skill increases your mana regeneration rate.<END>
-<BEGIN>Multi Fire<END>
-<BEGIN>Fires multiple arrows at once.  Higher ranks boost arrow count and speed.<END>
-<BEGIN>%d arrows totaling %d%% current bow damage.<END>
-<BEGIN>Explode Arrow<END>
-<BEGIN>Hurls an arrow of explosive charge at enemies.  Higher ranks expand area of effect, damage and velocity.<END>
-<BEGIN>%d-%d damage covering radius of %d feet. Velocity of %d feet per second.<END>
-<BEGIN>Archery<END>
-<BEGIN>Enhances your ability to damage enemies with bow attacks.<END>
-<BEGIN>Extra %d%% damage.<END>
-<BEGIN>Slam<END>
-<BEGIN>Slam<END>
-<BEGIN>Slam is a more powerful version of the standard melee attack.<END>
-<BEGIN>Boost damage by %d%%.<END>
-<BEGIN>Shield Bash<END>
-<BEGIN>A rushing attack that requires a shield.  Delivers high damage and a chance of stunning enemies.<END>
-<BEGIN>%d-%d damage to 1 enemy, %d%% chance of stun for %d seconds.<END>
-<BEGIN>%d-%d damage to up to %d enemies, %d%% chance of stun for %d seconds.<END>
-<BEGIN>The Shield Bash skill requires a shield.<END>
-<BEGIN>Shield Bash<END>
-<BEGIN>A rushing attack that requires a shield.  Delivers high damage and a chance of stunning enemies.<END>
-<BEGIN>%d-%d damage to 1 enemy, %d%% chance of stun for %d seconds.<END>
-<BEGIN>%d-%d damage to up to %d enemies, %d%% chance of stun for %d seconds.<END>
-<BEGIN>The Shield Bash skill requires a shield.<END>
-<BEGIN>Minor Healing<END>
-<BEGIN>A minor healing spell which restores health to the caster for one and half seconds.<END>
-<BEGIN>%d percent of healing.<END>
-<BEGIN>Ancestral Call<END>
-<BEGIN>Tap the Ancestors for more power. Boosts attack speed and damage. Higher ranks create aura of influence to boost fellow players.<END>
-<BEGIN>%d%% damage, %d%% speed, %ds duration.<END>
-<BEGIN>%d%% damage, %d%% speed, %ds duration, aura rad %d ft.<END>
-<BEGIN>Root<END>
-<BEGIN>Halts enemies where they stand when successful.  Higher ranks increase how many are affected, duration and success percentage.<END>
-<BEGIN>Up to %d %u for %d seconds.  %d%% chance of success per enemy.<END>
-<BEGIN>Root<END>
-<BEGIN>Halts enemies where they stand when successful.  Higher ranks increase how many are affected, duration and success percentage.<END>
-<BEGIN>Up to %d %u for %d seconds.  %d%% chance of success per enemy.<END>
-<BEGIN>Entangle<END>
-<BEGIN>Halts enemies where they stand when successful.  Higher ranks increase how many are affected, duration and success percentage.<END>
-<BEGIN>Up to %d %u for %d seconds.  %d%% chance of success per enemy.<END>
-<BEGIN>Critical Hit<END>
-<BEGIN>Improves your chances of registering a critical hit during an attack. Provides similar skills to teammates within aura range.<END>
-<BEGIN>%d%% chance of critical, duration of %ds, aura radius %d feet.<END>
-<BEGIN>Critical Hit<END>
-<BEGIN>Improves your chances of registering a critical hit during an attack. Higher ranks provides similar skills to teammates in aura range.<END>
-<BEGIN>%d%% chance of critical, duration of %ds, aura radius %d feet.<END>
-<BEGIN>%d%% chance of critical, duration of %ds.<END>
-<BEGIN>%cSpell Book %cChoose %cDone<END>
-<BEGIN>%c%c%c%c Select %cChoose %cDone<END>
-<BEGIN>Holy Armor<END>
-<BEGIN>Preserves players health by converting a portion of incoming damage into a reduction in mana.<END>
-<BEGIN>%d%% of damage transferred to mana.  Duration of %d second.<END>
-<BEGIN>%d%% of damage transferred to mana.  Duration of %d seconds.<END>
-<BEGIN>Dodge<END>
-<BEGIN>This skill improves your ability to evade ranged attacks.<END>
-<BEGIN>%d%% Chance of miss.<END>
-<BEGIN>Healing<END>
-<BEGIN>Restores health to the caster. Higher ranks heals teammates via aura.<END>
-<BEGIN>%d percent health.<END>
-<BEGIN>%d%% health, %d ft aura, %d%% health to teammates.<END>
-<BEGIN>Cone of Frost<END>
-<BEGIN>Shoots a cone of frost from the fingertips dealing cold damage to your foes.  Higher ranks improve damage, cone width and range.<END>
-<BEGIN>%d-%d damage, %d foot range, %d degree cone.<END>
-<BEGIN>Quiver<END>
-<BEGIN>Shock of Fire<END>
-<BEGIN>Hurls an explosive ball of fire at enemies.  Higher ranks boost damage, and add area damage to resulting explosion.<END>
-<BEGIN>%d-%d damage.<END>
-<BEGIN>%d-%d damage, %d-%d area damage of radius %d feet.<END>
-<BEGIN>Frost Storm<END>
-<BEGIN>This area effect spell creates a temporary storm of frost and ice in front of the caster.<END>
-<BEGIN>%d-%d damage, radius of %d feet, %d s duration.<END>
-<BEGIN>Life Tap<END>
-<BEGIN>Enables you to convert your foes essence into mana or health. Hold down the block button after slaying an enemy to retrieve your bounty.<END>
-<BEGIN>%d%% Chance, %d units.<END>
-<BEGIN>Longbow<END>
-<BEGIN>Darkwood Bow<END>
-<BEGIN>Hunter's Bow<END>
-<BEGIN>Compound Bow<END>
-<BEGIN>True Shot Bow<END>
-<BEGIN>Great Bow<END>
-<BEGIN>Battle Bow<END>
-<BEGIN>War Bow<END>
-<BEGIN>Dirk<END>
+<BEGIN>Uma criatura que ataca o jogador tem uma chance de ser atingida de volta.<END>
+<BEGIN>%d-%d de dano no contra-ataque, com uma chance de sucesso de %d%%.<END>
+<BEGIN>Abençoado<END>
+<BEGIN>Um personagem abençoado recuperará seu mana mais rapidamente. Uma bênção de ranking mais alto dará uma maior velocidade de regeneração.<END>
+<BEGIN>%d%% de regeneração de mana mais rápida durante a duração do feitiço.<END>
+<BEGIN>Invocar Esqueleto<END>
+<BEGIN>Levanta um esqueleto guerreiro para ajudar na batalha. Ranks mais altos adicionam uma arma encantada.<END>
+<BEGIN>Esqueleto de nível %d com uma chance de %d%% de ter uma arma encantada.<END>
+<BEGIN>Armas de Raios<END>
+<BEGIN>Dá uma carga elétrica às suas armas, ranks mais altos aumentam o dano, duração, tamanho da aura e efeito da aura.<END>
+<BEGIN>%d-%d de dano adicional de raio por %d segundos.<END>
+<BEGIN>Adiciona %d-%d de dano por %d segundos, com uma aura de %d pés dando %d-%d de dano.<END>
+<BEGIN>Armas de Fogo<END>
+<BEGIN>Adiciona um efeito de chama às suas armas, ranks mais altos aumentam o dano, duração, tamanho da aura e efeito da aura.<END>
+<BEGIN>%d-%d de dano adicional de fogo por %d segundos.<END>
+<BEGIN>Adiciona %d-%d de dano por %d segundos, com uma aura de %d pés dando %d-%d de dano.<END>
+<BEGIN>Armas de Gelo<END>
+<BEGIN>Dá um efeito de gelo às suas armas, ranks mais altos aumentam o dano, duração, tamanho da aura e efeito da aura.<END>
+<BEGIN>%d-%d de dano adicional de gelo por %d segundos.<END>
+<BEGIN>Adiciona %d-%d de dano por %d segundos, com uma aura de %d pés dando %d-%d de dano.<END>
+<BEGIN>Escudo de Morto-Vivo<END>
+<BEGIN>Qualquer criatura morta-viva que atacar o indivíduo protegido receberá dano. Aura para companheiros de equipe em ranks mais altos.<END>
+<BEGIN>%d%% do dano devolvido por %d segundos, com uma aura que concede %d%% de dano.<END>
+<BEGIN>Golpe Sagrado<END>
+<BEGIN>Um raio de luz que causa dano ao impacto, especialmente em criaturas mortas-vivas. Ranks mais altos concedem dano e rastreamento.<END>
+<BEGIN>%d-%d de dano regular, %d-%d de dano a mortos-vivos.<END>
+<BEGIN>%d-%d de dano regular, %d-%d de dano a mortos-vivos. Taxa de rotação de %d graus.<END>
+<BEGIN>Malho da Ira<END>
+<BEGIN>Invoca um malho que ataca os inimigos. Ranks mais altos concedem dano, duração e chance de um movimento de giro.<END>
+<BEGIN>%d-%d de dano, dura %d segundos, %d%% de chance de ataque giratório.<END>
+<BEGIN>Cone de Fogo<END>
+<BEGIN>Lança um cone de chama na frente do conjurador. Um rank mais alto dá mais dano e um cone maior.<END>
+<BEGIN>%d-%d de dano por segundo. O cone tem %d graus de largura.<END>
+<BEGIN>Regeneração<END>
+<BEGIN>Um personagem com regeneração recuperará seu mana mais rapidamente. Um rank mais alto dá uma velocidade maior de regeneração.<END>
+<BEGIN>%d%% de regeneração de mana mais rápida.<END>
+<BEGIN>Raio de Raios<END>
+<BEGIN>Um fluxo de raios é lançado pelo conjurador. Um rank mais alto dá mais dano e alcance maior ao feixe.<END>
+<BEGIN>%d-%d de dano por segundo, %d pés de comprimento.<END>
+<BEGIN>Luz Ofuscante<END>
+<BEGIN>Um flash ofuscante faz com que criaturas próximas fiquem confusas. Um rank mais alto dá mais alcance, duração, dano e eficácia.<END>
+<BEGIN>%d%% de chance de efeito, %d-%d de dano por segundo por %d segundos com raio de %d pés.<END>
+<BEGIN>Repulsa a Morto-Vivo<END>
+<BEGIN>Repele criaturas mortas-vivas e causa dano severo a elas. Um rank mais alto dá maior raio e dano.<END>
+<BEGIN>%d de dano com raio de %d pés.<END>
+<BEGIN>Dispensar Morto-Vivo<END>
+<BEGIN>Um feitiço poderoso que é extremamente prejudicial aos mortos-vivos. O dano aumenta com o rank.<END>
+<BEGIN>%d-%d de dano regular, %d-%d de dano a mortos-vivos. Dura %d segundos.<END>
+<BEGIN>Raio de Mago<END>
+<BEGIN>Um feixe de energia do conjurador se agarra aos inimigos. Ranks trazem dano e alcance.<END>
+<BEGIN>%d-%d de dano por segundo. O feixe tem %d pés de comprimento.<END>
+<BEGIN>%d-%d de dano por segundo, com feixe de %d pés. %d tentáculos, %d pés de comprimento.<END>
+<BEGIN>Choque de Gelo<END>
+<BEGIN>Um raio de gelo é disparado contra os inimigos para causar dano frio. Um rank mais alto dá mais dano e estilhaços.<END>
+<BEGIN>%d-%d de dano frio.<END>
+<BEGIN>%d-%d de dano frio, %d pedaços de estilhaço de gelo para %d-%d de dano.<END>
+<BEGIN>Raio de Choque<END>
+<BEGIN>Dispara um raio de relâmpago nas criaturas. Em ranks mais altos, o raio se encadeia para outros.<END>
+<BEGIN>%d-%d de Dano.<END>
+<BEGIN>%d-%d de Dano. Se encadeia até %d inimigos.<END>
+<BEGIN>%d-%d de Dano. Se encadeia até %d inimigo.<END>
+<BEGIN>Impacto no Solo<END>
+<BEGIN>Um martelo ou maça de duas mãos é usado para golpear o chão e causar dano aos inimigos na área. Ranks mais altos atordoam os inimigos também.<END>
+<BEGIN>%d-%d de Dano com raio de %d pés. %d%% de chance de atordoar inimigos por %ds.<END>
+<BEGIN>%d-%d de Dano com raio de %d pés.<END>
+<BEGIN>Maça ou martelo de duas mãos é necessário para este feitiço.<END>
+<BEGIN>Converter Inimigo<END>
+<BEGIN>Converte inimigos em aliados. Mortos-vivos são imunes. Tempo de recuperação do lançamento de 10 segundos.<END>
+<BEGIN>Converte até %d %u por %d segundos. Probabilidade de conversão é %d%%.<END>
+<BEGIN>Não Pode Combinar<END>
+<BEGIN>O item já contém um atributo deste tipo.<END>
+<BEGIN>Combinar esses dois itens excederia o limite máximo de atributos deste item.<END>
+<BEGIN>inimigo<END>
+<BEGIN>inimigos<END>
+<BEGIN>Imune<END>
+<BEGIN>Resistir<END>
+<BEGIN>Converter Morto-Vivo<END>
+<BEGIN>Converte mortos-vivos em aliados. Tempo de recuperação do lançamento de 10 segundos.<END>
+<BEGIN>Converte até %d %u por %d segundos. Probabilidade de conversão é %d%%.<END>
+<BEGIN>%d%% do dano normal por arma<END>
+<BEGIN>Ciclone<END>
+<BEGIN>Ataque giratório causa dano em vários inimigos. Ranks mais altos aumentam o dano, permitem várias revoluções e melhor controle.<END>
+<BEGIN>%d%% do dano normal por golpe. %d revolução(ões). Controle de movimento de %d%%.<END>
+<BEGIN>Uma arma corpo a corpo é necessária para lançar este feitiço<END>
+<BEGIN>Toque de Dano<END>
+<BEGIN>Aumento maciço no dano aos ataques corpo a corpo.<END>
+<BEGIN>%d-%d de Dano, %d segundos para recast.<END>
+<BEGIN>Flecha de Fogo<END>
+<BEGIN>Dispara uma flecha de fogo quente. Ranks mais altos aumentam o dano, velocidade e tamanho do fogo.<END>
+<BEGIN>+%d de dano de fogo, velocidade de %d pés por segundo e raio de %d polegadas.<END>
+<BEGIN>Flecha Fria<END>
+<BEGIN>Dispara uma explosão de gás super resfriado que congela inimigos. Ranks mais altos aumentam o dano, velocidade e tempo de congelamento.<END>
+<BEGIN>+%d de dano frio, velocidade de %d pés por segundo e tempo de congelamento de %d segundos.<END>
+<BEGIN>Flecha Venenosa<END>
+<BEGIN>Dispara uma explosão de gás tóxico que cria uma nuvem de veneno. Ranks mais altos aumentam o dano, tamanho da nuvem de veneno e duração do veneno.<END>
+<BEGIN>+%d de dano venenoso, raio da nuvem de %d pé, duração %d segundos.<END>
+<BEGIN>+%d de dano venenoso, raio da nuvem de %d pés, duração %d segundos.<END>
+<BEGIN>Esta habilidade aumenta a taxa de regeneração de sua saúde.<END>
+<BEGIN>Esta habilidade aumenta a taxa de regeneração de seu mana.<END>
+<BEGIN>Multifogo<END>
+<BEGIN>Dispara múltiplas flechas de uma vez. Ranks mais altos aumentam o número de flechas e a velocidade.<END>
+<BEGIN>%d flechas totalizando %d%% do dano atual do arco.<END>
+<BEGIN>Flecha Explosiva<END>
+<BEGIN>Lança uma flecha de carga explosiva nos inimigos. Ranks mais altos ampliam a área de efeito, o dano e a velocidade.<END>
+<BEGIN>%d-%d de dano cobrindo raio de %d pés. Velocidade de %d pés por segundo.<END>
+<BEGIN>Arqueirismo<END>
+<BEGIN>Aprimora sua habilidade de causar dano a inimigos com ataques de arco e flecha.<END>
+<BEGIN>%d%% de dano extra.<END>
+<BEGIN>Pancada<END>
+<BEGIN>Pancada<END>
+<BEGIN>Pancada é uma versão mais poderosa do ataque corpo a corpo padrão.<END>
+<BEGIN>Aumenta o dano em %d%%.<END>
+<BEGIN>Escudo de Impacto<END>
+<BEGIN>Um ataque de carga que requer um escudo. Causa alto dano e chance de atordoar inimigos.<END>
+<BEGIN>%d-%d de dano a 1 inimigo, %d%% de chance de atordoamento por %d segundos.<END>
+<BEGIN>%d-%d de dano a até %d inimigos, %d%% de chance de atordoamento por %d segundos.<END>
+<BEGIN>A habilidade Escudo de Impacto requer um escudo.<END>
+<BEGIN>Escudo de Impacto<END>
+<BEGIN>Um ataque de carga que requer um escudo. Causa alto dano e chance de atordoar inimigos.<END>
+<BEGIN>%d-%d de dano a 1 inimigo, %d%% de chance de atordoamento por %d segundos.<END>
+<BEGIN>%d-%d de dano a até %d inimigos, %d%% de chance de atordoamento por %d segundos.<END>
+<BEGIN>A habilidade Escudo de Impacto requer um escudo.<END>
+<BEGIN>Cura Menor<END>
+<BEGIN>Um feitiço de cura menor que restaura a saúde do conjurador por um segundo e meio.<END>
+<BEGIN>%d por cento de cura.<END>
+<BEGIN>Chamado Ancestral<END>
+<BEGIN>Toque os Ancestrais para obter mais poder. Aumenta a velocidade de ataque e o dano. Ranks mais altos criam aura de influência para impulsionar outros jogadores.<END>
+<BEGIN>%d%% de dano, %d%% de velocidade, duração de %ds.<END>
+<BEGIN>%d%% de dano, %d%% de velocidade, duração de %ds, raio de aura %d pés.<END>
+<BEGIN>Raiz<END>
+<BEGIN>Interrompe os inimigos onde estão quando bem-sucedido. Ranks mais altos aumentam quantos são afetados, duração e porcentagem de sucesso.<END>
+<BEGIN>Até %d %u por %d segundos. %d%% de chance de sucesso por inimigo.<END>
+<BEGIN>Raiz<END>
+<BEGIN>Interrompe os inimigos onde estão quando bem-sucedido. Ranks mais altos aumentam quantos são afetados, duração e porcentagem de sucesso.<END>
+<BEGIN>Até %d %u por %d segundos. %d%% de chance de sucesso por inimigo.<END>
+<BEGIN>Enredar<END>
+<BEGIN>Interrompe os inimigos onde estão quando bem-sucedido. Ranks mais altos aumentam quantos são afetados, duração e porcentagem de sucesso.<END>
+<BEGIN>Até %d %u por %d segundos. %d%% de chance de sucesso por inimigo.<END>
+<BEGIN>Golpe Crítico<END>
+<BEGIN>Melhora suas chances de registrar um golpe crítico durante um ataque. Fornece habilidades semelhantes para os companheiros de equipe dentro do alcance da aura.<END>
+<BEGIN>%d%% de chance crítica, duração de %ds, raio da aura %d pés.<END>
+<BEGIN>Golpe Crítico<END>
+<BEGIN>Melhora suas chances de registrar um golpe crítico durante um ataque. Ranks mais altos fornecem habilidades semelhantes para os companheiros de equipe no alcance da aura.<END>
+<BEGIN>%d%% de chance crítica, duração de %ds, raio da aura %d pés.<END>
+<BEGIN>%d%% de chance crítica, duração de %ds.<END>
+<BEGIN>%cLivro de Feitiços %cEscolher %cConcluído<END>
+<BEGIN>%c%c%c%c Selecionar %cEscolher %cConcluído<END>
+<BEGIN>Armadura Sagrada<END>
+<BEGIN>Preserva a saúde dos jogadores convertendo uma parte do dano recebido em uma redução no mana.<END>
+<BEGIN>%d%% do dano transferido para mana. Duração de %d segundo.<END>
+<BEGIN>%d%% do dano transferido para mana. Duração de %d segundos.<END>
+<BEGIN>Esquiva<END>
+<BEGIN>Esta habilidade melhora sua capacidade de evitar ataques à distância.<END>
+<BEGIN>%d%% de chance de erro.<END>
+<BEGIN>Cura<END>
+<BEGIN>Restaura a saúde do conjurador. Ranks mais altos curam companheiros de equipe via aura.<END>
+<BEGIN>%d por cento de saúde.<END>
+<BEGIN>%d%% de saúde, aura de %d ft, %d%% de saúde para os companheiros de equipe.<END>
+<BEGIN>Cone de Gelo<END>
+<BEGIN>Dispara um cone de gelo das pontas dos dedos causando dano frio aos seus inimigos. Ranks mais altos melhoram o dano, largura do cone e alcance.<END>
+<BEGIN>%d-%d de dano, alcance de %d pés, cone de %d graus.<END>
+<BEGIN>Aljava<END>
+<BEGIN>Choque de Fogo<END>
+<BEGIN>Lança uma bola explosiva de fogo nos inimigos. Ranks mais altos aumentam o dano e adicionam dano em área à explosão resultante.<END>
+<BEGIN>%d-%d de dano.<END>
+<BEGIN>%d-%d de dano, dano em área de %d-%d de raio %d pés.<END>
+<BEGIN>Tempestade de Gelo<END>
+<BEGIN>Este feitiço de área cria uma tempestade temporária de gelo e neve na frente do conjurador.<END>
+<BEGIN>%d-%d de dano, raio de %d pés, duração de %d s.<END>
+<BEGIN>Toque de Vida<END>
+<BEGIN>Permite converter a essência de seus inimigos em mana ou saúde. Mantenha pressionado o botão de bloqueio após matar um inimigo para recuperar sua recompensa.<END>
+<BEGIN>%d%% de Chance, %d unidades.<END>
+<BEGIN>Arco Longo<END>
+<BEGIN>Arco Darkwood<END>
+<BEGIN>Arco de Caçador<END>
+<BEGIN>Arco Composto<END>
+<BEGIN>Arco do Tiro Certo<END>
+<BEGIN>Arco Grande<END>
+<BEGIN>Arco de Batalha<END>
+<BEGIN>Arco de Guerra<END>
+<BEGIN>Punhal<END>
 <BEGIN>Kris<END>
-<BEGIN>Blade<END>
-<BEGIN>Light Sword<END>
-<BEGIN>Gladius<END>
+<BEGIN>Lâmina<END>
+<BEGIN>Espada Leve<END>
+<BEGIN>Gládio<END>
 <BEGIN>Shamshir<END>
-<BEGIN>Sword<END>
-<BEGIN>Heavy Sword<END>
-<BEGIN>War Sword<END>
-<BEGIN>Two Handed Sword<END>
-<BEGIN>Hatchet<END>
-<BEGIN>Light Axe<END>
-<BEGIN>Axe<END>
-<BEGIN>Long Axe<END>
-<BEGIN>Twin Axe<END>
-<BEGIN>Large Axe<END>
-<BEGIN>Heavy Axe<END>
-<BEGIN>Broad Axe<END>
-<BEGIN>War Axe<END>
-<BEGIN>Minotaur Axe<END>
-<BEGIN>Short Halberd<END>
-<BEGIN>Great Halberd<END>
-<BEGIN>War Halberd<END>
-<BEGIN>Short Bardiche<END>
+<BEGIN>Espada<END>
+<BEGIN>Espada Pesada<END>
+<BEGIN>Espada de Guerra<END>
+<BEGIN>Espada de Duas Mãos<END>
+<BEGIN>Machadinha<END>
+<BEGIN>Machado Leve<END>
+<BEGIN>Machado<END>
+<BEGIN>Machado Longo<END>
+<BEGIN>Machado Duplo<END>
+<BEGIN>Machado Grande<END>
+<BEGIN>Machado Pesado<END>
+<BEGIN>Machado Largo<END>
+<BEGIN>Machado de Guerra<END>
+<BEGIN>Machado de Minotauro<END>
+<BEGIN>Alabarda Curta<END>
+<BEGIN>Alabarda Grande<END>
+<BEGIN>Alabarda de Guerra<END>
+<BEGIN>Bardiche Curto<END>
 <BEGIN>Bardiche<END>
-<BEGIN>Great Bardiche<END>
-<BEGIN>War Bardiche<END>
-<BEGIN>Short Voulge<END>
+<BEGIN>Bardiche Grande<END>
+<BEGIN>Bardiche de Guerra<END>
+<BEGIN>Voulge Curto<END>
 <BEGIN>Voulge<END>
-<BEGIN>Giant Voulge<END>
-<BEGIN>Small Poleaxe<END>
-<BEGIN>Pole Axe<END>
-<BEGIN>War Pole Axe<END>
-<BEGIN>War Scythe<END>
-<BEGIN>Short Spear<END>
-<BEGIN>Small Spear<END>
-<BEGIN>Light Spear<END>
-<BEGIN>Long Spear<END>
-<BEGIN>Heavy Spear<END>
-<BEGIN>Great Spear<END>
-<BEGIN>War Spear<END>
-<BEGIN>Short Club<END>
-<BEGIN>Spiked Club<END>
-<BEGIN>Great Club<END>
-<BEGIN>War Club<END>
-<BEGIN>Short Mace<END>
-<BEGIN>Two Handed Mace<END>
-<BEGIN>Northman Mace<END>
-<BEGIN>Great Mace<END>
-<BEGIN>Maul<END>
-<BEGIN>War Mace<END>
-<BEGIN>Great Maul<END>
-<BEGIN>Short Morning Star<END>
-<BEGIN>Light Morning Star<END>
-<BEGIN>Heavy Morning Star<END>
-<BEGIN>Large Morning Star<END>
-<BEGIN>Great Morning Star<END>
-<BEGIN>War Morning Star<END>
-<BEGIN>Short Pick<END>
-<BEGIN>Military Pick<END>
-<BEGIN>War Pick<END>
-<BEGIN>Great Pick<END>
-<BEGIN>Battle Pick<END>
-<BEGIN>Short Hammer<END>
-<BEGIN>Two Handed Hammer<END>
-<BEGIN>Giant Hammer<END>
-<BEGIN>Battle Hammer<END>
-<BEGIN>Light Rod<END>
-<BEGIN>War Rod<END>
-<BEGIN>Heavy Rod<END>
-<BEGIN>Grand Rod<END>
-<BEGIN>Scepter<END>
-<BEGIN>Grand Scepter<END>
-<BEGIN>War Scepter<END>
-<BEGIN>Battle Scepter<END>
-<BEGIN>Short Staff<END>
-<BEGIN>Quarterstaff<END>
-<BEGIN>Darkwood Staff<END>
-<BEGIN>Long Staff<END>
-<BEGIN>Battle Staff<END>
-<BEGIN>Ward Staff<END>
-<BEGIN>War Staff<END>
-<BEGIN>%cChoose %cBack<END>
-<BEGIN>Ant Queen<END>
-<BEGIN>Arena Beast<END>
-<BEGIN>Cloud Giant King<END>
-<BEGIN>Greater Minion<END>
+<BEGIN>Voulge Gigante<END>
+<BEGIN>Pica Pequena<END>
+<BEGIN>Pica<END>
+<BEGIN>Pica de Guerra<END>
+<BEGIN>Foice de Guerra<END>
+<BEGIN> Lança Curta<END>
+<BEGIN> Lança Pequena<END>
+<BEGIN> Lança Leve<END>
+<BEGIN> Lança Longa<END>
+<BEGIN> Lança Pesada<END>
+<BEGIN> Lança Grande<END>
+<BEGIN> Lança de Guerra<END>
+<BEGIN>Clava Curta<END>
+<BEGIN>Clava com Espinhos<END>
+<BEGIN>Clava Grande<END>
+<BEGIN>Clava de Guerra<END>
+<BEGIN>Maça Curta<END>
+<BEGIN>Maça de Duas Mãos<END>
+<BEGIN>Maça do Norte<END>
+<BEGIN>Grande Maça<END>
+<BEGIN>Machado de Batalha<END>
+<BEGIN>Maça de Guerra<END>
+<BEGIN>Grande Maça<END>
+<BEGIN>Estrela da Manhã Curta<END>
+<BEGIN>Estrela da Manhã Leve<END>
+<BEGIN>Estrela da Manhã Pesada<END>
+<BEGIN>Estrela da Manhã Grande<END>
+<BEGIN>Estrela da Manhã do Tiro Certo<END>
+<BEGIN>Estrela da Manhã de Guerra<END>
+<BEGIN>Picareta Curta<END>
+<BEGIN>Picareta Militar<END>
+<BEGIN>Picareta de Guerra<END>
+<BEGIN>Picareta Grande<END>
+<BEGIN>Picareta de Batalha<END>
+<BEGIN>Marreta Curta<END>
+<BEGIN>Marreta de Duas Mãos<END>
+<BEGIN>Marreta Gigante<END>
+<BEGIN>Marreta de Batalha<END>
+<BEGIN>Cajado Leve<END>
+<BEGIN>Cajado de Guerra<END>
+<BEGIN>Cajado Pesado<END>
+<BEGIN>Cajado Grande<END>
+<BEGIN>Cetro<END>
+<BEGIN>Cetro Grande<END>
+<BEGIN>Cajado de Guerra<END>
+<BEGIN>Cajado de Batalha<END>
+<BEGIN>Cajado Curto<END>
+<BEGIN>Bastão<END>
+<BEGIN>Bastão Darkwood<END>
+<BEGIN>Bastão Longo<END>
+<BEGIN>Bastão de Batalha<END>
+<BEGIN>Bastão de Guarda<END>
+<BEGIN>Bastão de Guerra<END>
+<BEGIN>%cEscolher %cVoltar<END>
+<BEGIN>Rainha Formiga<END>
+<BEGIN>Fera da Arena<END>
+<BEGIN>Rei Gigante das Nuvens<END>
+<BEGIN>Minion Superior<END>
 <BEGIN>Innoruuk<END>
-<BEGIN>King Mormaz<END>
-<BEGIN>Shelox the Spider<END>
-<BEGIN>Spider Queen<END>
-<BEGIN>Orc Leader<END>
-<BEGIN>Undead Knight<END>
+<BEGIN>Rei Mormaz<END>
+<BEGIN>Shelox, a Aranha<END>
+<BEGIN>Rainha Aranha<END>
+<BEGIN>Líder Orc<END>
+<BEGIN>Cavaleiro Morto-vivo<END>
 <BEGIN>Vanarhost<END>
-<BEGIN>Wrathenclaw<END>
-<BEGIN>Aqueous Kretch<END>
-<BEGIN>Dark Abysmal<END>
-<BEGIN>Depth Brood<END>
-<BEGIN>Brachion the Deep<END>
+<BEGIN>Garrabrava<END>
+<BEGIN>Kretch Aquoso<END>
+<BEGIN>Abismal Escuro<END>
+<BEGIN>Ninhada das Profundezas<END>
+<BEGIN>Brachion, o Profundo<END>
 <BEGIN>Delvendeep<END>
-<BEGIN>Deep Water<END>
+<BEGIN>Água Profunda<END>
 <BEGIN>Murkdwell<END>
 <BEGIN>Riptide<END>
-<BEGIN>Tanglekelp<END>
+<BEGIN>Algas Emaranhadas<END>
 <BEGIN>Undertow<END>
 <BEGIN>Gloomwater<END>
 <BEGIN>Swirlspine<END>
-<BEGIN>Krakensurge<END>
+<BEGIN>Erupção do Kraken<END>
 <BEGIN>Barnaclarn<END>
 <BEGIN>Farfathom<END>
 <BEGIN>Murkenfell<END>
 <BEGIN>Manowarn<END>
 <BEGIN>Gloamenarn<END>
-<BEGIN>Fragnel the Haze<END>
-<BEGIN>Darkened Myst<END>
-<BEGIN>Dwelling Shade<END>
-<BEGIN>Skarn the Dread<END>
-<BEGIN>Shadow Delve<END>
-<BEGIN>Haantash the Mist<END>
-<BEGIN>Varish the Returned<END>
-<BEGIN>Perished Prowl<END>
-<BEGIN>Adumbra Gloom<END>
-<BEGIN>Fretch the Grieved<END>
-<BEGIN>Despairing Dark<END>
-<BEGIN>Dreary Dreg<END>
-<BEGIN>Forlorn the Bansh<END>
-<BEGIN>Ashenbral<END>
-<BEGIN>Darksheer<END>
-<BEGIN>Feasting Fume<END>
-<BEGIN>The Nameless<END>
-<BEGIN>Sorrow Sharn<END>
-<BEGIN>Ambertide<END>
-<BEGIN>Tizteph the Blighted<END>
-<BEGIN>Krehkarn Withered<END>
-<BEGIN>Shrenva the Wrapped<END>
-<BEGIN>Fetelep the Decayed<END>
+<BEGIN>Fragnel, a Névoa<END>
+<BEGIN>Misticismo Escurecido<END>
+<BEGIN>Sombra Habitada<END>
+<BEGIN>Skarn, o Terrível<END>
+<BEGIN>Profundidade Sombria<END>
+<BEGIN>Haantash, a Névoa<END>
+<BEGIN>Varish, o Retornante<END>
+<BEGIN>Agachamento Perdido<END>
+<BEGIN>Escuridão Adumbra<END>
+<BEGIN>Fretch, o Lamentoso<END>
+<BEGIN>Escuridão Desesperada<END>
+<BEGIN>Escuridão Abatida<END>
+<BEGIN>Forlorn, o Fantasma<END>
+<BEGIN>Brasa Cinza<END>
+<BEGIN>Guardião da Escuridão<END>
+<BEGIN>Arfagem Festiva<END>
+<BEGIN>O Sem Nome<END>
+<BEGIN>Brilho do Lamento<END>
+<BEGIN>Maré de Âmbar<END>
+<BEGIN>Tizteph, o Contaminado<END>
+<BEGIN>Krehkarn Envelhecido<END>
+<BEGIN>Shrenva, o Envoltado<END>
+<BEGIN>Fetelep, o Decaído<END>
 <BEGIN>Shiinhephet<END>
-<BEGIN>Imhotaph the Embalmed<END>
-<BEGIN>Veln the Cursed<END>
-<BEGIN>Kiphep Corpse<END>
-<BEGIN>The Perished Doom<END>
-<BEGIN>Mangled Carcass<END>
-<BEGIN>Pestilence of Will<END>
-<BEGIN>Taint of Phisteph<END>
-<BEGIN>Scourge of Amheten<END>
-<BEGIN>Torment the Fouled<END>
+<BEGIN>Imhotaph, o Embalsamado<END>
+<BEGIN>Veln, o Amaldiçoado<END>
+<BEGIN>Kiphep Cadáver<END>
+<BEGIN>A Perdição Perecida<END>
+<BEGIN>Carcaça Despedaçada<END>
+<BEGIN>Peste de Vontade<END>
+<BEGIN>Mancha de Phisteph<END>
+<BEGIN>Flagelo de Amheten<END>
+<BEGIN>Tormento o Sujo<END>
 <BEGIN>Nakraethen<END>
-<BEGIN>Writhing Blight<END>
-<BEGIN>Broag the Plagued<END>
-<BEGIN>Soul Bender<END>
+<BEGIN>Mal Fermento<END>
+<BEGIN>Broag, o Pestilento<END>
+<BEGIN>Dobrador de Almas<END>
 <BEGIN>Sheekash<END>
 <BEGIN>Keevalg<END>
 <BEGIN>Zalgoz<END>
@@ -3471,45 +3471,45 @@ You gain 750 experience.<END>
 <BEGIN>Kathrag<END>
 <BEGIN>Beezlbane<END>
 <BEGIN>Barvaas<END>
-<BEGIN>Firebrand the Black<END>
+<BEGIN>Ferro Negro, o Ardente<END>
 <BEGIN>Davros Bigran<END>
 <BEGIN>Lteth Val<END>
 <BEGIN>Lenrex Distvan<END>
 <BEGIN>Rosh Lithen<END>
-<BEGIN>Mantrek the Putrid<END>
-<BEGIN>Veerser Blackfist<END>
-<BEGIN>Gremlok the Foul<END>
+<BEGIN>Mantrek, o Pútrido<END>
+<BEGIN>Veerser Punho Negro<END>
+<BEGIN>Gremlok, o Fétido<END>
 <BEGIN>Kindel Grimblox<END>
-<BEGIN>Foreman Welshkin<END>
-<BEGIN>Guardian Skarlon<END>
-<BEGIN>Farrik Bloodskull<END>
-<BEGIN>Vekkis Plaguebringer<END>
+<BEGIN>Feitor Welshkin<END>
+<BEGIN>Guardião Skarlon<END>
+<BEGIN>Skull Sangue Forte<END>
+<BEGIN>Vekkis Portador da Praga<END>
 <BEGIN>Skarlen Drizinek<END>
-<BEGIN>Guldo Ripeye<END>
-<BEGIN>Rashich the Red<END>
+<BEGIN>Guldo Olho Maduro<END>
+<BEGIN>Rashich, o Vermelho<END>
 <BEGIN>Argog Muktuk<END>
 <BEGIN>Kurrlok Dartan<END>
-<BEGIN>Warlord Cruzad<END>
+<BEGIN>Cruzad, o Senhor da Guerra<END>
 <BEGIN>Grumplinort Chottal<END>
-<BEGIN>Vissix Bloodgorge<END>
-<BEGIN>Grolik the Exile<END>
-<BEGIN>Brackus the Brute<END>
+<BEGIN>Vissix Engole Sangue<END>
+<BEGIN>Grolik, o Exilado<END>
+<BEGIN>Brackus, o Bruto<END>
 <BEGIN>Krugon Dintok<END>
-<BEGIN>Darish Ironbone<END>
+<BEGIN>Darish Osso de Ferro<END>
 <BEGIN>Grom Argrog<END>
-<BEGIN>Kanthuk the Warlord<END>
-<BEGIN>Thar Grumbledin<END>
-<BEGIN>Drogar the Battlemaster<END>
+<BEGIN>Kanthuk, o Senhor da Guerra<END>
+<BEGIN>Thar Resmungão<END>
+<BEGIN>Drogar, o Mestre da Batalha<END>
 <BEGIN>Muntok Darindar<END>
-<BEGIN>Groff Dunhammer<END>
-<BEGIN>Blordal Blademaster<END>
+<BEGIN>Groff Machado do Trovão<END>
+<BEGIN>Blordal Mestre das Lâminas<END>
 <BEGIN>Ungrin Gynak<END>
 <BEGIN>Parador R’tizinak<END>
 <BEGIN>Ral Akarn<END>
-<BEGIN>Dragoon T’vazin<END>
+<BEGIN>Dragão T’vazin<END>
 <BEGIN>Venezi X’Lottl<END>
 <BEGIN>Issla Tvanthias<END>
-<BEGIN>Narex the Cursed<END>
+<BEGIN>Narex, o Amaldiçoado<END>
 <BEGIN>Dunar T’vex<END>
 <BEGIN>Taldric Demtazi<END>
 <BEGIN>Tiche Virm<END>
@@ -3529,475 +3529,475 @@ You gain 750 experience.<END>
 <BEGIN>Perg<END>
 <BEGIN>Grangor<END>
 <BEGIN>Tarskuk<END>
-<BEGIN>Tower Shield<END>
-<BEGIN>Great Shield<END>
-<BEGIN>Plated Shield<END>
-<BEGIN>Crested Shield<END>
-<BEGIN>Steel Shield<END>
-<BEGIN>Kite Shield<END>
-<BEGIN>Wooden Shield<END>
-<BEGIN>Buckler Shield<END>
-<BEGIN>Round Shield<END>
-<BEGIN>Spiked Shield<END>
-<BEGIN>Targ Shield<END>
-<BEGIN>Thorn Shield<END>
-<BEGIN>Half Shield<END>
-<BEGIN>Small Shield<END>
-<BEGIN>Emblazoned Shield<END>
-<BEGIN>Patchwork Shield<END>
-<BEGIN>Bone Shield<END>
-<BEGIN>Skeletal Shield<END>
-<BEGIN>Stone Shield<END>
-<BEGIN>Treant Shield<END>
-<BEGIN>Shell Shield<END>
-<BEGIN>Short Shield<END>
-<BEGIN>Square Shield<END>
-<BEGIN>Flat Shield<END>
-<BEGIN>Darkwood Shield<END>
-<BEGIN>Full Shield<END>
-<BEGIN>Large Shield<END>
-<BEGIN>Tall Shield<END>
-<BEGIN>Partial Shield<END>
-<BEGIN>Curved Shield<END>
-<BEGIN>Canopy Shield<END>
-<BEGIN>Evergreen Shield<END>
-<BEGIN>Bark Shield<END>
-<BEGIN>No Spell Selected<END>
-<BEGIN>Before opening the spell book you must place the cursor over a non-passive spell of rank one or higher.<END>
-<BEGIN>Attack Bonus: %d<END>
-<BEGIN>Squashed Fire Beetle Eye<END>
-<BEGIN>Pierced Fire Beetle Eye<END>
-<BEGIN>Fire Beetle Eye<END>
-<BEGIN>Enflamed Fire Beetle Eye<END>
-<BEGIN>Massive Fire Beetle Eye<END>
-<BEGIN>Bone Chip<END>
-<BEGIN>Venom Sac<END>
-<BEGIN>Poison Gland<END>
-<BEGIN>Mummy Tongue<END>
-<BEGIN>Mummy Heart<END>
-<BEGIN>Storm Shard<END>
-<BEGIN>Soul Gem<END>
-<BEGIN>Vampire fang<END>
-<BEGIN>Bull rune<END>
-<BEGIN>Star Glyph<END>
-<BEGIN>Ghoul Flesh<END>
-<BEGIN>Regeneration Stone<END>
-<BEGIN>Mana Stone<END>
-<BEGIN>Carapace<END>
-<BEGIN>Misty Globe<END>
-<BEGIN>Whet Stone<END>
-<BEGIN>Raft Part<END>
-<BEGIN>Bloodvine<END>
-<BEGIN>Exchanger<END>
-<BEGIN>Conch Shell<END>
-<BEGIN>Battle Plans<END>
-<BEGIN>Horn of Ill Omen<END>
-<BEGIN>Mormaz's Heart<END>
-<BEGIN>Curiousity<END>
-<BEGIN>Shard of Hate<END>
-<BEGIN>Game completion required<END>
-<BEGIN>Game completion X2 required<END>
-<BEGIN>Shard of Hate<END>
-<BEGIN>Short Bone Chip<END>
-<BEGIN>Fractured Bone Chip<END>
-<BEGIN>Bone Chip<END>
-<BEGIN>Smooth Bone Chip<END>
-<BEGIN>Chilled Bone Chip<END>
-<BEGIN>Tiny Venom Sac<END>
-<BEGIN>Punctured Venom Sac<END>
-<BEGIN>Venom Sac<END>
-<BEGIN>Engorged Venom Sac<END>
-<BEGIN>Potent Venom Sac<END>
-<BEGIN>Exhausted Poison Gland<END>
-<BEGIN>Dry Poison Gland<END>
-<BEGIN>Poison Gland<END>
-<BEGIN>Unfilled Poison Gland<END>
-<BEGIN>Full Poison Gland<END>
-<BEGIN>Ruined Mummy Tongue<END>
-<BEGIN>Decomposed Mummy Tongue<END>
-<BEGIN>Mummy Tongue<END>
-<BEGIN>Stitched Mummy Tongue<END>
-<BEGIN>Preserved Mummy Tongue<END>
-<BEGIN>Putrid Mummy Heart<END>
-<BEGIN>Rotted Mummy Heart<END>
-<BEGIN>Mummy Heart<END>
-<BEGIN>Unmarred Mummy Heart<END>
-<BEGIN>Preserved Mummy Heart<END>
-<BEGIN>Crushed Storm Shard<END>
-<BEGIN>Chipped Storm Shard<END>
-<BEGIN>Storm Shard<END>
-<BEGIN>Finely Cut Storm Shard<END>
-<BEGIN>Exquisite Storm Shard<END>
-<BEGIN>Flawed Soul Gem<END>
-<BEGIN>Cracked Soul Gem<END>
-<BEGIN>Soul Gem<END>
-<BEGIN>Polished Soul Gem<END>
-<BEGIN>Flawless Soul Gem<END>
-<BEGIN>Broken Vampire Fang<END>
-<BEGIN>Fractured Vampire Fang<END>
-<BEGIN>Vampire Fang<END>
-<BEGIN>Sharp Vampire Fang<END>
-<BEGIN>Edged Vampire Fang<END>
-<BEGIN>Cryptic Bull Rune<END>
-<BEGIN>Obscure Bull Rune<END>
-<BEGIN>Bull Rune<END>
-<BEGIN>Lucid Bull Rune<END>
-<BEGIN>Complete Bull Rune<END>
-<BEGIN>Tattered Star Glyph<END>
-<BEGIN>Busted Star Glyph<END>
-<BEGIN>Star Glyph<END>
-<BEGIN>Intact Star Glyph<END>
-<BEGIN>Divine Star Glyph<END>
-<BEGIN>Ruined Ghoul Flesh<END>
-<BEGIN>Torn Ghoul Flesh<END>
-<BEGIN>Ghoul Flesh<END>
-<BEGIN>Fresh Ghoul Flesh<END>
-<BEGIN>Sheer Ghoul Flesh<END>
-<BEGIN>Shattered Bloodstone<END>
-<BEGIN>Opaque Bloodstone<END>
-<BEGIN>Bloodstone<END>
-<BEGIN>Crimson Bloodstone<END>
-<BEGIN>Engraved Bloodstone<END>
-<BEGIN>Meager Regen Stone<END>
-<BEGIN>Puny Regen Stone<END>
-<BEGIN>Regen Stone<END>
-<BEGIN>Charged Regen Stone<END>
-<BEGIN>Enchanted Regen Stone<END>
-<BEGIN>Meager Mana Stone<END>
-<BEGIN>Damaged Mana Stone<END>
-<BEGIN>Mana Stone<END>
-<BEGIN>Charged Mana Stone<END>
-<BEGIN>Infused Mana Stone<END>
-<BEGIN>Cracked Carapace<END>
-<BEGIN>Worn Carapace<END>
-<BEGIN>Carapace<END>
-<BEGIN>Thick Carapace<END>
-<BEGIN>Enforced Carapace<END>
-<BEGIN>Tiny Misty Globe<END>
-<BEGIN>Paltry Misty Globe<END>
-<BEGIN>Misty Globe<END>
-<BEGIN>Calmed Misty Globe<END>
-<BEGIN>Swirling Misty Globe<END>
-<BEGIN>Coarse Whetstone<END>
-<BEGIN>Rough Whetstone<END>
-<BEGIN>Whetstone<END>
-<BEGIN>Smooth Whetstone<END>
-<BEGIN>Perfected Whetstone<END>
-<BEGIN>Cannot Combine Item<END>
-<BEGIN>You cannot combine these two items.<END>
-<BEGIN>You cannot combine this with an item that already has a base enchantment.<END>
-<BEGIN>Wave %d -- Get Ready!!<END>
-<BEGIN>Import Player<END>
-<BEGIN>Import Players<END>
+<BEGIN>Escudo de Torre<END>
+<BEGIN>Grande Escudo<END>
+<BEGIN>Escudo Plated<END>
+<BEGIN>Escudo Cravado<END>
+<BEGIN>Escudo de Aço<END>
+<BEGIN>Escudo Kite<END>
+<BEGIN>Escudo de Madeira<END>
+<BEGIN>Escudo de Braçadeira<END>
+<BEGIN>Escudo Redondo<END>
+<BEGIN>Escudo Cravado<END>
+<BEGIN>Escudo Targ<END>
+<BEGIN>Escudo de Espinhos<END>
+<BEGIN>Meio Escudo<END>
+<BEGIN>Escudo Pequeno<END>
+<BEGIN>Escudo Emblazonado<END>
+<BEGIN>Escudo Remendado<END>
+<BEGIN>Escudo de Ossos<END>
+<BEGIN>Escudo Esquelético<END>
+<BEGIN>Escudo de Pedra<END>
+<BEGIN>Escudo de Treant<END>
+<BEGIN>Escudo de Concha<END>
+<BEGIN>Escudo Curto<END>
+<BEGIN>Escudo Quadrado<END>
+<BEGIN>Escudo Plano<END>
+<BEGIN>Escudo Darkwood<END>
+<BEGIN>Escudo Completo<END>
+<BEGIN>Escudo Grande<END>
+<BEGIN>Escudo Alto<END>
+<BEGIN>Escudo Parcial<END>
+<BEGIN>Escudo Curvado<END>
+<BEGIN>Escudo de Dossel<END>
+<BEGIN>Escudo Evergreen<END>
+<BEGIN>Escudo de Casca<END>
+<BEGIN>Nenhuma Magia Selecionada<END>
+<BEGIN>Antes de abrir o livro de magias, você deve posicionar o cursor sobre uma magia não passiva de nível um ou superior.<END>
+<BEGIN>Bônus de Ataque: %d<END>
+<BEGIN>Olho de Besouro de Fogo Espremido<END>
+<BEGIN>Olho de Besouro de Fogo Perfurado<END>
+<BEGIN>Olho de Besouro de Fogo<END>
+<BEGIN>Olho de Besouro de Fogo Inflamado<END>
+<BEGIN>Olho de Besouro de Fogo Maciço<END>
+<BEGIN>Lasca de Osso<END>
+<BEGIN>Saco de Veneno<END>
+<BEGIN>Glande de Veneno<END>
+<BEGIN>Língua de Múmia<END>
+<BEGIN>Coração de Múmia<END>
+<BEGIN>Fragmento de Tempestade<END>
+<BEGIN>Gema de Alma<END>
+<BEGIN>Dente de Vampiro<END>
+<BEGIN>Runa de Touro<END>
+<BEGIN>Globo Estrelar<END>
+<BEGIN>Carne de Carniçal<END>
+<BEGIN>Pedra de Regeneração<END>
+<BEGIN>Pedra de Mana<END>
+<BEGIN>Carapaça<END>
+<BEGIN>Globo Nebuloso<END>
+<BEGIN>Pedra de Amolar<END>
+<BEGIN>Parte de Jangada<END>
+<BEGIN>Vinha Sanguínea<END>
+<BEGIN>Permutador<END>
+<BEGIN>Concha de Caramujo<END>
+<BEGIN>Planos de Batalha<END>
+<BEGIN>Chifre do Mau Presságio<END>
+<BEGIN>Coração de Mormaz<END>
+<BEGIN>Curiosidade<END>
+<BEGIN>Lasca de Ódio<END>
+<BEGIN>Conclusão do Jogo Requerida<END>
+<BEGIN>Duplicação da Conclusão do Jogo Requerida<END>
+<BEGIN>Lasca de Ódio<END>
+<BEGIN>Lasca de Osso Curto<END>
+<BEGIN>Lasca de Osso Fraturada<END>
+<BEGIN>Lasca de Osso<END>
+<BEGIN>Lasca de Osso Lisa<END>
+<BEGIN>Lasca de Osso Gelada<END>
+<BEGIN>Pequeno Saco de Veneno<END>
+<BEGIN>Saco de Veneno Perfurado<END>
+<BEGIN>Saco de Veneno<END>
+<BEGIN>Saco de Veneno Inchado<END>
+<BEGIN>Saco de Veneno Potente<END>
+<BEGIN>Glande de Veneno Exaurida<END>
+<BEGIN>Glande de Veneno Seca<END>
+<BEGIN>Glande de Veneno<END>
+<BEGIN>Glande de Veneno Não Preenchida<END>
+<BEGIN>Glande de Veneno Cheia<END>
+<BEGIN>Língua de Múmia Arruinada<END>
+<BEGIN>Língua de Múmia Decomposta<END>
+<BEGIN>Língua de Múmia<END>
+<BEGIN>Língua de Múmia Costurada<END>
+<BEGIN>Língua de Múmia Preservada<END>
+<BEGIN>Coração de Múmia Putrefato<END>
+<BEGIN>Coração de Múmia Apodrecido<END>
+<BEGIN>Coração de Múmia<END>
+<BEGIN>Coração de Múmia Intacto<END>
+<BEGIN>Coração de Múmia Preservado<END>
+<BEGIN>Fragmento de Tempestade Esmagado<END>
+<BEGIN>Fragmento de Tempestade Rachado<END>
+<BEGIN>Fragmento de Tempestade<END>
+<BEGIN>Fragmento de Tempestade Cortado com Precisão<END>
+<BEGIN>Fragmento de Tempestade Exquisito<END>
+<BEGIN>Gema de Alma Falhada<END>
+<BEGIN>Gema de Alma Rachada<END>
+<BEGIN>Gema de Alma<END>
+<BEGIN>Gema de Alma Polida<END>
+<BEGIN>Gema de Alma Impecável<END>
+<BEGIN>Dente de Vampiro Quebrado<END>
+<BEGIN>Dente de Vampiro Fraturado<END>
+<BEGIN>Dente de Vampiro<END>
+<BEGIN>Dente de Vampiro Afiado<END>
+<BEGIN>Dente de Vampiro Angulado<END>
+<BEGIN>Runa de Touro Criptográfica<END>
+<BEGIN>Runa de Touro Obscura<END>
+<BEGIN>Runa de Touro<END>
+<BEGIN>Runa de Touro Lúcida<END>
+<BEGIN>Runa de Touro Completa<END>
+<BEGIN>Glifo Estelar Desbotado<END>
+<BEGIN>Glifo Estelar Danificado<END>
+<BEGIN>Glifo Estelar<END>
+<BEGIN>Glifo Estelar Intacto<END>
+<BEGIN>Glifo Estelar Divino<END>
+<BEGIN>Carne de Carniçal Despedaçada<END>
+<BEGIN>Carne de Carniçal Rasgada<END>
+<BEGIN>Carne de Carniçal<END>
+<BEGIN>Carne de Carniçal Fresca<END>
+<BEGIN>Carne de Carniçal Pura<END>
+<BEGIN>Pedra de Sangue Despedaçada<END>
+<BEGIN>Pedra de Sangue Opaca<END>
+<BEGIN>Pedra de Sangue<END>
+<BEGIN>Pedra de Sangue Carmesim<END>
+<BEGIN>Pedra de Sangue Gravada<END>
+<BEGIN>Pedra de Regeneração Medíocre<END>
+<BEGIN>Pedra de Regeneração Irrelevante<END>
+<BEGIN>Pedra de Regeneração<END>
+<BEGIN>Pedra de Regeneração Carregada<END>
+<BEGIN>Pedra de Regeneração Encantada<END>
+<BEGIN>Pedra de Mana Medíocre<END>
+<BEGIN>Pedra de Mana Danificada<END>
+<BEGIN>Pedra de Mana<END>
+<BEGIN>Pedra de Mana Carregada<END>
+<BEGIN>Pedra de Mana Infusa<END>
+<BEGIN>Carapaça Rachada<END>
+<BEGIN>Carapaça Desgastada<END>
+<BEGIN>Carapaça<END>
+<BEGIN>Carapaça Espessa<END>
+<BEGIN>Carapaça Reforçada<END>
+<BEGIN>Pequeno Globo Nebuloso<END>
+<BEGIN>Globo Nebuloso Inexpressivo<END>
+<BEGIN>Globo Nebuloso<END>
+<BEGIN>Globo Nebuloso Calmo<END>
+<BEGIN>Globo Nebuloso Revolvente<END>
+<BEGIN>Pedra de Amolar Grossa<END>
+<BEGIN>Pedra de Amolar Rugosa<END>
+<BEGIN>Pedra de Amolar<END>
+<BEGIN>Pedra de Amolar Lisa<END>
+<BEGIN>Pedra de Amolar Aperfeiçoada<END>
+<BEGIN>Não é Possível Combinar Item<END>
+<BEGIN>Você não pode combinar estes dois itens.<END>
+<BEGIN>Você não pode combinar isto com um item que já tenha um encantamento base.<END>
+<BEGIN>Onda %d -- Prepare-se!!<END>
+<BEGIN>Importar Jogador<END>
+<BEGIN>Importar Jogadores<END>
 <BEGIN>Jogo Normal<END>
-<BEGIN>Jogo pela Internet<END>
-<BEGIN>Join Existing Game<END>
-<BEGIN>Host New Game<END>
-<BEGIN>Create New Character<END>
-<BEGIN>Import character<END>
-<BEGIN>Start From Beginning<END>
-<BEGIN>Start From Save Game<END>
+<BEGIN>Jogo Online<END>
+<BEGIN>Juntar-se a um Jogo Existente<END>
+<BEGIN>Hospedar um Novo Jogo<END>
+<BEGIN>Criar Novo Personagem<END>
+<BEGIN>Importar Personagem<END>
+<BEGIN>Começar do Início<END>
+<BEGIN>Começar de um Jogo Salvo<END>
 <BEGIN>1<END>
 <BEGIN>2<END>
 <BEGIN>3<END>
-<BEGIN>How many people will be playing from this Playstation 2?<END>
-<BEGIN>How many additional players will be allowed to join this game?<END>
-<BEGIN>Player Setup<END>
-<BEGIN>Connect To Host<END>
-<BEGIN>Bone Thunder Staff<END>
-<BEGIN>Carved Jetsome Short Staff<END>
-<BEGIN>Efreeti Wind Staff<END>
-<BEGIN>Ice Shapers Staff<END>
-<BEGIN>Iksar Staff<END>
-<BEGIN>Jouneymans Stick<END>
-<BEGIN>Lunar Staff<END>
-<BEGIN>Mediators Staff<END>
-<BEGIN>Mootogo Focus Staff<END>
-<BEGIN>Nobles Walking Stick<END>
-<BEGIN>Secunde Staff<END>
-<BEGIN>Righteousness<END>
-<BEGIN>Shaded Staff<END>
-<BEGIN>Shissar Apothic Staff<END>
-<BEGIN>Staff of Discord<END>
-<BEGIN>Staff of Eternal Flames<END>
-<BEGIN>Staff of Living Sand<END>
-<BEGIN>Staff of Runes<END>
-<BEGIN>Staff of Scaled<END>
-<BEGIN>Staff of the Champerlain<END>
-<BEGIN>Staff of the Elder Claws<END>
-<BEGIN>Staff of Gathering<END>
-<BEGIN>Staff of the Observers<END>
-<BEGIN>Staff of Tracing<END>
-<BEGIN>Staff of Warding<END>
-<BEGIN>Sunbeam Staff<END>
-<BEGIN>Tarmok Battle Staff<END>
-<BEGIN>Treant Light Staff<END>
-<BEGIN>Triplated Golden Staff<END>
-<BEGIN>Abbottoirs Initiate Staff<END>
-<BEGIN>Adamantine Bo Staff<END>
-<BEGIN>Caens Staff of Fury<END>
-<BEGIN>Staff of Anguish<END>
-<BEGIN>Efreeti Ice Staff<END>
-<BEGIN>Ice Crystal Staff<END>
-<BEGIN>Nargons Staff<END>
-<BEGIN>Nightshade Staff<END>
-<BEGIN>Oozing Quarterstaff<END>
-<BEGIN>Staff of Flowing<END>
-<BEGIN>Staff of Null<END>
-<BEGIN>Staff of the Serpent<END>
-<BEGIN>Staff of Undead Legions<END>
-<BEGIN>Staff of Writhing<END>
-<BEGIN>Staff of Shielding<END>
-<BEGIN>Staff of Wit<END>
-<BEGIN>Stormguard Battlestaff<END>
-<BEGIN>Stormguard Battleaxe<END>
-<BEGIN>Nathsar Great Sword<END>
-<BEGIN>Thunder Staff<END>
-<BEGIN>Bold Staff<END>
-<BEGIN>Gnarled Staff<END>
-<BEGIN>Sarnak Staff<END>
-<BEGIN>Dawnfire<END>
-<BEGIN>Flint Hammer<END>
-<BEGIN>Hammer of Zek<END>
-<BEGIN>Hammer of Iron Frost<END>
-<BEGIN>Hammer of Rage<END>
-<BEGIN>Sacrifice<END>
-<BEGIN>Truesight Hammer<END>
-<BEGIN>Barbarian Spiritists Hammer<END>
-<BEGIN>Hammer of Scourge<END>
-<BEGIN>Bloodforge Hammer<END>
-<BEGIN>Blued Two Handed Hammer<END>
-<BEGIN>Shadow War Hammer<END>
-<BEGIN>Dragonbone Hammer<END>
-<BEGIN>Fatesealer<END>
-<BEGIN>Forest Giant Hammer<END>
-<BEGIN>Hammer of Damnation<END>
-<BEGIN>Hammer of the Sun<END>
-<BEGIN>Bardoal Hammer<END>
-<BEGIN>Loach Warhammer<END>
-<BEGIN>Midnights Mallet<END>
-<BEGIN>Ogre War Maul<END>
-<BEGIN>Piledriver<END>
-<BEGIN>Secunde Battlehammer<END>
-<BEGIN>Mace of the Ykesha<END>
-<BEGIN>Rock Studded Smasher<END>
-<BEGIN>Sentry Maul<END>
-<BEGIN>Sharkbone Warhammer<END>
-<BEGIN>Shining Battlehammer<END>
-<BEGIN>Twisted Battlehammer<END>
-<BEGIN>Maul of Crushing<END>
-<BEGIN>Blackstone Maul<END>
-<BEGIN>Gromloks Basher<END>
-<BEGIN>Rage War Maul<END>
-<BEGIN>Resplendant War Maul<END>
-<BEGIN>Sarnak Battlehammer<END>
-<BEGIN>Gatorsmash Maul<END>
-<BEGIN>Hammer of Battle<END>
-<BEGIN>Hammer of Flattening<END>
-<BEGIN>Hammer of the Divine<END>
-<BEGIN>Black Mace of Night<END>
-<BEGIN>Blyndrelyns Bane<END>
-<BEGIN>Ceramic Mace of Innovation<END>
-<BEGIN>Cold Iron Mace<END>
-<BEGIN>Dark Ember<END>
-<BEGIN>Facesmasher<END>
-<BEGIN>Goblin Skinner<END>
-<BEGIN>Hateful Black Mace<END>
-<BEGIN>Jade Mace<END>
-<BEGIN>Lunar Mace<END>
-<BEGIN>Mace of Confusion<END>
-<BEGIN>Sarnak Enforcer<END>
-<BEGIN>Sarnak Liberator<END>
-<BEGIN>Thex Mallet<END>
-<BEGIN>Thundering Mace<END>
-<BEGIN>Burynai Leg Ripper<END>
-<BEGIN>Ebon Mace<END>
-<BEGIN>Entwood Mace<END>
-<BEGIN>Essence Mace<END>
-<BEGIN>Spine Mace<END>
-<BEGIN>Mace of the Ykesha<END>
-<BEGIN>Spiked Skull Mace<END>
-<BEGIN>Bull Smasher<END>
-<BEGIN>Drakel Ice Grinder<END>
-<BEGIN>Dizok Deathbringer<END>
-<BEGIN>Mace of Slaughter<END>
-<BEGIN>Malevolence<END>
-<BEGIN>Mudman Enforcer<END>
-<BEGIN>Screaming Mace<END>
-<BEGIN>Spiny Great Mace<END>
-<BEGIN>Strong Thunder<END>
-<BEGIN>Earth Shaker<END>
-<BEGIN>Froglok Crusher<END>
-<BEGIN>Thundering Mace<END>
-<BEGIN>Grotesque<END>
-<BEGIN>Rod of Storms<END>
-<BEGIN>Delgins Scepter<END>
-<BEGIN>Efreeti Standard<END>
-<BEGIN>Scepter of the Observers<END>
-<BEGIN>Redwood Wand<END>
-<BEGIN>Rod of Health<END>
-<BEGIN>Rod of Oblations<END>
-<BEGIN>Rod of Virtue<END>
-<BEGIN>Scepter of Ancient Knowledge<END>
-<BEGIN>Scepter of Destruction<END>
-<BEGIN>Scepter of Rahotep<END>
-<BEGIN>Scepter of the Shrine<END>
-<BEGIN>Scepter of Ixiblat Fer<END>
-<BEGIN>Thinboned Wand<END>
-<BEGIN>Truwain Baton<END>
-<BEGIN>Baton of the Peace Keeper<END>
-<BEGIN>Baton of Torment<END>
-<BEGIN>Scepter of the Elements<END>
-<BEGIN>Deathbringers Rod<END>
-<BEGIN>Diamond Rod<END>
-<BEGIN>Rod of Annihilation<END>
-<BEGIN>Rod of Battle<END>
-<BEGIN>Rod of Drones<END>
-<BEGIN>Rod of Faith<END>
-<BEGIN>Rod of Mourning<END>
-<BEGIN>Scepter of Mastery<END>
-<BEGIN>Scepter of Forlorn<END>
-<BEGIN>Wand of Cursed Souls<END>
-<BEGIN>Wand of Lava<END>
-<BEGIN>Wand of Shadow<END>
-<BEGIN>Caduces of Sacrament<END>
-<BEGIN>Ebonwood Cudgel<END>
-<BEGIN>Efreeti War Club<END>
-<BEGIN>Garoubone Club<END>
-<BEGIN>Goblin Knee Cracker<END>
-<BEGIN>Goblin Shin Splinter<END>
-<BEGIN>Golem Metal Wand<END>
-<BEGIN>Goranga Metal Club<END>
-<BEGIN>Guard Captains Mallet<END>
-<BEGIN>Iksar Berzerker Club<END>
-<BEGIN>Knobbed War Club<END>
-<BEGIN>Nebs War Bone<END>
-<BEGIN>Paebala War Bone<END>
-<BEGIN>Smoldering Cudgel<END>
-<BEGIN>Springwood Club<END>
-<BEGIN>Templar of Light<END>
-<BEGIN>Broken Skull Club<END>
-<BEGIN>Brawlstick<END>
-<BEGIN>Club of Iron Ocean<END>
-<BEGIN>Cudgel of Cowardly Death<END>
-<BEGIN>Dragonrib Club<END>
-<BEGIN>Ebonwood Cudgel<END>
-<BEGIN>Primal Cudgel<END>
-<BEGIN>Sledge of Smashing<END>
-<BEGIN>Sword of War<END>
-<BEGIN>Dieku Forged Scimitar<END>
-<BEGIN>Servants Blade<END>
-<BEGIN>Adjutants Saber<END>
-<BEGIN>Blade of the Ocean<END>
-<BEGIN>Befouled Long Sword<END>
-<BEGIN>Black Insanity<END>
-<BEGIN>Blade of Abrogation<END>
-<BEGIN>Blackout<END>
-<BEGIN>Blade of Strategy<END>
-<BEGIN>Blade of Tactics<END>
-<BEGIN>Blade of Senechel<END>
-<BEGIN>Blade of Xalgoz<END>
-<BEGIN>Katana of Steel Sleet<END>
-<BEGIN>Blood Crusted Cutlass<END>
-<BEGIN>Blood Orchid Blade<END>
-<BEGIN>Coral Short Sword<END>
-<BEGIN>Crystalline Blade<END>
-<BEGIN>Dark Reaver<END>
-<BEGIN>Death Watch<END>
-<BEGIN>Deep Six Cutlass<END>
-<BEGIN>Ebon Razor<END>
-<BEGIN>Efreeti Scimitar<END>
-<BEGIN>Sword of Purity<END>
-<BEGIN>Envenomed Rune Blade<END>
+<BEGIN>Quantas pessoas jogarão deste Playstation 2?<END>
+<BEGIN>Quantos jogadores adicionais poderão se juntar a este jogo?<END>
+<BEGIN>Configuração do Jogador<END>
+<BEGIN>Conectar ao Anfitrião<END>
+<BEGIN>Bastão de Trovão Ósseo<END>
+<BEGIN>Bastão Curto de Jacto Entalhado<END>
+<BEGIN>Bastão de Vento de Efreeti<END>
+<BEGIN>Bastão de Moldadores de Gelo<END>
+<BEGIN>Bastão Iksar<END>
+<BEGIN>Bastão do Noviço<END>
+<BEGIN>Bastão Lunar<END>
+<BEGIN>Bastão dos Mediadores<END>
+<BEGIN>Bastão de Foco de Mootogo<END>
+<BEGIN>Bengala Nobre<END>
+<BEGIN>Bastão Secunde<END>
+<BEGIN>Retidão<END>
+<BEGIN>Bastão Sombrio<END>
+<BEGIN>Bastão Apotéico Shissar<END>
+<BEGIN>Bastão do Discordo<END>
+<BEGIN>Bastão das Chamas Eternas<END>
+<BEGIN>Bastão de Areia Viva<END>
+<BEGIN>Bastão de Runas<END>
+<BEGIN>Bastão Escamoso<END>
+<BEGIN>Bastão do Chanceler<END>
+<BEGIN>Bastão das Garras do Ancião<END>
+<BEGIN>Bastão de Coleta<END>
+<BEGIN>Bastão dos Observadores<END>
+<BEGIN>Bastão de Traçado<END>
+<BEGIN>Bastão de Proteção<END>
+<BEGIN>Bastão de Feixe Solar<END>
+<BEGIN>Bastão de Batalha de Tarmok<END>
+<BEGIN>Bastão de Luz de Treant<END>
+<BEGIN>Bastão de Ouro Trilaminado<END>
+<BEGIN>Iniciante dos Abatedouros Bastão<END>
+<BEGIN>Bastão de Bo Adamantinos<END>
+<BEGIN>Bastão de Fúria de Caens<END>
+<BEGIN>Bastão de Angústia<END>
+<BEGIN>Bastão de Gelo Efreeti<END>
+<BEGIN>Bastão de Cristal de Gelo<END>
+<BEGIN>Bastão de Nargons<END>
+<BEGIN>Bastão de Nightshade<END>
+<BEGIN>Cajado de Quartel Escorrendo<END>
+<BEGIN>Bastão de Fluxo<END>
+<BEGIN>Bastão de Anulação<END>
+<BEGIN>Bastão da Serpente<END>
+<BEGIN>Bastão de Legiões de Mortos-Vivos<END>
+<BEGIN>Bastão de Contorção<END>
+<BEGIN>Bastão de Proteção<END>
+<BEGIN>Bastão de Esperteza<END>
+<BEGIN>Bastão de Batalha de Guarda Tempestuosa<END>
+<BEGIN>Bastão de Batalha de Guarda Tempestuosa<END>
+<BEGIN>Grande Espada de Nathsar<END>
+<BEGIN>Bastão do Trovão<END>
+<BEGIN>Bastão Ousado<END>
+<BEGIN>Bastão Nodoso<END>
+<BEGIN>Bastão de Sarnak<END>
+<BEGIN>Fogofátuo<END>
+<BEGIN>Martelo de Sílex<END>
+<BEGIN>Martelo de Zek<END>
+<BEGIN>Martelo de Geada de Ferro<END>
+<BEGIN>Martelo da Fúria<END>
+<BEGIN>Sacrifício<END>
+<BEGIN>Martelo de Clarividência<END>
+<BEGIN>Martelo de Espírito Bárbaro<END>
+<BEGIN>Martelo do Flagelo<END>
+<BEGIN>Martelo da Forja de Sangue<END>
+<BEGIN>Martelo de Duas Mãos Azulado<END>
+<BEGIN>Martelo de Guerra das Sombras<END>
+<BEGIN>Martelo de Ossos de Dragão<END>
+<BEGIN>Cegador de Destinos<END>
+<BEGIN>Martelo de Guerra do Gigante da Floresta<END>
+<BEGIN>Martelo da Condenação<END>
+<BEGIN>Martelo do Sol<END>
+<BEGIN>Martelo de Bardoal<END>
+<BEGIN>Malho de Loach<END>
+<BEGIN>Martelo da Meia-Noite<END>
+<BEGIN>Martelo de Guerra do Ogro<END>
+<BEGIN>Cravador<END>
+<BEGIN>Bastão de Batalha Secunde<END>
+<BEGIN>Maça dos Ykesha<END>
+<BEGIN>Marreta com Pedras<END>
+<BEGIN>Marreta Sentinela<END>
+<BEGIN>Martelo de Guerra Osso de Tubarão<END>
+<BEGIN>Martelo de Batalha Brilhante<END>
+<BEGIN>Martelo de Batalha Torcido<END>
+<BEGIN>Marreta de Esmagamento<END>
+<BEGIN>Malho de Pedra Negra<END>
+<BEGIN>Esmagador de Gromlok<END>
+<BEGIN>Malho de Guerra da Fúria<END>
+<BEGIN>Malho de Guerra Resplandecente<END>
+<BEGIN>Martelo de Batalha de Sarnak<END>
+<BEGIN>Marreta Esmagadora de Jacaré<END>
+<BEGIN>Martelo de Batalha<END>
+<BEGIN>Martelo de Achatamento<END>
+<BEGIN>Martelo do Divino<END>
+<BEGIN>Maça Negra da Noite<END>
+<BEGIN>Praga de Blyndrelyn<END>
+<BEGIN>Maça Cerâmica da Inovação<END>
+<BEGIN>Maça de Ferro Frio<END>
+<BEGIN>Brasa Sombria<END>
+<BEGIN>Esmagacaras<END>
+<BEGIN>Esfolador de Goblin<END>
+<BEGIN>Maça Negra Odiosa<END>
+<BEGIN>Maça de Jade<END>
+<BEGIN>Maça Lunar<END>
+<BEGIN>Maça da Confusão<END>
+<BEGIN>Executor Sarnak<END>
+<BEGIN>Libertador Sarnak<END>
+<BEGIN>Malho de Thex<END>
+<BEGIN>Maça Trovejante<END>
+<BEGIN>Rasga-Perna Burynai<END>
+<BEGIN>Maça de Ébano<END>
+<BEGIN>Maça Entwood<END>
+<BEGIN>Maça de Essência<END>
+<BEGIN>Maça Espinhal<END>
+<BEGIN>Maça dos Ykesha<END>
+<BEGIN>Maça de Crânio Espinhoso<END>
+<BEGIN>Esmagador de Touro<END>
+<BEGIN>Retalhador de Gelo Drakel<END>
+<BEGIN>Aniquilador Dizok<END>
+<BEGIN>Maça de Serragem<END>
+<BEGIN>Malevolência<END>
+<BEGIN>Executor do Homem de Barro<END>
+<BEGIN>Maça Gritante<END>
+<BEGIN>Maça Grande Espinhosa<END>
+<BEGIN>Trovão Poderoso<END>
+<BEGIN>Terramor<END>
+<BEGIN>Esmagador de Froglok<END>
+<BEGIN>Maça Trovejante<END>
+<BEGIN>Grótesco<END>
+<BEGIN>Vara de Tempestades<END>
+<BEGIN>Cetro de Delgin<END>
+<BEGIN>Estandarte de Efreeti<END>
+<BEGIN>Cetro dos Observadores<END>
+<BEGIN>Varinha de Cedro Vermelho<END>
+<BEGIN>Varinha da Saúde<END>
+<BEGIN>Varinha das Oferendas<END>
+<BEGIN>Varinha da Virtude<END>
+<BEGIN>Cetro do Conhecimento Antigo<END>
+<BEGIN>Cetro da Destruição<END>
+<BEGIN>Cetro de Rahotep<END>
+<BEGIN>Cetro do Santuário<END>
+<BEGIN>Cetro de Ixiblat Fer<END>
+<BEGIN>Varinha de Osso Fino<END>
+<BEGIN>Porrete Truwain<END>
+<BEGIN>Porrete do Guardião da Paz<END>
+<BEGIN>Porrete do Tormento<END>
+<BEGIN>Cetro dos Elementos<END>
+<BEGIN>Cajado do Flagelo<END>
+<BEGIN>Cajado de Diamante<END>
+<BEGIN>Cajado de Aniquilação<END>
+<BEGIN>Cajado de Batalha<END>
+<BEGIN>Cajado dos Zangões<END>
+<BEGIN>Cajado da Fé<END>
+<BEGIN>Cajado do Luto<END>
+<BEGIN>Cetro da Maestria<END>
+<BEGIN>Cetro do Abandonado<END>
+<BEGIN>Varinha de Almas Amaldiçoadas<END>
+<BEGIN>Varinha de Lava<END>
+<BEGIN>Varinha de Sombra<END>
+<BEGIN>Cálice do Sacramento<END>
+<BEGIN>Cudgel de Ebonwood<END>
+<BEGIN>Clava de Guerra de Efreeti<END>
+<BEGIN>Osso de Garou Clube<END>
+<BEGIN>Esmagador de Joelhos de Goblin<END>
+<BEGIN>Quebra-Perna de Goblin<END>
+<BEGIN>Varinha de Metal de Golem<END>
+<BEGIN>Clube de Metal de Goranga<END>
+<BEGIN>Malho do Capitão da Guarda<END>
+<BEGIN>Clube de Berzerker Iksar<END>
+<BEGIN>Clava com Nós<END>
+<BEGIN>Osso de Guerra de Nebs<END>
+<BEGIN>Osso de Guerra de Paebala<END>
+<BEGIN>Cudgel Ardente<END>
+<BEGIN>Clube de Madeira de Primavera<END>
+<BEGIN>Templário da Luz<END>
+<BEGIN>Clube de Caveira Quebrada<END>
+<BEGIN>Cajado de Batalha<END>
+<BEGIN>Clava de Ferro Oceânica<END>
+<BEGIN>Cudgel de Morte Covarde<END>
+<BEGIN>Osso de Dragão<END>
+<BEGIN>Cudgel de Ebonwood<END>
+<BEGIN>Cudgel Primal<END>
+<BEGIN>Marreta Esmagadora<END>
+<BEGIN>Espada de Guerra<END>
+<BEGIN>Cimitarra Forjada Dieku<END>
+<BEGIN>Lâmina do Servo<END>
+<BEGIN>Sabre do Adjutante<END>
+<BEGIN>Lâmina do Oceano<END>
+<BEGIN>Espada Longa Maculada<END>
+<BEGIN>Insanidade Negra<END>
+<BEGIN>Lâmina da Abrogação<END>
+<BEGIN>Apagão<END>
+<BEGIN>Lâmina da Estratégia<END>
+<BEGIN>Lâmina das Táticas<END>
+<BEGIN>Lâmina de Senechel<END>
+<BEGIN>Lâmina de Xalgoz<END>
+<BEGIN>Katana de Chuva de Aço<END>
+<BEGIN>Cutelo Coberto de Sangue<END>
+<BEGIN>Lâmina Orquídea Sangrenta<END>
+<BEGIN>Adaga de Coral<END>
+<BEGIN>Lâmina Cristalina<END>
+<BEGIN>Cortador Sombrio<END>
+<BEGIN>Guarda da Morte<END>
+<BEGIN>Adaga Profunda Seis<END>
+<BEGIN>Lâmina de Ébano<END>
+<BEGIN>Cimitarra Efreeti<END>
+<BEGIN>Espada da Pureza<END>
+<BEGIN>Lâmina de Runa Envenenada<END>
 <BEGIN>Fangol<END>
-<BEGIN>Fang of Vyshdra<END>
-<BEGIN>Flamesong<END>
-<BEGIN>Frostbringer<END>
-<BEGIN>Gnoll Slayer<END>
-<BEGIN>Goblin Blade<END>
-<BEGIN>Sword of Shadows<END>
-<BEGIN>Hate Giver<END>
-<BEGIN>Howling Cutlass<END>
-<BEGIN>Ice Flame<END>
-<BEGIN>Jarnal Long Sword<END>
-<BEGIN>Blade of Endurance<END>
-<BEGIN>Sword of Pain<END>
-<BEGIN>Kelorekdar Razor<END>
-<BEGIN>Rapier of Oriin<END>
+<BEGIN>Presas de Vyshdra<END>
+<BEGIN>Canto das Chamas<END>
+<BEGIN>Portador da Geada<END>
+<BEGIN>Assassino de Gnoll<END>
+<BEGIN>Lâmina de Goblin<END>
+<BEGIN>Espada das Sombras<END>
+<BEGIN>Doador de Ódio<END>
+<BEGIN>Adaga Uivante<END>
+<BEGIN>Chama de Gelo<END>
+<BEGIN>Espada Longa Jarnal<END>
+<BEGIN>Lâmina de Resistência<END>
+<BEGIN>Espada da Dor<END>
+<BEGIN>Cortador Kelorekdar<END>
+<BEGIN>Alfanje de Oriin<END>
 <BEGIN>Throneblade<END>
-<BEGIN>Shadowheart<END>
-<BEGIN>Sword of Ykesha<END>
-<BEGIN>Sword of the Swamp<END>
-<BEGIN>Sword of the Morin<END>
-<BEGIN>Sword of Skyfire<END>
-<BEGIN>Sword of Shissar<END>
-<BEGIN>Sword of Valorious<END>
+<BEGIN>Coração Sombrio<END>
+<BEGIN>Espada dos Ykesha<END>
+<BEGIN>Espada do Pântano<END>
+<BEGIN>Espada do Morin<END>
+<BEGIN>Espada do Céufogo<END>
+<BEGIN>Espada do Shissar<END>
+<BEGIN>Espada de Valorous<END>
 <BEGIN>Validus Castodus<END>
-<BEGIN>Gigantic Zwiehander<END>
-<BEGIN>Acid Etched Warsword<END>
-<BEGIN>Acrylia Handled Broadsword<END>
-<BEGIN>Arbitors Combine Greatsword<END>
-<BEGIN>Argent Defender<END>
+<BEGIN>Zweihander Gigante<END>
+<BEGIN>Espada de Guerra Gravada em Ácido<END>
+<BEGIN>Espada de Cavaleiro de Acrylia<END>
+<BEGIN>Grande Espada Combinada dos Árbitros<END>
+<BEGIN>Defensor Argent<END>
 <BEGIN>Arydrydriyorn<END>
-<BEGIN>Basalt Greatsword<END>
-<BEGIN>Ebon Bastardsword<END>
-<BEGIN>Blade of Tormenting<END>
-<BEGIN>Blade of Passage<END>
-<BEGIN>Blade of the Tempest<END>
-<BEGIN>Blade of the Exiled<END>
-<BEGIN>Bone Bladed Claymore<END>
-<BEGIN>Brass Goblin Flamberge<END>
-<BEGIN>Bunker Battle Blade<END>
-<BEGIN>Shissar Warsword<END>
-<BEGIN>Defenders Blade<END>
-<BEGIN>Stormblade<END>
-<BEGIN>Drakel Bastard Sword<END>
-<BEGIN>Efreeti Zweihander<END>
-<BEGIN>Executioners Blade<END>
-<BEGIN>Frostwrath<END>
-<BEGIN>Griffins Sword<END>
-<BEGIN>Jarseth Battlesword<END>
-<BEGIN>Noctivigant Blade<END>
-<BEGIN>Reaver<END>
+<BEGIN>Grande Espada de Basalto<END>
+<BEGIN>Bastarda de Ébano<END>
+<BEGIN>Lâmina de Atormentar<END>
+<BEGIN>Lâmina da Passagem<END>
+<BEGIN>Lâmina da Tempestade<END>
+<BEGIN>Lâmina do Exilado<END>
+<BEGIN>Claymore com Lâmina de Osso<END>
+<BEGIN>Flamberge de Goblin de Latão<END>
+<BEGIN>Lâmina de Bunker<END>
+<BEGIN>Espada de Guerra Shissar<END>
+<BEGIN>Lâmina do Defensor<END>
+<BEGIN>Espada da Tempestade<END>
+<BEGIN>Bastarda de Drakel<END>
+<BEGIN>Zweihander Efreeti<END>
+<BEGIN>Lâmina do Executor<END>
+<BEGIN>Ira da Geada<END>
+<BEGIN>Espada do Grifo<END>
+<BEGIN>Bastarda de Jarseth<END>
+<BEGIN>Espada Noctivigant<END>
+<BEGIN>Esfolador<END>
 <BEGIN>Rhemguls<END>
-<BEGIN>Blackstar<END>
-<BEGIN>Blade of Falling Mauls<END>
-<BEGIN>Abrams Axe of Stoic<END>
-<BEGIN>Ashenbone Axe<END>
-<BEGIN>Axe of the Iron Back<END>
-<BEGIN>Axe of the Kromzek Kings<END>
-<BEGIN>Axe of the War Master<END>
-<BEGIN>Bone Razer<END>
-<BEGIN>Briar Zephyr<END>
-<BEGIN>Culler<END>
-<BEGIN>Cyrfangs Torment<END>
-<BEGIN>Earthcaller<END>
-<BEGIN>Edge of Cabilis<END>
-<BEGIN>Edge of the Nightwalker<END>
-<BEGIN>Flesh Ripper<END>
-<BEGIN>Glimmering Axe<END>
-<BEGIN>Goblin Axe<END>
-<BEGIN>Jade Axe<END>
-<BEGIN>Keen Edged Cleaver<END>
-<BEGIN>Sarnak Cleaver<END>
-<BEGIN>Validus Castodus Axe<END>
-<BEGIN>Cleaver of Souls<END>
-<BEGIN>Cleaver of Vengence<END>
-<BEGIN>Argent Protector<END>
-<BEGIN>Avenger Battleaxe<END>
-<BEGIN>Axe of Lost Souls<END>
-<BEGIN>Axe of Resistance<END>
-<BEGIN>Axe of Slayers<END>
-<BEGIN>Bloodfire<END>
-<BEGIN>Burner of Ro<END>
-<BEGIN>Defiance<END>
-<BEGIN>Disemboweler<END>
-<BEGIN>Drakel Ice Grinder<END>
-<BEGIN>Drakel Ice Reaver<END>
-<BEGIN>Efreeti War Axe<END>
-<BEGIN>Executioners Axe<END>
-<BEGIN>Frenzied Gnawer<END>
-<BEGIN>Face Grinder<END>
+<BEGIN>Estrela Negra<END>
+<BEGIN>Lâmina dos Malhos que Caem<END>
+<BEGIN>Machado Abrams do Estoico<END>
+<BEGIN>Machado de Osso Enegrecido<END>
+<BEGIN>Machado das Costas de Ferro<END>
+<BEGIN>Machado dos Reis Kromzek<END>
+<BEGIN>Machado do Mestre de Guerra<END>
+<BEGIN>Despedaçador de Ossos<END>
+<BEGIN>Zéfiro de Espinhos<END>
+<BEGIN>Cortador<END>
+<BEGIN>Tormento de Cyrfang<END>
+<BEGIN>Convocador da Terra<END>
+<BEGIN>Borda de Cabilis<END>
+<BEGIN>Borda do Andarilho Noturno<END>
+<BEGIN>Esfolador de Carne<END>
+<BEGIN>Machado Brilhante<END>
+<BEGIN>Machado de Goblin<END>
+<BEGIN>Machado de Jade<END>
+<BEGIN>Cleaver de Gumes Afíados<END>
+<BEGIN>Cleaver Sarnak<END>
+<BEGIN>Validus Castodus Cleaver<END>
+<BEGIN>Cleaver das Almas<END>
+<BEGIN>Cleaver de Vingança<END>
+<BEGIN>Protetor Argent<END>
+<BEGIN>Machado de Batalha do Vingador<END>
+<BEGIN>Machado das Almas Perdidas<END>
+<BEGIN>Machado da Resistência<END>
+<BEGIN>Machado dos Assassinos<END>
+<BEGIN>Sangue de Fogo<END>
+<BEGIN>Queimador de Ro<END>
+<BEGIN>Desafio<END>
+<BEGIN>Desentranhador<END>
+<BEGIN>Esmagador de Gelo Drakel<END>
+<BEGIN>Reaver de Gelo Drakel<END>
+<BEGIN>Machado de Guerra Efreeti<END>
+<BEGIN>Machado do Executor<END>
+<BEGIN>Gnawer Frenético<END>
+<BEGIN>Esfolador de Faces<END>
 <BEGIN>Grave Binder<END>
 <BEGIN>Hates Edge<END>
 <BEGIN>Norgetal<END>
