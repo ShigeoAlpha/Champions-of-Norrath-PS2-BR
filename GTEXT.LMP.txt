@@ -4493,13 +4493,13 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Dois Jogadores<END>
 <BEGIN>Três Jogadores<END>
 <BEGIN>Quatro Jogadores<END>
-<BEGIN>No save data present on memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.<END>
-<BEGIN>Saving data to memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.  Do not remove memory card (8MB)(for PlayStation%c2), reset or switch off console.
+<BEGIN>Nenhum dado de salvamento presente no cartão de memória (8MB) (para PlayStation%c2) no slot de CARTÃO DE MEMÓRIA %s.<END>
+<BEGIN>Salvando dados no cartão de memória (8MB) (para PlayStation%c2) no slot de CARTÃO DE MEMÓRIA %s. Não remova o cartão de memória (8MB) (para PlayStation%c2), reinicie ou desligue o console.
 
 <END>
-<BEGIN>memory card (8MB)(for PlayStation%c2) is missing in MEMORY CARD slot %s.<END>
-<BEGIN>memory card (8MB)(for PlayStation%c2)in MEMORY CARD slot %s was removed.  Please re-insert and try again.<END>
-<BEGIN>%c Cancel Request<END>
+<BEGIN>O cartão de memória (8MB) (para PlayStation%c2) está ausente no slot de CARTÃO DE MEMÓRIA %s.<END>
+<BEGIN>O cartão de memória (8MB) (para PlayStation%c2) no slot de CARTÃO DE MEMÓRIA %s foi removido. Por favor, reinsira e tente novamente.<END>
+<BEGIN>%c Cancelar Solicitação<END>
 <BEGIN>Recomendado para iniciantes.<END>
 <BEGIN>É recomendado um personagem de nível entre 1-20.<END>
 <BEGIN>Deve completar o jogo no modo Aventureiro primeiro.<END>
@@ -4509,1072 +4509,1072 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Aventureiro<END>
 <BEGIN>Corajoso<END>
 <BEGIN>Campeäo<END>
-<BEGIN>Burlap Armor<END>
-<BEGIN>Burlap Leggings<END>
-<BEGIN>Burlap Gloves<END>
-<BEGIN>Burlap Boots<END>
-<BEGIN>Burlap Helm<END>
-<BEGIN>Woolen Armor<END>
-<BEGIN>Woolen Leggings<END>
-<BEGIN>Woolen Gloves<END>
-<BEGIN>Woolen Boots<END>
-<BEGIN>Woolen Helm<END>
-<BEGIN>Silk Armor<END>
-<BEGIN>Silk Leggings<END>
-<BEGIN>Silk Gloves<END>
-<BEGIN>Silk Boots<END>
-<BEGIN>Silk Helm<END>
-<BEGIN>:  Adventurous<END>
-<BEGIN>:  Courageous<END>
-<BEGIN>:  Champion<END>
-<BEGIN>Patchwork Armor<END>
-<BEGIN>Patchwork Leggings<END>
-<BEGIN>Patchwork Boots<END>
-<BEGIN>Patchwork Gloves<END>
-<BEGIN>Patchwork Helmet<END>
-<BEGIN>Ringmail<END>
-<BEGIN>Ringmail Boots<END>
-<BEGIN>Ringmail Gloves<END>
-<BEGIN>Ringmail Helmet<END>
-<BEGIN>Ringmail Leggings<END>
-<BEGIN>Splintmail Leggings<END>
-<BEGIN>Splintmail<END>
-<BEGIN>Splintmail Boots<END>
-<BEGIN>Splintmail Gloves<END>
-<BEGIN>Splintmail Helmet<END>
-<BEGIN>Cloth Armor<END>
-<BEGIN>Cloth Leggings<END>
-<BEGIN>Cloth Gloves<END>
-<BEGIN>Cloth Boots<END>
-<BEGIN>Cloth Helm<END>
-<BEGIN>Linen Armor<END>
-<BEGIN>Linen Leggings<END>
-<BEGIN>Linen Gloves<END>
-<BEGIN>Linen Boots<END>
-<BEGIN>Linen Helm<END>
-<BEGIN>Embersilk Armor<END>
-<BEGIN>Embersilk Leggings<END>
-<BEGIN>Embersilk Gloves<END>
-<BEGIN>Embersilk Boots<END>
-<BEGIN>Embersilk Helm<END>
-<BEGIN>This is a %d player game, %d DUALSHOCK%c2 analog controllers are required to play.<END>
-<BEGIN>Bronze Shield<END>
-<BEGIN>Etched Shield<END>
-<BEGIN>Scale Shield<END>
-<BEGIN>Iron Shield<END>
-<BEGIN>Mane Shield<END>
-<BEGIN>Runed Shield<END>
-<BEGIN>Tiered Shield<END>
-<BEGIN>Scaled Shield<END>
-<BEGIN>Ornamental Shield<END>
-<BEGIN>Moon Shield<END>
-<BEGIN>Earthen Shield<END>
-<BEGIN>Tri Shield<END>
-<BEGIN>Balanced Shield<END>
-<BEGIN>Nova Shield<END>
-<BEGIN>Bloodiron Shield<END>
-<BEGIN>Lv.%d<END>
-<BEGIN>Waiting for other players:<END>
-<BEGIN>memory card (8MB)(for PlayStation%c2) is not inserted:<END>
-<BEGIN>Lesser Mana Vial<END>
-<BEGIN>Lesser Mana Potion<END>
-<BEGIN>Lesser Mana Flagon<END>
-<BEGIN>Mistmoore Ruby<END>
-<BEGIN>Configuration Changed<END>
-<BEGIN>Would you like to save your changes?<END>
-<BEGIN>Searching for memory card (8MB)(for PlayStation%c2):<END>
-<BEGIN>%d-%d Disease Damage<END>
-<BEGIN>Cannot Drop<END>
-<BEGIN>You cannot drop quest items.<END>
-<BEGIN>Disconnecting<END>
-<BEGIN>Sending disconnect message to other players...<END>
-<BEGIN>Northman Mace<END>
-<BEGIN>Dire Mace<END>
-<BEGIN>Dire Sword<END>
-<BEGIN> has left the game<END>
-<BEGIN>Lost connection to server<END>
-<BEGIN>You have been kicked out of the game!<END>
-<BEGIN>The host has left the game<END>
-<BEGIN>Race<END>
-<BEGIN>Gold<END>
-<BEGIN>Level<END>
+<BEGIN>Armadura de Juta<END>
+<BEGIN>Calças de Juta<END>
+<BEGIN>Luvas de Juta<END>
+<BEGIN>Botas de Juta<END>
+<BEGIN>Elmo de Juta<END>
+<BEGIN>Armadura de Lã<END>
+<BEGIN>Calças de Lã<END>
+<BEGIN>Luvas de Lã<END>
+<BEGIN>Botas de Lã<END>
+<BEGIN>Elmo de Lã<END>
+<BEGIN>Armadura de Seda<END>
+<BEGIN>Calças de Seda<END>
+<BEGIN>Luvas de Seda<END>
+<BEGIN>Botas de Seda<END>
+<BEGIN>Elmo de Seda<END>
+<BEGIN>: Aventureiro<END>
+<BEGIN>: Corajoso<END>
+<BEGIN>: Campeão<END>
+<BEGIN>Armadura de Remendo<END>
+<BEGIN>Calças de Remendo<END>
+<BEGIN>Botas de Remendo<END>
+<BEGIN>Luvas de Remendo<END>
+<BEGIN>Elmo de Remendo<END>
+<BEGIN>Cota de Malha<END>
+<BEGIN>Botas de Cota de Malha<END>
+<BEGIN>Luvas de Cota de Malha<END>
+<BEGIN>Elmo de Cota de Malha<END>
+<BEGIN>Calças de Cota de Malha<END>
+<BEGIN>Calças de Placas<END>
+<BEGIN>Placas de Peito<END>
+<BEGIN>Botas de Placas<END>
+<BEGIN>Luvas de Placas<END>
+<BEGIN>Elmo de Placas<END>
+<BEGIN>Armadura de Tecido<END>
+<BEGIN>Calças de Tecido<END>
+<BEGIN>Luvas de Tecido<END>
+<BEGIN>Botas de Tecido<END>
+<BEGIN>Elmo de Tecido<END>
+<BEGIN>Armadura de Linho<END>
+<BEGIN>Calças de Linho<END>
+<BEGIN>Luvas de Linho<END>
+<BEGIN>Botas de Linho<END>
+<BEGIN>Elmo de Linho<END>
+<BEGIN>Armadura de Seda de Brasas<END>
+<BEGIN>Calças de Seda de Brasas<END>
+<BEGIN>Luvas de Seda de Brasas<END>
+<BEGIN>Botas de Seda de Brasas<END>
+<BEGIN>Elmo de Seda de Brasas<END>
+<BEGIN>Este é um jogo para %d jogador, %d controladores analógicos DUALSHOCK%c2 são necessários para jogar.<END>
+<BEGIN>Escudo de Bronze<END>
+<BEGIN>Escudo Gravado<END>
+<BEGIN>Escudo Escamado<END>
+<BEGIN>Escudo de Ferro<END>
+<BEGIN>Escudo de Crina<END>
+<BEGIN>Escudo Entalhado<END>
+<BEGIN>Escudo em Camadas<END>
+<BEGIN>Escudo Escalonado<END>
+<BEGIN>Escudo Ornamental<END>
+<BEGIN>Escudo da Lua<END>
+<BEGIN>Escudo Terreno<END>
+<BEGIN>Escudo Triplo<END>
+<BEGIN>Escudo Balanceado<END>
+<BEGIN>Escudo Nova<END>
+<BEGIN>Escudo de Ferro Sanguíneo<END>
+<BEGIN>Nv.%d<END>
+<BEGIN>Aguardando outros jogadores:<END>
+<BEGIN>cartão de memória (8MB)(para PlayStation%c2) não está inserido:<END>
+<BEGIN>Frasco de Mana Menor<END>
+<BEGIN>Poção de Mana Menor<END>
+<BEGIN>Garrafa de Mana Menor<END>
+<BEGIN>Rubi de Mistmoore<END>
+<BEGIN>Configuração Alterada<END>
+<BEGIN>Você gostaria de salvar suas alterações?<END>
+<BEGIN>Procurando por cartão de memória (8MB)(para PlayStation%c2):<END>
+<BEGIN>Dano de Doença %d-%d<END>
+<BEGIN>Não Pode Descartar<END>
+<BEGIN>Você não pode descartar itens de missão.<END>
+<BEGIN>Desconectando<END>
+<BEGIN>Enviando mensagem de desconexão para outros jogadores...<END>
+<BEGIN>Maça dos Nortenhos<END>
+<BEGIN>Maça Dire<END>
+<BEGIN>Espada Dire<END>
+<BEGIN> saiu do jogo<END>
+<BEGIN>Perda de conexão com o servidor<END>
+<BEGIN>Você foi expulso do jogo!<END>
+<BEGIN>O anfitrião saiu do jogo<END>
+<BEGIN>Raça<END>
+<BEGIN>Ouro<END>
+<BEGIN>Nível<END>
 <BEGIN>Host<END>
-<BEGIN>Player %d<END>
-<BEGIN>Contacting...<END>
+<BEGIN>Jogador %d<END>
+<BEGIN>Conectando...<END>
 <BEGIN>%d%%<END>
-<BEGIN>Ready!<END>
-<BEGIN>Error.  Xmit size wrong.<END>
-<BEGIN>Network Game Launch<END>
-<BEGIN>Are you sure you want to cancel?<END>
-<BEGIN>Game Is Starting...<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Circlet<END>
-<BEGIN>Check Point: Waiting for busy player...<END>
-<BEGIN>%c  Next<END>
-<BEGIN>Chat Text<END>
-<BEGIN>Some players are un-reachable.  Game launch has failed.<END>
-<BEGIN>Loading data from memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.  Do not remove memory card (8MB)(for PlayStation%c2), reset or switch off console.
+<BEGIN>Pronto!<END>
+<BEGIN>Erro. Tamanho de transmissão errado.<END>
+<BEGIN>Início de Jogo em Rede<END>
+<BEGIN>Tem certeza de que deseja cancelar?<END>
+<BEGIN>O Jogo Está Começando...<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Bracelete<END>
+<BEGIN>Ponto de Verificação: Aguardando jogador ocupado...<END>
+<BEGIN>%c Próximo<END>
+<BEGIN>Texto do Chat<END>
+<BEGIN>Alguns jogadores estão inacessíveis. O lançamento do jogo falhou.<END>
+<BEGIN>Carregando dados do cartão de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÃO DE MEMÓRIA %s. Não remova o cartão de memória (8MB)(para PlayStation%c2), reinicie ou desligue o console.
 
 <END>
-<BEGIN>Please try again in one second<END>
-<BEGIN>Please try again in %d seconds<END>
-<BEGIN>Waiting for other players<END>
-<BEGIN>This save game contains a finished game.  Use for importing characters only.<END>
-<BEGIN>Deleting save game data from memory card (8MB)(for PlayStation%c2) in MEMORY CARD slot %s.  Do not remove memory card (8MB)(for PlayStation%c2), reset or switch off console.
+<BEGIN>Por favor, tente novamente em um segundo<END>
+<BEGIN>Por favor, tente novamente em %d segundos<END>
+<BEGIN>Aguardando outros jogadores<END>
+<BEGIN>Este salvamento contém um jogo concluído. Use apenas para importar personagens.<END>
+<BEGIN>Apagando dados de salvamento do cartão de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÃO DE MEMÓRIA %s. Não remova o cartão de memória (8MB)(para PlayStation%c2), reinicie ou desligue o console.
 
 <END>
-<BEGIN>%c Start Now   %c Back<END>
-<BEGIN>Are you sure you want to start the game before everyone has joined?<END>
-<BEGIN>The host has started the game without you.<END>
-<BEGIN> health regen rate<END>
-<BEGIN>Name Incomplete<END>
-<BEGIN>You must enter a name before continuing.<END>
-<BEGIN>Healing Tonic<END>
-<BEGIN>Greater Healing Tonic<END>
-<BEGIN>Healing Potion<END>
-<BEGIN>Greater Healing Potion<END>
-<BEGIN>Healing Elixir<END>
-<BEGIN>Greater Healing Elixir<END>
-<BEGIN>Mana Vial<END>
-<BEGIN>Greater Mana Vial<END>
-<BEGIN>Mana Potion<END>
-<BEGIN>Greater Mana Potion<END>
-<BEGIN>Mana Flagon<END>
-<BEGIN>Greater Mana Flagon<END>
-<BEGIN>No undead enemies present to convert<END>
-<BEGIN>A melee weapon is required for this skill<END>
-<BEGIN>Ranger Only<END>
-<BEGIN>Shadow Knight Only<END>
-<BEGIN>Cleric Only<END>
-<BEGIN>Ranger Only<END>
-<BEGIN>Wizard Only<END>
-<BEGIN>Warrior Only<END>
-<BEGIN>mana regeneration rate<END>
-<BEGIN>Exiting the Online menu will require you to reconnect to your internet service provider (if applicable) and log back on.  Would you still like to exit?<END>
-<BEGIN>Cannot save while vehicle in use!<END>
-<BEGIN>%cDrop %cBack<END>
-<BEGIN>This door does not open<END>
-<BEGIN>To the Cauldron of Souls<END>
-<BEGIN>This door does not open<END>
-<BEGIN>To the Cauldron of Souls<END>
-<BEGIN>But you will not live to s...<END>
-<BEGIN>OUR ERA?!<END>
-<BEGIN>Innoruuk... Lord Innoruuk, I meant no insult, only...<END>
-<BEGIN>I HAVE WATCHED YOU TRAVEL YOUR PATH, PELYS. EVERYTHING YOU HAVE TOUCHED HAS ENDED IN FAILURE AND RUIN. WERE IT NOT FOR YOU, NORRATH WOULD ALREADY BE MINE.<END>
-<BEGIN>YOU SOUGHT TO BECOME THE CHILD OF HATE, PELYS T'YVL. BUT TO HATE, ONE MUST SUFFER.<END>
-<BEGIN>Lord Innoruuk, I beg you, pl...<END>
-<BEGIN>So you survived. I suppose I should not be surprised. Shall we match blades one last time, champion of Norrath?<END>
-<BEGIN>Tell me, champion of Norrath, can you hear that?<END>
-<BEGIN>That horn was your gift to us. The only key that can open the portal of every plane of every god known in Norrath.<END>
-<BEGIN>That sound marks the closing of an age and the emergence of a new era. Our era.<END>
-<BEGIN>You do not have the power to defeat me.<END>
-<BEGIN>I will teach you the true meaning of pain.<END>
-<BEGIN>Your screams shall crack the stones of this Plane - and your blood shall fill those cracks.<END>
-<BEGIN>I will see you burn in hatred's fires.<END>
-<BEGIN>All remaining souls must be near to activate portal.<END>
-<BEGIN>To the Plane of Air<END>
-<BEGIN>All remaining souls must be near to activate portal.<END>
-<BEGIN>To the Plane of Air<END>
-<BEGIN>All remaining souls must be near to activate portal.<END>
-<BEGIN>To the Plane of Air<END>
-<BEGIN>All remaining souls must be near to activate portal.<END>
-<BEGIN>To the Plane of Air<END>
-<BEGIN>All the souls have died!<END>
-<BEGIN>You must make sure at least one soul makes it to the Plane of Air.<END>
+<BEGIN>%c Iniciar Agora   %c Voltar<END>
+<BEGIN>Tem certeza de que deseja iniciar o jogo antes que todos tenham se juntado?<END>
+<BEGIN>O anfitrião iniciou o jogo sem você.<END>
+<BEGIN>taxa de regeneração de saúde<END>
+<BEGIN>Nome Incompleto<END>
+<BEGIN>Você deve inserir um nome antes de continuar.<END>
+<BEGIN>Tônico de Cura<END>
+<BEGIN>Tônico de Cura Maior<END>
+<BEGIN>Poção de Cura<END>
+<BEGIN>Poção de Cura Maior<END>
+<BEGIN>Elixir de Cura<END>
+<BEGIN>Elixir de Cura Maior<END>
+<BEGIN>Frasco de Mana<END>
+<BEGIN>Frasco de Mana Maior<END>
+<BEGIN>Poção de Mana<END>
+<BEGIN>Poção de Mana Maior<END>
+<BEGIN>Garrafa de Mana<END>
+<BEGIN>Garrafa de Mana Maior<END>
+<BEGIN>Nenhum inimigo morto-vivo presente para converter<END>
+<BEGIN>Uma arma de combate corpo a corpo é necessária para esta habilidade<END>
+<BEGIN>Apenas para Guarda-Florestal<END>
+<BEGIN>Apenas para Cavaleiro das Sombras<END>
+<BEGIN>Apenas para Clérigo<END>
+<BEGIN>Apenas para Guarda-Florestal<END>
+<BEGIN>Apenas para Mago<END>
+<BEGIN>Apenas para Guerreiro<END>
+<BEGIN>taxa de regeneração de mana<END>
+<BEGIN>Sair do menu Online exigirá que você reconecte ao seu provedor de internet (se aplicável) e faça login novamente. Ainda deseja sair?<END>
+<BEGIN>Não é possível salvar enquanto o veículo está em uso!<END>
+<BEGIN>%cDescartar %cVoltar<END>
+<BEGIN>Esta porta não se abre<END>
+<BEGIN>Para o Caldeirão das Almas<END>
+<BEGIN>Esta porta não se abre<END>
+<BEGIN>Para o Caldeirão das Almas<END>
+<BEGIN>Mas você não viverá para v...<END>
+<BEGIN>Nossa Era?!<END>
+<BEGIN>Innoruuk... Senhor Innoruuk, eu não quis insultar, apenas...<END>
+<BEGIN>EU TENHO OBSERVADO VOCÊ PERCORRER SEU CAMINHO, PELYS. TUDO O QUE VOCÊ TOCOU ACABOU EM FRACASSO E RUÍNA. SE NÃO FOSSE POR VOCÊ, NORRATH JÁ SERIA MEU.<END>
+<BEGIN>VOCÊ BUSCOU SE TORNAR O FILHO DO ÓDIO, PELYS T'YVL. MAS PARA ODIAR, UM DEVE SOFRER.<END>
+<BEGIN>Senhor Innoruuk, eu lhe imploro, por favor...<END>
+<BEGIN>Então você sobreviveu. Suponho que não deveria me surpreender. Devemos combater uma última vez, campeão de Norrath?<END>
+<BEGIN>Diga-me, campeão de Norrath, você pode ouvir isso?<END>
+<BEGIN>Esse chifre foi seu presente para nós. A única chave que pode abrir o portal de todos os planos de todos os deuses conhecidos em Norrath.<END>
+<BEGIN>Esse som marca o fim de uma era e o surgimento de uma nova era. Nossa era.<END>
+<BEGIN>Você não tem o poder para me derrotar.<END>
+<BEGIN>Eu lhe ensinarei o verdadeiro significado da dor.<END>
+<BEGIN>Seus gritos vão rachar as pedras deste Plano - e seu sangue vai encher essas rachaduras.<END>
+<BEGIN>Vou vê-lo queimar no fogo do ódio.<END>
+<BEGIN>Todas as almas restantes devem estar próximas para ativar o portal.<END>
+<BEGIN>Para o Plano do Ar<END>
+<BEGIN>Todas as almas restantes devem estar próximas para ativar o portal.<END>
+<BEGIN>Para o Plano do Ar<END>
+<BEGIN>Todas as almas restantes devem estar próximas para ativar o portal.<END>
+<BEGIN>Para o Plano do Ar<END>
+<BEGIN>Todas as almas restantes devem estar próximas para ativar o portal.<END>
+<BEGIN>Para o Plano do Ar<END>
+<BEGIN>Todas as almas morreram!<END>
+<BEGIN>Você deve garantir que pelo menos uma alma chegue ao Plano do Ar.<END>
 <BEGIN>Firiona Vie<END>
-<BEGIN>Thank Tunare you have arrived. Free me and I can help you end Innoruuk's mad scheme. You see the seals? Break them, and I will be free.<END>
-<BEGIN>Hurry, there isn't much...<END>
-<BEGIN>YOU WERE A FOOL TO COME HERE.<END>
-<BEGIN>I WILL TEACH YOU WHAT IT MEANS TO SUFFER.<END>
-<BEGIN>YOU SHALL TROUBLE ME NO LONGER.<END>
-<BEGIN>DIE!<END>
-<BEGIN>YOU ARE STRONG TO HAVE COME THIS FAR. DO YOU THINK IT WAS YOUR FAITH THAT GAVE YOU THIS STRENGTH?<END>
-<BEGIN>YOU HAVE SLAUGHTERED LEGIONS CARVING YOUR PATH TO ME. AND YOU LIE IF YOU DENY THAT YOU TOOK PLEASURE IN THE BLOOD THAT POUNDED THROUGH YOUR VEINS WITH EACH ENEMY THAT FELL BEFORE YOU. IT WAS HATRED'S FIRE THAT BURNED IN YOUR HEART.<END>
-<BEGIN>THAT MAKES YOU MY DISCIPLE, NO MATTER WHAT GOD YOU SERVE. I NOW OFFER YOU THE CHANCE TO PLEDGE YOURSELF TO ME.<END>
-<BEGIN>YOUR SOUL... IS MINE.<END>
-<BEGIN>Thank Tunare you have arrived. Free me and I can help you end Innoruuk's mad scheme. You see the seals? Break them, and I will be free.<END>
-<BEGIN>End.<END>
-<BEGIN>Hurry, come with me!<END>
-<BEGIN>End.<END>
-<BEGIN>Thank Tunare you have arrived. Free me and I can help you end Innoruuk's mad scheme. You see the seals? Break them, and I will be free.<END>
-<BEGIN>End.<END>
-<BEGIN>Hurry, come with me!<END>
-<BEGIN>End.<END>
-<BEGIN>You are not blessed with Planar Steel!<END>
-<BEGIN>You must purge yourself of hate to harm Innoruuk.<END>
-<BEGIN>Seals remaining<END>
-<BEGIN>ENTER MY DOMAIN, AND I PROMISE YOU SUFFERING. PAIN. AND MORE DEATHS THAN A MORTAL MIND CAN IMAGINE.<END>
-<BEGIN>Open Door<END>
-<BEGIN>Open Door<END>
-<BEGIN>To the Halls of Despair<END>
-<BEGIN>To the Halls of Despair<END>
-<BEGIN>To the Halls of Despair<END>
-<BEGIN>To the Halls of Despair<END>
-<BEGIN>To the Halls of Despair<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Into the lair of Innoruuk<END>
-<BEGIN>Open Door<END>
-<BEGIN>Open Door<END>
-<BEGIN>The Barrier of Hatred.<END>
-<BEGIN>You have come far, my champion and your journey is nearly over. You have defeated the guardian of Innoruuk's fortress, and now he is vulnerable. The Barrier of Hate is his weakest point. It draws its power from his cauldron and shields his innermost sanctum.<END>
-<BEGIN>Save enough souls from his cauldron and the barrier will fall. Guide the souls through the Halls of Despair, across the Plane of Hate, and into the Plane of Air. You will know when enough have been saved.<END>
-<BEGIN>Destroy Innoruuk's Barrier<END>
-<BEGIN>Lead the souls from the Cauldron of Hate, through the Halls of Despair, to the Plane of Air.<END>
-<BEGIN>All the souls have died!<END>
-<BEGIN>You must make sure at least one soul makes it to the Plane of Air.<END>
-<BEGIN>This door does not open<END>
-<BEGIN>To the Cauldron of Souls<END>
-<BEGIN>That sound marks the closing of an age and the emergence of a new era. Our era.<END>
-<BEGIN>But you will not live to s...<END>
-<BEGIN>OUR ERA?!<END>
-<BEGIN>Innoruuk... Lord Innoruuk, I meant no insult, only...<END>
-<BEGIN>I HAVE WATCHED YOU TRAVEL YOUR PATH, PELYS. EVERYTHING YOU HAVE TOUCHED HAS ENDED IN FAILURE AND RUIN. WERE IT NOT FOR YOU, NORRATH WOULD ALREADY BE MINE.<END>
-<BEGIN>YOU SOUGHT TO BECOME THE CHILD OF HATE, PELYS T'YVL. BUT TO HATE, ONE MUST SUFFER.<END>
-<BEGIN>Lord Innoruuk, I beg you, pl...<END>
-<BEGIN>So you survived. I suppose I should not be surprised. Shall we match blades one last time, champion of Norrath?<END>
-<BEGIN>Tell me, champion of Norrath, can you hear that?<END>
-<BEGIN>That was the Horn of Ill Omen, your gift to us. The only key that can open the portal of every plane of every god known in Norrath.<END>
-<BEGIN>Oh, one last thing. I found this hidden in the bottom of the cage. I think that crazy human who had the cage before me buried it there. Take it. Could be important if you meet up with him again.<END>
-<BEGIN>All right, now I'm going. I'll see you back at that village on the other island when you get done killing everything here in the Pit.<END>
-<BEGIN>You. Stay away from me. Don't open this cage. I'm warning you.<END>
-<BEGIN>Babik? You're alive!<END>
-<BEGIN>Alive? Ha! Of course I'm alive, no thanks to you! Death apparently avoids me like the plague, but suffering seems to like me just fine.<END>
-<BEGIN>More...<END>
-<BEGIN>I can't win. I am destined to be punished for trying to help people.<END>
-<BEGIN>Let me get you out of there - where's the key?<END>
-<BEGIN>Key? The door isn't locked. There just wasn't much reason to leave until you showed up. And that's not much of a reason. Where would I have gone? This is a pretty small island, and it's crawling with slavers.<END>
-<BEGIN>Have you seen a man named Lazlo?<END>
-<BEGIN>There was some crazy human running around in chains. This used to be his cage, as a matter of fact. The slavers were asking him all sorts of questions and getting some real odd answers. I think they got tired of his squirrel talk and sent him through one of those weird gates, but I don't know which one. He's probably still alive somewhere.<END>
-<BEGIN>End.<END>
-<BEGIN>You aren't getting me outta here. I can still smell slavers on this island, and I'm not budging from this cage until the coast is clear. So to speak.<END>
-<BEGIN>Kill the slavers.<END>
-<BEGIN>Find all of the slavers hiding on and around the island and kill them.<END>
-<BEGIN>You say you washed up on some other island through one of those portals? Then I'll head there and rest my toes a bit. But no swimming. I've had enough of being on the waves for quite some time, thank you very much.<END>
-<BEGIN>More...<END>
-<BEGIN>Oh, one last thing. I found this hidden in the bottom of the cage. I think that crazy human who had the cage before me buried it there. Take it. Could be important if you meet up with him again.<END>
-<BEGIN>More...<END>
-<BEGIN>All right, now I'm going. I'll see you back at that village on the other island when you get done killing everything here in the Pit.<END>
-<BEGIN>End.<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
+<BEGIN>Que Tunare agradeço por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Você vê os selos? Quebre-os, e eu estarei livre.<END>
+<BEGIN>Depressa, não há muito...<END>
+<BEGIN>VOCÊ FOI UM TOLO EM VIR AQUI.<END>
+<BEGIN>EU VOU ENSINAR O QUE SIGNIFICA SOFRER.<END>
+<BEGIN>VOCÊ NÃO ME INCOMODARÁ MAIS.<END>
+<BEGIN>MORRA!<END>
+<BEGIN>VOCÊ É FORTE POR TER CHEGADO TÃO LONGE. VOCÊ ACHA QUE FOI SUA FÉ QUE LHE DEU ESSA FORÇA?<END>
+<BEGIN>VOCÊ MASSACROU LEGIÕES ABRINDO SEU CAMINHO ATÉ MIM. E VOCÊ MENTE SE NEGAR QUE SENTIU PRAZER NO SANGUE QUE PULSAVA EM SUAS VEIAS A CADA INIMIGO QUE CAÍA DIANTE DE VOCÊ. ERA O FOGO DO ÓDIO QUE ARDIA EM SEU CORAÇÃO.<END>
+<BEGIN>ISSO FAZ DE VOCÊ MEU DISCÍPULO, NÃO IMPORTA QUAL DEUS VOCÊ SIRVA. EU AGORA OFEREÇO A VOCÊ A CHANCE DE SE COMPROMETER COMIGO.<END>
+<BEGIN>SUA ALMA... É MINHA.<END>
+<BEGIN>Que Tunare agradeço por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Você vê os selos? Quebre-os, e eu estarei livre.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Depressa, venha comigo!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Que Tunare agradeço por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Você vê os selos? Quebre-os, e eu estarei livre.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Depressa, venha comigo!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Você não foi abençoado com Aço Planar!<END>
+<BEGIN>Você deve purificar-se do ódio para ferir Innoruuk.<END>
+<BEGIN>Seal restante<END>
+<BEGIN>ENTRE NO MEU DOMÍNIO, E EU LHE PROMETO SOFRIMENTO. DOR. E MAIS MORTE DO QUE UMA MENTE MORTAL PODE IMAGINAR.<END>
+<BEGIN>Abrir Porta<END>
+<BEGIN>Abrir Porta<END>
+<BEGIN>Para os Salões do Desespero<END>
+<BEGIN>Para os Salões do Desespero<END>
+<BEGIN>Para os Salões do Desespero<END>
+<BEGIN>Para os Salões do Desespero<END>
+<BEGIN>Para os Salões do Desespero<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>No covil de Innoruuk<END>
+<BEGIN>Abrir Porta<END>
+<BEGIN>Abrir Porta<END>
+<BEGIN>A Barreira do Ódio.<END>
+<BEGIN>Você chegou longe, meu campeão, e sua jornada está quase completa. Você derrotou o guardião da fortaleza de Innoruuk, e agora ele está vulnerável. A Barreira do Ódio é seu ponto mais fraco. Ela retira seu poder de seu caldeirão e protege seu santuário interior.<END>
+<BEGIN>Salve almas suficientes de seu caldeirão e a barreira cairá. Guie as almas pelos Salões do Desespero, através do Plano do Ódio, e para o Plano do Ar. Você saberá quando o suficiente tiver sido salvo.<END>
+<BEGIN>Destrua a Barreira de Innoruuk<END>
+<BEGIN>Guie as almas do Caldeirão do Ódio, através dos Salões do Desespero, até o Plano do Ar.<END>
+<BEGIN>Todas as almas morreram!<END>
+<BEGIN>Você deve garantir que pelo menos uma alma chegue ao Plano do Ar.<END>
+<BEGIN>Esta porta não se abre<END>
+<BEGIN>Para o Caldeirão das Almas<END>
+<BEGIN>Esse som marca o fim de uma era e o surgimento de uma nova era. Nossa era.<END>
+<BEGIN>Mas você não viverá para v...<END>
+<BEGIN>NOSSA ERA?!<END>
+<BEGIN>Innoruuk... Senhor Innoruuk, eu não quis insultar, apenas...<END>
+<BEGIN>EU TENHO OBSERVADO VOCÊ PERCORRER SEU CAMINHO, PELYS. TUDO O QUE VOCÊ TOCOU ACABOU EM FRACASSO E RUÍNA. SE NÃO FOSSE POR VOCÊ, NORRATH JÁ SERIA MEU.<END>
+<BEGIN>VOCÊ BUSCOU SE TORNAR O FILHO DO ÓDIO, PELYS T'YVL. MAS PARA ODIAR, UM DEVE SOFRER.<END>
+<BEGIN>Senhor Innoruuk, eu lhe imploro, por favor...<END>
+<BEGIN>Então você sobreviveu. Suponho que não deveria me surpreender. Devemos combater uma última vez, campeão de Norrath?<END>
+<BEGIN>Diga-me, campeão de Norrath, você pode ouvir isso?<END>
+<BEGIN>Aquele foi o Chifre do Mau Presságio, seu presente para nós. A única chave que pode abrir o portal de todos os planos de todos os deuses conhecidos em Norrath.<END>
+<BEGIN>Ah, mais uma coisa. Encontrei isso escondido no fundo da gaiola. Acho que aquele humano louco que teve a gaiola antes de mim o enterrou lá. Pegue. Pode ser importante se você encontrar com ele novamente.<END>
+<BEGIN>Certo, agora estou indo. Te vejo de volta naquela vila na outra ilha quando você terminar de matar tudo aqui no Abismo.<END>
+<BEGIN>Você. Fique longe de mim. Não abra esta gaiola. Estou te avisando.<END>
+<BEGIN>Babik? Você está vivo!<END>
+<BEGIN>Vivo? Ha! Claro que estou vivo, não graças a você! A morte aparentemente me evita como a peste, mas o sofrimento parece gostar de mim muito bem.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Não posso vencer. Estou destinado a ser punido por tentar ajudar as pessoas.<END>
+<BEGIN>Deixe-me te tirar daí - onde está a chave?<END>
+<BEGIN>Chave? A porta não está trancada. Simplesmente não havia muita razão para sair até você aparecer. E isso não é muita razão. Para onde eu iria? Esta é uma ilha bastante pequena, e está infestada de escravistas.<END>
+<BEGIN>Você viu um homem chamado Lazlo?<END>
+<BEGIN>Havia um humano maluco correndo por aí acorrentado. Esta costumava ser sua gaiola, aliás. Os escravistas estavam fazendo todo tipo de perguntas para ele e obtendo respostas muito estranhas. Acho que eles se cansaram de seu papo de esquilo e o mandaram por um daqueles portais estranhos, mas não sei para onde. Ele provavelmente ainda está vivo em algum lugar.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Você não vai me tirar daqui. Ainda posso sentir os escravistas nesta ilha, e não sairei desta gaiola até que a costa esteja limpa. Por assim dizer.<END>
+<BEGIN>Matem os escravistas.<END>
+<BEGIN>Encontrem todos os escravistas escondidos na ilha e matem-nos.<END>
+<BEGIN>Você diz que foi parar em outra ilha por um daqueles portais? Então irei para lá e descansarei um pouco. Mas nada de nadar. Já tive o suficiente de estar sobre as ondas por bastante tempo, muito obrigado.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Ah, mais uma coisa. Encontrei isso escondido no fundo da gaiola. Acho que aquele humano louco que teve a gaiola antes de mim o enterrou lá. Pegue. Pode ser importante se você encontrar com ele novamente.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Certo, agora estou indo. Te vejo de volta naquela vila na outra ilha quando você terminar de matar tudo aqui no Abismo.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
 <BEGIN>Babik Nurn<END>
 <BEGIN>Babik Nurn<END>
 <BEGIN>Babik Nurn<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
 <BEGIN>Babik Nurn<END>
 <BEGIN>Babik Nurn<END>
 <BEGIN>Babik Nurn<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>You. Stay away from me. Don't open this cage. I'm warning you.<END>
-<BEGIN>Babik? You're alive!<END>
-<BEGIN>Alive? Ha! Of course I'm alive, no thanks to you! Death apparently avoids me like the plague, but suffering seems to like me just fine.<END>
-<BEGIN>More...<END>
-<BEGIN>I can't win. I am destined to be punished for trying to help people.<END>
-<BEGIN>Let me get you out of there - where's the key?<END>
-<BEGIN>Key? The door isn't locked. There just wasn't much reason to leave until you showed up. And that's not much of a reason. Where would I have gone? This is a pretty small island, and it's crawling with slavers.<END>
-<BEGIN>Have you seen a man named Lazlo?<END>
-<BEGIN>There was some crazy human running around in chains. This used to be his cage, as a matter of fact. The slavers were asking him all sorts of questions and getting some real odd answers. I think they got tired of his squirrel talk and sent him through one of those weird gates, but I don't know which one. He's probably still alive somewhere.<END>
-<BEGIN>More...<END>
-<BEGIN>You aren't getting me outta here. I can still smell slavers on this island, and I'm not budging from this cage until the coast is clear. So to speak.<END>
-<BEGIN>End.<END>
-<BEGIN>You say you washed up on some other island through one of those portals? Then I'll head there and rest my toes a bit. But no swimming. I've had enough of being on the waves for quite some time, thank you very much.<END>
-<BEGIN>More...<END>
-<BEGIN>Oh, one last thing. I found this hidden in the bottom of the cage. I think that crazy human who had the cage before me buried it there. Take it. Could be important if you meet up with him again.<END>
-<BEGIN>All right, now I'm going. I'll see you back at that village on the other island when you get done killing everything here in the Pit.<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Você. Fique longe de mim. Não abra esta gaiola. Estou te avisando.<END>
+<BEGIN>Babik? Você está vivo!<END>
+<BEGIN>Vivo? Ha! Claro que estou vivo, não graças a você! A morte aparentemente me evita como a praga, mas o sofrimento parece gostar de mim muito bem.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Não consigo vencer. Estou destinado a ser punido por tentar ajudar as pessoas.<END>
+<BEGIN>Deixe-me te tirar daí - onde está a chave?<END>
+<BEGIN>Chave? A porta não está trancada. Simplesmente não havia muita razão para sair até você aparecer. E isso não é muita razão. Para onde eu iria? Esta é uma ilha bastante pequena, e está infestada de escravistas.<END>
+<BEGIN>Você viu um homem chamado Lazlo?<END>
+<BEGIN>Havia um humano maluco correndo por aí acorrentado. Esta costumava ser sua gaiola, aliás. Os escravistas estavam fazendo todo tipo de perguntas para ele e obtendo respostas muito estranhas. Acho que eles se cansaram de seu papo de esquilo e o mandaram por um daqueles portais estranhos, mas não sei para onde. Ele provavelmente ainda está vivo em algum lugar.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Você não vai me tirar daqui. Ainda posso sentir os escravistas nesta ilha, e não sairei desta gaiola até que a costa esteja limpa. Por assim dizer.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Você diz que foi parar em outra ilha por um daqueles portais? Então irei para lá e descansarei um pouco. Mas nada de nadar. Já tive o suficiente de estar sobre as ondas por bastante tempo, muito obrigado.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Ah, mais uma coisa. Encontrei isso escondido no fundo da gaiola. Acho que aquele humano louco que teve a gaiola antes de mim o enterrou lá. Pegue. Pode ser importante se você encontrar com ele novamente.<END>
+<BEGIN>Certo, agora estou indo. Te vejo de volta naquela vila na outra ilha quando você terminar de matar tudo aqui no Abismo.<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
 <BEGIN>Babik Nurn<END>
 <BEGIN>Babik Nurn<END>
 <BEGIN>Babik Nurn<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>To island caves<END>
-<BEGIN>You. Stay away from me. Don't open this cage. I'm warning you.<END>
-<BEGIN>Babik? You're alive!<END>
-<BEGIN>Alive? Ha! Of course I'm alive, no thanks to you! Death apparently avoids me like the plague, but suffering seems to like me just fine.<END>
-<BEGIN>More...<END>
-<BEGIN>I can't win. I am destined to be punished for trying to help people.<END>
-<BEGIN>Let me get you out of there - where's the key?<END>
-<BEGIN>Key? The door isn't locked. There just wasn't much reason to leave until you showed up. And that's not much of a reason. Where would I have gone? This is a pretty small island, and it's crawling with slavers.<END>
-<BEGIN>Have you seen a man named Lazlo?<END>
-<BEGIN>There was some crazy human running around in chains. This used to be his cage, as a matter of fact. The slavers were asking him all sorts of questions and getting some real odd answers. I think they got tired of his squirrel talk and sent him through one of those weird gates, but I don't know which one. He's probably still alive somewhere.<END>
-<BEGIN>More...<END>
-<BEGIN>You aren't getting me outta here. I can still smell slavers on this island, and I'm not budging from this cage until the coast is clear. So to speak.<END>
-<BEGIN>End.<END>
-<BEGIN>You say you washed up on some other island through one of those portals? Then I'll head there and rest my toes a bit. But no swimming. I've had enough of being on the waves for quite some time, thank you very much.<END>
-<BEGIN>More...<END>
-<BEGIN>There are 15 slavers left!<END>
-<BEGIN>There are 10 slavers left!<END>
-<BEGIN>There are 5 slavers left!<END>
-<BEGIN>There is only 1 slaver left!<END>
-<BEGIN>The island is clean.<END>
-<BEGIN>Check the caves around the island for more slavers.<END>
-<BEGIN>Kill the slavers.<END>
-<BEGIN>You've killed all the slavers!<END>
-<BEGIN>Slavers remaining<END>
-<BEGIN>Kill the slavers.<END>
-<BEGIN>Find all of the slavers hiding on and around the island and kill them.<END>
-<BEGIN>Meet with Babik.<END>
-<BEGIN>He may have something more for you on the Island of Ten Thousand Knives.<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Para as cavernas da ilha<END>
+<BEGIN>Você. Fique longe de mim. Não abra esta gaiola. Estou te avisando.<END>
+<BEGIN>Babik? Você está vivo!<END>
+<BEGIN>Vivo? Ha! Claro que estou vivo, não graças a você! A morte aparentemente me evita como a praga, mas o sofrimento parece gostar de mim muito bem.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Não consigo vencer. Estou destinado a ser punido por tentar ajudar as pessoas.<END>
+<BEGIN>Deixe-me te tirar daí - onde está a chave?<END>
+<BEGIN>Chave? A porta não está trancada. Simplesmente não havia muita razão para sair até você aparecer. E isso não é muita razão. Para onde eu iria? Esta é uma ilha bastante pequena, e está infestada de escravistas.<END>
+<BEGIN>Você viu um homem chamado Lazlo?<END>
+<BEGIN>Havia um humano maluco correndo por aí acorrentado. Esta costumava ser sua gaiola, aliás. Os escravistas estavam fazendo todo tipo de perguntas para ele e obtendo respostas muito estranhas. Acho que eles se cansaram de seu papo de esquilo e o mandaram por um daqueles portais estranhos, mas não sei para onde. Ele provavelmente ainda está vivo em algum lugar.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Você não vai me tirar daqui. Ainda posso sentir os escravistas nesta ilha, e não sairei desta gaiola até que a costa esteja limpa. Por assim dizer.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Você diz que foi parar em outra ilha por um daqueles portais? Então irei para lá e descansarei um pouco. Mas nada de nadar. Já tive o suficiente de estar sobre as ondas por bastante tempo, muito obrigado.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Ainda restam 15 escravistas!<END>
+<BEGIN>Ainda restam 10 escravistas!<END>
+<BEGIN>Ainda restam 5 escravistas!<END>
+<BEGIN>Só resta 1 escravista!<END>
+<BEGIN>A ilha está limpa.<END>
+<BEGIN>Verifique as cavernas ao redor da ilha para mais escravistas.<END>
+<BEGIN>Mate os escravistas.<END>
+<BEGIN>Você matou todos os escravistas!<END>
+<BEGIN>Escravistas restantes<END>
+<BEGIN>Mate os escravistas.<END>
+<BEGIN>Encontre todos os escravistas escondidos na ilha e mate-os.<END>
+<BEGIN>Encontre-se com Babik.<END>
+<BEGIN>Ele pode ter algo mais para você na Ilha das Dez Mil Facas.<END>
 <BEGIN>Hmmph! Hmmph!<END>
-<BEGIN>Look out. It's a trap!<END>
+<BEGIN>Cuidado. É uma armadilha!<END>
 <BEGIN>Rondo<END>
 <BEGIN>Rondo<END>
 <BEGIN>Rondo<END>
-<BEGIN>Outside to Western Island<END>
-<BEGIN>Outside to Western Island<END>
-<BEGIN>Outside to Western Island<END>
-<BEGIN>Outside to Western Island<END>
-<BEGIN>Outside to Island of Knives<END>
-<BEGIN>You need to protect Rondo!<END>
-<BEGIN>Outside to Island of Knives<END>
-<BEGIN>You need to protect Rondo!<END>
-<BEGIN>Outside to Island of Knives<END>
-<BEGIN>You need to protect Rondo!<END>
-<BEGIN>Outside to Island of Knives<END>
-<BEGIN>You need to protect Rondo!<END>
-<BEGIN>Outside to Hidden Shore<END>
+<BEGIN>Fora para a Ilha Oeste<END>
+<BEGIN>Fora para a Ilha Oeste<END>
+<BEGIN>Fora para a Ilha Oeste<END>
+<BEGIN>Fora para a Ilha Oeste<END>
+<BEGIN>Fora para a Ilha das Facas<END>
+<BEGIN>Você precisa proteger o Rondo!<END>
+<BEGIN>Fora para a Ilha das Facas<END>
+<BEGIN>Você precisa proteger o Rondo!<END>
+<BEGIN>Fora para a Ilha das Facas<END>
+<BEGIN>Você precisa proteger o Rondo!<END>
+<BEGIN>Fora para a Ilha das Facas<END>
+<BEGIN>Você precisa proteger o Rondo!<END>
+<BEGIN>Fora para a Costa Escondida<END>
 <BEGIN>Hmmph! Hmmph!<END>
-<BEGIN>More...<END>
-<BEGIN>Look out. It's a trap!<END>
-<BEGIN>End.<END>
-<BEGIN>Look out. It's a trap!<END>
-<BEGIN>End.<END>
-<BEGIN>Thank the Gods you rescued me. Those slavers were using me as a pack mule to carry what was left of the town of Water's Edge over to their camp on the western island. Then suddenly some orc pops through the portal and tells them to prepare an ambush for you. Guess they didn't prepare enough, huh?<END>
-<BEGIN>Right over there is the portal to the western island. Be careful. The orcs are as thick as flies there. They've got my poor brother, Lazlo. They've driven him mad with torture trying to figure out the secret of these portals.<END>
-<BEGIN>Look, I know you've already saved my life today, but if there's any way you can rescue my brother Lazlo from those slavers, I'd be grateful. Pretty soon they're going to realize he can't tell them anything they want to know, and they'll... well, I'll never see him again.<END>
-<BEGIN>Meet me back at Water's Edge if you can. Depending on what I can salvage from the stolen goods here, I might be able to rebuild my shop. Even restock it. If you need anything, come by and I'll give you what help I can.<END>
-<BEGIN>There are 15 slavers left!<END>
-<BEGIN>There are 10 slavers left!<END>
-<BEGIN>There are 5 slavers left!<END>
-<BEGIN>There is only 1 slaver left!<END>
-<BEGIN>This cave is clean.<END>
-<BEGIN>Check the island for more caves with more slavers.<END>
-<BEGIN>The cave is clean.<END>
-<BEGIN>There are still slavers on the island.<END>
-<BEGIN>This cave is clean.<END>
-<BEGIN>Check the island for more caves with more slavers.<END>
-<BEGIN>The cave is clean.<END>
-<BEGIN>There are still slavers on the island.<END>
-<BEGIN>Kill the slavers.<END>
-<BEGIN>You've killed all the slavers!<END>
-<BEGIN>Slavers remaining<END>
-<BEGIN>Save Rondo from the Dark Elves!<END>
+<BEGIN>Mais...<END>
+<BEGIN>Cuidado. É uma armadilha!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Cuidado. É uma armadilha!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Agradeça aos Deuses por me resgatar. Esses escravistas estavam me usando como uma mula para carregar o que restou da cidade de Água Rasa até o acampamento deles na ilha oeste. De repente, algum orc aparece pelo portal e diz para eles prepararem uma emboscada para você. Acho que eles não se prepararam o suficiente, hein?<END>
+<BEGIN>Lá está o portal para a ilha oeste. Tenha cuidado. Os orcs estão por toda parte lá. Eles têm meu pobre irmão, Lazlo. Eles o enlouqueceram com tortura tentando descobrir o segredo desses portais.<END>
+<BEGIN>Olha, eu sei que você já salvou minha vida hoje, mas se houver alguma maneira de você resgatar meu irmão Lazlo desses escravistas, eu ficaria grato. Logo eles perceberão que ele não pode lhes dizer nada do que querem saber, e eles... bem, eu nunca mais o verei.<END>
+<BEGIN>Encontre-me de volta em Água Rasa se puder. Dependendo do que eu puder recuperar dos bens roubados aqui, talvez eu consiga reconstruir minha loja. Até mesmo reabastecê-la. Se precisar de alguma coisa, passe por lá e te darei a ajuda que puder.<END>
+<BEGIN>Ainda restam 15 escravistas!<END>
+<BEGIN>Ainda restam 10 escravistas!<END>
+<BEGIN>Ainda restam 5 escravistas!<END>
+<BEGIN>Só resta 1 escravista!<END>
+<BEGIN>Esta caverna está limpa.<END>
+<BEGIN>Verifique a ilha por mais cavernas com mais escravistas.<END>
+<BEGIN>A caverna está limpa.<END>
+<BEGIN>Ainda há escravistas na ilha.<END>
+<BEGIN>Esta caverna está limpa.<END>
+<BEGIN>Verifique a ilha por mais cavernas com mais escravistas.<END>
+<BEGIN>A caverna está limpa.<END>
+<BEGIN>Ainda há escravistas na ilha.<END>
+<BEGIN>Mate os escravistas.<END>
+<BEGIN>Você matou todos os escravistas!<END>
+<BEGIN>Escravistas restantes<END>
+<BEGIN>Salve Rondo dos Elfos Negros!<END>
 <BEGIN>Rondo<END>
-<BEGIN>Rondo has died!<END>
-<BEGIN>You must make sure Rondo survives.<END>
-<BEGIN>Find Lazlo<END>
-<BEGIN>Rondo's brother, Lazlo, may know the secrets of the portals. Find him for more information.<END>
-<BEGIN>Explore the island<END>
-<BEGIN>Wood Elf King<END>
-<BEGIN>It is far too dangerous to ride the elevator now.<END>
-<BEGIN>Take elevator down to Lesser Faydark.<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Shopkeeper<END>
-<BEGIN>Halt! The Faydark lift is off limits by order of Leithkorias, Heartwood Master of the wood elves. No one is permitted to use the lift until every single goblin and orc is destroyed. No exceptions.<END>
+<BEGIN>Rondo morreu!<END>
+<BEGIN>Você precisa garantir que Rondo sobreviva.<END>
+<BEGIN>Encontre Lazlo<END>
+<BEGIN>O irmão de Rondo, Lazlo, pode conhecer os segredos dos portais. Encontre-o para mais informações.<END>
+<BEGIN>Explore a ilha<END>
+<BEGIN>Rei dos Elfos da Floresta<END>
+<BEGIN>É muito perigoso usar o elevador agora.<END>
+<BEGIN>Desça o elevador até a Pequena Faydark.<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Dono da loja dos Elfos da Floresta<END>
+<BEGIN>Alto! O elevador de Faydark está proibido por ordem de Leithkorias, Mestre da Floresta dos Elfos. Ninguém tem permissão para usar o elevador até que cada único goblin e orc seja destruído. Sem exceções.<END>
 <BEGIN>Ok.<END>
-<BEGIN>Vanquish Goblins<END>
-<BEGIN>Kill all of the Goblin's inside of Kelethin and the elevator will once again be safe to use.<END>
-<BEGIN>I would gladly sacrifice my life to prevent the enemy from taking this lift. I mean it.<END>
-<BEGIN>Alright already!<END>
-<BEGIN>That's the all-clear. The lift is now ready for operation!<END>
-<BEGIN>It was a pleasure.<END>
-<BEGIN>You will need supplies and weapons for the coming battle. Visit our shopkeeper, Nenmar. I have instructed him to provide you with whatever you need for a fair price.<END>
-<BEGIN>Sure.<END>
-<BEGIN>So, you're off to slay the raiders, are you? Well, my hat's off to you. I gave up the adventuring life centuries ago to open this shop. Tunare willing, things will get back to normal before too long.<END>
-<BEGIN>More...<END>
-<BEGIN>I'm afraid the raiders left a terrible mess. I hardly know which of the two is worse, the goblins or the orcs. Still, you're welcome to anything that might be useful to you.<END>
-<BEGIN>More...<END>
-<BEGIN>You never know what might come in handy during a battle, so it's a good idea to fill your pack.<END>
-<BEGIN>Enter Shop.<END>
-<BEGIN>End.<END>
-<BEGIN>Ah, you're back. What can I get you?<END>
-<BEGIN>Enter Shop.<END>
-<BEGIN>End.<END>
-<BEGIN>Thank you for your help. Good Luck.<END>
-<BEGIN>End.<END>
-<BEGIN>Do not distract me..I must stand on guard.<END>
-<BEGIN>End.<END>
-<BEGIN>On your way now, there is much to be done.<END>
-<BEGIN>End.<END>
-<BEGIN>The elevator will take you down to Greater Faydark. Go now...<END>
-<BEGIN>End.<END>
-<BEGIN>The store is just beyond the elevator...I suggest you ready yourself for battle.<END>
-<BEGIN>End.<END>
-<BEGIN>There are Goblins in the village. Until they've been repelled, we dare not open the way!<END>
+<BEGIN>Derrote os Goblins<END>
+<BEGIN>Mate todos os Goblins dentro de Kelethin e o elevador estará seguro para uso novamente.<END>
+<BEGIN>Eu sacrificaria minha vida para impedir o inimigo de pegar este elevador. Falo sério.<END>
+<BEGIN>Tudo bem já!<END>
+<BEGIN>Está tudo liberado. O elevador agora está pronto para operação!<END>
+<BEGIN>Foi um prazer.<END>
+<BEGIN>Você precisará de suprimentos e armas para a batalha que está por vir. Visite nosso lojista, Nenmar. Eu o instruí a lhe fornecer tudo o que você precisar por um preço justo.<END>
+<BEGIN>Claro.<END>
+<BEGIN>Então, você está indo para matar os saqueadores, não é? Bem, tiro o meu chapéu para você. Eu desisti da vida de aventuras há séculos para abrir esta loja. Com a vontade de Tunare, as coisas voltarão ao normal em breve.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Receio que os saqueadores tenham deixado uma bagunça terrível. Mal sei dizer qual dos dois é pior, os goblins ou os orcs. Ainda assim, você pode pegar qualquer coisa que possa ser útil para você.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Nunca se sabe o que pode ser útil durante uma batalha, então é uma boa ideia encher sua mochila.<END>
+<BEGIN>Entrar na loja.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Ah, você voltou. O que posso pegar para você?<END>
+<BEGIN>Entrar na loja.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Obrigado pela sua ajuda. Boa sorte.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Não me distraia..Preciso ficar de guarda.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Vá agora, há muito a ser feito.<END>
+<BEGIN>Fim.<END>
+<BEGIN>O elevador o levará até a Grande Floresta Negra. Vá agora...<END>
+<BEGIN>Fim.<END>
+<BEGIN>A loja fica logo após o elevador... Sugiro que se prepare para a batalha.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Há Goblins na vila. Até que sejam repelidos, não podemos abrir o caminho!<END>
 <BEGIN>Ok.<END>
-<BEGIN>Vanquish Goblins<END>
-<BEGIN>Kill all of the Goblin's inside of Kelethin and the elevator will once again be safe to use.<END>
-<BEGIN>There are still goblins about, we dare not open the way!<END>
-<BEGIN>Alright already!<END>
-<BEGIN>Our village is safe again. Thank you.<END>
-<BEGIN>It was a pleasure.<END>
-<BEGIN>I Can't tell you how much your help means to us.<END>
-<BEGIN>Sure.<END>
-<BEGIN>Hero, eh? Haven't seen one of your kind since the Twelve Riders of Despair came tromping through here a couple of centuries back. I hope, unlike them, you'll actually have the courtesy to pay me.<END>
-<BEGIN>More...<END>
-<BEGIN>Goblins have raided a lot of our stock, but we still have a few knickknacks and even a weapon or two lying about.<END>
-<BEGIN>More...<END>
-<BEGIN>If you're heading into battle, you'll need everything you can get.<END>
-<BEGIN>Enter Shop.<END>
-<BEGIN>End.<END>
-<BEGIN>Well! You're back! What can I do for you?<END>
-<BEGIN>Enter Shop.<END>
-<BEGIN>End.<END>
-<BEGIN>Thank you for your help. Good Luck.<END>
-<BEGIN>End.<END>
-<BEGIN>Do not distract me..I must stand on guard.<END>
-<BEGIN>End.<END>
-<BEGIN>On your way now, there is much to be done.<END>
-<BEGIN>End.<END>
-<BEGIN>The elevator will take you down to Greater Faydark. Go now...<END>
-<BEGIN>End.<END>
-<BEGIN>The store is just beyond the elevator...I suggest you ready yourself for battle.<END>
-<BEGIN>End.<END>
-<BEGIN>Wood Elf King<END>
-<BEGIN>It is far too dangerous to ride the elevator now.<END>
-<BEGIN>Take elevator down to Lesser Faydark.<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Shopkeeper<END>
+<BEGIN>Derrote os Goblins<END>
+<BEGIN>Mate todos os Goblins dentro de Kelethin e o elevador estará seguro para uso novamente.<END>
+<BEGIN>Ainda há goblins por aí, não ousamos abrir o caminho!<END>
+<BEGIN>Tudo bem já!<END>
+<BEGIN>Nossa vila está segura novamente. Obrigado.<END>
+<BEGIN>Foi um prazer.<END>
+<BEGIN>Não posso dizer o quanto sua ajuda significa para nós.<END>
+<BEGIN>Claro.<END>
+<BEGIN>Herói, hein? Não vejo um de sua espécie desde que os Doze Cavaleiros do Desespero passaram por aqui alguns séculos atrás. Espero que, ao contrário deles, você realmente tenha a cortesia de me pagar.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Os Goblins saquearam muitos de nossos estoques, mas ainda temos alguns bibelôs e até mesmo uma arma ou duas por aí.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Se você está indo para a batalha, precisará de tudo o que puder conseguir.<END>
+<BEGIN>Entrar na loja.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Bem! Você voltou! O que posso fazer por você?<END>
+<BEGIN>Entrar na loja.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Obrigado pela sua ajuda. Boa sorte.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Não me distraia..Preciso ficar de guarda.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Vá agora, há muito a ser feito.<END>
+<BEGIN>Fim.<END>
+<BEGIN>O elevador o levará até a Grande Floresta Negra. Vá agora...<END>
+<BEGIN>Fim.<END>
+<BEGIN>A loja fica logo após o elevador... Sugiro que se prepare para a batalha.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Rei dos Elfos da Floresta<END>
+<BEGIN>É muito perigoso usar o elevador agora.<END>
+<BEGIN>Desça o elevador até a Pequena Fada Negra.<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Dono da loja dos Elfos da Floresta<END>
 <BEGIN>Nenmar<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Thareil<END>
-<BEGIN>It is far too dangerous to ride the elevator now.<END>
-<BEGIN>Take elevator down to Lesser Faydark.<END>
+<BEGIN>Está muito perigoso usar o elevador agora.<END>
+<BEGIN>Desça o elevador até a Pequena Fada Negra.<END>
 <BEGIN>Leithkorias<END>
-<BEGIN>The Goblins are dead!<END>
-<BEGIN>It is once again safe to use the elevator.<END>
-<BEGIN>Vanquish Goblins<END>
-<BEGIN>There are 15 Goblins left!<END>
-<BEGIN>There are 10 Goblins left!<END>
-<BEGIN>There are 5 Goblins left!<END>
-<BEGIN>There is only 1 more Goblin in Kelethin!<END>
+<BEGIN>Os Goblins estão mortos!<END>
+<BEGIN>É seguro usar o elevador novamente.<END>
+<BEGIN>Derrote os Goblins<END>
+<BEGIN>Ainda restam 15 Goblins!<END>
+<BEGIN>Ainda restam 10 Goblins!<END>
+<BEGIN>Ainda restam 5 Goblins!<END>
+<BEGIN>Só há mais 1 Goblin em Kelethin!<END>
 <BEGIN>Goblins<END>
-<BEGIN>Halt! The Faydark lift is off limits by order of Leithkorias, Heartwood Master of the wood elves. No one is permitted to use the lift until every single goblin and orc is destroyed. No exceptions.<END>
+<BEGIN>Alto! O elevador da Floresta Negra está proibido por ordem de Leithkorias, Mestre do Coração de Madeira dos elfos da floresta. Ninguém está autorizado a usar o elevador até que todos os goblins e orcs sejam destruídos. Sem exceções.<END>
 <BEGIN>Ok.<END>
-<BEGIN>Vanquish Goblins<END>
-<BEGIN>Kill all of the Goblin's inside of Kelethin and the elevator will once again be safe to use.<END>
-<BEGIN>I would gladly sacrifice my life to prevent the enemy from taking this lift. I mean it.<END>
-<BEGIN>Alright already!<END>
-<BEGIN>That's the all-clear. The lift is now ready for operation!<END>
-<BEGIN>It was a pleasure.<END>
-<BEGIN>You will need supplies and weapons for the coming battle. Visit our shopkeeper, Nenmar. I have instructed him to provide you with whatever you need for a fair price.<END>
-<BEGIN>Sure.<END>
-<BEGIN>So, you're off to slay the raiders, are you? Well, my hat's off to you. I gave up the adventuring life centuries ago to open this shop. Tunare willing, things will get back to normal before too long.<END>
-<BEGIN>More...<END>
-<BEGIN>I'm afraid the raiders left a terrible mess. I hardly know which of the two is worse, the goblins or the orcs. Still, you're welcome to anything that might be useful to you.<END>
-<BEGIN>More...<END>
-<BEGIN>You never know what might come in handy during a battle, so it's a good idea to fill your pack.<END>
-<BEGIN>Enter Shop.<END>
-<BEGIN>End.<END>
-<BEGIN>Ah, you're back. What can I get you?<END>
-<BEGIN>Enter Shop.<END>
-<BEGIN>End.<END>
-<BEGIN>Thank you for your help. Good Luck.<END>
-<BEGIN>End.<END>
-<BEGIN>Do not distract me... I must stand on guard.<END>
-<BEGIN>End.<END>
-<BEGIN>On your way now, there is much to be done.<END>
-<BEGIN>End.<END>
-<BEGIN>The elevator will take you down to Greater Faydark. Go now...<END>
-<BEGIN>End.<END>
-<BEGIN>The store is just beyond the elevator... I suggest you ready yourself for battle.<END>
-<BEGIN>End.<END>
-<BEGIN>Wood Elf King<END>
-<BEGIN>It is far too dangerous to ride the elevator now.<END>
-<BEGIN>Take elevator down to Lesser Faydark.<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Shopkeeper<END>
-<BEGIN>Player Selection will occur here.<END>
-<BEGIN>There are 15 Goblins left!<END>
-<BEGIN>There are 10 Goblins left!<END>
-<BEGIN>There are 5 Goblins left!<END>
-<BEGIN>There is only 1 more Goblin in Kelethin!<END>
-<BEGIN>The Goblins are dead!<END>
-<BEGIN>It is once again safe to use the elevator.<END>
-<BEGIN>Vanquish Goblins<END>
-<BEGIN>Halt! The Faydark lift's off limits, by order of Liethkorias. Until the goblin raiders are destroyed, no one comes or goes.<END>
-<BEGIN>More...<END>
-<BEGIN>Vanquish Goblins<END>
-<BEGIN>Kill all of the Goblin's inside of Kelethin and the elevator will once again be safe to use.<END>
-<BEGIN>No exceptions.<END>
+<BEGIN>Derrote os Goblins<END>
+<BEGIN>Mate todos os Goblins dentro de Kelethin e o elevador estará seguro para uso novamente.<END>
+<BEGIN>Eu sacrificaria minha vida com prazer para evitar que o inimigo tomasse este elevador. Estou falando sério.<END>
+<BEGIN>Tudo bem já!<END>
+<BEGIN>Isso é tudo. O elevador está pronto para operação agora!<END>
+<BEGIN>Foi um prazer.<END>
+<BEGIN>Você precisará de suprimentos e armas para a batalha que se aproxima. Visite nosso comerciante, Nenmar. Eu o instruí a lhe fornecer tudo o que precisar por um preço justo.<END>
+<BEGIN>Claro.<END>
+<BEGIN>Então, você está indo para matar os invasores, não é? Bem, tiro meu chapéu para você. Abandonei a vida de aventuras séculos atrás para abrir esta loja. Se Tunare quiser, as coisas voltarão ao normal em breve.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Temo que os invasores tenham deixado uma bagunça terrível. Mal sei qual dos dois é pior, os goblins ou os orcs. Ainda assim, você pode pegar qualquer coisa que possa ser útil para você.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Você nunca sabe o que pode ser útil durante uma batalha, então é uma boa ideia encher sua mochila.<END>
+<BEGIN>Entrar na loja.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Ah, você voltou. O que posso fazer por você?<END>
+<BEGIN>Entrar na loja.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Obrigado por sua ajuda. Boa sorte.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Não me distraia... Preciso ficar de guarda.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Continue agora, há muito a ser feito.<END>
+<BEGIN>Fim.<END>
+<BEGIN>O elevador o levará até a Grande Floresta Negra. Vá agora...<END>
+<BEGIN>Fim.<END>
+<BEGIN>A loja fica logo após o elevador... Sugiro que se prepare para a batalha.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Rei dos Elfos da Floresta<END>
+<BEGIN>Está muito perigoso usar o elevador agora.<END>
+<BEGIN>Desça o elevador até a Pequena Fada Negra.<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Dono da loja dos Elfos da Floresta<END>
+<BEGIN>Seleção do jogador ocorrerá aqui.<END>
+<BEGIN>Ainda restam 15 Goblins!<END>
+<BEGIN>Ainda restam 10 Goblins!<END>
+<BEGIN>Ainda restam 5 Goblins!<END>
+<BEGIN>Só há mais 1 Goblin em Kelethin!<END>
+<BEGIN>Os Goblins estão mortos!<END>
+<BEGIN>É seguro usar o elevador novamente.<END>
+<BEGIN>Derrote os Goblins<END>
+<BEGIN>Alto! O elevador da Floresta Negra está proibido por ordem de Liethkorias. Até que os invasores goblins sejam destruídos, ninguém entra ou sai.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Derrote os Goblins<END>
+<BEGIN>Mate todos os Goblins dentro de Kelethin e o elevador estará seguro para uso novamente.<END>
+<BEGIN>Sem exceções.<END>
 <BEGIN>Ok.<END>
-<BEGIN>Sorry, but no one is using this lift until every filthy goblin in this village is dead. Orders is orders.<END>
-<BEGIN>Alright already!<END>
-<BEGIN>All right then, they've sounded the all-clear. You can use the lift.<END>
-<BEGIN>It was a pleasure.<END>
-<BEGIN>I Can't tell you how much your help means to us.<END>
-<BEGIN>Sure.<END>
-<BEGIN>So, off to slay the raiders, eh? Well...far better you than I. I gave up the adventuring life centuries ago to open this shop, and Tunare willing, I'll be happy for things to get to the way they were.<END>
-<BEGIN>More...<END>
-<BEGIN>The Goblins have left things a mess, but you're welcome to anything that still looks useful.<END>
-<BEGIN>More...<END>
-<BEGIN>Take my word of advice, though. You'll never know what will be useful during battle, so filling your pack is never a bad idea.<END>
-<BEGIN>Enter Shop.<END>
-<BEGIN>End.<END>
-<BEGIN>Ah, you're back. What can I get for you?<END>
-<BEGIN>Enter Shop.<END>
-<BEGIN>End.<END>
-<BEGIN>Thank you for your help. Good Luck.<END>
-<BEGIN>End.<END>
-<BEGIN>Do not distract me..I must stand on guard.<END>
-<BEGIN>End.<END>
-<BEGIN>On your way now, there is much to be done.<END>
-<BEGIN>End.<END>
-<BEGIN>The elevator will take you down to Greater Faydark. Go now...<END>
-<BEGIN>End.<END>
-<BEGIN>The store is just beyond the elevator...I suggest you ready yourself for battle.<END>
-<BEGIN>End.<END>
-<BEGIN>Ah, a welcome sight indeed! My heart rejoices! If nothing else, I am wealthy in friends. But I warn you, the road ahead will not be an easy one. You may think the enemy nothing more than a rabble of ill disciplined orcs and goblins. Do not be deceived.<END>
-<BEGIN>These beasts are treacherous, and they are led by an orc who is bigger, stronger, and more cunning than any I have ever met. His presence alone whips these orcs and goblins into the army that cuts its way towards us even now.<END>
-<BEGIN>But if someone, a hero, were to carry the battle to this orc chieftain, then perhaps our fortunes could be reversed.<END>
-<BEGIN>I need you to enter the Great Faydark forest, discover who this orc chieftain is, what his plans are, and if possible, defeat him.<END>
-<BEGIN>You will need supplies and weapons for the coming battle. Visit our shopkeeper, Nenmar. I have instructed him to provide you with whatever you need for a fair price.<END>
+<BEGIN>Desculpe, mas ninguém usará este elevador até que cada goblin sujo desta vila esteja morto. Ordem é ordem.<END>
+<BEGIN>Tudo bem já!<END>
+<BEGIN>Tudo bem então, soaram o sinal de tudo limpo. Você pode usar o elevador.<END>
+<BEGIN>Foi um prazer.<END>
+<BEGIN>Não posso dizer o quanto sua ajuda significa para nós.<END>
+<BEGIN>Claro.<END>
+<BEGIN>Então, indo matar os invasores, hein? Bem... muito melhor você do que eu. Abandonei a vida de aventuras séculos atrás para abrir esta loja, e se Tunare quiser, ficarei feliz por as coisas voltarem ao normal.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Os Goblins deixaram tudo uma bagunça, mas você pode pegar qualquer coisa que ainda pareça útil.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Dê ouvidos ao meu conselho, porém. Você nunca sabe o que será útil durante a batalha, então encher sua mochila nunca é uma má ideia.<END>
+<BEGIN>Entrar na loja.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Ah, você voltou. O que posso fazer por você?<END>
+<BEGIN>Entrar na loja.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Obrigado por sua ajuda. Boa sorte.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Não me distraia... Preciso ficar de guarda.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Vá agora, há muito a ser feito.<END>
+<BEGIN>Fim.<END>
+<BEGIN>O elevador o levará até a Grande Floresta Negra. Vá agora...<END>
+<BEGIN>Fim.<END>
+<BEGIN>A loja fica logo após o elevador... Sugiro que se prepare para a batalha.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Ah, uma visão bem-vinda de fato! Meu coração se alegra! Se nada mais, sou rico em amigos. Mas eu o aviso, o caminho à frente não será fácil. Você pode pensar que o inimigo não passa de uma ralé de orcs e goblins indisciplinados. Não seja enganado.<END>
+<BEGIN>Essas bestas são traiçoeiras, e são lideradas por um orc que é maior, mais forte e mais astuto do que qualquer um que já conheci. Sua simples presença incita esses orcs e goblins a se transformarem no exército que corta seu caminho em direção a nós mesmo agora.<END>
+<BEGIN>Mas se alguém, um herói, levar a batalha até este chefe orc, então talvez nossas fortunas possam ser revertidas.<END>
+<BEGIN>Preciso que você entre na Floresta Grande de Faydark, descubra quem é este chefe orc, quais são seus planos e, se possível, derrote-o.<END>
+<BEGIN>Você precisará de suprimentos e armas para a batalha que se aproxima. Visite nosso comerciante, Nenmar. Eu o instruí a lhe fornecer tudo o que precisar por um preço justo.<END>
 <BEGIN>Campeöes de Norrath, agradeço por atenderem ao meu chamado neste que pode ser nosso momento mais sombrio. O impensável aconteceu. Orcs e goblins, outrora inimigos mortais, agora se tornaram aliados e atacaram nosso amado lar em Faydwer.<END>
 <BEGIN>Mesmo enquanto falamos, eles avançam pela floresta de Faydark sem oposiçäo. Eles saquearam nosso lar, Kelethin, e puseram nossos entes queridos à espada. Seus rastros deixam cicatrizes na terra que talvez nunca se curem.<END>
 <BEGIN>No entanto, meus amigos, temo que isso seja apenas o começo. Se Faydark cair, entäo cairá Faydwer, e entäo essas bestas teräo toda Norrath pela garganta. Esta näo é uma batalha que estamos travando, é uma guerra, e é uma que devemos vencer.<END>
 <BEGIN>Muitos bravos lutadores caíram e muitos mais estäo morrendo nas florestas abaixo. Para vencer esta guerra, eu preciso de mais do que soldados com vontade de lutar. Eu preciso de heróis! Homens e mulheres de força e bravura, que possam desviar essa maré de ódio que ameaça nosso reino e toda Norrath.<END>
 <BEGIN>Quem dentre vocês pegará a espada, o cajado, o martelo e expulsará essa praga de nossa terra? Se houver alguém que esteja disposto a sacrificar sua vida pela glória de Faydwer, pela defesa de Norrath, que fale agora!<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf Guard<END>
-<BEGIN>Wood Elf King<END>
-<BEGIN>Ah, a welcome sight indeed! My heart rejoices! If nothing else, I am wealthy in friends. But I warn you, the road ahead will not be an easy one. You may think the enemy nothing more than a rabble of ill disciplined orcs and goblins. Do not be deceived.<END>
-<BEGIN>These beasts are treacherous, and they are led by an orc who is bigger, stronger, and more cunning than any I have ever met. His presence alone whips these orcs and goblins into the army that cuts its way towards us even now.<END>
-<BEGIN>But if someone, a hero, were to carry the battle to this orc chieftain, then perhaps our fortunes could be reversed.<END>
-<BEGIN>I need you to enter the Great Faydark forest, discover who this orc chieftain is, what his plans are, and if possible, defeat him.<END>
-<BEGIN>You will need supplies and weapons for the coming battle. Visit our shopkeeper, Nenmar. I have instructed him to provide you with whatever you need for a fair price.<END>
-<BEGIN>Champions of Norrath, thank you for answering my call in what may be our darkest hour. The unthinkable has happened. Orcs and goblins, once mortal enemies, have now become allies and attacked our beloved home in Faydwer.<END>
-<BEGIN>Even as we speak, they move through Faydark forest unopposed. They have pillaged our home, Kelethin, and put our loved ones to the sword. Their tracks leave scars upon the land that may never be healed.<END>
-<BEGIN>Yet, my friends, I fear that this is only the beginning. If Faydark falls, then so falls Faydwer and then these beasts will have all of Norrath by the throat. This is not a battle we are fighting, it is a war, and it is one we must win.<END>
-<BEGIN>Many brave fighters have fallen and many more are dying in the forests below. To win this war, I need more than soldiers with a will to fight. I need heroes! Men and women of strength, and bravery, who can turn aside this tide of hate that threatens our kingdom and all of Norrath.<END>
-<BEGIN>Who amongst you will take up the sword, the staff, the hammer and drive this scourge from our land? If there be any who would lay down their life for the glory of Faydwer, for the defense of Norrath, then speak now!<END>
-<BEGIN>You cannot breathe underwater.<END>
-<BEGIN>Enter the underwater cave<END>
-<BEGIN>Into Caves<END>
-<BEGIN>Into Caves<END>
-<BEGIN>Into Caves<END>
-<BEGIN>Into Caves<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Guarda dos Elfos da Floresta<END>
+<BEGIN>Rei dos Elfos da Floresta<END>
+<BEGIN>Ah, uma visão bem-vinda de fato! Meu coração se alegra! Se nada mais, sou rico em amigos. Mas eu te aviso, o caminho à frente não será fácil. Você pode pensar que o inimigo não passa de uma multidão de orcs e goblins mal disciplinados. Não se engane.<END>
+<BEGIN>Essas bestas são traiçoeiras, e são lideradas por um orc que é maior, mais forte e mais astuto do que qualquer um que já conheci. Sua presença sozinha incita esses orcs e goblins no exército que avança em nossa direção até mesmo agora.<END>
+<BEGIN>Mas se alguém, um herói, levasse a batalha para este chefe orc, então talvez nossa sorte pudesse ser revertida.<END>
+<BEGIN>Eu preciso que você entre na Grande Floresta Faydark, descubra quem é este chefe orc, quais são seus planos e, se possível, o derrote.<END>
+<BEGIN>Você precisará de suprimentos e armas para a batalha que está por vir. Visite nosso lojista, Nenmar. Eu o instruí a lhe fornecer o que você precisar por um preço justo.<END>
+<BEGIN>Campeões de Norrath, obrigado por responderem ao meu chamado no que pode ser nossa hora mais sombria. O impensável aconteceu. Orcs e goblins, uma vez inimigos mortais, agora se tornaram aliados e atacaram nosso amado lar em Faydwer.<END>
+<BEGIN>Mesmo enquanto falamos, eles avançam pela floresta de Faydark sem oposição. Eles saquearam nosso lar, Kelethin, e colocaram nossos entes queridos à espada. Suas pegadas deixam cicatrizes na terra que talvez nunca se curem.<END>
+<BEGIN>No entanto, meus amigos, temo que isso seja apenas o começo. Se Faydark cair, então Faydwer cairá também e então essas bestas terão toda Norrath pela garganta. Esta não é uma batalha que estamos travando, é uma guerra, e é uma que devemos vencer.<END>
+<BEGIN>Muitos bravos lutadores caíram e muitos mais estão morrendo nas florestas abaixo. Para vencer esta guerra, eu preciso de mais do que soldados com vontade de lutar. Eu preciso de heróis! Homens e mulheres de força e bravura, que possam desviar essa maré de ódio que ameaça nosso reino e toda Norrath.<END>
+<BEGIN>Quem entre vocês pegará a espada, o cajado, o martelo e expulsará essa praga de nossa terra? Se houver alguém que daria sua vida pela glória de Faydwer, pela defesa de Norrath, então fale agora!<END>
+<BEGIN>Você não pode respirar debaixo d'água.<END>
+<BEGIN>Entre na caverna subaquática<END>
+<BEGIN>Dentro das Cavernas<END>
+<BEGIN>Dentro das Cavernas<END>
+<BEGIN>Dentro das Cavernas<END>
+<BEGIN>Dentro das Cavernas<END>
 <BEGIN>Kerriel<END>
-<BEGIN>You're so sweet. You deserve a reward.<END>
-<BEGIN>Let's see... gold, no, jewels, no, magic weapons, n... oh, I know! I'll give you a sea blessing. It'll allow you to breathe water like it was air. Well, as long as you're here in the Pit.<END>
-<BEGIN>You cannot breathe underwater.<END>
-<BEGIN>Enter the underwater cave<END>
-<BEGIN>Into Caves<END>
-<BEGIN>Into Caves<END>
-<BEGIN>Into Caves<END>
-<BEGIN>Into Caves<END>
+<BEGIN>Você é tão doce. Você merece uma recompensa.<END>
+<BEGIN>Vejamos... ouro, não, jóias, não, armas mágicas, n... ah, eu sei! Vou lhe dar uma bênção do mar. Isso permitirá que você respire debaixo d'água como se fosse ar. Bem, enquanto estiver aqui no Poço.<END>
+<BEGIN>Você não pode respirar debaixo d'água.<END>
+<BEGIN>Entre na caverna subaquática<END>
+<BEGIN>Dentro das Cavernas<END>
+<BEGIN>Dentro das Cavernas<END>
+<BEGIN>Dentro das Cavernas<END>
+<BEGIN>Dentro das Cavernas<END>
 <BEGIN>Kerriel<END>
-<BEGIN>Oh! I didn't hear you coming. Uh, excuse me - could you please step back? You're in my sun.<END>
-<BEGIN>More...<END>
-<BEGIN>I'd be more than willing to move, but it's the whole tail thing. You have no idea what it's like. You landfolk can come and go whenever you please, but we merfolk, we're stuck in the water. And you have no idea how boring it is beneath the waves.<END>
-<BEGIN>More...<END>
-<BEGIN>But you, on the other hand... could you do a little favor for me? I swam up here looking for shells. A conch shell, actually. If you happen to come across one, could you bring it to me? I'll reward you.<END>
-<BEGIN>If only you could find a conch shell. I know it's a lot of trouble, but I would be so grateful.<END>
-<BEGIN>Hey, is that a conch shell? I swam up here looking for one of those, and that's a beautiful one. Could you find it in your heart to give it to me? I'll reward you.<END>
-<BEGIN>More...<END>
-<BEGIN>You're so sweet. You deserve a reward.<END>
-<BEGIN>More...<END>
-<BEGIN>Let's see... gold, no, jewels, no, magic weapons, n... oh, I know! I'll give you a sea blessing. It'll allow you to breathe water like it was air. Well, as long as you're here in the Pit.<END>
-<BEGIN>More...<END>
-<BEGIN>Just to be safe, better make sure it works, though. It's been a while since I've cast it. But where? Oh, I know just the place!<END>
-<BEGIN>I'm still here. Dying of boredom.<END>
-<BEGIN>I'd be more than willing to move, but it's the whole tail thing. You have no idea what it's like. You landfolk can come and go whenever you please, but we merfolk, we're stuck in the water. And you have no idea how boring it is beneath the waves.<END>
-<BEGIN>More...<END>
-<BEGIN>But you, on the other hand... could you do a little favor for me? I swam up here looking for shells. A conch shell, actually. If you happen to come across one, could you bring it to me? I'll reward you.<END>
-<BEGIN>End.<END>
-<BEGIN>Find a conch shell<END>
-<BEGIN>Kerriel the mermaid will reward you if you can find a conch shell and bring it to her.<END>
-<BEGIN>If only you could find a conch shell. I know it's a lot of trouble, but I would be so grateful.<END>
-<BEGIN>Hey, is that a conch shell? I swam up here looking for one of those, and that's a beautiful one. Could you find it in your heart to give it to me? I'll reward you.<END>
-<BEGIN>Take it, it's yours.<END>
-<BEGIN>I'm still here. Dying of boredom.<END>
-<BEGIN>Oh! I didn't hear you coming. Uh, excuse me - could you please step back? You're in my sun.<END>
-<BEGIN>Oh! Someone’s coming!<END>
-<BEGIN>Find a conch shell<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To the City of Khathuun<END>
-<BEGIN>To Upper Lava Field<END>
-<BEGIN>To Upper Lava Field<END>
-<BEGIN>To Upper Lava Field<END>
-<BEGIN>To Upper Lava Field<END>
-<BEGIN>Xagmor Caronni Hostal! Halt and withdraw! Leave the overworlder at peace!<END>
-<BEGIN>Forgive my pets. They are over vigilant at times, but they do good service in the name of the people of Blackdelve Reach.<END>
-<BEGIN>My creatures are ordered to attack any and all who pass this place when the lava ceases to flow. Indeed they attacked that ugly orc you persue when he sabotaged the pump, but they did little damage to him, and he to them. My sorceries are powerful, but not enough to overwhelm that...creature...whatever he may be.<END>
-<BEGIN>As you have chased him awhile now, you no doubt have observed that he is not what he seems to be. His shadow is...wrong. There are other things as well. When I confronted him, he said only one thing, something most curious. He said, 'The only truth is in hate' and then he was gone. Vanished through the gates. Most disturbing.<END>
-<BEGIN>I sealed the passage to the Caverns of the Fallen, fearing he might return, but many days have passed since then. Now that the pump is functional, it should be safe to reopen the passage, but I warn you. Dangerous creatures lurk in that region, and I should only go there if you have a dire need.<END>
-<BEGIN>Xagmor Caronni Hostal! Halt and withdraw! Leave the overworlder at peace!<END>
-<BEGIN>Forgive my pets. They are over vigilant at times, but they do good service in the name of the people of Blackdelve Reach.<END>
-<BEGIN>My creatures are ordered to attack any and all who pass this place when the lava ceases to flow. Indeed they attacked that ugly orc you persue when he sabotaged the pump, but they did little damage to him, and he to them. My sorceries are powerful, but not enough to overwhelm that...creature...whatever he may be.<END>
-<BEGIN>As you have chased him awhile now, you no doubt have observed that he is not what he seems to be. His shadow is...wrong. There are other things as well. When I confronted him, he said only one thing, something most curious. He said, 'The only truth is in hate' and then he was gone. Vanished through the gates. Most disturbing.<END>
-<BEGIN> I sealed the passage to the Caverns of the Fallen, fearing he might return, but many days have passed since then. Now that the pump is functional, it should be safe to reopen the passage, but I warn you. Dangerous creatures lurk in that region, and I should only go there if you have a dire need.<END>
-<BEGIN>Xagmor Caronni Hostal! Halt and withdraw! Leave the overworlder in peace!<END>
-<BEGIN>Forgive my pets. They are little... over vigilant.<END>
-<BEGIN>They attack anyone who passes when the lava flow stops. They've been agitated ever since they encountered that huge orc who sabotaged the pump. They attacked him, but he strode through them without suffering a scratch. I doubt that beast is an orc at all. There is some magic surrounding him, and his shadow is... wrong.<END>
-<BEGIN>I've sealed the passage to the Caverns of the Fallen in case he returns. Now the pump is working, it should be safe to reopen the passage. I wouldn't go there unless you have to, but I understand if you must.<END>
-<BEGIN>I have reopened the passage to the Caverns of the Fallen. I wouldn't go there unless you have to, but I understand if you must.<END>
+<BEGIN>Oh! Eu não te ouvi chegando. Uh, com licença - você poderia dar um passo para trás? Você está na minha luz solar.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Eu estaria mais do que disposto a me mover, mas é essa coisa toda de cauda. Você não tem ideia de como é. Vocês, terráqueos, podem ir e vir quando quiserem, mas nós, seres do mar, estamos presos na água. E você não tem ideia de como é entediante embaixo das ondas.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Mas você, por outro lado... poderia fazer um pequeno favor para mim? Eu nadei até aqui procurando conchas. Uma concha de búzio, na verdade. Se você encontrar uma, poderia me trazer? Eu lhe recompensarei.<END>
+<BEGIN>Se ao menos você pudesse encontrar uma concha de búzio. Eu sei que é muito trabalho, mas eu ficaria muito grato.<END>
+<BEGIN>Ei, isso é uma concha de búzio? Eu nadei até aqui procurando por uma dessas, e essa é linda. Você poderia, por gentileza, me dar? Eu lhe recompensarei.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Você é tão doce. Você merece uma recompensa.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Vejamos... ouro, não, jóias, não, armas mágicas, n... ah, eu sei! Vou lhe dar uma bênção do mar. Isso permitirá que você respire debaixo d'água como se fosse ar. Bem, enquanto estiver aqui no Poço.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Apenas para garantir, melhor verificar se funciona, embora. Já faz um tempo desde que eu lancei isso. Mas onde? Ah, eu sei exatamente o lugar!<END>
+<BEGIN>Eu ainda estou aqui. Morrendo de tédio.<END>
+<BEGIN>Eu estaria mais do que disposto a me mover, mas é essa coisa toda de cauda. Você não tem ideia de como é. Vocês, terráqueos, podem ir e vir quando quiserem, mas nós, seres do mar, estamos presos na água. E você não tem ideia de como é entediante embaixo das ondas.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Mas você, por outro lado... poderia fazer um pequeno favor para mim? Eu nadei até aqui procurando conchas. Uma concha de búzio, na verdade. Se você encontrar uma, poderia me trazer? Eu lhe recompensarei.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Encontre uma concha de búzio<END>
+<BEGIN>Kerriel, a sereia, irá recompensá-lo se você encontrar uma concha de búzio e trazê-la para ela.<END>
+<BEGIN>Se ao menos você pudesse encontrar uma concha de búzio. Eu sei que é muito trabalho, mas eu ficaria muito grato.<END>
+<BEGIN>Ei, isso é uma concha de búzio? Eu nadei até aqui procurando por uma dessas, e essa é linda. Você poderia, por gentileza, me dar? Eu lhe recompensarei.<END>
+<BEGIN>Leve-a, é sua.<END>
+<BEGIN>Eu ainda estou aqui. Morrendo de tédio.<END>
+<BEGIN>Oh! Eu não te ouvi chegando. Uh, com licença - você poderia dar um passo para trás? Você está na minha luz solar.<END>
+<BEGIN>Oh! Alguém está chegando!<END>
+<BEGIN>Encontre uma concha de búzio<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para a Cidade de Khathuun<END>
+<BEGIN>Para o Campo de Lava Superior<END>
+<BEGIN>Para o Campo de Lava Superior<END>
+<BEGIN>Para o Campo de Lava Superior<END>
+<BEGIN>Para o Campo de Lava Superior<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue-se! Deixe o overworlder em paz!<END>
+<BEGIN>Perdoe meus animais de estimação. Eles são excessivamente vigilantes às vezes, mas prestam bons serviços em nome do povo de Blackdelve Reach.<END>
+<BEGIN>Meus criaturas estão ordenadas a atacar qualquer um que passe por este lugar quando a lava cessa de fluir. De fato, eles atacaram aquele orc feio que você persegue quando ele sabotou a bomba, mas causaram pouco dano a ele, e ele a eles. Meus feitiços são poderosos, mas não o suficiente para superar esse... criatura... seja lá o que for.<END>
+<BEGIN>Como você o persegue há um tempo agora, sem dúvida já observou que ele não é o que parece ser. Sua sombra está... errada. Há outras coisas também. Quando o confrontei, ele disse apenas uma coisa, algo muito curioso. Ele disse: 'A única verdade está no ódio' e então ele se foi. Desapareceu através dos portões. Muito perturbador.<END>
+<BEGIN>Selava o passagem para as Cavernas dos Caídos, temendo que ele pudesse retornar, mas muitos dias se passaram desde então. Agora que a bomba está funcional, deve ser seguro reabrir a passagem, mas eu aviso você. Criaturas perigosas espreitam nessa região, e eu só deveria ir lá se você tiver uma necessidade extrema.<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue-se! Deixe o overworlder em paz!<END>
+<BEGIN>Perdoe meus animais de estimação. Eles são excessivamente vigilantes às vezes, mas prestam bons serviços em nome do povo de Blackdelve Reach.<END>
+<BEGIN>Meus criaturas estão ordenadas a atacar qualquer um que passe por este lugar quando a lava cessa de fluir. De fato, eles atacaram aquele orc feio que você persegue quando ele sabotou a bomba, mas causaram pouco dano a ele, e ele a eles. Meus feitiços são poderosos, mas não o suficiente para superar esse... criatura... seja lá o que for.<END>
+<BEGIN>Como você o persegue há um tempo agora, sem dúvida já observou que ele não é o que parece ser. Sua sombra está... errada. Há outras coisas também. Quando o confrontei, ele disse apenas uma coisa, algo muito curioso. Ele disse: 'A única verdade está no ódio' e então ele se foi. Desapareceu através dos portões. Muito perturbador.<END>
+<BEGIN>Selava o passagem para as Cavernas dos Caídos, temendo que ele pudesse retornar, mas muitos dias se passaram desde então. Agora que a bomba está funcional, deve ser seguro reabrir a passagem, mas eu aviso você. Criaturas perigosas espreitam nessa região, e eu só deveria ir lá se você tiver uma necessidade extrema.<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o overworlder em paz!<END>
+<BEGIN>Perdoe meus animais de estimação. Eles são um pouco... excessivamente vigilantes.<END>
+<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava para. Eles ficaram agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer um arranhão. Duvido que essa besta seja um orc de verdade. Há alguma magia ao redor dele, e sua sombra está... errada.<END>
+<BEGIN>Selava o passagem para as Cavernas dos Caídos caso ele retornasse. Agora que a bomba está funcionando, deve ser seguro reabrir a passagem. Eu não iria lá a menos que seja necessário, mas entendo se você precisar.<END>
+<BEGIN>Reabri a passagem para as Cavernas dos Caídos. Eu não iria lá a menos que seja necessário, mas entendo se você precisar.<END>
 <BEGIN>Kol<END>
-<BEGIN>To Lower Lava Field<END>
-<BEGIN>To Lower Lava Field<END>
+<BEGIN>Para o Campo de Lava Inferior<END>
+<BEGIN>Para o Campo de Lava Inferior<END>
 <BEGIN>Kol<END>
-<BEGIN>Repair the Lava pump.<END>
-<BEGIN>You need the Exchanger to repair the pump.<END>
-<BEGIN>Gnome Mechanic<END>
-<BEGIN>Gnome Mechanic<END>
-<BEGIN>Gnome Mechanic<END>
-<BEGIN>Gnome Mechanic<END>
+<BEGIN>Conserte a bomba de lava.<END>
+<BEGIN>Você precisa do Trocador para consertar a bomba.<END>
+<BEGIN>Mecânico Gnomo<END>
+<BEGIN>Mecânico Gnomo<END>
+<BEGIN>Mecânico Gnomo<END>
+<BEGIN>Mecânico Gnomo<END>
 <BEGIN>Kol<END>
-<BEGIN>To Lower Lava Field<END>
-<BEGIN>To Lower Lava Field<END>
-<BEGIN>Into the Caverns of the Fallen<END>
-<BEGIN>This passage has been sealed.<END>
+<BEGIN>Para o Campo de Lava Inferior<END>
+<BEGIN>Para o Campo de Lava Inferior<END>
+<BEGIN>Para as Cavernas dos Caídos<END>
+<BEGIN>Esta passagem foi selada.<END>
 <BEGIN>Xorin<END>
-<BEGIN>Up to Blackdelve Reach<END>
-<BEGIN>So you must be the one. Of ccc...course! What would that...bbbig orc be doing down in the Underworld if weren't fuh fffor...some other Overworlder?! I told Bingham! The orc seeks to prevent anyone from fffollowing him. He's afraid of you! Why? What can ...Oh! that's not important right now, nnnot important.<END>
-<BEGIN>More...<END>
-<BEGIN>We all nnneed this orc gone, and you want to catch this thu thu thief. We can set thu things right...if we work together! But there's mmm mmuch to be done, much to be done. Everything starts with the lava pump, the lava pump...<END>
-<BEGIN>More...<END>
-<BEGIN>The way to the pump is blocked. Once there was a buh buh bbbridge to reach it, but that is gone now, gone! Thu the only way to ruh rreach it is to cross the lava field, and that's only ppppossible with a lava runner...uh...uh...a conveyance the gnomes of the deep build. I have many times asked to buh bbborrow one, but they don't trust me to pilot one, no, no, no.<END>
-<BEGIN>More...<END>
-<BEGIN>Ifff...if you can secure one such vehicle...you cccould cross the lava field and reach the pump. All that would need doing then would buh bbe to insert the excccc exx...exccchanger into the pump, and it should be repaired. Fixed!<END>
-<BEGIN>More...<END>
-<BEGIN>The exchanger...yes.  I sss...seem to hhhh...have set it down somewhere. Or mmmm...maybe the orc ttt...took it and hid it ssss....somewhere. Either way, ggg...get a runner, fff....find the exchanger, and gggg...get it to the pump. Yes, that ssshould work! That should!<END>
-<BEGIN>End.<END>
-<BEGIN>Fix Pump<END>
-<BEGIN>Get a Lava Runner, find the Exchanger, and insert it into the Lava Pump.<END>
-<BEGIN>Www why have you returned? The lava puh ppump is still broken, still most greviously unrepaired! Fuh fffind a lava runner and the exchanger, cross the lava field, and ffix the lava pump. That's what needs doing! Go, go!<END>
-<BEGIN>End.<END>
-<BEGIN>Vvvvvvery well done! Ha ha! Most excellently done! The puh pump is working again, and the lava flows. Go and take word to my mmm muh master Bingham Viggs. He shall be able to ffffinish his dreadful boat now for that vvv vampire. Go, go! Good news indeed!<END>
-<BEGIN>End.<END>
-<BEGIN>So you're the one. Of course! It all makes sense... what else would that big orc be doing out in the fields if it weren't for some overlander? I told Bingham... er, I mean, Master Viggs... that this would happen. The orc doesn't like anyone following him. Spying on him... it makes him angry. He's the one that broke our lava pump.<END>
-<BEGIN>More...<END>
-<BEGIN>We have to get rid of this orc. Everything starts with the lava pump.<END>
-<BEGIN>More...<END>
-<BEGIN>The way to the pump is blocked. There used to be a bridge, but that's gone, too. The only way to cross the lava field is with a lava runner and I've tried to borrow one, but the gnomes of the deep... those little rats... they don't trust me to pilot it.<END>
-<BEGIN>More...<END>
-<BEGIN>You might have better luck than me if you manage to convince them to part with a lava runner, you could cross the lava field and reach the pump. Then all you'd have to do would be to insert the exchanger into the pump, and everything'd be back to normal.<END>
-<BEGIN>More...<END>
-<BEGIN>I can give you the exchanger right n... hold on, now what I did I do with the exchanger? I swear, I set it down right here! I'll bet that orc took it and hid it. Great. Looks like you got your work cut out for you - get a lava runner, find the exchanger, and get it to the pump.<END>
-<BEGIN>End.<END>
-<BEGIN>Help Kol<END>
-<BEGIN>Fix Pump<END>
-<BEGIN>Get a Lava Runner, find the Exchanger, and insert it into the Lava Pump.<END>
-<BEGIN>Why'd you come back? The lava pump's still broken. Look. Find a lava runner and the exchanger, cross the lava field, and fix the bloody pump. It's simple, isn't it?<END>
-<BEGIN>End.<END>
-<BEGIN>Ha-ha! Well done! The pump's working again, and the lava's flowing. If you haven't already, let Bingham... I mean, Master Viggs know. Now that the pump's fixed, he can finish the boat for that vampire, Vanarhost... for all the good that'll do him. Go, go!<END>
-<BEGIN>End.<END>
-<BEGIN>Well, whadda we got here? It's been a long time since I eyeballed a strapper like you. All the commotion down here keeping the folks in the Faydark awake?<END>
-<BEGIN>I was curious about your...iron carriages?<END>
-<BEGIN>Iron carriages? You obviously aren't from around here. These are lava riders! Did Kol put you up to this? I figured as much. He's been trying to borrow one of these for years, but like I told him, he's not cut out for this sort of thing.<END>
-<BEGIN>No, I'd just like to try to ride one myself.<END>
-<BEGIN>Before you get any ideas, overlander, I'll have you know a lava rider isn't like some kinda horse. A lava rider is a piece of sophisticated gnome equipment! Last time I let a top-sider get behind the wheel, that was the last anyone ever saw of him.<END>
-<BEGIN>Really, gnome? I'm willing to risk it.<END>
-<BEGIN>Hmmm... Paynar's Wind is just sitting here. You're welcome to try her out.<END>
-<BEGIN>Thank you.<END>
-<BEGIN>Didn't expect you back this quick. Something wrong?  You didn't let Kol drive her through Molten Bog, did you?<END>
-<BEGIN>Hello traveller.  Good to see a new face around here, although I can't say we see too many like ye.  We don't see too many folks hikin' around the hot rocks just for fun, the heat will melt yer boots in no time.<END>
-<BEGIN>I'm looking for a vehicle to borrow.<END>
-<BEGIN>Just passing through, goodbye now.<END>
-<BEGIN>A vehicle eh?  Heh, well we've got a few lava tractors down here, but normally we don't just lend them out to anyone.  Hang on a second, did old man Pumpy send you down here?  He's been trying to get a lava tractor from us for ages, but the poor old fella just doesn't have what it takes to handle this kind of hardware.  Sorry, can't help ye.<END>
-<BEGIN>I'll be the one doing the driving.<END>
-<BEGIN>Aaah, ye want to try your hand at drivin' do ye?  The last time I let a top-sider like yourself drive one of these hulks, they ended up taking a permanant vacation in the lava flats.  Sorry, but we don't lend out tractors unless you have previous experience.<END>
-<BEGIN>I think I can manage, perhaps better than yourself.<END>
-<BEGIN>Thanks anyway.<END>
-<BEGIN>Your self assurance won't be much help behind the wheel I'm afraid, but if you think you have what it takes maybe we can work something out.^  You can borrow this scrapper behind me, but first you must show me ye can drive one of these machines!  Meet my friends down at the flats -- they race their tractors down there.  I'll give you the fastest one I've got for the race.  If you come in first your free to borrow this one behind me for your needs.<END>
-<BEGIN>I'd be glad to try my hand at a race.<END>
-<BEGIN>I've changed my mind.  Goodbye.<END>
-<BEGIN>Great job!  You put on quite a performance down there.  Enjoy the use of my tractor.  She's ain't much by today's standards, but she'll be plenty for your needs.<END>
-<BEGIN>Thanks.<END>
-<BEGIN>Whats wrong?  Is everything ok with my tractor?  I should have never lent her to a top-sider....eh ye didn't let Pumpy drive her through Molten Bog did ye?<END>
-<BEGIN>Your tractor is fine.  Are your friends racing again?<END>
-<BEGIN>Your tractor is fine.  Goodbye.<END>
-<BEGIN>Ah, well thats a relief my friend.  She maybe rickity, but I've got a special place in my heart for her.^  My friends are racin' again, but normally they don't let folks in for free.  Are you the wagerin' type?<END>
-<BEGIN>I might be, how much are we talking?<END>
-<BEGIN>Thanks, but I'll be on my way.<END>
-<BEGIN>The only way to get better is to try again.  Whatya say?<END>
-<BEGIN>I'm ready to try again.<END>
-<BEGIN>No thanks.<END>
-<BEGIN>Thats the spirit friend!  Good luck to ye.<END>
-<BEGIN>Thanks.  Lets race.<END>
-<BEGIN>Your a good sport friend.  If you want another shot come back anytime.<END>
-<BEGIN>I'm ready to try again.  What will it cost?<END>
-<BEGIN>I'm ready to try again.  What's the entry fee today?<END>
-<BEGIN>How much to enter today?<END>
-<BEGIN>Thanks.  Goodbye.<END>
-<BEGIN>Well, lets just say its not going to be free....entry fee is 20 gold pieces.  Winner takes all, the jackpot is 80 gold.  Whatya say friend?<END>
-<BEGIN>Sounds fair, lets do it.<END>
-<BEGIN>Too rich for my blood, thanks anyway.<END>
-<BEGIN>I don't have enough Gold right now.  Thanks anyway.<END>
-<BEGIN>Ye've got some experience under yer belt now, so I'm afraid I'll have to put you in an Intermediate heat.  Your price is 40 gold pieces.  The jackpot is 160 gold.  Ye interested?<END>
-<BEGIN>Sounds fair, lets do it.<END>
-<BEGIN>Too rich for my blood, thanks anyway.<END>
-<BEGIN>I don't have enough Gold right now.  Thanks anyway.<END>
-<BEGIN>Well ye've reached the pinaccle of racing now friend.  I'm puttin' ye in the Masters heat.  Just keep your head up and pay attention -- they can get a little rough in this class.  Entry fee is 80 gold pieces.  The jackpot is 160 gold.  Ye interested?<END>
-<BEGIN>Sounds fair, lets do it.<END>
-<BEGIN>Too rich for my blood, thanks anyway.<END>
-<BEGIN>I don't have enough Gold right now.  Thanks anyway.<END>
-<BEGIN>Up to Blackdelve Reach<END>
+<BEGIN>Até Blackdelve Reach<END>
+<BEGIN>Então você deve ser o tal. Claro! O que mais aquele grande orc estaria fazendo no Submundo se não fosse por algum outro Overworlder?! Eu disse a Bingham! O orc tenta impedir que qualquer um o siga. Ele tem medo de você! Por quê? O que... Oh! isso não é importante agora, não importante.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Todos nós precisamos que esse orc vá embora, e você quer pegar esse ladrão. Podemos acertar as coisas... se trabalharmos juntos! Mas há muito a ser feito, muito a ser feito. Tudo começa com a bomba de lava, a bomba de lava...<END>
+<BEGIN>Mais...<END>
+<BEGIN>O caminho até a bomba está bloqueado. Uma vez houve uma ponte para alcançá-la, mas isso acabou agora, acabou! A única maneira de chegar lá é atravessar o campo de lava, e isso só é possível com um lava runner... uh... uh... um veículo que os gnomos do profundo constroem. Muitas vezes pedi emprestado um, mas eles não confiam em mim para pilotar um, não, não, não.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Se... se você conseguir garantir um veículo desses... você poderia atravessar o campo de lava e chegar à bomba. Tudo o que precisaria ser feito então seria inserir o trocador na bomba, e ela deveria ser consertada. Consertada!<END>
+<BEGIN>Mais...<END>
+<BEGIN>O trocador... sim. Parece que o deixei em algum lugar. Ou talvez o orc tenha pegado e escondido em algum lugar. De qualquer forma, consiga um runner, encontre o trocador e leve-o até a bomba. Sim, isso deve funcionar! Deve!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Consertar Bomba<END>
+<BEGIN>Conseguir um Lava Runner, encontrar o Trocador e inseri-lo na Bomba de Lava.<END>
+<BEGIN>Por que você voltou? A bomba de lava ainda está quebrada, ainda não foi reparada! Consiga um lava runner e o trocador, atravesse o campo de lava e conserte a bomba de lava. Isso é o que precisa ser feito! Vá, vá!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Muito bem feito! Ha ha! Muito bem feito! A bomba está funcionando novamente, e a lava flui. Vá e leve a notícia ao meu mestre Bingham Viggs. Ele poderá terminar o barco agora para aquele vampiro. Vá, vá! Boas notícias mesmo!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Então você é o tal. Claro! Tudo faz sentido... o que mais aquele grande orc estaria fazendo nos campos se não fosse por algum estrangeiro? Eu disse a Bingham... quer dizer, Mestre Viggs... que isso aconteceria. O orc não gosta que ninguém o siga. Espiá-lo... isso o deixa furioso. Ele foi quem quebrou nossa bomba de lava.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Precisamos nos livrar desse orc. Tudo começa com a bomba de lava.<END>
+<BEGIN>Mais...<END>
+<BEGIN>O caminho até a bomba está bloqueado. Costumava haver uma ponte, mas isso também acabou. A única maneira de atravessar o campo de lava é com um lava runner e eu tentei pedir emprestado um, mas os gnomos do profundo... esses ratos... eles não confiam em mim para pilotá-lo.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Você pode ter mais sorte do que eu se conseguir convencê-los a emprestar um lava runner, você poderia atravessar o campo de lava e chegar à bomba. Então tudo o que você teria que fazer seria inserir o trocador na bomba, e tudo voltaria ao normal.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Eu posso lhe dar o trocador agora m... espere aí, onde eu coloquei o trocador? Juro que o coloquei bem aqui! Aposto que aquele orc o pegou e o escondeu. Ótimo. Parece que você tem trabalho pela frente - consiga um lava runner, encontre o trocador e leve-o até a bomba.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Ajude Kol<END>
+<BEGIN>Consertar Bomba<END>
+<BEGIN>Conseguir um Lava Runner, encontrar o Trocador e inseri-lo na Bomba de Lava.<END>
+<BEGIN>Por que você voltou? A bomba de lava ainda está quebrada. Olhe. Consiga um lava runner e o trocador, atravesse o campo de lava e conserte a maldita bomba. É simples, não é?<END>
+<BEGIN>Fim.<END>
+<BEGIN>Ha-ha! Muito bem! A bomba está funcionando novamente, e a lava está fluindo. Se você ainda não fez, avise a Bingham... quero dizer, Mestre Viggs. Agora que a bomba está consertada, ele pode terminar o barco para aquele vampiro, Vanarhost... para todo o bem que isso fará a ele. Vá, vá!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Bem, o que temos aqui? Faz tempo desde que olhei para um sujeito como você. Toda essa agitação aqui embaixo está mantendo os habitantes do Faydark acordados?<END>
+<BEGIN>Eu estava curioso sobre suas... carruagens de ferro?<END>
+<BEGIN>Carruagens de ferro? Você obviamente não é daqui. Estes são lava riders! Kol te mandou fazer isso? Eu imaginei. Ele está tentando pegar emprestado um desses há anos, mas como eu disse a ele, ele não nasceu para esse tipo de coisa.<END>
+<BEGIN>Não, eu só gostaria de tentar pilotar uma delas eu mesmo.<END>
+<BEGIN>Antes que você tenha alguma ideia, overlander, saiba que um lava rider não é como algum tipo de cavalo. Um lava rider é um equipamento sofisticado dos gnomos! Da última vez que deixei um de cima pilotar, foi a última vez que alguém o viu.<END>
+<BEGIN>Realmente, gnomo? Estou disposto a arriscar.<END>
+<BEGIN>Hmmm... O Paynar's Wind está apenas aqui. Você pode experimentá-la.<END>
+<BEGIN>Obrigado.<END>
+<BEGIN>Não esperava você voltar tão rápido. Algo errado? Você não deixou o Kol dirigi-la através do Pântano Derretido, deixou?<END>
+<BEGIN>Olá viajante. Bom ver um rosto novo por aqui, embora eu não possa dizer que vemos muitos como você. Não vemos muitas pessoas caminhando pelas pedras quentes apenas por diversão, o calor derreterá suas botas em pouco tempo.<END>
+<BEGIN>Estou procurando um veículo para emprestar.<END>
+<BEGIN>Apenas passando, adeus agora.<END>
+<BEGIN>Um veículo, hein? Bem, temos alguns lava tratores aqui embaixo, mas normalmente não emprestamos a qualquer um. Espere aí, o velho Pumpy te mandou para cá? Ele tem tentado conseguir um lava tractor de nós há anos, mas o pobre velho simplesmente não tem o que é preciso para lidar com esse tipo de hardware. Desculpe, não posso ajudar.<END>
+<BEGIN>Serei eu quem vai dirigir.<END>
+<BEGIN>Ah, você quer tentar a sorte dirigindo, não é? Da última vez que deixei alguém de cima como você dirigir um desses monstros, eles acabaram tirando férias permanentes nos flats de lava. Desculpe, mas não emprestamos tratores a menos que você tenha experiência prévia.<END>
+<BEGIN>Acho que posso conseguir, talvez melhor do que você.<END>
+<BEGIN>Obrigado de qualquer maneira.<END>
+<BEGIN>Sua autoconfiança não será de muita ajuda atrás do volante, receio, mas se você acha que tem o que é preciso, talvez possamos resolver algo.^ Você pode pegar emprestado esse desgastado aqui atrás de mim, mas primeiro você deve me mostrar que pode dirigir uma dessas máquinas! Conheça meus amigos nos flats - eles correm com seus tratores lá. Vou lhe dar o mais rápido que tenho para a corrida. Se você chegar em primeiro, poderá pegar emprestado esse aqui atrás de mim para suas necessidades.<END>
+<BEGIN>Ficarei feliz em tentar minha sorte em uma corrida.<END>
+<BEGIN>Mudei de ideia. Adeus.<END>
+<BEGIN>Ótimo trabalho! Você fez uma bela apresentação lá embaixo. Aproveite o uso do meu trator. Ela pode não ser grande coisa pelos padrões de hoje, mas será mais do que suficiente para suas necessidades.<END>
+<BEGIN>Obrigado.<END>
+<BEGIN>O que há de errado? Está tudo bem com o meu trator? Eu nunca deveria tê-lo emprestado a um de cima... você não deixou o Pumpy dirigi-lo através do Pântano Derretido, deixou?<END>
+<BEGIN>Seu trator está bem. Seus amigos estão correndo de novo?<END>
+<BEGIN>Seu trator está bem. Adeus.<END>
+<BEGIN>Ah, isso é um alívio, meu amigo. Ela pode ser um pouco velha, mas tenho um carinho especial por ela.^ Meus amigos estão correndo de novo, mas normalmente eles não deixam ninguém entrar de graça. Você é do tipo apostador?<END>
+<BEGIN>Talvez eu seja, quanto estamos falando?<END>
+<BEGIN>Obrigado, mas vou seguir meu caminho.<END>
+<BEGIN>A única maneira de melhorar é tentar de novo. O que você diz?<END>
+<BEGIN>Estou pronto para tentar de novo.<END>
+<BEGIN>Não, obrigado.<END>
+<BEGIN>Esse é o espírito, amigo! Boa sorte para você.<END>
+<BEGIN>Obrigado. Vamos correr.<END>
+<BEGIN>Você é um bom esportista, amigo. Se quiser outra chance, volte a qualquer momento.<END>
+<BEGIN>Estou pronto para tentar de novo. Quanto vai custar?<END>
+<BEGIN>Estou pronto para tentar de novo. Qual é a taxa de inscrição hoje?<END>
+<BEGIN>Quanto custa a entrada hoje?<END>
+<BEGIN>Obrigado. Adeus.<END>
+<BEGIN>Bem, digamos que não será de graça... a taxa de inscrição é de 20 peças de ouro. O vencedor leva tudo, o jackpot é de 80 peças de ouro. O que você diz, amigo?<END>
+<BEGIN>Parece justo, vamos fazer isso.<END>
+<BEGIN>Muito caro para o meu sangue, obrigado de qualquer maneira.<END>
+<BEGIN>Não tenho dinheiro suficiente agora. Obrigado de qualquer maneira.<END>
+<BEGIN>Você tem alguma experiência agora, então receio que terei que colocá-lo em uma corrida intermediária. Seu preço é de 40 peças de ouro. O jackpot é de 160 peças de ouro. Você está interessado?<END>
+<BEGIN>Parece justo, vamos fazer isso.<END>
+<BEGIN>Muito caro para o meu sangue, obrigado de qualquer maneira.<END>
+<BEGIN>Não tenho dinheiro suficiente agora. Obrigado de qualquer maneira.<END>
+<BEGIN>Bem, você alcançou o ápice das corridas agora, amigo. Vou colocá-lo na corrida de Mestres. Apenas mantenha a cabeça erguida e preste atenção - eles podem ficar um pouco brutais nesta classe. A taxa de inscrição é de 80 peças de ouro. O jackpot é de 160 peças de ouro. Você está interessado?<END>
+<BEGIN>Parece justo, vamos fazer isso.<END>
+<BEGIN>Muito caro para o meu sangue, obrigado de qualquer maneira.<END>
+<BEGIN>Não tenho dinheiro suficiente agora. Obrigado de qualquer maneira.<END>
+<BEGIN>Até Blackdelve Reach<END>
 <BEGIN>Xorin<END>
-<BEGIN>Into the Caverns of the Fallen<END>
-<BEGIN>This passage has been sealed.<END>
-<BEGIN>To Lower Lava Field<END>
-<BEGIN>To Lower Lava Field<END>
+<BEGIN>Para as Cavernas dos Caídos<END>
+<BEGIN>Esta passagem foi selada.<END>
+<BEGIN>Para o Campo Inferior de Lava<END>
+<BEGIN>Para o Campo Inferior de Lava<END>
 <BEGIN>Kol<END>
-<BEGIN>Gnome Mechanic<END>
-<BEGIN>Gnome Mechanic<END>
-<BEGIN>Gnome Mechanic<END>
-<BEGIN>Gnome Mechanic<END>
-<BEGIN>The Lava Pump is working!<END>
-<BEGIN>The Lava Pump is working again.<END>
-<BEGIN>You need the Exchanger to repair the pump.<END>
+<BEGIN>Mecânico Gnomo<END>
+<BEGIN>Mecânico Gnomo<END>
+<BEGIN>Mecânico Gnomo<END>
+<BEGIN>Mecânico Gnomo<END>
+<BEGIN>A Bomba de Lava está funcionando!<END>
+<BEGIN>A Bomba de Lava está funcionando novamente.<END>
+<BEGIN>Você precisa do Trocador para consertar a bomba.<END>
 <BEGIN>Kol<END>
-<BEGIN>To Lower Lava Field<END>
-<BEGIN>To Lower Lava Field<END>
+<BEGIN>Para o Campo Inferior de Lava<END>
+<BEGIN>Para o Campo Inferior de Lava<END>
 <BEGIN>Kol<END>
-<BEGIN>The Lava Pump is working again.<END>
-<BEGIN>Fix Pump<END>
-<BEGIN>Xagmor, Caronni, Hostal! Halt and withdraw! Leave the overworlder in peace!<END>
-<BEGIN>Forgive my pets. They are a little... over vigilant.<END>
-<BEGIN>They attack anyone who passes when the lava flow stops. They've been agitated ever since they encountered that huge orc who sabotaged the pump. They attacked him, but he strode through them without suffering a scratch. I doubt that beast is an orc at all. There is some magic surrounding him, and his shadow is... wrong.<END>
-<BEGIN>I have reopened the passage to the Caverns of the Fallen. I wouldn't go there unless you have to, but I understand if you must.<END>
-<BEGIN>Xagmor Caronni Hostal! Halt and withdraw! Leave the overworlder in peace!<END>
-<BEGIN>Forgive my pets. They are little... over vigilant.<END>
-<BEGIN>They attack anyone who passes when the lava flow stops. They've been agitated ever since they encountered that huge orc who sabotaged the pump. They attacked him, but he strode through them without suffering a scratch. I doubt that beast is an orc at all. There is some magic surrounding him, and his shadow is... wrong.<END>
-<BEGIN>I've sealed the passage to the Caverns of the Fallen in case he returns. Now the pump is working, it should be safe to reopen the passage. I wouldn't go there unless you have to, but I understand if you must.<END>
-<BEGIN>I have reopened the passage to the Caverns of the Fallen. I wouldn't go there unless you have to, but I understand if you must.<END>
-<BEGIN>Xagmor Caronni Hostal! Halt and withdraw! Leave the overworlder in peace!<END>
-<BEGIN>Forgive my pets. They are little... over vigilant.<END>
-<BEGIN>They attack anyone who passes when the lava flow stops. They've been agitated ever since they encountered that huge orc who sabotaged the pump. They attacked him, but he strode through them without suffering a scratch. I doubt that beast is an orc at all. There is some magic surrounding him, and his shadow is... wrong.<END>
-<BEGIN>I have reopened the passage to the Caverns of the Fallen. I wouldn't go there unless you have to, but I understand if you must.<END>
-<BEGIN>You're in 1st place!<END>
-<BEGIN>You're in 2nd place!<END>
-<BEGIN>You're in 3rd place!<END>
-<BEGIN>You're in LAST place!<END>
-<BEGIN>Racers Get Ready!<END>
-<BEGIN>Get Set!<END>
-<BEGIN>Go!<END>
-<BEGIN>One lap to go!<END>
-<BEGIN>You've won the race!<END>
-<BEGIN>The race has ended.  You failed to finish first.<END>
-<BEGIN>Congratulations!<END>
-<BEGIN>You've won 80 gold.<END>
-<BEGIN>Congratulations!<END>
-<BEGIN>You've won 160 gold.<END>
-<BEGIN>Congratulations!<END>
-<BEGIN>You've won 160 gold.<END>
-<BEGIN>The Lava Pump is working!<END>
-<BEGIN>You must have the Crankshaft to repair the pump.<END>
-<BEGIN>Up to the castle<END>
-<BEGIN>Up to the castle<END>
-<BEGIN>Up to the castle<END>
-<BEGIN>Up to the castle<END>
-<BEGIN>Prepare for battle!<END>
-<BEGIN>Fight off the vampires and find a way back into the castle.<END>
-<BEGIN>Defeat the vampires and find a way out!<END>
-<BEGIN>Up to Hidden Shore<END>
-<BEGIN>Up to Hidden Shore<END>
-<BEGIN>Up to Hidden Shore<END>
-<BEGIN>Return to Ocean Floor<END>
-<BEGIN>Return to Ocean Floor<END>
-<BEGIN>Return to Ocean Floor<END>
-<BEGIN>Return to Ocean Floor<END>
-<BEGIN>To Ocean Caves<END>
-<BEGIN>To Ocean Caves<END>
-<BEGIN>To Ocean Caves<END>
-<BEGIN>To Ocean Caves<END>
-<BEGIN>Do not be alarmed, my champion. I am not here to hurt you.<END>
-<BEGIN>There is not much time. I can feel his presence approaching even now. You must find me, and do not lose hope. If we do not unite against this evil, then all of Norrath will suffer.<END>
-<BEGIN>Thank the Gods it is you... I thought that orc had returned... to finish me off.<END>
-<BEGIN>More...<END>
-<BEGIN>You need to find the mechanism to open the gate... I would help, but my legs... they're shattered, I cannot move them. If you can, get me some Elfdraught... it can be found somewhere in the cave below... please hurry... I don't know how much longer I can last.<END>
-<BEGIN>End.<END>
-<BEGIN>Save Wood Elf<END>
-<BEGIN>Quickly, find Elfdraught and bring it to Dying Wood Elf.<END>
-<BEGIN>Ahhh... I thank you. I am too weak to help you, but if my swordarm cannot aid you, then here, allow my blade to so. Take it with my blessing.<END>
-<BEGIN>More...<END>
-<BEGIN>Now, you must listen to me... go down to the orc cave... and open the gate. If you make haste, you might surprise them, and defeat them.<END>
-<BEGIN>Save Wood Elf<END>
-<BEGIN>End.<END>
-<BEGIN>I thank you, but it's too late for me.<END>
-<BEGIN>Save Wood Elf<END>
-<BEGIN>End.<END>
-<BEGIN>Yes, I'll follow... as soon as the Elfdraught takes effect.<END>
-<BEGIN>End.<END>
-<BEGIN>There is no response from the Wood Elf.<END>
-<BEGIN>End.<END>
-<BEGIN>I beg you, tell my father... tell my father that I did not die for nothing.<END>
-<BEGIN>End.<END>
-<BEGIN>Outside to Greater Faydark<END>
-<BEGIN>Outside to Greater Faydark<END>
-<BEGIN>Outside to Greater Faydark<END>
+<BEGIN>A Bomba de Lava está funcionando novamente.<END>
+<BEGIN>Consertar Bomba<END>
+<BEGIN>Xagmor, Caronni, Hostal! Pare e recue! Deixe o overworlder em paz!<END>
+<BEGIN>Perdoe meus animais de estimação. Eles estão um pouco... super vigilantes.<END>
+<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estão agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhão. Duvido que essa besta seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
+<BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu não iria lá a menos que você tenha que ir, mas eu entendo se você precisar.<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o overworlder em paz!<END>
+<BEGIN>Perdoe meus animais de estimação. Eles estão um pouco... super vigilantes.<END>
+<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estão agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhão. Duvido que essa besta seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
+<BEGIN>Eu sellei a passagem para as Cavernas dos Caídos caso ele retorne. Agora que a bomba está funcionando, deve ser seguro reabrir a passagem. Eu não iria lá a menos que você tenha que ir, mas eu entendo se você precisar.<END>
+<BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu não iria lá a menos que você tenha que ir, mas eu entendo se você precisar.<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o overworlder em paz!<END>
+<BEGIN>Perdoe meus animais de estimação. Eles estão um pouco... super vigilantes.<END>
+<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estão agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhão. Duvido que essa besta seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
+<BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu não iria lá a menos que você tenha que ir, mas eu entendo se você precisar.<END>
+<BEGIN>Você está em 1º lugar!<END>
+<BEGIN>Você está em 2º lugar!<END>
+<BEGIN>Você está em 3º lugar!<END>
+<BEGIN>Você está em ÚLTIMO lugar!<END>
+<BEGIN>Corredores, preparem-se!<END>
+<BEGIN>Prontos!<END>
+<BEGIN>Já!<END>
+<BEGIN>Falta uma volta!<END>
+<BEGIN>Você venceu a corrida!<END>
+<BEGIN>A corrida acabou. Você não conseguiu terminar em primeiro lugar.<END>
+<BEGIN>Parabéns!<END>
+<BEGIN>Você ganhou 80 ouros.<END>
+<BEGIN>Parabéns!<END>
+<BEGIN>Você ganhou 160 ouros.<END>
+<BEGIN>Parabéns!<END>
+<BEGIN>Você ganhou 160 ouros.<END>
+<BEGIN>A Bomba de Lava está funcionando!<END>
+<BEGIN>Você precisa do Virabrequim para consertar a bomba.<END>
+<BEGIN>Até o castelo<END>
+<BEGIN>Até o castelo<END>
+<BEGIN>Até o castelo<END>
+<BEGIN>Até o castelo<END>
+<BEGIN>Prepare-se para a batalha!<END>
+<BEGIN>Repila os vampiros e encontre um caminho de volta para o castelo.<END>
+<BEGIN>Derrote os vampiros e encontre uma saída!<END>
+<BEGIN>Para a Costa Escondida<END>
+<BEGIN>Para a Costa Escondida<END>
+<BEGIN>Para a Costa Escondida<END>
+<BEGIN>Retorne para o Fundo do Oceano<END>
+<BEGIN>Retorne para o Fundo do Oceano<END>
+<BEGIN>Retorne para o Fundo do Oceano<END>
+<BEGIN>Retorne para o Fundo do Oceano<END>
+<BEGIN>Para as Cavernas do Oceano<END>
+<BEGIN>Para as Cavernas do Oceano<END>
+<BEGIN>Para as Cavernas do Oceano<END>
+<BEGIN>Para as Cavernas do Oceano<END>
+<BEGIN>Não se assuste, meu campeão. Não estou aqui para feri-lo.<END>
+<BEGIN>Não há muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e não perder a esperança. Se não nos unirmos contra esse mal, então todo Norrath sofrerá.<END>
+<BEGIN>Agradeço aos Deuses que é você... Pensei que aquele orc tivesse retornado... para me exterminar.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Você precisa encontrar o mecanismo para abrir o portão... Eu ajudaria, mas minhas pernas... elas estão despedaçadas, não consigo movê-las. Se puder, traga-me um Elfdraught... pode ser encontrado em algum lugar na caverna abaixo... por favor, se apresse... não sei por quanto tempo conseguirei aguentar.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Salve o Elfo da Floresta<END>
+<BEGIN>Rapidamente, encontre Elfdraught e traga-o para o Elfo da Floresta Moribundo.<END>
+<BEGIN>Ahhh... Agradeço. Estou muito fraco para ajudá-lo, mas se meu braço não puder ajudá-lo, então aqui, permita que minha lâmina o faça. Pegue-a com a minha bênção.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Agora, você deve me ouvir... desça até a caverna dos orcs... e abra o portão. Se você se apressar, pode surpreendê-los e derrotá-los.<END>
+<BEGIN>Salve o Elfo da Floresta<END>
+<BEGIN>Fim.<END>
+<BEGIN>Agradeço, mas é tarde demais para mim.<END>
+<BEGIN>Salve o Elfo da Floresta<END>
+<BEGIN>Fim.<END>
+<BEGIN>Sim, eu seguirei... assim que o Elfdraught fizer efeito.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Não há resposta do Elfo da Floresta.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Rogo-lhe, diga a meu pai... diga a meu pai que não morri em vão.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Fora para Grande Faydark<END>
 <BEGIN>Elgoain<END>
-<BEGIN>Down to Level 2<END>
-<BEGIN>Outside to Greater Faydark<END>
-<BEGIN>Do not be alarmed, my champion. I am not here to hurt you.<END>
-<BEGIN>There is not much time. I can feel his presence approaching even now. You must find me, and do not lose hope. If we do not unite against this evil, then all of Norrath will suffer.<END>
-<BEGIN>Outside to Greater Faydark<END>
-<BEGIN>Down to Level 2<END>
-<BEGIN>Wood Elf<END>
-<BEGIN>Outside to Greater Faydark<END>
-<BEGIN>Outside to Greater Faydark<END>
-<BEGIN>Outside to Greater Faydark<END>
-<BEGIN>Save Elgoain<END>
-<BEGIN>Elgoain's Gift<END>
-<BEGIN>You have received a reward.<END>
-<BEGIN>Thank the Gods it is you... I thought that orc had returned... to finish me off.<END>
-<BEGIN>More...<END>
-<BEGIN>You need to find the mechanism to open the gate... I would help, but my legs... they're shattered, I cannot move them. If you can, get me some Elfdraught... it can be found somewhere in the cave below... please hurry... I don't know how much longer I can last.<END>
-<BEGIN>End.<END>
-<BEGIN>Save Elgoain<END>
-<BEGIN>Quickly, find Elfdraught and bring it to Elgoain.<END>
-<BEGIN>Ahhh... I thank you. I am too weak to help you, but if my swordarm cannot aid you, then here, allow my blade to do so. Take it with my blessing.<END>
-<BEGIN>More...<END>
-<BEGIN>Now, you must listen to me... go down to the orc cave... and open the gate. If you make haste, you might surprise them, and defeat them.<END>
-<BEGIN>End.<END>
-<BEGIN>I thank you, but it's too late for me.<END>
-<BEGIN>End.<END>
-<BEGIN>Save Elgoain<END>
-<BEGIN>Yes, I'll follow... as soon as the Elfdraught takes effect.<END>
-<BEGIN>End.<END>
-<BEGIN>There is no response from the Wood Elf.<END>
-<BEGIN>End.<END>
-<BEGIN>I beg you, tell my father... tell my father that I did not die for nothing.<END>
-<BEGIN>End.<END>
-<BEGIN>Down to Level 3<END>
-<BEGIN>Down to Level 3<END>
-<BEGIN>Down to Level 3<END>
-<BEGIN>Down to Level 3<END>
-<BEGIN>Down to Level 3<END>
-<BEGIN>Up to Level 1<END>
-<BEGIN>Do not be alarmed, my champion. I am not here to hurt you.<END>
-<BEGIN>There is not much time. I can feel his presence approaching even now. You must find me, and do not lose hope. If we do not unite against this evil, then all of Norrath will suffer.<END>
-<BEGIN>Turn gate switch<END>
-<BEGIN>The gates are open!<END>
-<BEGIN>Turn gate switch<END>
-<BEGIN>The gates are open!<END>
-<BEGIN>Turn gate switch<END>
-<BEGIN>The gates are open!<END>
-<BEGIN>Turn gate switch<END>
-<BEGIN>The gates are open!<END>
-<BEGIN>Up to Level 2<END>
-<BEGIN>Up to Level 2<END>
-<BEGIN>Up to Level 2<END>
-<BEGIN>The Forest Gates are open!<END>
-<BEGIN>Return to Greater Faydark.<END>
-<BEGIN>Open the Gates<END>
+<BEGIN>Descer para o Nível 2<END>
+<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Não se assuste, meu campeão. Não estou aqui para feri-lo.<END>
+<BEGIN>Não há muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e não perder a esperança. Se não nos unirmos contra esse mal, então todo Norrath sofrerá.<END>
+<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Descer para o Nível 2<END>
+<BEGIN>Elfo da Floresta<END>
+<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Salve Elgoain<END>
+<BEGIN>Recompensa de Elgoain<END>
+<BEGIN>Você recebeu uma recompensa.<END>
+<BEGIN>Obrigado aos Deuses, é você... Pensei que aquele orc tivesse voltado... para me matar.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Você precisa encontrar o mecanismo para abrir o portão... Eu ajudaria, mas minhas pernas... estão quebradas, não consigo movê-las. Se puder, traga-me um pouco de Elfódio... pode ser encontrado em algum lugar da caverna abaixo... por favor, se apresse... não sei quanto tempo consigo durar.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Salve Elgoain<END>
+<BEGIN>Rapidamente, encontre o Elfódio e traga-o para Elgoain.<END>
+<BEGIN>Ahhh... Eu agradeço. Estou muito fraco para ajudá-lo, mas se meu braço com a espada não puder ajudá-lo, então aqui, permita que minha lâmina o faça. Pegue-a com a minha bênção.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Agora, você precisa me ouvir... desça até a caverna dos orcs... e abra o portão. Se se apressar, pode surpreendê-los e derrotá-los.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Agradeço, mas é tarde demais para mim.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Salve Elgoain<END>
+<BEGIN>Sim, eu seguirei... assim que o Elfódio fizer efeito.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Não há resposta do Elfo da Floresta.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Eu te imploro, diga a meu pai... diga a meu pai que eu não morri em vão.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Desça para o Nível 3<END>
+<BEGIN>Desça para o Nível 3<END>
+<BEGIN>Desça para o Nível 3<END>
+<BEGIN>Desça para o Nível 3<END>
+<BEGIN>Desça para o Nível 3<END>
+<BEGIN>Suba para o Nível 1<END>
+<BEGIN>Não se assuste, meu campeão. Não estou aqui para machucá-lo.<END>
+<BEGIN>Não há muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e não perder a esperança. Se não nos unirmos contra esse mal, então todo Norrath sofrerá.<END>
+<BEGIN>Gire o interruptor do portão<END>
+<BEGIN>Os portões estão abertos!<END>
+<BEGIN>Gire o interruptor do portão<END>
+<BEGIN>Os portões estão abertos!<END>
+<BEGIN>Gire o interruptor do portão<END>
+<BEGIN>Os portões estão abertos!<END>
+<BEGIN>Gire o interruptor do portão<END>
+<BEGIN>Os portões estão abertos!<END>
+<BEGIN>Suba para o Nível 2<END>
+<BEGIN>Suba para o Nível 2<END>
+<BEGIN>Suba para o Nível 2<END>
+<BEGIN>Os Portões da Floresta estão abertos!<END>
+<BEGIN>Volte para Grande Faydark.<END>
+<BEGIN>Abra os Portões<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas<END>
-<BEGIN>Up to Forest Ruins of Faydark<END>
-<BEGIN>Up to Forest Ruins of Faydark<END>
-<BEGIN>Down to Lower Level<END>
-<BEGIN>Down to Lower Level<END>
-<BEGIN>Down to Lower Level<END>
+<BEGIN>Suba para Ruínas da Floresta de Faydark<END>
+<BEGIN>Suba para Ruínas da Floresta de Faydark<END>
+<BEGIN>Desça para o Nível Inferior<END>
+<BEGIN>Desça para o Nível Inferior<END>
+<BEGIN>Desça para o Nível Inferior<END>
 <BEGIN>Oetheilas<END>
-<BEGIN>Down to Lower Level<END>
-<BEGIN>So Leithkorias' hound has tracked me down. Such perseverance... and such stupidity to pursue one's own executioner.<END>
-<BEGIN>Is this scroll what you have come for, hound? Then your chase was in vain... even the great Mayong Mistmoore could not decipher it... the Black Scroll cannot help you... any of you.<END>
-<BEGIN>But I am not without mercy. I will let you leave with your life. Stay, and I will gut you like the dog you are.<END>
-<BEGIN>This is not over. We will meet again.<END>
-<BEGIN>Ah, Commander Turanin's designated madman. I was beginning to think you'd had an attack of common sense, but that would have spoiled everything. Now this maze is tricky, so stay close.<END>
-<BEGIN>More...<END>
-<BEGIN>Since you've been appointed head of this mission, you can have the honor of taking the lead. Don't worry about getting lost. Just stay in front of me in case there's any traps ahead. After you.<END>
-<BEGIN>End<END>
-<BEGIN>Are you ready yet?<END>
-<BEGIN>End.<END>
-<BEGIN>Into The Underworld<END>
-<BEGIN>To Upper Level<END>
-<BEGIN>Oetheilas will not make it without you.<END>
+<BEGIN>Desça para o Nível Inferior<END>
+<BEGIN>Então o cão de Leithkorias me rastreou. Tão perseverante... e tão estúpido ao perseguir seu próprio executor.<END>
+<BEGIN>É este pergaminho o que você veio buscar, cão? Então sua perseguição foi em vão... nem o grande Mayong Mistmoore conseguiu decifrá-lo... o Pergaminho Negro não pode ajudá-lo... nenhum de vocês.<END>
+<BEGIN>Mas eu não estou sem piedade. Vou deixar você sair com sua vida. Fique, e eu vou te esquartejar como o cachorro que você é.<END>
+<BEGIN>Isso ainda não acabou. Nos encontraremos novamente.<END>
+<BEGIN>Ah, o louco designado do Comandante Turanin. Eu estava começando a pensar que você tinha tido um ataque de bom senso, mas isso teria estragado tudo. Agora, este labirinto é complicado, então fique perto.<END>
+<BEGIN>Mais...<END>
+<BEGIN>Já que você foi nomeado líder desta missão, pode ter a honra de liderar. Não se preocupe em se perder. Apenas fique na frente de mim no caso de haver armadilhas à frente. Depois de você.<END>
+<BEGIN>Fim<END>
+<BEGIN>Você está pronto?<END>
+<BEGIN>Fim.<END>
+<BEGIN>Para o Submundo<END>
+<BEGIN>Para o Nível Superior<END>
+<BEGIN>Oetheilas não vai conseguir sem você.<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas<END>
-<BEGIN>You lead, I'll follow. Watching the back of your head comforts me. It means you've still got one.<END>
-<BEGIN>Again our paths cross. I would have thought you wiser than that, but yet you come on, relentless, like the beating of an orcish war drum.<END>
-<BEGIN>But where has your courage led you, hound of Leithkorias?<END>
-<BEGIN>I am told the bite of the spider causes unbearable agony. It's akin to fire flowing through every vein in your body. And just when you think you can endure it no longer, your muscles seize up, your struggles cease, and your body becomes a cage as the paralysis sets in.<END>
-<BEGIN>Once you are bitten, I suggest you close your eyes. Or else you'll be able to do nothing but watch as the spider devours you.<END>
-<BEGIN>Consider this payment for all you have done for Leithkorias and these elves. If I cannot see them impaled on spears before me, then I'll settle for your slow, agonizing death.<END>
+<BEGIN>Você lidera, eu sigo. Ver a parte de trás da sua cabeça me conforta. Significa que você ainda tem uma.<END>
+<BEGIN>Novamente nossos caminhos se cruzam. Eu teria pensado que você seria mais sábio que isso, mas ainda assim você vem, implacável, como a batida de um tambor de guerra orc.<END>
+<BEGIN>Mas para onde sua coragem o levou, cão de Leithkorias?<END>
+<BEGIN>Dizem que a picada da aranha causa uma agonia insuportável. É como se fogo fluísse por cada veia do seu corpo. E quando você pensa que não pode mais suportar, seus músculos se contraem, seus esforços cessam, e seu corpo se torna uma gaiola conforme a paralisia se instala.<END>
+<BEGIN>Uma vez que você é mordido, sugiro que feche os olhos. Ou então você só poderá assistir enquanto a aranha devora você.<END>
+<BEGIN>Considere isso como pagamento por tudo que você fez por Leithkorias e por esses elfos. Se não posso vê-los empalados em lanças diante de mim, então me contentarei com sua morte lenta e agonizante.<END>
 <BEGIN>Oetheilas<END>
-<BEGIN>Oetheilas is dead!<END>
-<BEGIN>You must protect him to find the Underworld.<END>
-<BEGIN>Underworld<END>
-<BEGIN>Locate Underworld Entrance<END>
-<BEGIN>Ah, yes, this is it! Hmm...<END>
-<BEGIN>I know it's around here somewhere. Maybe this is it.<END>
-<BEGIN>Well, this is as far as I go, which is a lot farther than I intended. The gate to the Underworld is just along there. Be sure to let me know how things are down below, you know, the weather, the monsters, all that. Good luck. I don't envy you.<END>
-<BEGIN>I'm afraid this is where we part ways. Good luck.<END>
-<BEGIN>End.<END>
-<BEGIN>Are you ready yet?<END>
-<BEGIN>Alright, let's go.<END>
+<BEGIN>Oetheilas está morto!<END>
+<BEGIN>Você deve protegê-lo para encontrar o Submundo.<END>
+<BEGIN>Submundo<END>
+<BEGIN>Localize a Entrada para o Submundo<END>
+<BEGIN>Ah, sim, é isso! Hmm...<END>
+<BEGIN>Eu sei que está por aqui em algum lugar. Talvez seja isso.<END>
+<BEGIN>Bem, é até aqui que eu vou, o que é muito mais longe do que eu pretendia. O portão para o Submundo é logo ali. Certifique-se de me contar como estão as coisas lá embaixo, você sabe, o clima, os monstros, tudo isso. Boa sorte. Eu não invejo você.<END>
+<BEGIN>Eu temo que aqui seja onde nos separamos. Boa sorte.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Você está pronto?<END>
+<BEGIN>Tudo bem, vamos lá.<END>
 <BEGIN>Firiona Vie<END>
-<BEGIN>This door is barred from the other side.<END>
-<BEGIN>To the City of Khathuun.<END>
-<BEGIN>Patience! I know you're eager to kill orcs, but you're not ready yet. Come back when you're better equipped.<END>
-<BEGIN>End.<END>
-<BEGIN>Look, until you've got better armor, I will not allow you to enter the Greater Faydark. It's too dangerous.<END>
-<BEGIN>End.<END>
-<BEGIN>We'll handle matters here for now. Your business is elsewhere. Stay on the path, but keep your weapons ready.<END>
-<BEGIN>End.<END>
-<BEGIN>We may not look like much, but we're the last line of defense. We must hold the orcs back.<END>
-<BEGIN>End.<END>
-<BEGIN>It's barely eleven years since we drove the orcs from Crushbone, but they have returned stronger than ever. They must have forged new alliances in the west.<END>
-<BEGIN>End.<END>
-<BEGIN>Patience! I know you're eager to kill orcs, but you're not ready yet. Come back when you're better equipped.<END>
-<BEGIN>End.<END>
-<BEGIN>Look, until you've got better armor, I will not allow you to enter the Greater Faydark. It's too dangerous.<END>
-<BEGIN>End.<END>
-<BEGIN>We'll handle matters here for now. Your business is elsewhere. Stay on the path, but keep your weapons ready.<END>
-<BEGIN>End.<END>
-<BEGIN>We may not look like much, but we're the last line of defense. We must hold the orcs back.<END>
-<BEGIN>End.<END>
-<BEGIN>It's barely eleven years since we drove the orcs from Crushbone, but they have returned stronger than ever. They must have forged new alliances in the west.<END>
-<BEGIN>End.<END>
-<BEGIN>Patience! I know you're eager to kill orcs, but you're not ready yet. Come back when you're better equipped.<END>
-<BEGIN>End.<END>
-<BEGIN>Look, until you've got better armor, I will not allow you to enter the Greater Faydark. It's too dangerous.<END>
-<BEGIN>End.<END>
-<BEGIN>We'll handle matters here for now. Your business is elsewhere. Stay on the path, but keep your weapons ready.<END>
-<BEGIN>End.<END>
-<BEGIN>We may not look like much, but we're the last line of defense. We must hold the orcs back.<END>
-<BEGIN>End.<END>
-<BEGIN>It's barely eleven years since we drove the orcs from Crushbone, but they have returned stronger than ever. They must have forged new alliances in the west.<END>
-<BEGIN>End.<END>
-<BEGIN>Patience! I know you're eager to kill orcs, but you're not ready yet. Come back when you're better equipped.<END>
-<BEGIN>End.<END>
-<BEGIN>Look, until you've got better armor, I will not allow you to enter the Greater Faydark. It's too dangerous.<END>
-<BEGIN>End.<END>
-<BEGIN>We'll handle matters here for now. Your business is elsewhere. Stay on the path, but keep your weapons ready.<END>
-<BEGIN>End.<END>
-<BEGIN>We may not look like much, but we're the last line of defense. We must hold the orcs back.<END>
-<BEGIN>End.<END>
-<BEGIN>It's barely eleven years since we drove the orcs from Crushbone, but they have returned stronger than ever. They must have forged new alliances in the west.<END>
-<BEGIN>End.<END>
-<BEGIN>Patience! I know you're eager to kill orcs, but you're not ready yet. Come back when you're better equipped.<END>
-<BEGIN>End.<END>
-<BEGIN>Look, until you've got better armor, I will not allow you to enter the Greater Faydark. It's too dangerous.<END>
-<BEGIN>End.<END>
-<BEGIN>We'll handle matters here for now. Your business is elsewhere. Stay on the path, but keep your weapons ready.<END>
-<BEGIN>End.<END>
-<BEGIN>We may not look like much, but we're the last line of defense. We must hold the orcs back.<END>
-<BEGIN>End.<END>
-<BEGIN>It's barely eleven years since we drove the orcs from Crushbone, but they have returned stronger than ever. They must have forged new alliances in the west.<END>
-<BEGIN>End.<END>
-<BEGIN>Aren't you a little overdressed for a stroll through Faydark Forest? Maybe you haven't heard, but we're fighting orcs today.<END>
-<BEGIN>Your words are wasted on this one, Iurdain. It's but another fool who thinks to be a hero.<END>
-<BEGIN>When will Leithkorias stop sending them to us? They don't come prepared, they don't follow orders, and they don't bathe! They're more trouble than they're worth! Mark my words, we'll end up burying this one right next to the others.<END>
-<BEGIN>With your charm, Hathnul, it's little wonder we don't get more recruits from Faydark's Champions.<END>
-<BEGIN>You will have to excuse my friend, but he does have a point. If you're here to do battle with the orcs or goblins, you'll need to better equip yourself...<END>
-<BEGIN>Equip with what? We haven't got any extra provisions. The goblins took everything they could lay their hands on. You might as well go home.<END>
-<BEGIN>The Heartwood Master would not be pleased to hear his warrior welcomed with such words, Koail. This knight has traveled a long way to do battle at my father's request, on behalf of our people.<END>
-<BEGIN>Forgive Koail's words. These have been difficult times for us all. I am Elgoain, lieutenant in the Faydark Battalion, and son of Leithkorias. You are welcome here among us, champion. I see my father chose wisely, indeed.<END>
-<BEGIN>You could not have come at a better time. If you wish to arm yourself with better weapons and armor, then it may be we can aid each other.<END>
-<BEGIN>Beyond the rock grotto are two fallen trees which mark the goblins' cave. In this cave you will find the spoils the goblins plundered when they sacked our home of Kelethin. In exchange for spilling goblin blood, you may also find other things there which could be of great use to you on your mission.<END>
-<BEGIN>The orcs are retreating deeper into the forest. Spread the word... everyone who is able must report immediately to the Commander near the river.<END>
-<BEGIN>End.<END>
-<BEGIN>What are you waiting for? Find the Commander. He'll put you to work.<END>
-<BEGIN>End.<END>
-<BEGIN>Farewell and good hunting. The Faydark Champions are relying on your bravery!<END>
-<BEGIN>End.<END>
-<BEGIN>Thanks for your help, but we're not finished. We must drive back the orcs.<END>
-<BEGIN>End.<END>
-<BEGIN>We plan to regroup near the river, hurry!<END>
-<BEGIN>End.<END>
-<BEGIN>You are anxious...the battle in Greater Faydark will wait. Return with more protection or you will not make it twenty yards.<END>
-<BEGIN>End.<END>
-<BEGIN>We cannot let you into Greater Faydark wearing what little armor you have.<END>
-<BEGIN>End.<END>
-<BEGIN>On your way now. Stay to the path and our soldiers will help fend off the Goblin's.<END>
-<BEGIN>End.<END>
-<BEGIN>We are the last line of defense against the Orc Army. We must stay and hold them back.<END>
-<BEGIN>End.<END>
-<BEGIN>You are not equipped to battle the Invading Orc's.<END>
-<BEGIN>End.<END>
-<BEGIN>Long Name Test<END>
-<BEGIN>long ass name<END>
-<BEGIN>The Goblins are dead!<END>
-<BEGIN>It is once again safe to use the elevator.<END>
-<BEGIN>End of demo<END>
-<BEGIN>  Champions of Norrath available soon.
-        Thank you for playing.
+<BEGIN>Esta porta está trancada do outro lado.<END>
+<BEGIN>Para a Cidade de Khathuun.<END>
+<BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda não está pronto. Volte quando estiver melhor equipado.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, não vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós podemos não parecer muito, mas somos a última linha de defesa. Devemos segurar os orcs de volta.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Mal passaram onze anos desde que expulsamos os orcs de Crushbone, mas eles retornaram mais fortes do que nunca. Devem ter forjado novas alianças no oeste.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda não está pronto. Volte quando estiver melhor equipado.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, não vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós podemos não parecer muito, mas somos a última linha de defesa. Devemos segurar os orcs de volta.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Mal passaram onze anos desde que expulsamos os orcs de Crushbone, mas eles retornaram mais fortes do que nunca. Devem ter forjado novas alianças no oeste.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda não está pronto. Volte quando estiver melhor equipado.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, não vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós podemos não parecer muito, mas somos a última linha de defesa. Devemos segurar os orcs de volta.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Mal passaram onze anos desde que expulsamos os orcs de Crushbone, mas eles retornaram mais fortes do que nunca. Devem ter forjado novas alianças no oeste.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda não está pronto. Volte quando estiver melhor equipado.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, não vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós podemos não parecer muito, mas somos a última linha de defesa. Devemos segurar os orcs de volta.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Mal passaram onze anos desde que expulsamos os orcs de Crushbone, mas eles retornaram mais fortes do que nunca. Devem ter forjado novas alianças no oeste.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda não está pronto. Volte quando estiver melhor equipado.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, não vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós podemos não parecer muito, mas somos a última linha de defesa. Devemos segurar os orcs de volta.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Mal passaram onze anos desde que expulsamos os orcs de Crushbone, mas eles retornaram mais fortes do que nunca. Devem ter forjado novas alianças no oeste.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Você não está um pouco vestido demais para um passeio pela Floresta de Faydark? Talvez você não tenha ouvido, mas estamos lutando contra orcs hoje.<END>
+<BEGIN>Suas palavras estão sendo desperdiçadas com este, Iurdain. É apenas mais um tolo que pensa ser um herói.<END>
+<BEGIN>Quando Leithkorias vai parar de enviá-los para nós? Eles não vêm preparados, não seguem ordens e não se banham! Eles dão mais trabalho do que valem! Marque minhas palavras, acabaremos enterrando este bem ao lado dos outros.<END>
+<BEGIN>Com seu charme, Hathnul, não é de se admirar que não recebamos mais recrutas dos Campeões de Faydark.<END>
+<BEGIN>Você terá que desculpar meu amigo, mas ele tem um ponto. Se você está aqui para lutar contra os orcs ou goblins, precisará se equipar melhor...<END>
+<BEGIN>Equipar com o quê? Não temos provisões extras. Os goblins levaram tudo o que puderam colocar as mãos. Você poderia muito bem voltar para casa.<END>
+<BEGIN>O Mestre da Madeira do Coração não ficaria satisfeito em ouvir seu guerreiro ser recebido com tais palavras, Koail. Este cavaleiro viajou de longe para lutar a pedido de meu pai, em nome de nosso povo.<END>
+<BEGIN>Perdoe as palavras de Koail. Estes têm sido tempos difíceis para todos nós. Eu sou Elgoain, tenente no Batalhão de Faydark, e filho de Leithkorias. Você é bem-vindo aqui entre nós, campeão. Vejo que meu pai escolheu sabiamente, de fato.<END>
+<BEGIN>Você não poderia ter vindo em melhor hora. Se deseja se armar com melhores armas e armaduras, então talvez possamos nos ajudar mutuamente.<END>
+<BEGIN>Além da gruta de pedra, há duas árvores caídas que marcam a caverna dos goblins. Nesta caverna, você encontrará os despojos que os goblins saquearam quando atacaram nossa casa em Kelethin. Em troca de derramar sangue de goblin, você também pode encontrar outras coisas lá que podem ser de grande utilidade para sua missão.<END>
+<BEGIN>Os orcs estão recuando mais fundo na floresta. Espalhem a palavra... todos que puderem devem se reportar imediatamente ao Comandante perto do rio.<END>
+<BEGIN>Fim.<END>
+<BEGIN>O que você está esperando? Encontre o Comandante. Ele vai te colocar para trabalhar.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Adeus e boa caçada. Os Campeões de Faydark estão contando com sua bravura!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Obrigado pela sua ajuda, mas não terminamos. Precisamos repelir os orcs.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Planejamos nos reunir perto do rio, rápido!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Você está ansioso... a batalha em Greater Faydark vai esperar. Volte com mais proteção ou você não vai nem conseguir andar vinte metros.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Não podemos deixá-lo entrar em Greater Faydark usando essa pouca armadura que você tem.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Em seu caminho agora. Mantenha-se no caminho e nossos soldados ajudarão a afastar os Goblins.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Nós somos a última linha de defesa contra o Exército dos Orcs. Devemos ficar e segurá-los.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Você não está equipado para lutar contra os Orcs Invasores.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Teste de Nome Longo<END>
+<BEGIN>nome comprido<END>
+<BEGIN>Os Goblins estão mortos!<END>
+<BEGIN>É novamente seguro usar o elevador.<END>
+<BEGIN>Fim da demonstração<END>
+<BEGIN>  Campeões de Norrath disponível em breve.
+        Obrigado por jogar.
 
-          Return to main menu  <END>
+             Retornar ao menu principal  <END>
