@@ -980,7 +980,7 @@ sem ódio?<END>
 <BEGIN>Para o Campo de Lava Superior de Blackdelve<END>
 <BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até você conseguir uma armadura melhor, näo permitirei que entre no Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até você conseguir uma armadura melhor, näo permitirei que entre no Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Fique no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1000,13 +1000,13 @@ sem ódio?<END>
 <BEGIN>Koail<END>
 <BEGIN>Duirnas<END>
 <BEGIN>Hathnul<END>
-<BEGIN>Para Grande Faydark<END>
-<BEGIN>Para Grande Faydark<END>
-<BEGIN>Para Grande Faydark<END>
-<BEGIN>Para Grande Faydark<END>
-<BEGIN>Para Grande Faydark<END>
-<BEGIN>Para Grande Faydark<END>
-<BEGIN>Para Grande Faydark<END>
+<BEGIN>Para Faydark Superior<END>
+<BEGIN>Para Faydark Superior<END>
+<BEGIN>Para Faydark Superior<END>
+<BEGIN>Para Faydark Superior<END>
+<BEGIN>Para Faydark Superior<END>
+<BEGIN>Para Faydark Superior<END>
+<BEGIN>Para Faydark Superior<END>
 <BEGIN>Entrar na Caverna<END>
 <BEGIN>Entrar na Caverna<END>
 <BEGIN>Entrar na Caverna<END>
@@ -1016,7 +1016,7 @@ sem ódio?<END>
 <BEGIN>Entrar na Caverna<END>
 <BEGIN>Entrar na Caverna<END>
 <BEGIN>Entrar na Caverna<END>
-<BEGIN>Para Grande Faydark<END>
+<BEGIN>Para Faydark Superior<END>
 <BEGIN>Subir no elevador até Kelethin<END>
 <BEGIN>Subir no elevador até Kelethin<END>
 <BEGIN>Subir no elevador até Kelethin<END>
@@ -1030,7 +1030,7 @@ sem ódio?<END>
 <BEGIN>Localize a caverna principal dos Goblins, entre nela e localize um item mágico.<END>
 <BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até você conseguir uma armadura melhor, näo vou permitir que entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até você conseguir uma armadura melhor, näo vou permitir que entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1040,7 +1040,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até você conseguir uma armadura melhor, näo vou permitir que entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até você conseguir uma armadura melhor, näo vou permitir que entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1050,7 +1050,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até você conseguir uma armadura melhor, näo vou permitir que entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até você conseguir uma armadura melhor, näo vou permitir que entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1060,7 +1060,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até você conseguir uma armadura melhor, näo vou permitir que entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até você conseguir uma armadura melhor, näo vou permitir que entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1068,8 +1068,8 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Faz apenas onze anos desde que expulsamos os orcs de Crushbone, mas eles retornaram mais fortes do que nunca. Eles devem ter forjado novas alianças no oeste.<END>
 <BEGIN>Fim.<END>
-<BEGIN>A Grande Faydark espera por você.<END>
-<BEGIN>Os guardas elfos da floresta se foram. Vá para a Grande Faydark e ajude a repelir os orcs.<END>
+<BEGIN>A Faydark Superior espera por você.<END>
+<BEGIN>Os guardas elfos da floresta se foram. Vá para a Faydark Superior e ajude a repelir os orcs.<END>
 <BEGIN>Fim da demonstraçäo<END>
 <BEGIN>Campeöes de Norrath disponível em breve.
       Obrigado por jogar.
@@ -1095,9 +1095,9 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós planejamos nos reunir perto do rio, rápido!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você está ansioso... a batalha em Greater Faydark vai esperar. Volte com mais proteçäo ou você näo fará nem vinte metros.<END>
+<BEGIN>Você está ansioso... a batalha em a Faydark Superior vai esperar. Volte com mais proteçäo ou você näo fará nem vinte metros.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Näo podemos deixá-lo entrar em Greater Faydark usando essa pouca armadura que você tem.<END>
+<BEGIN>Näo podemos deixá-lo entrar em a Faydark Superior usando essa pouca armadura que você tem.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Em seu caminho agora. Mantenha-se no caminho e nossos soldados ajudaräo a afastar os Goblins.<END>
 <BEGIN>Fim.<END>
@@ -1115,13 +1115,13 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Adeus e boa caçada. Os Campeöes de Faydark estäo contando com sua bravura!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
 <BEGIN>Descendo para a Caverna dos Goblins<END>
 <BEGIN>Descendo para a Caverna dos Goblins<END>
 <BEGIN>Descendo para a Caverna dos Goblins<END>
@@ -1129,7 +1129,7 @@ sem ódio?<END>
 <BEGIN>Descendo para a Caverna dos Goblins<END>
 <BEGIN>Descendo para a Caverna dos Goblins<END>
 <BEGIN>Descendo para a Caverna dos Goblins<END>
-<BEGIN>Para o Lesser Faydark<END>
+<BEGIN>Para a Faydark Inferior<END>
 <BEGIN>Koail<END>
 <BEGIN>Iurdain<END>
 <BEGIN>Meiran<END>
@@ -1143,14 +1143,14 @@ sem ódio?<END>
 <BEGIN>Iurdain<END>
 <BEGIN>Meiran<END>
 <BEGIN>Duirnas<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
 <BEGIN>Encontre o interruptor nas Cavernas dos Orcs para abrir os portöes.<END>
 <BEGIN>Para as Ruínas da Floresta de Faydark<END>
 <BEGIN>Encontre o interruptor nas Cavernas dos Orcs para abrir os portöes.<END>
@@ -1214,8 +1214,8 @@ sem ódio?<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas<END>
-<BEGIN>Para Greater Faydark<END>
-<BEGIN>Para Greater Faydark<END>
+<BEGIN>Para a Faydark Superior<END>
+<BEGIN>Para a Faydark Superior<END>
 <BEGIN>Elfo da Floresta<END>
 <BEGIN>Comandante Turanin<END>
 <BEGIN>Oetheilas<END>
@@ -1320,14 +1320,14 @@ sem ódio?<END>
 <BEGIN>Guarda Elfo da Floresta<END>
 <BEGIN>Guarda Elfo da Floresta<END>
 <BEGIN>É muito perigoso andar de elevador agora.<END>
-<BEGIN>Desça de elevador para o Lesser Faydark.<END>
+<BEGIN>Desça de elevador para a Faydark Inferior.<END>
 <BEGIN>Rei Elfo da Floresta<END>
 <BEGIN>Meu campeäo, eu sei que você sofreu muito. Mas saiba que sua causa é justa! Sem seus esforços, Norrath estaria perdida!<END>
 <BEGIN>Eu venho até você do Plano do Ódio. Lá, Innoruuk mantém muitas almas em seu caldeiräo flamejante, e através de nós ele alimenta seu Exército do Ódio.<END>
 <BEGIN>Nos encontre, nos liberte, e juntos, ainda podemos deter a invasäo de Innoruuk.<END>
 <BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Fique na trilha, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1340,10 +1340,10 @@ sem ódio?<END>
 <BEGIN>Entrar na Caverna<END>
 <BEGIN>Ande de elevador até Kelethin<END>
 <BEGIN>Entrar na Caverna<END>
-<BEGIN>Para a Grande Faydark<END>
-<BEGIN>Para a Grande Faydark<END>
-<BEGIN>Para a Grande Faydark<END>
-<BEGIN>Para a Grande Faydark<END>
+<BEGIN>Para a Faydark Superior<END>
+<BEGIN>Para a Faydark Superior<END>
+<BEGIN>Para a Faydark Superior<END>
+<BEGIN>Para a Faydark Superior<END>
 <BEGIN>Hathnul<END>
 <BEGIN>Duirnas<END>
 <BEGIN>Koail<END>
@@ -1355,7 +1355,7 @@ sem ódio?<END>
 <BEGIN>Localize a caverna principal dos goblins, adentre e encontre um item mágico.<END>
 <BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Fique na trilha, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1365,7 +1365,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Fique na trilha, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1375,7 +1375,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Fique na trilha, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1385,7 +1385,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até que você tenha uma armadura melhor, näo permitirei que entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Fique na trilha, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1393,8 +1393,8 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Passaram apenas onze anos desde que expulsamos os orcs de Crushbone, mas eles retornaram mais fortes do que nunca. Devem ter forjado novas alianças no oeste.<END>
 <BEGIN>Fim.<END>
-<BEGIN>A Grande Faydark espera por você.<END>
-<BEGIN>Os guardas dos Elfos da Floresta se moveram. Vá para a Grande Faydark e ajude a repelir os orcs.<END>
+<BEGIN>A Faydark Superior espera por você.<END>
+<BEGIN>Os guardas dos Elfos da Floresta se moveram. Vá para a Faydark Superior e ajude a repelir os orcs.<END>
 <BEGIN>Você näo está um pouco bem vestido para um passeio pela Floresta de Faydark? Talvez você näo tenha ouvido, mas estamos lutando contra orcs hoje.<END>
 <BEGIN>Suas palavras säo desperdiçadas com este, Iurdain. É apenas outro tolo que pensa ser um herói.<END>
 <BEGIN>Quando Leithkorias vai parar de enviá-los para nós? Eles näo vêm preparados, näo seguem ordens e näo se lavam! Eles säo mais problemas do que valem! Marquem minhas palavras, acabaremos enterrando este bem ao lado dos outros.<END>
@@ -1415,9 +1415,9 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Planejamos nos reunir perto do rio, apresse-se!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você está ansioso... a batalha na Grande Faydark vai esperar. Volte com mais proteçäo ou você näo fará vinte metros.<END>
+<BEGIN>Você está ansioso... a batalha na Faydark Superior vai esperar. Volte com mais proteçäo ou você näo fará vinte metros.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Näo podemos deixá-lo entrar na Grande Faydark usando essa armadura escassa que você tem.<END>
+<BEGIN>Näo podemos deixá-lo entrar na Faydark Superior usando essa armadura escassa que você tem.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Continue seu caminho agora. Mantenha-se no caminho e nossos soldados ajudaräo a repelir os Goblins.<END>
 <BEGIN>Fim.<END>
@@ -1437,22 +1437,22 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Descendo para a Caverna dos Goblins<END>
 <BEGIN>Entrar na Caverna dos Orcs<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
-<BEGIN>Para o Lesser Faydark<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
 <BEGIN>Encontre o interruptor nas Cavernas dos Orcs para abrir os portöes.<END>
 <BEGIN>Para as Ruínas da Floresta de Faydark<END>
 <BEGIN>Encontre o interruptor nas Cavernas dos Orcs para abrir os portöes.<END>
@@ -1782,9 +1782,9 @@ sem ódio?<END>
 <BEGIN>Babik Nurn está morto!<END>
 <BEGIN>Você precisa levá-lo para um barco.<END>
 <BEGIN>Barco<END>
-<BEGIN>Para Menor Faydark<END>
-<BEGIN>Para Menor Faydark<END>
-<BEGIN>Para Menor Faydark<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
+<BEGIN>Para a Faydark Inferior<END>
 <BEGIN>Descer um Nível<END>
 <BEGIN>Descer um Nível<END>
 <BEGIN>Descer um Nível<END>
@@ -1792,13 +1792,13 @@ sem ódio?<END>
 <BEGIN>Descer um Nível<END>
 <BEGIN>Subir um Nível<END>
 <BEGIN>Subir um Nível<END>
-<BEGIN>Para Menor Faydark<END>
+<BEGIN>Para a Faydark Inferior<END>
 <BEGIN>Descer um Nível<END>
-<BEGIN>Para Menor Faydark<END>
+<BEGIN>Para a Faydark Inferior<END>
 <BEGIN>Subir um Nível<END>
-<BEGIN>Para Menor Faydark<END>
+<BEGIN>Para a Faydark Inferior<END>
 <BEGIN>Você recebeu um anel.<END>
-<BEGIN>Você está adequadamente equipado... retorne para Menor Faydark.<END>
+<BEGIN>Você está adequadamente equipado... retorne para a Faydark Inferior.<END>
 <BEGIN>Atualizaçäo<END>
 <BEGIN>Descer um Nível<END>
 <BEGIN>Descer um Nível<END>
@@ -1806,9 +1806,9 @@ sem ódio?<END>
 <BEGIN>Subir um Nível<END>
 <BEGIN>Subir um Nível<END>
 <BEGIN>Subir um Nível<END>
-<BEGIN>Para Maior Faydark<END>
-<BEGIN>Para Maior Faydark<END>
-<BEGIN>Para Maior Faydark<END>
+<BEGIN>Para Faydark Superior<END>
+<BEGIN>Para Faydark Superior<END>
+<BEGIN>Para Faydark Superior<END>
 <BEGIN>Babik Nurn!<END>
 <BEGIN>Vejo que você encontrou praticamente o melhor navegador a ser encontrado por aqui. Ele cuidará de você! Boa sorte em sua viagem.<END>
 <BEGIN>Cuidado, meus amigos. Algo maligno está em açäo lá embaixo, e se Vanarhost e seu amigo orc querem chegar lá, näo deve ser um bom lugar para se estar. Cuidem-se, e que Brell Serilis os proteja!<END>
@@ -4914,7 +4914,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Explore a ilha<END>
 <BEGIN>Rei dos Elfos da Floresta<END>
 <BEGIN>É muito perigoso usar o elevador agora.<END>
-<BEGIN>Desça o elevador até a Pequena Faydark.<END>
+<BEGIN>Desça o elevador até a Faydark Inferior.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
@@ -4948,7 +4948,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Vá agora, há muito a ser feito.<END>
 <BEGIN>Fim.<END>
-<BEGIN>O elevador o levará até a Grande Floresta Negra. Vá agora...<END>
+<BEGIN>O elevador o levará até a Faydark Superior. Vá agora...<END>
 <BEGIN>Fim.<END>
 <BEGIN>A loja fica logo após o elevador... Sugiro que se prepare para a batalha.<END>
 <BEGIN>Fim.<END>
@@ -4978,13 +4978,13 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Vá agora, há muito a ser feito.<END>
 <BEGIN>Fim.<END>
-<BEGIN>O elevador o levará até a Grande Floresta Negra. Vá agora...<END>
+<BEGIN>O elevador o levará até a Faydark Superior. Vá agora...<END>
 <BEGIN>Fim.<END>
 <BEGIN>A loja fica logo após o elevador... Sugiro que se prepare para a batalha.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Rei dos Elfos da Floresta<END>
 <BEGIN>É muito perigoso usar o elevador agora.<END>
-<BEGIN>Desça o elevador até a Pequena Fada Negra.<END>
+<BEGIN>Desça o elevador até a Faydark Inferior.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
@@ -5000,7 +5000,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Thareil<END>
 <BEGIN>Está muito perigoso usar o elevador agora.<END>
-<BEGIN>Desça o elevador até a Pequena Fada Negra.<END>
+<BEGIN>Desça o elevador até a Faydark Inferior.<END>
 <BEGIN>Leithkorias<END>
 <BEGIN>Os Goblins estäo mortos!<END>
 <BEGIN>É seguro usar o elevador novamente.<END>
@@ -5010,7 +5010,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Ainda restam 5 Goblins!<END>
 <BEGIN>Só há mais 1 Goblin em Kelethin!<END>
 <BEGIN>Goblins<END>
-<BEGIN>Alto! O elevador da Floresta Negra está proibido por ordem de Leithkorias, Mestre do Coraçäo de Madeira dos elfos da floresta. Ninguém está autorizado a usar o elevador até que todos os goblins e orcs sejam destruídos. Sem exceçöes.<END>
+<BEGIN>Alto! O elevador da Faydark está proibido por ordem de Leithkorias, Mestre do Coraçäo de Madeira dos elfos da floresta. Ninguém está autorizado a usar o elevador até que todos os goblins e orcs sejam destruídos. Sem exceçöes.<END>
 <BEGIN>Ok.<END>
 <BEGIN>Derrote os Goblins<END>
 <BEGIN>Mate todos os Goblins dentro de Kelethin e o elevador estará seguro para uso novamente.<END>
@@ -5036,13 +5036,13 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Continue agora, há muito a ser feito.<END>
 <BEGIN>Fim.<END>
-<BEGIN>O elevador o levará até a Grande Floresta Negra. Vá agora...<END>
+<BEGIN>O elevador o levará até a Faydark Superior. Vá agora...<END>
 <BEGIN>Fim.<END>
 <BEGIN>A loja fica logo após o elevador... Sugiro que se prepare para a batalha.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Rei dos Elfos da Floresta<END>
 <BEGIN>Está muito perigoso usar o elevador agora.<END>
-<BEGIN>Desça o elevador até a Pequena Fada Negra.<END>
+<BEGIN>Desça o elevador até a Faydark Inferior.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
@@ -5058,7 +5058,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Os Goblins estäo mortos!<END>
 <BEGIN>É seguro usar o elevador novamente.<END>
 <BEGIN>Derrote os Goblins<END>
-<BEGIN>Alto! O elevador da Floresta Negra está proibido por ordem de Liethkorias. Até que os invasores goblins sejam destruídos, ninguém entra ou sai.<END>
+<BEGIN>Alto! O elevador da Faydark está proibido por ordem de Liethkorias. Até que os invasores goblins sejam destruídos, ninguém entra ou sai.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Derrote os Goblins<END>
 <BEGIN>Mate todos os Goblins dentro de Kelethin e o elevador estará seguro para uso novamente.<END>
@@ -5086,7 +5086,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Vá agora, há muito a ser feito.<END>
 <BEGIN>Fim.<END>
-<BEGIN>O elevador o levará até a Grande Floresta Negra. Vá agora...<END>
+<BEGIN>O elevador o levará até a Faydark Superior. Vá agora...<END>
 <BEGIN>Fim.<END>
 <BEGIN>A loja fica logo após o elevador... Sugiro que se prepare para a batalha.<END>
 <BEGIN>Fim.<END>
@@ -5385,20 +5385,20 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Rogo-lhe, diga a meu pai... diga a meu pai que näo morri em väo.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Fora para Grande Faydark<END>
-<BEGIN>Fora para Grande Faydark<END>
-<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Fora para Faydark Superior<END>
+<BEGIN>Fora para Faydark Superior<END>
+<BEGIN>Fora para Faydark Superior<END>
 <BEGIN>Elgoain<END>
 <BEGIN>Descer para o Nível 2<END>
-<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Fora para Faydark Superior<END>
 <BEGIN>Näo se assuste, meu campeäo. Näo estou aqui para feri-lo.<END>
 <BEGIN>Näo há muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e näo perder a esperança. Se näo nos unirmos contra esse mal, entäo todo Norrath sofrerá.<END>
-<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Fora para Faydark Superior<END>
 <BEGIN>Descer para o Nível 2<END>
 <BEGIN>Elfo da Floresta<END>
-<BEGIN>Fora para Grande Faydark<END>
-<BEGIN>Fora para Grande Faydark<END>
-<BEGIN>Fora para Grande Faydark<END>
+<BEGIN>Fora para Faydark Superior<END>
+<BEGIN>Fora para Faydark Superior<END>
+<BEGIN>Fora para Faydark Superior<END>
 <BEGIN>Salve Elgoain<END>
 <BEGIN>Recompensa de Elgoain<END>
 <BEGIN>Você recebeu uma recompensa.<END>
@@ -5441,7 +5441,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Suba para o Nível 2<END>
 <BEGIN>Suba para o Nível 2<END>
 <BEGIN>Os Portöes da Floresta estäo abertos!<END>
-<BEGIN>Volte para Grande Faydark.<END>
+<BEGIN>Volte para Faydark Superior.<END>
 <BEGIN>Abra os Portöes<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas<END>
@@ -5491,7 +5491,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Para a Cidade de Khathuun.<END>
 <BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -5501,7 +5501,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -5511,7 +5511,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -5521,7 +5521,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -5531,7 +5531,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Paciência! Eu sei que você está ansioso para matar orcs, mas você ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olhe, até você conseguir uma armadura melhor, näo vou permitir que você entre na Faydark Superior. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -5559,9 +5559,9 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Planejamos nos reunir perto do rio, rápido!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você está ansioso... a batalha em Greater Faydark vai esperar. Volte com mais proteçäo ou você näo vai nem conseguir andar vinte metros.<END>
+<BEGIN>Você está ansioso... a batalha em a Faydark Superior vai esperar. Volte com mais proteçäo ou você näo vai nem conseguir andar vinte metros.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Näo podemos deixá-lo entrar em Greater Faydark usando essa pouca armadura que você tem.<END>
+<BEGIN>Näo podemos deixá-lo entrar em a Faydark Superior usando essa pouca armadura que você tem.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Em seu caminho agora. Mantenha-se no caminho e nossos soldados ajudaräo a afastar os Goblins.<END>
 <BEGIN>Fim.<END>
