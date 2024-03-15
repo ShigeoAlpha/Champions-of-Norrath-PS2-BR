@@ -2124,15 +2124,15 @@ sem ódio?<END>
 <BEGIN>Bloqueio<END>
 <BEGIN>Beber Poçäo de Vida<END>
 <BEGIN>Beber Poçäo de Mana<END>
-<BEGIN>Alternar Mapa Automático<END>
+<BEGIN>Alt. Mapa Automático<END>
 <BEGIN>Usar Magia/Habilidade<END>
 <BEGIN>Açäo (Falar/Abrir)<END>
-<BEGIN>Alternar Corpo a Corpo/Distância<END>
+<BEGIN>Alt. Luta Corp./Dist.<END>
 <BEGIN>Pressionar novo botäo para açäo:<END>
 <BEGIN>Movimento<END>
 <BEGIN>Inventário<END>
 <BEGIN>Câmera<END>
-<BEGIN>Menu de Pausa<END>
+<BEGIN>Menu Pausa<END>
 <BEGIN>Feitiços<END>
 <BEGIN>Importar Jogador<END>
 <BEGIN>Salvar Jogo<END>
@@ -2301,9 +2301,9 @@ Você ganha 750 de experiência.<END>
 <BEGIN>P%d<END>
 <BEGIN>Tem Certeza?<END>
 <BEGIN>%c Continuar   %c Tentar Novamente<END>
-<BEGIN>%c Cancelar Solicitaçäo<END>
-<BEGIN>%c Tentar Novamente   %c Cancelar Solicitaçäo<END>
-<BEGIN>%c Continuar   %c Cancelar Solicitaçäo<END>
+<BEGIN>%c Cancelar<END>
+<BEGIN>%c Tentar Novamente   %c Cancelar<END>
+<BEGIN>%c Continuar   %c Cancelar<END>
 <BEGIN>Ocorreu um erro ao acessar<END>
 <BEGIN>Configuraçäo de Salvar Jogo<END>
 <BEGIN>inserido.<END>
@@ -2602,8 +2602,8 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Cavaleiro Sombrio Elfo Negro<END>
 <BEGIN>Mago Erudito<END>
 <BEGIN>Rogue Meio Lingotamento<END>
-<BEGIN>Macho<END>
-<BEGIN>Fêmea<END>
+<BEGIN>Masculino<END>
+<BEGIN>Feminino<END>
 <BEGIN>%c Entrar no Inventário<END>
 <BEGIN>Mana: %f por segundo<END>
 <BEGIN>Mana: %d<END>
@@ -2811,9 +2811,9 @@ Você ganha 750 de experiência.<END>
 <BEGIN>A destreza aumenta o dano para armas de longo alcance e a capacidade de acerto com todas as armas.<END>
 <BEGIN>O vigor aumenta a saúde total e a regeneraçäo de saúde.<END>
 <BEGIN>Nome do Personagem:<END>
-<BEGIN>CONCLUÍDO<END>
-<BEGIN>ESPAÇO<END>
-<BEGIN>%c Mudança<END>
+<BEGIN>FEITO<END>
+<BEGIN>ESP<END>
+<BEGIN>%c Shift<END>
 <BEGIN>%c Apagar<END>
 <BEGIN>%c Aceitar<END>
 <BEGIN>Sair do jogo. Tem certeza?<END>
@@ -4499,12 +4499,12 @@ Você ganha 750 de experiência.<END>
 <END>
 <BEGIN>O cartäo de memória (8MB) (para PlayStation%c2) está ausente no slot de CARTÄO DE MEMÓRIA %s.<END>
 <BEGIN>O cartäo de memória (8MB) (para PlayStation%c2) no slot de CARTÄO DE MEMÓRIA %s foi removido. Por favor, reinsira e tente novamente.<END>
-<BEGIN>%c Cancelar Solicitaçäo<END>
+<BEGIN>%c Cancelar<END>
 <BEGIN>Recomendado para iniciantes.<END>
 <BEGIN>É recomendado um personagem de nível entre 1-20.<END>
 <BEGIN>Deve completar o jogo no modo Aventureiro primeiro.<END>
 <BEGIN>É recomendado um personagem de nível entre 20-35.<END>
-<BEGIN>Deve completar o jogo na dificuldade Corajosa primeiro.<END>
+<BEGIN>Deve completar o jogo na dificuldade Corajoso primeiro.<END>
 <BEGIN>É recomendado um personagem de nível entre 35-50.<END>
 <BEGIN>Aventureiro<END>
 <BEGIN>Corajoso<END>
@@ -5093,7 +5093,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Ah, uma visäo bem-vinda de fato! Meu coraçäo se alegra! Se nada mais, sou rico em amigos. Mas eu o aviso, o caminho à frente näo será fácil. Você pode pensar que o inimigo näo passa de uma ralé de orcs e goblins indisciplinados. Näo seja enganado.<END>
 <BEGIN>Essas bestas säo traiçoeiras, e säo lideradas por um orc que é maior, mais forte e mais astuto do que qualquer um que já conheci. Sua simples presença incita esses orcs e goblins a se transformarem no exército que corta seu caminho em direçäo a nós mesmo agora.<END>
 <BEGIN>Mas se alguém, um herói, levar a batalha até este chefe orc, entäo talvez nossas fortunas possam ser revertidas.<END>
-<BEGIN>Preciso que você entre na Floresta Grande de Faydark, descubra quem é este chefe orc, quais säo seus planos e, se possível, derrote-o.<END>
+<BEGIN>Preciso que você entre na Floresta de Faydark Superior, descubra quem é este chefe orc, quais säo seus planos e, se possível, derrote-o.<END>
 <BEGIN>Você precisará de suprimentos e armas para a batalha que se aproxima. Visite nosso comerciante, Nenmar. Eu o instruí a lhe fornecer tudo o que precisar por um preço justo.<END>
 <BEGIN>Campeöes de Norrath, agradeço por atenderem ao meu chamado neste que pode ser nosso momento mais sombrio. O impensável aconteceu. Orcs e goblins, outrora inimigos mortais, agora se tornaram aliados e atacaram nosso amado lar em Faydwer.<END>
 <BEGIN>Mesmo enquanto falamos, eles avançam pela floresta de Faydark sem oposiçäo. Eles saquearam nosso lar, Kelethin, e puseram nossos entes queridos à espada. Seus rastros deixam cicatrizes na terra que talvez nunca se curem.<END>
@@ -5106,7 +5106,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Ah, uma visäo bem-vinda de fato! Meu coraçäo se alegra! Se nada mais, sou rico em amigos. Mas eu te aviso, o caminho à frente näo será fácil. Você pode pensar que o inimigo näo passa de uma multidäo de orcs e goblins mal disciplinados. Näo se engane.<END>
 <BEGIN>Essas bestas säo traiçoeiras, e säo lideradas por um orc que é maior, mais forte e mais astuto do que qualquer um que já conheci. Sua presença sozinha incita esses orcs e goblins no exército que avança em nossa direçäo até mesmo agora.<END>
 <BEGIN>Mas se alguém, um herói, levasse a batalha para este chefe orc, entäo talvez nossa sorte pudesse ser revertida.<END>
-<BEGIN>Eu preciso que você entre na Grande Floresta Faydark, descubra quem é este chefe orc, quais säo seus planos e, se possível, o derrote.<END>
+<BEGIN>Eu preciso que você entre na Floresta Faydark Superior, descubra quem é este chefe orc, quais säo seus planos e, se possível, o derrote.<END>
 <BEGIN>Você precisará de suprimentos e armas para a batalha que está por vir. Visite nosso lojista, Nenmar. Eu o instruí a lhe fornecer o que você precisar por um preço justo.<END>
 <BEGIN>Campeöes de Norrath, obrigado por responderem ao meu chamado no que pode ser nossa hora mais sombria. O impensável aconteceu. Orcs e goblins, uma vez inimigos mortais, agora se tornaram aliados e atacaram nosso amado lar em Faydwer.<END>
 <BEGIN>Mesmo enquanto falamos, eles avançam pela floresta de Faydark sem oposiçäo. Eles saquearam nosso lar, Kelethin, e colocaram nossos entes queridos à espada. Suas pegadas deixam cicatrizes na terra que talvez nunca se curem.<END>
@@ -5385,20 +5385,20 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Rogo-lhe, diga a meu pai... diga a meu pai que näo morri em väo.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Fora para Faydark Superior<END>
-<BEGIN>Fora para Faydark Superior<END>
-<BEGIN>Fora para Faydark Superior<END>
+<BEGIN>Fora da Faydark Superior<END>
+<BEGIN>Fora da Faydark Superior<END>
+<BEGIN>Fora da Faydark Superior<END>
 <BEGIN>Elgoain<END>
 <BEGIN>Descer para o Nível 2<END>
-<BEGIN>Fora para Faydark Superior<END>
+<BEGIN>Fora da Faydark Superior<END>
 <BEGIN>Näo se assuste, meu campeäo. Näo estou aqui para feri-lo.<END>
 <BEGIN>Näo há muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e näo perder a esperança. Se näo nos unirmos contra esse mal, entäo todo Norrath sofrerá.<END>
-<BEGIN>Fora para Faydark Superior<END>
+<BEGIN>Fora da Faydark Superior<END>
 <BEGIN>Descer para o Nível 2<END>
 <BEGIN>Elfo da Floresta<END>
-<BEGIN>Fora para Faydark Superior<END>
-<BEGIN>Fora para Faydark Superior<END>
-<BEGIN>Fora para Faydark Superior<END>
+<BEGIN>Fora da Faydark Superior<END>
+<BEGIN>Fora da Faydark Superior<END>
+<BEGIN>Fora da Faydark Superior<END>
 <BEGIN>Salve Elgoain<END>
 <BEGIN>Recompensa de Elgoain<END>
 <BEGIN>Você recebeu uma recompensa.<END>
