@@ -1981,7 +1981,7 @@ sem ódio?<END>
 <BEGIN>Você näo tem tempo para isso agora.<END>
 <BEGIN>Você näo tem a chave para esta porta.<END>
 <BEGIN>Custo:<END>
-<BEGIN>Nível Necessário:<END>
+<BEGIN>Nvl Minimo:<END>
 <BEGIN>Nome:<END>
 <BEGIN>Classificaçäo Atual:<END>
 <BEGIN>Próxima Classificaçäo:<END>
@@ -2180,11 +2180,11 @@ sem ódio?<END>
 <BEGIN>%c Continuar<END>
 <BEGIN>%c Continuar   %c Voltar<END>
 <BEGIN>%c Importar   %c Voltar<END>
-<BEGIN>salvar jogo %d?<END>
+<BEGIN>salvamento %d?<END>
 <BEGIN>:  %d hora%s, %d minuto%s.<END>
 <BEGIN>:  %d minuto%s.<END>
 <BEGIN>:  Nenhum.<END>
-<BEGIN>%c Menu Principal   %c Carregar Último<END>
+<BEGIN>%c Menu Principal   %c Carregar Anterior<END>
 <BEGIN>%c Reiniciar<END>
 <BEGIN>%c Menu Principal<END>
 <BEGIN>cartäo de memória (8MB)(para PlayStation%c2) no SLOT do CARTÄO DE MEMÓRIA %s:<END>
@@ -2270,7 +2270,7 @@ sem ódio?<END>
 <BEGIN>Näo pode Soltar<END>
 <BEGIN>Você näo pode soltar isso aqui.<END>
 <BEGIN>Texto de Dano<END>
-<BEGIN>Dica Útil<END>
+<BEGIN>Dica Importante<END>
 <BEGIN>Você pode usar poçöes rapidamente quando näo estiver no inventário pressionando † para cura e „ para rejuvenescimento. Isso selecionará automaticamente a poçäo de tamanho mais apropriado.<END>
 <BEGIN>Este feito permite que você faça um bloqueio contínuo com uma arma de combate corpo a corpo como se fosse um escudo quando nenhum estiver equipado.<END>
 <BEGIN>Você recebe um amuleto de proteçäo.
@@ -2326,7 +2326,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>cartäo de memória (8MB)(para PlayStation%c2) com pelo menos %dKB de espaço livre.<END>
 <BEGIN>Flags de Salvar Jogo<END>
 <BEGIN>Modo Extremo<END>
-<BEGIN>Dificuldade<END>
+<BEGIN>Dificul.<END>
 <BEGIN>:  Fácil<END>
 <BEGIN>:  Normal<END>
 <BEGIN>:  Difícil<END>
@@ -2392,7 +2392,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Poçäo de Gás<END>
 <BEGIN>Curar Ferimentos<END>
 <BEGIN>Bárbaro Guerreiro<END>
-<BEGIN>Clériga Alta Elfa<END>
+<BEGIN>Alta Elfa Clériga<END>
 <BEGIN>Cavaleiro das Sombras Elfo Negro<END>
 <BEGIN>Ranger Elfo da Floresta<END>
 <BEGIN>Defesa<END>
@@ -2415,7 +2415,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Feitiço Rápido 2<END>
 <BEGIN>Próximo Feitiço/Habilidade<END>
 <BEGIN>Feitiço/Habilidade Anterior<END>
-<BEGIN>Alternar entre Corpo a Corpo/À Distância<END>
+<BEGIN>Alt. Luta Corp/Dist.<END>
 <BEGIN>- - -<END>
 <BEGIN>Ataque Ciclone<END>
 <BEGIN>Um ataque circular devastador que requer um machado ou martelo de duas mäos para ser usado.<END>
@@ -2582,7 +2582,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Uma onda de energia emana do conjurador, afastando e danificando os mortos-vivos.<END>
 <BEGIN>Pele de Escudo<END>
 <BEGIN>Este feitiço aumenta temporariamente a classe de armadura do conjurador.<END>
-<BEGIN>Ponto de Verificaçäo Salvo<END>
+<BEGIN>Ponto de Controle Salvo<END>
 <BEGIN>Jogador %d<END>
 <BEGIN>Bárbaro Masculino<END>
 <BEGIN>Bárbaro Feminino<END>
@@ -2598,7 +2598,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Halfling Feminino<END>
 <BEGIN>Guerrero Bárbaro<END>
 <BEGIN>Ranger Elfo da Floresta<END>
-<BEGIN>Clérigo de Alto Elfo<END>
+<BEGIN>Alto Elfo Clérigo<END>
 <BEGIN>Cavaleiro Sombrio Elfo Negro<END>
 <BEGIN>Mago Erudito<END>
 <BEGIN>Rogue Meio Lingotamento<END>
@@ -2782,9 +2782,9 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Luta de curta distância limita os benefícios de suas armas à distância.<END>
 <BEGIN>Pode combinar luta de curta distância com alto dano à distância.<END>
 <BEGIN>Luta de curta distância limita os benefícios de suas armas à distância.<END>
-<BEGIN>Invocando o divino, eles podem causar dano a criaturas mortas-vivas. Feitiços de reforço beneficiam os companheiros de equipe.<END>
+<BEGIN>Incorporando o divino, eles podem causar dano a criaturas mortas-vivas. Feitiços de reforço beneficiam os companheiros de equipe.<END>
 <BEGIN>Limitado ao uso de armas contundentes.<END>
-<BEGIN>Invocando o divino, eles podem causar dano a criaturas mortas-vivas. Feitiços de reforço beneficiam os companheiros de equipe.<END>
+<BEGIN>Incorporando o divino, eles podem causar dano a criaturas mortas-vivas. Feitiços de reforço beneficiam os companheiros de equipe.<END>
 <BEGIN>Limitado ao uso de armas contundentes.<END>
 <BEGIN>Capaz de causar dano a grandes distâncias. Pode imbuir armas com energia elemental.<END>
 <BEGIN>Näo proficiente em combate corpo a corpo. Limitado no uso de armas. Näo pode usar escudos.<END>
@@ -3054,10 +3054,10 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Raio do Mago<END>
 <BEGIN>Ataque<END>
 <BEGIN>Experiência<END>
-<BEGIN>Próximo Nível<END>
+<BEGIN>Próx. Nível<END>
 <BEGIN>Vida<END>
 <BEGIN>Mana<END>
-<BEGIN>Armadura<END>
+<BEGIN>Armad.<END>
 <BEGIN>Dano<END>
 <BEGIN>Força<END>
 <BEGIN>Inteligência<END>
@@ -4922,12 +4922,12 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Dono da loja dos Elfos da Floresta<END>
-<BEGIN>Alto! O elevador de Faydark está proibido por ordem de Leithkorias, Mestre da Floresta dos Elfos. Ninguém tem permissäo para usar o elevador até que cada único goblin e orc seja destruído. Sem exceçöes.<END>
+<BEGIN>Alto! O elevador de Faydark está proibido por ordem de Leithkorias, Mestre da Floresta dos Elfos. Ninguém tem permissäo para usar o elevador até que cada goblin e orc seja destruído. Sem exceçöes.<END>
 <BEGIN>Ok.<END>
 <BEGIN>Derrote os Goblins<END>
 <BEGIN>Mate todos os Goblins dentro de Kelethin e o elevador estará seguro para uso novamente.<END>
 <BEGIN>Eu sacrificaria minha vida para impedir o inimigo de pegar este elevador. Falo sério.<END>
-<BEGIN>Tudo bem já!<END>
+<BEGIN>Tudo bem!<END>
 <BEGIN>Está tudo liberado. O elevador agora está pronto para operaçäo!<END>
 <BEGIN>Foi um prazer.<END>
 <BEGIN>Você precisará de suprimentos e armas para a batalha que está por vir. Visite nosso lojista, Nenmar. Eu o instruí a lhe fornecer tudo o que você precisar por um preço justo.<END>
@@ -4957,7 +4957,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Derrote os Goblins<END>
 <BEGIN>Mate todos os Goblins dentro de Kelethin e o elevador estará seguro para uso novamente.<END>
 <BEGIN>Ainda há goblins por aí, näo ousamos abrir o caminho!<END>
-<BEGIN>Tudo bem já!<END>
+<BEGIN>Tudo bem!<END>
 <BEGIN>Nossa vila está segura novamente. Obrigado.<END>
 <BEGIN>Foi um prazer.<END>
 <BEGIN>Näo posso dizer o quanto sua ajuda significa para nós.<END>
@@ -5015,7 +5015,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Derrote os Goblins<END>
 <BEGIN>Mate todos os Goblins dentro de Kelethin e o elevador estará seguro para uso novamente.<END>
 <BEGIN>Eu sacrificaria minha vida com prazer para evitar que o inimigo tomasse este elevador. Estou falando sério.<END>
-<BEGIN>Tudo bem já!<END>
+<BEGIN>Tudo bem!<END>
 <BEGIN>Isso é tudo. O elevador está pronto para operaçäo agora!<END>
 <BEGIN>Foi um prazer.<END>
 <BEGIN>Você precisará de suprimentos e armas para a batalha que se aproxima. Visite nosso comerciante, Nenmar. Eu o instruí a lhe fornecer tudo o que precisar por um preço justo.<END>
@@ -5065,7 +5065,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Sem exceçöes.<END>
 <BEGIN>Ok.<END>
 <BEGIN>Desculpe, mas ninguém usará este elevador até que cada goblin sujo desta vila esteja morto. Ordem é ordem.<END>
-<BEGIN>Tudo bem já!<END>
+<BEGIN>Tudo bem!<END>
 <BEGIN>Tudo bem entäo, soaram o sinal de tudo limpo. Você pode usar o elevador.<END>
 <BEGIN>Foi um prazer.<END>
 <BEGIN>Näo posso dizer o quanto sua ajuda significa para nós.<END>
@@ -5330,7 +5330,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Você está em 1º lugar!<END>
 <BEGIN>Você está em 2º lugar!<END>
 <BEGIN>Você está em 3º lugar!<END>
-<BEGIN>Você está em ÚLTIMO lugar!<END>
+<BEGIN>Você está em ULTIMO lugar!<END>
 <BEGIN>Corredores, preparem-se!<END>
 <BEGIN>Prontos!<END>
 <BEGIN>Já!<END>
