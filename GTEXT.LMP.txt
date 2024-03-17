@@ -1578,14 +1578,14 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Devolver a Filha do Nobre<END>
 <BEGIN>Encontre Tenya e a envie de volta para seu pai.<END>
-<BEGIN>Olha, por favor. A pequena Tenya está vagando completamente sozinha lá fora, e estou preocupado com ela. Pagarei qualquer preço... apenas por favor, traga-a de volta para mim ilesa.<END>
+<BEGIN>Olha, por favor. A pequena Tenya está vagando completamente sozinha lá fora, e estou preocupado com ela. Pagarei qualquer preço... por favor apenas, traga ela de volta para mim ilesa.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Näo esperava te ver de volta täo cedo. Mas onde está Tenya? Estou te implorando, a encontre antes que o Senhor Vanarhost afunde seus dentes nela.<END>
+<BEGIN>Näo esperava te ver de volta täo cedo. Mas onde está Tenya? Estou te imploro, a encontre antes que o Senhor Vanarhost afunde seus dentes nela.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Obrigado por resgatar Tenya. Você é täo bom quanto sua palavra, até melhor! Eu te prometi algo se trouxesse minha pequena joia de volta, entäo aqui está uma joia para você, o Rubi de Mistmoore. É uma pedra de sangue, muito valiosa, e agora é sua. Espero que te traga riqueza e fortuna.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Devolver a Filha do Nobre<END>
-<BEGIN>Tenho algumas notícias que podem ser úteis para você. O Senhor Vanarhost tem um aliado, um grande bruto de um orc, uma criatura aterrorizante. Acredito que estäo em conluio e temo o que podem estar tramando. Se esse brutamontes é o mesmo que estava causando tanto tumulto na Superfície, entäo ficarei mais do que feliz em te dizer onde encontrá-lo.<END>
+<BEGIN>Tenho algumas notícias que podem ser úteis para você. O Senhor Vanarhost tem um aliado, um grande bruto orc, uma criatura aterrorizante. Acredito que estäo em conluio e temo o que podem estar tramando. Se esse brutamonte é o mesmo que estava causando tanto tumulto na Superfície, entäo ficarei mais do que feliz em te dizer onde encontrá-lo.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Bem na nossa costa, há um curso d'água perigoso. Além disso, está o Poço do Mau Presságio, um oceano sujo que corre para as partes mais sombrias do Submundo. Näo é um nome muito agradável, eu sei, mas é um lugar bastante horrível.<END>
 <BEGIN>Mais...<END>
@@ -1597,8 +1597,8 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você vê o que as Mamute-Formigas estäo fazendo com Blackdelve Reach? Elas estäo comendo! Mastigando, casa por casa! Eu disse a Melman Froes que isso ia acontecer, mas ele näo ouviu, oh näo.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Mas näo é culpa das pobres Mamute-Formigas. Elas säo criaturas sensíveis. Elas näo gostam de barulhos altos. Mas, claro, os anciäos disseram que construir cavaleiros de lava traria ouro rolando para Blackdelve Reach, entäo näo havia discussäo! Típico! E míope.<END>
-<BEGIN>Entendo que os cavaleiros de lava säo um problema?<END>
+<BEGIN>Mas näo é culpa das pobres Mamute-Formigas. Elas säo criaturas sensíveis. Elas näo gostam de barulhos altos. Mas, claro, os anciäos disseram que construir lava riders traria ouro rolando para Blackdelve Reach, entäo näo havia discussäo! Típico! E de pouca visäo.<END>
+<BEGIN>Presumo que os lava riders sejam um problema?<END>
 <BEGIN>Parece trágico, mas tenho negócios mais urgentes em outro lugar.<END>
 <BEGIN>Oh, näo säo os cavaleiros de lava que säo o problema, é o barulho que eles fazem! As vibraçöes fizeram as Mamute-Formigas saírem de seu ninho. Quer dizer, imagine como seria se alguém colocasse uma panela na sua cabeça e ficasse batendo nela com uma colher. Näo, um martelo, de novo e de novo e de novo e de novo e... nnnnh!<END>
 <BEGIN>Mais...<END>
@@ -1724,7 +1724,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Desta vez, bem, ela parece ter vagado um tanto longe, de fato. Parece que ela de alguma forma atravessou o Campo de Lava Blackdelve e está vagando nas, uh, Cavernas dos Caídos.<END>
 <BEGIN>Mais...<END>
-<BEGIN>As Cavernas näo estäo muito longe, eu suponho, elas ficam do outro lado do Desfiladeiro Blackfire. Alguns dos gnomos chamam o Desfiladeiro de um lugar traiçoeiro, mas näo se preocupe. O Desfiladeiro Blackfire é monitorado da Torre de Ferro por Xorin Shadowson. Ele é um tanto imprevisível, mas ele näo vai te incomodar, apenas fique de olho nos bichos dele. Eles säo os que väo te despedaçar.<END>
+<BEGIN>As Cavernas näo estäo muito longe, eu suponho, elas ficam do outro lado do Desfiladeiro Blackfire. Alguns dos gnomos o chamam de: Desfiladeiro de um lugar traiçoeiro, mas näo se preocupe. O Desfiladeiro Blackfire é monitorado da Torre de Ferro por Xorin Shadowson. Ele é um tanto imprevisível, mas ele näo vai te incomodar, apenas fique de olho nos bichos dele. Säo eles que väo te despedaçar.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Retornar a Filha do Nobre<END>
 <BEGIN>Encontre Tenya e a mande de volta para o pai dela.<END>
@@ -1750,11 +1750,11 @@ sem ódio?<END>
 <BEGIN>Mas näo é culpa dos pobres Mamute-Formigas. Eles säo criaturas sensíveis. Eles näo gostam de barulhos altos. Mas, é claro, os anciäos disseram que construir montarias de lava traria ouro rolando para Blackdelve Reach, entäo näo havia como discutir com isso! Típico! E míope.<END>
 <BEGIN>Suponho que as montarias de lava sejam um problema?<END>
 <BEGIN>Parece trágico, mas tenho negócios mais urgentes em outro lugar.<END>
-<BEGIN>Ah, näo säo as montarias de lava que säo o problema, é o barulho que elas fazem! As vibraçöes expulsaram as Mamute-Formigas de seus ninhos. Quero dizer, imagine como seria se alguém colocasse uma panela na sua cabeça e ficasse batendo nela com uma colher. Näo, um martelo, de novo e de novo e de novo e de novo e... nnnnnh!<END>
+<BEGIN>Ah, näo säo os lava riders que säo o problema, é o barulho que elas fazem! As vibraçöes expulsaram as Mamute-Formigas de seus ninhos. Quero dizer, imagine como seria se alguém colocasse uma panela na sua cabeça e ficasse batendo nela com uma colher. Näo, um martelo, de novo e, de novo e, de novo e, de novo e... nnnnnh!<END>
 <BEGIN>Mais...<END>
-<BEGIN>Agora as Mamute-Formigas estäo invadindo Blackdelve Reach. Eu armei armadilhas, mas essas formigas säo enormes. Näo há muito que eu possa fazer. As armadilhas só parecem deixá-las mais irritadas, e isso é a última coisa que precisamos.<END>
+<BEGIN>Agora as Mamute-Formigas estäo invadindo Blackdelve Reach. Eu armei armadilhas, mas essas formigas säo enormes. Näo há muito que eu possa fazer. As armadilhas parecem que só as deixam mais irritadas, e isso é a última coisa que precisamos.<END>
 <BEGIN>Posso ajudar de alguma forma?<END>
-<BEGIN>Näo a menos que você consiga encontrar a rainha Mamute-Formiga, e näo consigo pensar em ninguém que tenha coragem de tentar isso. O problema é que, enquanto ela estiver viva, ela vai continuar colocando ovos, e esse problema só vai piorar. Se houver algo que você possa fazer, ficaríamos muito gratos.<END>
+<BEGIN>Näo a menos que você consiga encontrar a rainha Mamute-Formiga, e näo consigo pensar em ninguém que tenha coragem de tentar isso. O problema é que, enquanto ela estiver viva, ela vai continuar botando ovos, e esse problema só vai piorar. Se houver algo que você possa fazer, ficaríamos muito gratos.<END>
 <BEGIN>Verei o que pode ser feito.<END>
 <BEGIN>Essas Mamute-Formigas ainda estäo causando estragos. Se você puder chegar até a rainha delas, ficaria muito grato.<END>
 <BEGIN>Vou dar um jeito nelas!<END>
@@ -1911,7 +1911,7 @@ sem ódio?<END>
 <BEGIN>Permaneça em seu caminho, meu campeäo, e näo desespere. Ajudarei você se puder.<END>
 <BEGIN>Näo há controle no slot %s. Por favor, insira um controle analógico DUALSHOCK™2 para continuar o jogo.<END>
 <BEGIN>Aumenta a Velocidade<END>
-<BEGIN>Necessário: Arma corpo a corpo ou escudo equipado para bloquear.<END>
+<BEGIN>Você precisa de uma arma corpo a corpo^ ou escudo equipado para bloquear.<END>
 <BEGIN>Pressione o botäo SELECT para Evoluir de Nível<END>
 <BEGIN>A Porta Está Trancada.<END>
 <BEGIN>Cura: %d-%d<END>
@@ -2501,7 +2501,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Pequeno:<END>
 <BEGIN>Liga:<END>
 <BEGIN>Ferro Escurecido:<END>
-<BEGIN>Teir'Dal<END>
+<BEGIN>Teir'Dal:<END>
 <BEGIN>Combinar:<END>
 <BEGIN>Aço Fino:<END>
 <BEGIN>Feir'Dal:<END>
@@ -4652,7 +4652,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Garrafa de Mana<END>
 <BEGIN>Garrafa de Mana Maior<END>
 <BEGIN>Nenhum inimigo morto-vivo presente para converter<END>
-<BEGIN>Uma arma de combate corpo a corpo é necessária para esta habilidade<END>
+<BEGIN>Uma arma de combate corpo a corpo^ é necessária para esta habilidade<END>
 <BEGIN>Apenas para Guarda-Florestal<END>
 <BEGIN>Apenas para Cavaleiro das Sombras<END>
 <BEGIN>Apenas para Clérigo<END>
@@ -5200,10 +5200,10 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Kol<END>
 <BEGIN>Conserte a bomba de lava.<END>
 <BEGIN>Você precisa do Trocador para consertar a bomba.<END>
-<BEGIN>Mecânico Gnomo<END>
-<BEGIN>Mecânico Gnomo<END>
-<BEGIN>Mecânico Gnomo<END>
-<BEGIN>Mecânico Gnomo<END>
+<BEGIN>Gnomo Mecânico<END>
+<BEGIN>Gnomo Mecânico<END>
+<BEGIN>Gnomo Mecânico<END>
+<BEGIN>Gnomo Mecânico<END>
 <BEGIN>Kol<END>
 <BEGIN>Para o Campo de Lava Inferior<END>
 <BEGIN>Para o Campo de Lava Inferior<END>
@@ -5211,31 +5211,31 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Esta passagem foi selada.<END>
 <BEGIN>Xorin<END>
 <BEGIN>Até Blackdelve Reach<END>
-<BEGIN>Entäo você deve ser o tal. Claro! O que mais aquele grande orc estaria fazendo no Submundo se näo fosse por algum outro Overworlder?! Eu disse a Bingham! O orc tenta impedir que qualquer um o siga. Ele tem medo de você! Por quê? O que... Oh! isso näo é importante agora, näo importante.<END>
+<BEGIN>Entäo você deve ser o tal. ccc...claro! O que mais aquele ggg...grande orc estaria fazendo no Submundo se näo, por aaa...algum outro ser do Mundo Superior?! Eu disse pro Bingham! O orc tenta impedir que qualquer um o ssssiga. Ele tem medo de você! Por quê? O que voc... Oh! isso näo é importante agora, nnnnäo é importante.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Todos nós precisamos que esse orc vá embora, e você quer pegar esse ladräo. Podemos acertar as coisas... se trabalharmos juntos! Mas há muito a ser feito, muito a ser feito. Tudo começa com a bomba de lava, a bomba de lava...<END>
+<BEGIN>Todos nós ppppprecisamos que esse orc vá embora, e você quer pegar luu...luu...ladräo. Podemos ajustar as coisas... se trabalharmos juntos! Mas há mmm mmuito a ser feito, muito a ser feito. Tudo começa com a bomba de lava, a bomba de lava...<END>
 <BEGIN>Mais...<END>
-<BEGIN>O caminho até a bomba está bloqueado. Uma vez houve uma ponte para alcançá-la, mas isso acabou agora, acabou! A única maneira de chegar lá é atravessar o campo de lava, e isso só é possível com um lava runner... uh... uh... um veículo que os gnomos do profundo constroem. Muitas vezes pedi emprestado um, mas eles näo confiam em mim para pilotar um, näo, näo, näo.<END>
+<BEGIN>O caminho até a bomba está bloqueado. Antigamente havia uma pon pon pppponte para alcançá-la, mas la se foi agora, acabou! A única maneira de chegar lá é atravessar o campo de lava, e isso só é ppppossível com um lava runner... uh... uh... um veículo que os pequeninos gnomos constroem. Muitas vezes ppppedi emprestado um, mas eles näo confiam em mim para pilotar um, näo, näo, näo.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Se... se você conseguir garantir um veículo desses... você poderia atravessar o campo de lava e chegar à bomba. Tudo o que precisaria ser feito entäo seria inserir o trocador na bomba, e ela deveria ser consertada. Consertada!<END>
+<BEGIN>Se...se você conseguir garantir um veículo desses... você poderia atravessar o campo de lava e chegar à bomba. Tudo o que precisaria ser feito entäo seria inserir o trocccc troc... trocador na bomba, e ela poderia ser reparada. Consertada!<END>
 <BEGIN>Mais...<END>
-<BEGIN>O trocador... sim. Parece que o deixei em algum lugar. Ou talvez o orc tenha pegado e escondido em algum lugar. De qualquer forma, consiga um runner, encontre o trocador e leve-o até a bomba. Sim, isso deve funcionar! Deve!<END>
+<BEGIN>O trocador... sim. Ppp...Parece que dddd...deixei em algum lugar. Ou ttt...talvez o orc ttt...tenha pegado e escondido em algum llll...lugar. De qualquer forma, ccc...consiga um runner, ennn...encontre o trocador e o lll...leve até a bomba. Sim, isso ddddeve funcionar! Deve!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Consertar Bomba<END>
 <BEGIN>Conseguir um Lava Runner, encontrar o Trocador e inseri-lo na Bomba de Lava.<END>
-<BEGIN>Por que você voltou? A bomba de lava ainda está quebrada, ainda näo foi reparada! Consiga um lava runner e o trocador, atravesse o campo de lava e conserte a bomba de lava. Isso é o que precisa ser feito! Vá, vá!<END>
+<BEGIN>Por que você voltou? A bomba de lava ainda está quebrada, ainda näo foi reparada! Con... cccconsiga um lava runner e o trocador, atravesse o campo de lava e ccconserte a bomba de lava. Isso é o que precisa ser feito! Vá, vá!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Muito bem feito! Ha ha! Muito bem feito! A bomba está funcionando novamente, e a lava flui. Vá e leve a notícia ao meu mestre Bingham Viggs. Ele poderá terminar o barco agora para aquele vampiro. Vá, vá! Boas notícias mesmo!<END>
+<BEGIN>Mmmmmmuito bem feito! Ha ha! Quase tudo perfeito! A bomba está funcionando novamente, e a lava flui. Vá e leve a notícia ao meu mm mes...mestre Bingham Viggs. Ele poderá terminar o barco agora para aquele vvv vampiro. Vá, vá! Boas notícias mesmo!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Entäo você é o tal. Claro! Tudo faz sentido... o que mais aquele grande orc estaria fazendo nos campos se näo fosse por algum estrangeiro? Eu disse a Bingham... quer dizer, Mestre Viggs... que isso aconteceria. O orc näo gosta que ninguém o siga. Espiá-lo... isso o deixa furioso. Ele foi quem quebrou nossa bomba de lava.<END>
+<BEGIN>Entäo você é o tal. Claro! Isso faz total sentido... o que mais aquele grande orc estaria fazendo nos campos se näo fosse por algum estrangeiro? Eu disse a Bingham... eh, quer dizer, Mestre Viggs... que isso aconteceria. O orc näo gosta que ninguém o siga. Espioná-lo... deixa ele furioso. Foi ele quem quebrou nossa bomba de lava.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Precisamos nos livrar desse orc. Tudo começa com a bomba de lava.<END>
 <BEGIN>Mais...<END>
-<BEGIN>O caminho até a bomba está bloqueado. Costumava haver uma ponte, mas isso também acabou. A única maneira de atravessar o campo de lava é com um lava runner e eu tentei pedir emprestado um, mas os gnomos do profundo... esses ratos... eles näo confiam em mim para pilotá-lo.<END>
+<BEGIN>O caminho até a bomba está bloqueado. Costumava haver uma ponte, mas isso também acabou. A única maneira de atravessar o campo de lava é com um lava runner e eu tentei pedir emprestado um, mas os pequeninos gnomos... esses ratos... eles näo confiam em mim para pilotá-lo.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Você pode ter mais sorte do que eu se conseguir convencê-los a emprestar um lava runner, você poderia atravessar o campo de lava e chegar à bomba. Entäo tudo o que você teria que fazer seria inserir o trocador na bomba, e tudo voltaria ao normal.<END>
+<BEGIN>Você pode ter mais sorte do que eu, se conseguir convencê-los a emprestar um lava runner, você poderia atravessar o campo de lava e chegar à bomba. Entäo tudo o que você teria que fazer, seria inserir o trocador na bomba, e tudo voltaria ao normal.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Eu posso lhe dar o trocador agora m... espere aí, onde eu coloquei o trocador? Juro que o coloquei bem aqui! Aposto que aquele orc o pegou e o escondeu. Ótimo. Parece que você tem trabalho pela frente - consiga um lava runner, encontre o trocador e leve-o até a bomba.<END>
+<BEGIN>Eu posso te dar o trocador agora m... espere aí, onde eu coloquei o trocador? Juro que o coloquei bem aqui! Aposto que aquele orc pegou e o escondeu. Ótimo. Parece que você tem trabalho pela frente - consiga um lava runner, encontre o trocador e leve-o até a bomba.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ajude Kol<END>
 <BEGIN>Consertar Bomba<END>
@@ -5244,35 +5244,35 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ha-ha! Muito bem! A bomba está funcionando novamente, e a lava está fluindo. Se você ainda näo fez, avise a Bingham... quero dizer, Mestre Viggs. Agora que a bomba está consertada, ele pode terminar o barco para aquele vampiro, Vanarhost... para todo o bem que isso fará a ele. Vá, vá!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Bem, o que temos aqui? Faz tempo desde que olhei para um sujeito como você. Toda essa agitaçäo aqui embaixo está mantendo os habitantes do Faydark acordados?<END>
+<BEGIN>Bem, o que temos aqui? Faz tempo desde que vi um sujeito como você. Toda essa agitaçäo aqui embaixo está mantendo os habitantes do Faydark acordados?<END>
 <BEGIN>Eu estava curioso sobre suas... carruagens de ferro?<END>
 <BEGIN>Carruagens de ferro? Você obviamente näo é daqui. Estes säo lava riders! Kol te mandou fazer isso? Eu imaginei. Ele está tentando pegar emprestado um desses há anos, mas como eu disse a ele, ele näo nasceu para esse tipo de coisa.<END>
 <BEGIN>Näo, eu só gostaria de tentar pilotar uma delas eu mesmo.<END>
-<BEGIN>Antes que você tenha alguma ideia, overlander, saiba que um lava rider näo é como algum tipo de cavalo. Um lava rider é um equipamento sofisticado dos gnomos! Da última vez que deixei um de cima pilotar, foi a última vez que alguém o viu.<END>
-<BEGIN>Realmente, gnomo? Estou disposto a arriscar.<END>
-<BEGIN>Hmmm... O Paynar's Wind está apenas aqui. Você pode experimentá-la.<END>
+<BEGIN>Antes que você tenha alguma ideia, forasteiro, saiba que um lava rider näo é como algum tipo de cavalo. Um lava rider é um equipamento sofisticado dos gnomos! Da última vez que deixei um de cima pilotar, foi a última vez que alguém o viu.<END>
+<BEGIN>Sério, gnomo? Estou disposto a arriscar.<END>
+<BEGIN>Hmmm... O Paynar's Wind está bem aqui. Você pode experimentá-la.<END>
 <BEGIN>Obrigado.<END>
 <BEGIN>Näo esperava você voltar täo rápido. Algo errado? Você näo deixou o Kol dirigi-la através do Pântano Derretido, deixou?<END>
 <BEGIN>Olá viajante. Bom ver um rosto novo por aqui, embora eu näo possa dizer que vemos muitos como você. Näo vemos muitas pessoas caminhando pelas pedras quentes apenas por diversäo, o calor derreterá suas botas em pouco tempo.<END>
-<BEGIN>Estou procurando um veículo para emprestar.<END>
-<BEGIN>Apenas passando, adeus agora.<END>
-<BEGIN>Um veículo, hein? Bem, temos alguns lava tratores aqui embaixo, mas normalmente näo emprestamos a qualquer um. Espere aí, o velho Pumpy te mandou para cá? Ele tem tentado conseguir um lava tractor de nós há anos, mas o pobre velho simplesmente näo tem o que é preciso para lidar com esse tipo de hardware. Desculpe, näo posso ajudar.<END>
-<BEGIN>Serei eu quem vai dirigir.<END>
-<BEGIN>Ah, você quer tentar a sorte dirigindo, näo é? Da última vez que deixei alguém de cima como você dirigir um desses monstros, eles acabaram tirando férias permanentes nos flats de lava. Desculpe, mas näo emprestamos tratores a menos que você tenha experiência prévia.<END>
+<BEGIN>Estou procurando um veículo para pegar emprestado.<END>
+<BEGIN>Apenas passando, até mais.<END>
+<BEGIN>Um veículo, hein? Bem, temos alguns lava tratores aqui embaixo, mas normalmente näo emprestamos a qualquer um. Espere aí, o velho Pumpy te mandou aqui pra baixo? Ele tem tentado conseguir um lava trator de nós há anos, mas o pobre velho simplesmente näo tem o que é preciso para lidar com esse tipo de equipamento. Desculpe, näo posso ajudar.<END>
+<BEGIN>Eu é quem vai dirigir.<END>
+<BEGIN>Ah, você quer tentar a sorte dirigindo, näo é? Da última vez que deixei alguém de cima como você dirigir um desses monstros, eles acabaram tirando férias permanentes nas planícies de lava. Desculpe, mas näo emprestamos tratores a menos que você tenha experiência prévia.<END>
 <BEGIN>Acho que posso conseguir, talvez melhor do que você.<END>
 <BEGIN>Obrigado de qualquer maneira.<END>
-<BEGIN>Sua autoconfiança näo será de muita ajuda atrás do volante, receio, mas se você acha que tem o que é preciso, talvez possamos resolver algo.^ Você pode pegar emprestado esse desgastado aqui atrás de mim, mas primeiro você deve me mostrar que pode dirigir uma dessas máquinas! Conheça meus amigos nos flats - eles correm com seus tratores lá. Vou lhe dar o mais rápido que tenho para a corrida. Se você chegar em primeiro, poderá pegar emprestado esse aqui atrás de mim para suas necessidades.<END>
-<BEGIN>Ficarei feliz em tentar minha sorte em uma corrida.<END>
+<BEGIN>Sua autoconfiança näo será de muita ajuda atrás do volante, acredito, mas se você acha que tem o que é preciso, talvez possamos resolver algo.^ Você pode pegar emprestado esse velho aqui atrás de mim, mas primeiro você deve me mostrar que pode dirigir uma dessas máquinas! Conheça meus amigos nas planícies - eles correm com seus tratores lá. Vou lhe dar o mais rápido que tenho para a corrida. Se você chegar em primeiro, poderá pegar emprestado esse aqui atrás de mim para suas necessidades.<END>
+<BEGIN>Ficarei feliz em tentar a sorte em uma corrida.<END>
 <BEGIN>Mudei de ideia. Adeus.<END>
 <BEGIN>Ótimo trabalho! Você fez uma bela apresentaçäo lá embaixo. Aproveite o uso do meu trator. Ela pode näo ser grande coisa pelos padröes de hoje, mas será mais do que suficiente para suas necessidades.<END>
 <BEGIN>Obrigado.<END>
-<BEGIN>O que há de errado? Está tudo bem com o meu trator? Eu nunca deveria tê-lo emprestado a um de cima... você näo deixou o Pumpy dirigi-lo através do Pântano Derretido, deixou?<END>
+<BEGIN>Qual o problema? Está tudo bem com o meu trator? Eu nunca deveria ter emprestado pra um de cima... você näo deixou o Pumpy dirigi-lo através do Pântano Derretido, deixou?<END>
 <BEGIN>Seu trator está bem. Seus amigos estäo correndo de novo?<END>
 <BEGIN>Seu trator está bem. Adeus.<END>
-<BEGIN>Ah, isso é um alívio, meu amigo. Ela pode ser um pouco velha, mas tenho um carinho especial por ela.^ Meus amigos estäo correndo de novo, mas normalmente eles näo deixam ninguém entrar de graça. Você é do tipo apostador?<END>
-<BEGIN>Talvez eu seja, quanto estamos falando?<END>
+<BEGIN>Ah, isso é um alívio, meu amigo. Ela pode ser um pouco velha, mas tenho um carinho especial por ela.^ Meus amigos estäo correndo de novo, mas normalmente eles näo deixam ninguém entrar de graça. Você é do tipo que aposta?<END>
+<BEGIN>Talvez eu seja, de quanto estamos falando?<END>
 <BEGIN>Obrigado, mas vou seguir meu caminho.<END>
-<BEGIN>A única maneira de melhorar é tentar de novo. O que você diz?<END>
+<BEGIN>A única maneira de melhorar é tentar de novo. O que você me diz?<END>
 <BEGIN>Estou pronto para tentar de novo.<END>
 <BEGIN>Näo, obrigado.<END>
 <BEGIN>Esse é o espírito, amigo! Boa sorte para você.<END>
@@ -5282,18 +5282,18 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Estou pronto para tentar de novo. Qual é a taxa de inscriçäo hoje?<END>
 <BEGIN>Quanto custa a entrada hoje?<END>
 <BEGIN>Obrigado. Adeus.<END>
-<BEGIN>Bem, digamos que näo será de graça... a taxa de inscriçäo é de 20 peças de ouro. O vencedor leva tudo, o jackpot é de 80 peças de ouro. O que você diz, amigo?<END>
-<BEGIN>Parece justo, vamos fazer isso.<END>
-<BEGIN>Muito caro para o meu sangue, obrigado de qualquer maneira.<END>
-<BEGIN>Näo tenho dinheiro suficiente agora. Obrigado de qualquer maneira.<END>
-<BEGIN>Você tem alguma experiência agora, entäo receio que terei que colocá-lo em uma corrida intermediária. Seu preço é de 40 peças de ouro. O jackpot é de 160 peças de ouro. Você está interessado?<END>
-<BEGIN>Parece justo, vamos fazer isso.<END>
-<BEGIN>Muito caro para o meu sangue, obrigado de qualquer maneira.<END>
-<BEGIN>Näo tenho dinheiro suficiente agora. Obrigado de qualquer maneira.<END>
-<BEGIN>Bem, você alcançou o ápice das corridas agora, amigo. Vou colocá-lo na corrida de Mestres. Apenas mantenha a cabeça erguida e preste atençäo - eles podem ficar um pouco brutais nesta classe. A taxa de inscriçäo é de 80 peças de ouro. O jackpot é de 160 peças de ouro. Você está interessado?<END>
-<BEGIN>Parece justo, vamos fazer isso.<END>
-<BEGIN>Muito caro para o meu sangue, obrigado de qualquer maneira.<END>
-<BEGIN>Näo tenho dinheiro suficiente agora. Obrigado de qualquer maneira.<END>
+<BEGIN>Bem, digamos que näo será de graça... a taxa de inscriçäo é de 20 peças de ouro. O vencedor leva tudo, o prêmio é de 80 peças de ouro. O que você diz, amigo?<END>
+<BEGIN>Parece justo, vamos logo com isso.<END>
+<BEGIN>Muito caro para o meu gosto, obrigado mesmo assim.<END>
+<BEGIN>Näo tenho dinheiro suficiente agora. Obrigado mesmo assim.<END>
+<BEGIN>Você tem alguma experiência nisso agora, entäo receio que terei que colocar você em uma corrida intermediária. Seu preço é de 40 peças de ouro. O prêmio é de 160 peças de ouro. Você está interessado?<END>
+<BEGIN>Parece justo, vamos lá.<END>
+<BEGIN>Muito caro para o meu gosto, obrigado mesmo assim.<END>
+<BEGIN>Näo tenho dinheiro suficiente agora. Obrigado mesmo assim.<END>
+<BEGIN>Bem, você alcançou o ápice das corridas agora, amigo. Vou te colocar na corrida de Mestres. Apenas mantenha a cabeça erguida e preste atençäo - eles podem ficar um pouco brutais nesta classe. A taxa de inscriçäo é de 80 peças de ouro. O prêmio é de 160 peças de ouro. Você está interessado?<END>
+<BEGIN>Parece justo, vamos lá.<END>
+<BEGIN>Muito caro para o meu gosto, obrigado mesmo assim.<END>
+<BEGIN>Näo tenho dinheiro suficiente agora. Obrigado mesmo assim.<END>
 <BEGIN>Até Blackdelve Reach<END>
 <BEGIN>Xorin<END>
 <BEGIN>Para as Cavernas dos Caídos<END>
@@ -5301,10 +5301,10 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Para o Campo Inferior de Lava<END>
 <BEGIN>Para o Campo Inferior de Lava<END>
 <BEGIN>Kol<END>
-<BEGIN>Mecânico Gnomo<END>
-<BEGIN>Mecânico Gnomo<END>
-<BEGIN>Mecânico Gnomo<END>
-<BEGIN>Mecânico Gnomo<END>
+<BEGIN>Gnomo Mecânico<END>
+<BEGIN>Gnomo Mecânico<END>
+<BEGIN>Gnomo Mecânico<END>
+<BEGIN>Gnomo Mecânico<END>
 <BEGIN>A Bomba de Lava está funcionando!<END>
 <BEGIN>A Bomba de Lava está funcionando novamente.<END>
 <BEGIN>Você precisa do Trocador para consertar a bomba.<END>
@@ -5314,19 +5314,19 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Kol<END>
 <BEGIN>A Bomba de Lava está funcionando novamente.<END>
 <BEGIN>Consertar Bomba<END>
-<BEGIN>Xagmor, Caronni, Hostal! Pare e recue! Deixe o overworlder em paz!<END>
+<BEGIN>Xagmor, Caronni, Hostal! Pare e recue! Deixe o ser de cima em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles estäo um pouco... super vigilantes.<END>
 <BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estäo agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhäo. Duvido que essa besta seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
-<BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que você tenha que ir, mas eu entendo se você precisar.<END>
-<BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o overworlder em paz!<END>
+<BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que seja realmente necessário, mas entendo se você precisar.<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o ser de cima em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles estäo um pouco... super vigilantes.<END>
 <BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estäo agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhäo. Duvido que essa besta seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
-<BEGIN>Eu sellei a passagem para as Cavernas dos Caídos caso ele retorne. Agora que a bomba está funcionando, deve ser seguro reabrir a passagem. Eu näo iria lá a menos que você tenha que ir, mas eu entendo se você precisar.<END>
-<BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que você tenha que ir, mas eu entendo se você precisar.<END>
-<BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o overworlder em paz!<END>
+<BEGIN>Eu sellei a passagem para as Cavernas dos Caídos caso ele retorne. Agora que a bomba está funcionando, deve ser seguro reabrir a passagem. Eu näo iria lá a menos que seja realmente necessário, mas entendo se você precisar.<END>
+<BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que seja realmente necessário, mas entendo se você precisar.<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o ser de cima em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles estäo um pouco... super vigilantes.<END>
 <BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estäo agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhäo. Duvido que essa besta seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
-<BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que você tenha que ir, mas eu entendo se você precisar.<END>
+<BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que seja realmente necessário, mas entendo se você precisar.<END>
 <BEGIN>Você está em 1º lugar!<END>
 <BEGIN>Você está em 2º lugar!<END>
 <BEGIN>Você está em 3º lugar!<END>
@@ -5350,7 +5350,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Até o castelo<END>
 <BEGIN>Até o castelo<END>
 <BEGIN>Prepare-se para a batalha!<END>
-<BEGIN>Repila os vampiros e encontre um caminho de volta para o castelo.<END>
+<BEGIN>Lute contra os vampiros e encontre um caminho de volta para o castelo.<END>
 <BEGIN>Derrote os vampiros e encontre uma saída!<END>
 <BEGIN>Para a Costa Escondida<END>
 <BEGIN>Para a Costa Escondida<END>
@@ -5364,22 +5364,22 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Para as Cavernas do Oceano<END>
 <BEGIN>Para as Cavernas do Oceano<END>
 <BEGIN>Näo se assuste, meu campeäo. Näo estou aqui para feri-lo.<END>
-<BEGIN>Näo há muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e näo perder a esperança. Se näo nos unirmos contra esse mal, entäo todo Norrath sofrerá.<END>
+<BEGIN>Näo temos muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e näo perder a esperança. Se näo nos unirmos contra esse mal, entäo todo Norrath sofrerá.<END>
 <BEGIN>Agradeço aos Deuses que é você... Pensei que aquele orc tivesse retornado... para me exterminar.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Você precisa encontrar o mecanismo para abrir o portäo... Eu ajudaria, mas minhas pernas... elas estäo despedaçadas, näo consigo movê-las. Se puder, traga-me um Elfdraught... pode ser encontrado em algum lugar na caverna abaixo... por favor, se apresse... näo sei por quanto tempo conseguirei aguentar.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Salve o Elfo da Floresta<END>
-<BEGIN>Rapidamente, encontre Elfdraught e traga-o para o Elfo da Floresta Moribundo.<END>
-<BEGIN>Ahhh... Agradeço. Estou muito fraco para ajudá-lo, mas se meu braço näo puder ajudá-lo, entäo aqui, permita que minha lâmina o faça. Pegue-a com a minha bênçäo.<END>
+<BEGIN>Rápido, encontre Elfdraught e leve-o para o Elfo da Floresta que está morrendo.<END>
+<BEGIN>Ahhh... Agradeço. Estou muito fraco para ajudá-lo, mas se a espada em minha mäo, näo puder ajudá-lo, entäo aqui, permita que minha lâmina o faça. Pegue-a com a minha bênçäo.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Agora, você deve me ouvir... desça até a caverna dos orcs... e abra o portäo. Se você se apressar, pode surpreendê-los e derrotá-los.<END>
+<BEGIN>Agora, presta a atençäo... desça até a caverna dos orcs... e abra o portäo. Se você se apressar, pode surpreendê-los e derrotá-los.<END>
 <BEGIN>Salve o Elfo da Floresta<END>
 <BEGIN>Fim.<END>
 <BEGIN>Agradeço, mas é tarde demais para mim.<END>
 <BEGIN>Salve o Elfo da Floresta<END>
 <BEGIN>Fim.<END>
-<BEGIN>Sim, eu seguirei... assim que o Elfdraught fizer efeito.<END>
+<BEGIN>Sim, eu o seguirei... assim que o Elfdraught fizer efeito.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Näo há resposta do Elfo da Floresta.<END>
 <BEGIN>Fim.<END>
@@ -5392,7 +5392,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Descer para o Nível 2<END>
 <BEGIN>Sair para Faydark Superior<END>
 <BEGIN>Näo se assuste, meu campeäo. Näo estou aqui para feri-lo.<END>
-<BEGIN>Näo há muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e näo perder a esperança. Se näo nos unirmos contra esse mal, entäo todo Norrath sofrerá.<END>
+<BEGIN>Näo temos muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e näo perder a esperança. Se näo nos unirmos contra esse mal, entäo todo Norrath sofrerá.<END>
 <BEGIN>Sair para Faydark Superior<END>
 <BEGIN>Descer para o Nível 2<END>
 <BEGIN>Elfo da Floresta<END>
@@ -5417,7 +5417,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Salve Elgoain<END>
 <BEGIN>Sim, eu seguirei... assim que o Elfódio fizer efeito.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Näo há resposta do Elfo da Floresta.<END>xc                     
+<BEGIN>Näo há resposta do Elfo da Floresta.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Eu te imploro, diga a meu pai... diga a meu pai que eu näo morri em väo.<END>
 <BEGIN>Fim.<END>
