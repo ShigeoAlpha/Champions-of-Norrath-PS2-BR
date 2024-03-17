@@ -201,9 +201,9 @@ sem ódio?<END>
 <BEGIN>Näo me decepcione morrendo rapidamente, pequeno campeäo - você tem um talento para escapar da morte... entäo tente sobreviver o máximo que puder.<END>
 <BEGIN>Esta porta está trancada do outro lado.<END>
 <BEGIN>Para a Cidade de Khathuun.<END>
-<BEGIN>Suba para o Campo de Lava<END>
-<BEGIN>Suba para o Campo de Lava<END>
-<BEGIN>Desça para o nível inferior<END>
+<BEGIN>Subir para o Campo de Lava<END>
+<BEGIN>Subir para o Campo de Lava<END>
+<BEGIN>Descer para o nível inferior<END>
 <BEGIN>Näo há gatinhos lá embaixo.<END>
 <BEGIN>Tenya Froes<END>
 <BEGIN>Tenya Froes<END>
@@ -309,9 +309,9 @@ sem ódio?<END>
 <BEGIN>Leve 'Hochee' de volta para Tenya.<END>
 <BEGIN>Para o nível superior.<END>
 <BEGIN>Para o nível superior.<END>
-<BEGIN>Desça para o nível inferior.<END>
-<BEGIN>Desça para o nível inferior.<END>
-<BEGIN>Desça para o nível inferior.<END>
+<BEGIN>Descer para o nível inferior.<END>
+<BEGIN>Descer para o nível inferior.<END>
+<BEGIN>Descer para o nível inferior.<END>
 <BEGIN>Para o nível superior.<END>
 <BEGIN>Entre no Castelo do Lorde Vanarhost<END>
 <BEGIN>Castelo está trancado<END>
@@ -1229,7 +1229,7 @@ sem ódio?<END>
 <BEGIN>Você matou o Xamä Orc!<END>
 <BEGIN>Mate o Xamä Orc<END>
 <BEGIN>Destrua as Catapultas!<END>
-<BEGIN>Você fez um excelente trabalho com as catapultas dos orcs, meus homens e eu estamos gratos. Näo vemos muitos rostos amigáveis na Faydark nos dias de hoje.<END>
+<BEGIN>Você fez um excelente trabalho com as catapultas dos orcs, meus homens e eu estamos gratos. Näo vemos muitos rostos amigáveis em Faydark atualmente.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo muito tempo atrás, recebemos a notícia de que os orcs e goblins haviam roubado um pergaminho de Mayong Mistmoore, um dos vampiros mais perigosos da Faydark.<END>
 <BEGIN>Mais...<END>
@@ -1320,7 +1320,7 @@ sem ódio?<END>
 <BEGIN>Guarda Elfo da Floresta<END>
 <BEGIN>Guarda Elfo da Floresta<END>
 <BEGIN>É muito perigoso andar de elevador agora.<END>
-<BEGIN>Desça de elevador para a Faydark Inferior.<END>
+<BEGIN>Descer de elevador para a Faydark Inferior.<END>
 <BEGIN>Rei Elfo da Floresta<END>
 <BEGIN>Meu campeäo, eu sei que você sofreu muito. Mas saiba que sua causa é justa! Sem seus esforços, Norrath estaria perdida!<END>
 <BEGIN>Eu venho até você do Plano do Ódio. Lá, Innoruuk mantém muitas almas em seu caldeiräo flamejante, e através de nós ele alimenta seu Exército do Ódio.<END>
@@ -1639,7 +1639,7 @@ sem ódio?<END>
 <BEGIN>Ler placa.<END>
 <BEGIN>Plataforma de Lançamento de Barcos Blackdelve<END>
 <BEGIN>Ler placa.<END>
-<BEGIN>Loja de Navios de Viggs<END>
+<BEGIN>Loja de Navios do Viggs<END>
 <BEGIN>Ler placa.<END>
 <BEGIN>Olak<END>
 <BEGIN>Retornar ao Castelo de Lord Vanarhorst<END>
@@ -1911,7 +1911,7 @@ sem ódio?<END>
 <BEGIN>Permaneça em seu caminho, meu campeäo, e näo desespere. Ajudarei você se puder.<END>
 <BEGIN>Näo há controle no slot %s. Por favor, insira um controle analógico DUALSHOCK™2 para continuar o jogo.<END>
 <BEGIN>Aumenta a Velocidade<END>
-<BEGIN>Você deve ter uma arma de combate corpo a corpo ou um escudo equipado para bloquear.<END>
+<BEGIN>Necessário: Arma corpo a corpo ou escudo equipado para bloquear.<END>
 <BEGIN>Pressione o botäo SELECT para Evoluir de Nível<END>
 <BEGIN>A Porta Está Trancada.<END>
 <BEGIN>Cura: %d-%d<END>
@@ -1950,7 +1950,7 @@ sem ódio?<END>
 <BEGIN>%cAceitar %cSair<END>
 <BEGIN>%cAceitar %cVoltar<END>
 <BEGIN>%c Selecionar %c Padröes %c Voltar<END>
-<BEGIN>Configuraöes do Jogador %d<END>
+<BEGIN>Configuraçöes do Jogador %d<END>
 <BEGIN>%cAceitar<END>
 <BEGIN>%cVoltar<END>
 <BEGIN>%cEscolher %cPronto<END>
@@ -2061,7 +2061,7 @@ sem ódio?<END>
 <BEGIN>Subir para o Nível 3<END>
 <BEGIN>Entrar no Portäo de Teletransporte<END>
 <BEGIN>Alabarda<END>
-<BEGIN> Lança<END>
+<BEGIN>Lança<END>
 <BEGIN>Arco Curto<END>
 <BEGIN>Flechas<END>
 <BEGIN>Cajado<END>
@@ -2326,7 +2326,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>cartäo de memória (8MB)(para PlayStation%c2) com pelo menos %dKB de espaço livre.<END>
 <BEGIN>Flags de Salvar Jogo<END>
 <BEGIN>Modo Extremo<END>
-<BEGIN>Dificul.<END>
+<BEGIN>Dificuld.<END>
 <BEGIN>:  Fácil<END>
 <BEGIN>:  Normal<END>
 <BEGIN>:  Difícil<END>
@@ -2371,7 +2371,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Pergaminho de Portal<END>
 <BEGIN>Pergaminho de Portal<END>
 <BEGIN>Usar Pergaminho de Portal (%d)<END>
-<BEGIN>Os pergaminhos de portal säo muito úteis. Eles teleportam você de volta para o centro de qualquer ato. Você pode entäo usá-los novamente para retornar à localizaçäo de onde foi teletransportado. Os pergaminhos de portal säo usados através do menu PAUSE ou mantendo pressionado o botäo AÇÄO e pressionando o botäo SELECT.<END>
+<BEGIN>Os pergaminhos de portal säo muito úteis. Eles teleportam você de volta para o centro de qualquer ato. Você pode entäo usá-los novamente para retornar à localizaçäo de onde foi teletransportado. Os pergaminhos de portal säo usados através do menu PAUSE ou mantendo pressionado o botäo AÜÄO e pressionando o botäo SELECT.<END>
 <BEGIN>%cEquipar  %cDescartar %cVoltar<END>
 <BEGIN>%cDesequipar  %cDescartar %cVoltar<END>
 <BEGIN>Dano Atual: %d-%d<END>
@@ -2489,32 +2489,32 @@ Você ganha 750 de experiência.<END>
 <BEGIN>%d%% Grande Nuvem de Veneno<END>
 <BEGIN>%d%% Enorme Nuvem de Veneno<END>
 <BEGIN> / %d-%d<END>
-<BEGIN>Ferrugento<END>
-<BEGIN>Esfarrapado<END>
-<BEGIN>Desgastado<END>
-<BEGIN>Desgastado em Batalha<END>
-<BEGIN>Bronze<END>
-<BEGIN>Ferro Fundido<END>
-<BEGIN>Afiado<END>
-<BEGIN>Forjado<END>
-<BEGIN>Élfico<END>
-<BEGIN>Anäo<END>
-<BEGIN>Liga<END>
-<BEGIN>Ferro Enegrecido<END>
+<BEGIN>Enferrujado:<END>
+<BEGIN>Trapos:<END>
+<BEGIN>Manchado:<END>
+<BEGIN>Desgastado em Batalha:<END>
+<BEGIN>Bronze:<END>
+<BEGIN>Ferro Fundido:<END>
+<BEGIN>Afiado:<END>
+<BEGIN>Forjado:<END>
+<BEGIN>Élfico:<END>
+<BEGIN>Pequeno:<END>
+<BEGIN>Liga:<END>
+<BEGIN>Ferro Escurecido:<END>
 <BEGIN>Teir'Dal<END>
-<BEGIN>Combinar<END>
-<BEGIN>Aço Fino<END>
-<BEGIN>Feir'Dal<END>
-<BEGIN>Guerra de Aço<END>
-<BEGIN>Bem Equilibrado<END>
-<BEGIN>Guerra Prateada<END>
-<BEGIN>Serrilhado<END>
-<BEGIN>Prateado<END>
-<BEGIN>Obsidiana<END>
-<BEGIN>Sombreado<END>
-<BEGIN>Falchion<END>
+<BEGIN>Combinar:<END>
+<BEGIN>Aço Fino:<END>
+<BEGIN>Feir'Dal:<END>
+<BEGIN>Aço de Guerra:<END>
+<BEGIN>Bem Equilibrado:<END>
+<BEGIN>Guerra Prateada:<END>
+<BEGIN>Serrilhado:<END>
+<BEGIN>Prateado:<END>
+<BEGIN>Obsidiana:<END>
+<BEGIN>Sombreado:<END>
+<BEGIN>Falchion:<END>
 <BEGIN>de<END>
-<BEGIN>Chama<END>
+<BEGIN>Chamas<END>
 <BEGIN>Gelo<END>
 <BEGIN>Justiça<END>
 <BEGIN>Requital<END>
@@ -2673,8 +2673,8 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Caverna dos Orcs 1<END>
 <BEGIN>Caverna dos Orcs 2<END>
 <BEGIN>Caverna dos Orcs 3<END>
-<BEGIN>Interior das Ruínas da Floresta 1<END>
-<BEGIN>Interior das Ruínas da Floresta 2<END>
+<BEGIN>Interior Ruínas da Floresta 1<END>
+<BEGIN>Interior Ruínas da Floresta 2<END>
 <BEGIN>Formigueiro<END>
 <BEGIN>Castelo de Vanarhost Nível 1<END>
 <BEGIN>Castelo de Vanarhost Nível 2<END>
@@ -2683,13 +2683,13 @@ Você ganha 750 de experiência.<END>
 <BEGIN>O Submundo 2<END>
 <BEGIN>Cavernas das Formigas 1<END>
 <BEGIN>Cavernas das Formigas 2<END>
-<BEGIN>Campos de Lava do Blackdelve 1<END>
-<BEGIN>Campos de Lava do Blackdelve 2<END>
-<BEGIN>Campos de Lava do Blackdelve 3<END>
+<BEGIN>Campos de Lava Blackdelve 1<END>
+<BEGIN>Campos de Lava Blackdelve 2<END>
+<BEGIN>Campos de Lava Blackdelve 3<END>
 <BEGIN>Cavernas dos Caídos 1<END>
 <BEGIN>Cavernas dos Caídos 2<END>
 <BEGIN>Cavernas dos Caídos 2<END>
-<BEGIN>Masmorras do Castelo de Vanarhost<END>
+<BEGIN>Masmorras Castelo Vanarhost<END>
 <BEGIN>Borda da Água<END>
 <BEGIN>Ilha Ocidental<END>
 <BEGIN>Costa Escondida<END>
@@ -2824,48 +2824,48 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Corte<END>
 <BEGIN>Aumenta o dano de armas de corte em %d%%.<END>
 <BEGIN>Esta habilidade aumenta o dano quando armas de corte säo usadas.<END>
-<BEGIN>Arruinado<END>
-<BEGIN>Rachado<END>
-<BEGIN>Gasto<END>
-<BEGIN>Corrompido<END>
-<BEGIN>Carbonizado<END>
-<BEGIN>Reforçado<END>
-<BEGIN>Pesado<END>
-<BEGIN>Polido<END>
-<BEGIN>Cristal<END>
-<BEGIN>Encrustado<END>
-<BEGIN>Velium<END>
-<BEGIN>Maciço<END>
-<BEGIN>Antigo<END>
-<BEGIN>Titä<END>
-<BEGIN>Áspera<END>
-<BEGIN>Bem Construído<END>
-<BEGIN>Robusto<END>
-<BEGIN>Forte<END>
-<BEGIN>Obra-Prima<END>
-<BEGIN>Fortificado<END>
-<BEGIN>Imbuído<END>
-<BEGIN>Empoeirado<END>
-<BEGIN>Desgastado<END>
-<BEGIN>Rasgado<END>
-<BEGIN>Tecido<END>
-<BEGIN>Entrelaçado<END>
-<BEGIN>Forrado de Bronze<END>
-<BEGIN>Forrado de Ferro<END>
-<BEGIN>Brilhante<END>
-<BEGIN>Forrado de Aço<END>
-<BEGIN>Bordado<END>
-<BEGIN>Forrado de Prata<END>
+<BEGIN>Arruinado:<END>
+<BEGIN>Rachado:<END>
+<BEGIN>Gasto:<END>
+<BEGIN>Corrompido:<END>
+<BEGIN>Carbonizado:<END>
+<BEGIN>Reforçado:<END>
+<BEGIN>Pesado:<END>
+<BEGIN>Polido:<END>
+<BEGIN>Cristal:<END>
+<BEGIN>Encrustado:<END>
+<BEGIN>Velium:<END>
+<BEGIN>Maciço:<END>
+<BEGIN>Antigo:<END>
+<BEGIN>Titä:<END>
+<BEGIN>Rústico:<END>
+<BEGIN>Bem Construído:<END>
+<BEGIN>Robusto:<END>
+<BEGIN>Forte:<END>
+<BEGIN>Obra-Prima:<END>
+<BEGIN>Fortificado:<END>
+<BEGIN>Imbuído:<END>
+<BEGIN>Empoeirado:<END>
+<BEGIN>Desgastado:<END>
+<BEGIN>Rasgado:<END>
+<BEGIN>Tecido:<END>
+<BEGIN>Entrelaçado:<END>
+<BEGIN>Bronze Forrado:<END>
+<BEGIN>Ferro Forrado:<END>
+<BEGIN>Brilhante:<END>
+<BEGIN>Aço Forrado:<END>
+<BEGIN>Bordado:<END>
+<BEGIN>Prata Forrado:<END>
 <BEGIN>Aliança<END>
-<BEGIN>Forrado de Velium<END>
-<BEGIN>Arcano<END>
-<BEGIN>De Madeira<END>
+<BEGIN>Velium Forrado:<END>
+<BEGIN>Arcano:<END>
+<BEGIN>De Madeira:<END>
 <BEGIN>Brasas<END>
 <BEGIN>Chama<END>
 <BEGIN>Fogo<END>
 <BEGIN>Labareda<END>
 <BEGIN>Inferno<END>
-<BEGIN>Calor<END>
+<BEGIN>Cálido<END>
 <BEGIN>Queimando<END>
 <BEGIN>Calor<END>
 <BEGIN>Escaldante<END>
@@ -2919,7 +2919,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Chocante<END>
 <BEGIN>Chocalho<END>
 <BEGIN>Eletricidade<END>
-<BEGIN>Depleçäo<END>
+<BEGIN>Esgotamento<END>
 <BEGIN>Dispersäo<END>
 <BEGIN>Dissipaçäo<END>
 <BEGIN>Negaçäo<END>
@@ -2998,15 +2998,15 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Caça Ilegal<END>
 <BEGIN>Caça<END>
 <BEGIN>Extinçäo<END>
-<BEGIN>Prejudicando<END>
-<BEGIN>Despedaçando<END>
-<BEGIN>Fatiando<END>
-<BEGIN>Estraçalhando<END>
-<BEGIN>Despedaçando<END>
+<BEGIN>Machucar<END>
+<BEGIN>Despedaçar<END>
+<BEGIN>Fatiar<END>
+<BEGIN>Estraçalhar<END>
+<BEGIN>Despedaçar<END>
 <BEGIN>Atordoante<END>
-<BEGIN>Atordoando<END>
+<BEGIN>Atordoar<END>
 <BEGIN>Atordoante<END>
-<BEGIN>Debilitando<END>
+<BEGIN>Debilitar<END>
 <BEGIN>Paralisia<END>
 <BEGIN>Usar Portal<END>
 <BEGIN>Destinos do Portal<END>
@@ -3341,13 +3341,13 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Pica<END>
 <BEGIN>Pica de Guerra<END>
 <BEGIN>Foice de Guerra<END>
-<BEGIN> Lança Curta<END>
-<BEGIN> Lança Pequena<END>
-<BEGIN> Lança Leve<END>
-<BEGIN> Lança Longa<END>
-<BEGIN> Lança Pesada<END>
-<BEGIN> Lança Grande<END>
-<BEGIN> Lança de Guerra<END>
+<BEGIN>Lança Curta<END>
+<BEGIN>Lança Pequena<END>
+<BEGIN>Lança Leve<END>
+<BEGIN>Lança Longa<END>
+<BEGIN>Lança Pesada<END>
+<BEGIN>Lança Grande<END>
+<BEGIN>Lança de Guerra<END>
 <BEGIN>Clava Curta<END>
 <BEGIN>Clava com Espinhos<END>
 <BEGIN>Clava Grande<END>
@@ -3608,11 +3608,11 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Saco de Veneno<END>
 <BEGIN>Saco de Veneno Inchado<END>
 <BEGIN>Saco de Veneno Potente<END>
-<BEGIN>Glande de Veneno Exaurida<END>
-<BEGIN>Glande de Veneno Seca<END>
-<BEGIN>Glande de Veneno<END>
-<BEGIN>Glande de Veneno Näo Preenchida<END>
-<BEGIN>Glande de Veneno Cheia<END>
+<BEGIN>Glândula de Veneno Exaurida<END>
+<BEGIN>Glândula de Veneno Seca<END>
+<BEGIN>Glândula de Veneno<END>
+<BEGIN>Glândula de Veneno Näo Preenchida<END>
+<BEGIN>Glândula de Veneno Cheia<END>
 <BEGIN>Língua de Múmia Arruinada<END>
 <BEGIN>Língua de Múmia Decomposta<END>
 <BEGIN>Língua de Múmia<END>
@@ -4080,7 +4080,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Peitoral do Senhor da Guerra<END>
 <BEGIN>Peitoral de Destruiçäo de Raex<END>
 <BEGIN>Peitoral do Vácuo<END>
-<BEGIN>Peitoral de Poder Ígneo<END>
+<BEGIN>Peitoral de Poder ùgneo<END>
 <BEGIN>Peitoral de Superioridade<END>
 <BEGIN>Peitoral Verdadeiro<END>
 <BEGIN>Peitoral Valente<END>
@@ -4105,7 +4105,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Perneiras do Senhor da Guerra<END>
 <BEGIN>Perneiras de Destruiçäo de Raex<END>
 <BEGIN>Perneiras do Vácuo<END>
-<BEGIN>Perneiras de Poder Ígneo<END>
+<BEGIN>Perneiras de Poder ùgneo<END>
 <BEGIN>Perneiras de Superioridade<END>
 <BEGIN>Perneiras Verdadeiras<END>
 <BEGIN>Perneiras Valentes<END>
@@ -4130,7 +4130,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Manoplas do Senhor da Guerra<END>
 <BEGIN>Manoplas de Destruiçäo de Raex<END>
 <BEGIN>Manoplas do Vácuo<END>
-<BEGIN>Manoplas de Poder Ígneo<END>
+<BEGIN>Manoplas de Poder ùgneo<END>
 <BEGIN>Manoplas de Superioridade<END>
 <BEGIN>Manoplas Verdadeiras<END>
 <BEGIN>Manoplas Valentes<END>
@@ -4155,7 +4155,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Elmo do Senhor da Guerra<END>
 <BEGIN>Elmo de Destruiçäo de Raex<END>
 <BEGIN>Elmo do Vácuo<END>
-<BEGIN>Elmo de Poder Ígneo<END>
+<BEGIN>Elmo de Poder ùgneo<END>
 <BEGIN>Elmo de Superioridade<END>
 <BEGIN>Elmo Verdadeiro<END>
 <BEGIN>Elmo Valente<END>
@@ -4180,7 +4180,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Botas do Senhor da Guerra<END>
 <BEGIN>Botas de Destruiçäo de Raex<END>
 <BEGIN>Botas do Vácuo<END>
-<BEGIN>Botas de Poder Ígneo<END>
+<BEGIN>Botas de Poder ùgneo<END>
 <BEGIN>Botas de Superioridade<END>
 <BEGIN>Botas Verdadeiras<END>
 <BEGIN>Botas Valentes<END>
@@ -4337,7 +4337,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Anel de Barro Endurecido<END>
 <BEGIN>Anel Elemental<END>
 <BEGIN>Anel de Escamas<END>
-<BEGIN>Anel de Serpente Índigo<END>
+<BEGIN>Anel de Serpente ùndigo<END>
 <BEGIN>Anel de Malha<END>
 <BEGIN>Anel de Alga Amarrada<END>
 <BEGIN>Anel de Lore<END>
@@ -4371,7 +4371,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Amuleto de Barro Endurecido<END>
 <BEGIN>Amuleto Elemental<END>
 <BEGIN>Amuleto de Escamas<END>
-<BEGIN>Amuleto de Serpente Índigo<END>
+<BEGIN>Amuleto de Serpente ùndigo<END>
 <BEGIN>Amuleto de Malha<END>
 <BEGIN>Amuleto de Alga Amarrada<END>
 <BEGIN>Amuleto de Lore<END>
@@ -4405,7 +4405,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Brincos de Argila Endurecida<END>
 <BEGIN>Brincos Elementais<END>
 <BEGIN>Brincos de Escamas<END>
-<BEGIN>Brincos de Serpente Índigo<END>
+<BEGIN>Brincos de Serpente ùndigo<END>
 <BEGIN>Brincos de Malha<END>
 <BEGIN>Brincos de Alga Amarrada<END>
 <BEGIN>Brincos de Lore<END>
@@ -4439,7 +4439,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Colar de Argila Endurecida<END>
 <BEGIN>Colar Elemental<END>
 <BEGIN>Colar de Escamas<END>
-<BEGIN>Colar de Serpente Índigo<END>
+<BEGIN>Colar de Serpente ùndigo<END>
 <BEGIN>Colar de Malha<END>
 <BEGIN>Colar de Alga Amarrada<END>
 <BEGIN>Colar de Lore<END>
@@ -4670,7 +4670,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Mas você näo viverá para v...<END>
 <BEGIN>Nossa Era?!<END>
 <BEGIN>Innoruuk... Senhor Innoruuk, eu näo quis insultar, apenas...<END>
-<BEGIN>EU TENHO OBSERVADO VOCÊ PERCORRER SEU CAMINHO, PELYS. TUDO O QUE VOCÊ TOCOU ACABOU EM FRACASSO E RUÍNA. SE NÄO FOSSE POR VOCÊ, NORRATH JÁ SERIA MEU.<END>
+<BEGIN>EU TENHO OBSERVADO VOCÊ PERCORRER SEU CAMINHO, PELYS. TUDO O QUE VOCÊ TOCOU ACABOU EM FRACASSO E RUùNA. SE NÄO FOSSE POR VOCÊ, NORRATH JÁ SERIA MEU.<END>
 <BEGIN>VOCÊ BUSCOU SE TORNAR O FILHO DO ÓDIO, PELYS T'YVL. MAS PARA ODIAR, UM DEVE SOFRER.<END>
 <BEGIN>Senhor Innoruuk, eu lhe imploro, por favor...<END>
 <BEGIN>Entäo você sobreviveu. Suponho que näo deveria me surpreender. Devemos combater uma última vez, campeäo de Norrath?<END>
@@ -4698,9 +4698,9 @@ Você ganha 750 de experiência.<END>
 <BEGIN>EU VOU ENSINAR O QUE SIGNIFICA SOFRER.<END>
 <BEGIN>VOCÊ NÄO ME INCOMODARÁ MAIS.<END>
 <BEGIN>MORRA!<END>
-<BEGIN>VOCÊ É FORTE POR TER CHEGADO TÄO LONGE. VOCÊ ACHA QUE FOI SUA FÉ QUE LHE DEU ESSA FORÇA?<END>
-<BEGIN>VOCÊ MASSACROU LEGIÖES ABRINDO SEU CAMINHO ATÉ MIM. E VOCÊ MENTE SE NEGAR QUE SENTIU PRAZER NO SANGUE QUE PULSAVA EM SUAS VEIAS A CADA INIMIGO QUE CAÍA DIANTE DE VOCÊ. ERA O FOGO DO ÓDIO QUE ARDIA EM SEU CORAÇÄO.<END>
-<BEGIN>ISSO FAZ DE VOCÊ MEU DISCÍPULO, NÄO IMPORTA QUAL DEUS VOCÊ SIRVA. EU AGORA OFEREÇO A VOCÊ A CHANCE DE SE COMPROMETER COMIGO.<END>
+<BEGIN>VOCÊ É FORTE POR TER CHEGADO TÄO LONGE. VOCÊ ACHA QUE FOI SUA FÉ QUE LHE DEU ESSA FORÜA?<END>
+<BEGIN>VOCÊ MASSACROU LEGIÖES ABRINDO SEU CAMINHO ATÉ MIM. E VOCÊ MENTE SE NEGAR QUE SENTIU PRAZER NO SANGUE QUE PULSAVA EM SUAS VEIAS A CADA INIMIGO QUE CAùA DIANTE DE VOCÊ. ERA O FOGO DO ÓDIO QUE ARDIA EM SEU CORAÜÄO.<END>
+<BEGIN>ISSO FAZ DE VOCÊ MEU DISCùPULO, NÄO IMPORTA QUAL DEUS VOCÊ SIRVA. EU AGORA OFEREÜO A VOCÊ A CHANCE DE SE COMPROMETER COMIGO.<END>
 <BEGIN>SUA ALMA... É MINHA.<END>
 <BEGIN>Que Tunare agradeço por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Você vê os selos? Quebre-os, e eu estarei livre.<END>
 <BEGIN>Fim.<END>
@@ -4713,7 +4713,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Você näo foi abençoado com Aço Planar!<END>
 <BEGIN>Você deve purificar-se do ódio para ferir Innoruuk.<END>
 <BEGIN>Seal restante<END>
-<BEGIN>ENTRE NO MEU DOMÍNIO, E EU LHE PROMETO SOFRIMENTO. DOR. E MAIS MORTE DO QUE UMA MENTE MORTAL PODE IMAGINAR.<END>
+<BEGIN>ENTRE NO MEU DOMùNIO, E EU LHE PROMETO SOFRIMENTO. DOR. E MAIS MORTE DO QUE UMA MENTE MORTAL PODE IMAGINAR.<END>
 <BEGIN>Abrir Porta<END>
 <BEGIN>Abrir Porta<END>
 <BEGIN>Para os Salöes do Desespero<END>
@@ -4756,7 +4756,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Mas você näo viverá para v...<END>
 <BEGIN>NOSSA ERA?!<END>
 <BEGIN>Innoruuk... Senhor Innoruuk, eu näo quis insultar, apenas...<END>
-<BEGIN>EU TENHO OBSERVADO VOCÊ PERCORRER SEU CAMINHO, PELYS. TUDO O QUE VOCÊ TOCOU ACABOU EM FRACASSO E RUÍNA. SE NÄO FOSSE POR VOCÊ, NORRATH JÁ SERIA MEU.<END>
+<BEGIN>EU TENHO OBSERVADO VOCÊ PERCORRER SEU CAMINHO, PELYS. TUDO O QUE VOCÊ TOCOU ACABOU EM FRACASSO E RUùNA. SE NÄO FOSSE POR VOCÊ, NORRATH JÁ SERIA MEU.<END>
 <BEGIN>VOCÊ BUSCOU SE TORNAR O FILHO DO ÓDIO, PELYS T'YVL. MAS PARA ODIAR, UM DEVE SOFRER.<END>
 <BEGIN>Senhor Innoruuk, eu lhe imploro, por favor...<END>
 <BEGIN>Entäo você sobreviveu. Suponho que näo deveria me surpreender. Devemos combater uma última vez, campeäo de Norrath?<END>
@@ -4867,19 +4867,19 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Rondo<END>
 <BEGIN>Rondo<END>
 <BEGIN>Rondo<END>
-<BEGIN>Fora para a Ilha Oeste<END>
-<BEGIN>Fora para a Ilha Oeste<END>
-<BEGIN>Fora para a Ilha Oeste<END>
-<BEGIN>Fora para a Ilha Oeste<END>
-<BEGIN>Fora para a Ilha das Facas<END>
+<BEGIN>Sair para a Ilha Oeste<END>
+<BEGIN>Sair para a Ilha Oeste<END>
+<BEGIN>Sair para a Ilha Oeste<END>
+<BEGIN>Sair para a Ilha Oeste<END>
+<BEGIN>Sair para a Ilha das Facas<END>
 <BEGIN>Você precisa proteger o Rondo!<END>
-<BEGIN>Fora para a Ilha das Facas<END>
+<BEGIN>Sair para a Ilha das Facas<END>
 <BEGIN>Você precisa proteger o Rondo!<END>
-<BEGIN>Fora para a Ilha das Facas<END>
+<BEGIN>Sair para a Ilha das Facas<END>
 <BEGIN>Você precisa proteger o Rondo!<END>
-<BEGIN>Fora para a Ilha das Facas<END>
+<BEGIN>Sair para a Ilha das Facas<END>
 <BEGIN>Você precisa proteger o Rondo!<END>
-<BEGIN>Fora para a Costa Escondida<END>
+<BEGIN>Sair para a Costa Escondida<END>
 <BEGIN>Hmmph! Hmmph!<END>
 <BEGIN>Mais...<END>
 <BEGIN>Cuidado. É uma armadilha!<END>
@@ -4914,7 +4914,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Explore a ilha<END>
 <BEGIN>Rei dos Elfos da Floresta<END>
 <BEGIN>É muito perigoso usar o elevador agora.<END>
-<BEGIN>Desça o elevador até a Faydark Inferior.<END>
+<BEGIN>Descer o elevador até a Faydark Inferior.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
@@ -4984,7 +4984,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Rei dos Elfos da Floresta<END>
 <BEGIN>É muito perigoso usar o elevador agora.<END>
-<BEGIN>Desça o elevador até a Faydark Inferior.<END>
+<BEGIN>Descer o elevador até a Faydark Inferior.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
@@ -5000,7 +5000,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Thareil<END>
 <BEGIN>Está muito perigoso usar o elevador agora.<END>
-<BEGIN>Desça o elevador até a Faydark Inferior.<END>
+<BEGIN>Descer o elevador até a Faydark Inferior.<END>
 <BEGIN>Leithkorias<END>
 <BEGIN>Os Goblins estäo mortos!<END>
 <BEGIN>É seguro usar o elevador novamente.<END>
@@ -5042,7 +5042,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Rei dos Elfos da Floresta<END>
 <BEGIN>Está muito perigoso usar o elevador agora.<END>
-<BEGIN>Desça o elevador até a Faydark Inferior.<END>
+<BEGIN>Descer o elevador até a Faydark Inferior.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
@@ -5383,22 +5383,22 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Näo há resposta do Elfo da Floresta.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Rogo-lhe, diga a meu pai... diga a meu pai que näo morri em väo.<END>
+<BEGIN>Eu imploro, diga a meu pai... diga a meu pai que näo morri em väo.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Fora da Faydark Superior<END>
-<BEGIN>Fora da Faydark Superior<END>
-<BEGIN>Fora da Faydark Superior<END>
+<BEGIN>Sair para Faydark Superior<END>
+<BEGIN>Sair para Faydark Superior<END>
+<BEGIN>Sair para Faydark Superior<END>
 <BEGIN>Elgoain<END>
 <BEGIN>Descer para o Nível 2<END>
-<BEGIN>Fora da Faydark Superior<END>
+<BEGIN>Sair para Faydark Superior<END>
 <BEGIN>Näo se assuste, meu campeäo. Näo estou aqui para feri-lo.<END>
 <BEGIN>Näo há muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e näo perder a esperança. Se näo nos unirmos contra esse mal, entäo todo Norrath sofrerá.<END>
-<BEGIN>Fora da Faydark Superior<END>
+<BEGIN>Sair para Faydark Superior<END>
 <BEGIN>Descer para o Nível 2<END>
 <BEGIN>Elfo da Floresta<END>
-<BEGIN>Fora da Faydark Superior<END>
-<BEGIN>Fora da Faydark Superior<END>
-<BEGIN>Fora da Faydark Superior<END>
+<BEGIN>Sair para Faydark Superior<END>
+<BEGIN>Sair para Faydark Superior<END>
+<BEGIN>Sair para Faydark Superior<END>
 <BEGIN>Salve Elgoain<END>
 <BEGIN>Recompensa de Elgoain<END>
 <BEGIN>Você recebeu uma recompensa.<END>
@@ -5417,16 +5417,16 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Salve Elgoain<END>
 <BEGIN>Sim, eu seguirei... assim que o Elfódio fizer efeito.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Näo há resposta do Elfo da Floresta.<END>
+<BEGIN>Näo há resposta do Elfo da Floresta.<END>xc                     
 <BEGIN>Fim.<END>
 <BEGIN>Eu te imploro, diga a meu pai... diga a meu pai que eu näo morri em väo.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Desça para o Nível 3<END>
-<BEGIN>Desça para o Nível 3<END>
-<BEGIN>Desça para o Nível 3<END>
-<BEGIN>Desça para o Nível 3<END>
-<BEGIN>Desça para o Nível 3<END>
-<BEGIN>Suba para o Nível 1<END>
+<BEGIN>Descer para o Nível 3<END>
+<BEGIN>Descer para o Nível 3<END>
+<BEGIN>Descer para o Nível 3<END>
+<BEGIN>Descer para o Nível 3<END>
+<BEGIN>Descer para o Nível 3<END>
+<BEGIN>Subir para o Nível 1<END>
 <BEGIN>Näo se assuste, meu campeäo. Näo estou aqui para machucá-lo.<END>
 <BEGIN>Näo há muito tempo. Posso sentir sua presença se aproximando agora mesmo. Você deve me encontrar e näo perder a esperança. Se näo nos unirmos contra esse mal, entäo todo Norrath sofrerá.<END>
 <BEGIN>Gire o interruptor do portäo<END>
@@ -5437,27 +5437,27 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Os portöes estäo abertos!<END>
 <BEGIN>Gire o interruptor do portäo<END>
 <BEGIN>Os portöes estäo abertos!<END>
-<BEGIN>Suba para o Nível 2<END>
-<BEGIN>Suba para o Nível 2<END>
-<BEGIN>Suba para o Nível 2<END>
+<BEGIN>Subir para o Nível 2<END>
+<BEGIN>Subir para o Nível 2<END>
+<BEGIN>Subir para o Nível 2<END>
 <BEGIN>Os Portöes da Floresta estäo abertos!<END>
 <BEGIN>Volte para Faydark Superior.<END>
 <BEGIN>Abra os Portöes<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas<END>
-<BEGIN>Suba para Ruínas da Floresta de Faydark<END>
-<BEGIN>Suba para Ruínas da Floresta de Faydark<END>
-<BEGIN>Desça para o Nível Inferior<END>
-<BEGIN>Desça para o Nível Inferior<END>
-<BEGIN>Desça para o Nível Inferior<END>
+<BEGIN>Subir para Ruínas da Floresta de Faydark<END>
+<BEGIN>Subir para Ruínas da Floresta de Faydark<END>
+<BEGIN>Descer para o Nível Inferior<END>
+<BEGIN>Descer para o Nível Inferior<END>
+<BEGIN>Descer para o Nível Inferior<END>
 <BEGIN>Oetheilas<END>
-<BEGIN>Desça para o Nível Inferior<END>
+<BEGIN>Descer para o Nível Inferior<END>
 <BEGIN>Entäo o cäo de Leithkorias me rastreou. Täo perseverante... e täo estúpido ao perseguir seu próprio executor.<END>
 <BEGIN>É este pergaminho o que você veio buscar, cäo? Entäo sua perseguiçäo foi em väo... nem o grande Mayong Mistmoore conseguiu decifrá-lo... o Pergaminho Negro näo pode ajudá-lo... nenhum de vocês.<END>
 <BEGIN>Mas eu näo estou sem piedade. Vou deixar você sair com sua vida. Fique, e eu vou te esquartejar como o cachorro que você é.<END>
 <BEGIN>Isso ainda näo acabou. Nos encontraremos novamente.<END>
-<BEGIN>Ah, o louco designado do Comandante Turanin. Eu estava começando a pensar que você tinha tido um ataque de bom senso, mas isso teria estragado tudo. Agora, este labirinto é complicado, entäo fique perto.<END>
+<BEGIN>Ah, o louco designado pelo Comandante Turanin. Eu estava começando a pensar que você tinha tido um ataque de bom senso, mas isso teria estragado tudo. Agora, este labirinto é complicado, entäo fique perto.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Já que você foi nomeado líder desta missäo, pode ter a honra de liderar. Näo se preocupe em se perder. Apenas fique na frente de mim no caso de haver armadilhas à frente. Depois de você.<END>
 <BEGIN>Fim<END>
