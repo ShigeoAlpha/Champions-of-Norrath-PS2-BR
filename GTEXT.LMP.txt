@@ -216,7 +216,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Retorne os gatinhos de Tenya<END>
 <BEGIN>Encontre os gatinhos de Tenya e os traga para ela.<END>
-<BEGIN>Kewkew! Esse overworlder nojento te assustou?<END>
+<BEGIN>Kewkew! Esse ser do mundo superior nojento te assustou?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo se preocupe... näo vamos para casa até que eu tenha todos vocês de volta.<END>
@@ -226,7 +226,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Agora só precisamos pegar todos os outros de volta.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Mokums! Está tudo bem. Eu sei que o overworlder fede.<END>
+<BEGIN>Mokums! Está tudo bem. Eu sei que o ser do mundo superior fede.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mas eles väo me ajudar a encontrar todos vocês.<END>
@@ -255,11 +255,11 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Ele simplesmente näo parece entender que eu näo sou mais uma garota. Eu cresci. Uma mulher. E eu näo preciso de algum grandalhäo desajeitado me seguindo e me arrastando de volta para o Papai. Está bem?<END>
 <BEGIN>Mais...<END>
-<BEGIN>Se você quiser ajudar, entäo me ajude a encontrar meus gatinhos. Eles estäo por aqui em algum lugar. Depois que eu encontrá-los todos, entäo eu vou pensar em voltar com você.<END>
+<BEGIN>Se você quiser ajudar, entäo me ajude a encontrar meus gatinhos. Eles estäo por aqui em algum lugar. Depois que eu encontrar todos eles, entäo eu vou pensar em voltar com você.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Retorne os gatinhos de Tenya<END>
 <BEGIN>Encontre os gatinhos de Tenya e os traga para ela.<END>
-<BEGIN>Kewkew! Esse overworlder nojento te assustou?<END>
+<BEGIN>Kewkew! Esse ser do mundo superior nojento te assustou?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo se preocupe... näo vamos para casa até que eu tenha todos os seus irmäos e irmäs de volta.<END>
@@ -272,14 +272,14 @@ sem ódio?<END>
 <BEGIN>Mokums, seu diabinho! Está tudo bem.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
-<BEGIN>Eu sei que o overworlder fede, mas vamos sair logo depois de encontrarmos seus irmäos e irmäs.<END>
+<BEGIN>Eu sei que o ser do mundo superior fede, mas vamos sair logo depois de encontrarmos seus irmäos e irmäs.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Aqui está minha pequena Tootle! Onde você estava, sua menina travessa!<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Você fique perto da Tenya enquanto procuramos os outros.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você encontrou Hochee! Awwww. Você gatinho travesso, fugindo da Tenya assim.<END>
+<BEGIN>Você encontrou Hochee! Awwww. Seu gatinho travesso, fugindo da Tenya assim.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo se preocupe... näo vamos para casa até que eu tenha todos os seus irmäos e irmäs de volta.<END>
@@ -1743,7 +1743,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Você vai precisar de uma embarcaçäo resistente para fazer a jornada, porém. Tente Bingham Viggs. Se há um gnomo em Blackdelve Reach que pode construir uma embarcaçäo para sobreviver ao Poço, é ele.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Obrigado novamente por toda a sua ajuda. Se todos os overworlders fossem täo capazes quanto você, poderíamos visitar a superfície com mais frequência.<END>
+<BEGIN>Obrigado novamente por toda a sua ajuda. Se todos os seres do mundo superior fossem täo capazes quanto você, poderíamos visitar a superfície com mais frequência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você vê o que as Mamute-Formigas estäo fazendo com Blackdelve Reach? Elas estäo comendo! Mastigando, casa por casa! Eu disse a Melman Froes que isso ia acontecer, mas ele näo escutou, oh näo.<END>
 <BEGIN>Mais...<END>
@@ -1903,7 +1903,7 @@ sem ódio?<END>
 <BEGIN>Você demorou para me alcançar, overlander. Eu estava ficando impaciente.<END>
 <BEGIN>Ah sim, eu sabia que você estava aqui em meu castelo há algum tempo. Permiti que você vivesse até este momento na esperança de que seguisse Pelys e ferisse ainda mais o seu orgulho. Mas você escolheu me incomodar ao invés disso.<END>
 <BEGIN>Vamos dar uma olhada em você, hmmm. Depois do que Pelys me contou sobre você... eu esperava algo mais.<END>
-<BEGIN>Você cheira a overworld, a suor. Dificilmente uma refeiçäo para saciar meu apetite. Mas, felizmente, este castelo está cheio daqueles com paladares mais apagados, cujos gostos näo säo täo refinados quanto o meu. Acho que eles apreciariam a diversäo em uma refeiçäo que ainda tem alguma luta.<END>
+<BEGIN>Você cheira a mundo superior, o suor. Dificilmente uma refeiçäo para saciar meu apetite. Mas, felizmente, este castelo está cheio daqueles com paladares mais apagados, cujos gostos näo säo täo refinados quanto o meu. Acho que eles apreciariam a diversäo em uma refeiçäo que ainda tem alguma luta.<END>
 <BEGIN>Pela sua presença aqui, suponho que você tenha matado o nosferatu... uma pena, mas tais bestas säo substituíveis. Após tal batalha, você deveria ter abençoado sua boa fortuna e fugido enquanto teve a chance.<END>
 <BEGIN>Mas aqui está você, arriscando sua sorte demais. Muito bem. Vamos acabar com isso... indignidade.<END>
 <BEGIN>Você deveria se sentir honrado, overlander. Você é o primeiro em um século a ficar desafiante na presença do senhor dos vampiros. Acho que é melhor saborearmos este momento.<END>
@@ -4653,10 +4653,10 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Garrafa de Mana Maior<END>
 <BEGIN>Nenhum inimigo morto-vivo presente para converter<END>
 <BEGIN>Uma arma de combate corpo a corpo^ é necessária para esta habilidade<END>
-<BEGIN>Apenas para Guarda-Florestal<END>
+<BEGIN>Apenas para Ranger<END>
 <BEGIN>Apenas para Cavaleiro das Sombras<END>
 <BEGIN>Apenas para Clérigo<END>
-<BEGIN>Apenas para Guarda-Florestal<END>
+<BEGIN>Apenas para Ranger<END>
 <BEGIN>Apenas para Mago<END>
 <BEGIN>Apenas para Guerreiro<END>
 <BEGIN>taxa de regeneraçäo de mana<END>
@@ -5179,17 +5179,17 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Para o Campo de Lava Superior<END>
 <BEGIN>Para o Campo de Lava Superior<END>
 <BEGIN>Para o Campo de Lava Superior<END>
-<BEGIN>Xagmor Caronni Hostal! Pare e recue-se! Deixe o overworlder em paz!<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue-se! Deixe o ser do mundo superior em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles säo excessivamente vigilantes às vezes, mas prestam bons serviços em nome do povo de Blackdelve Reach.<END>
 <BEGIN>Meus criaturas estäo ordenadas a atacar qualquer um que passe por este lugar quando a lava cessa de fluir. De fato, eles atacaram aquele orc feio que você persegue quando ele sabotou a bomba, mas causaram pouco dano a ele, e ele a eles. Meus feitiços säo poderosos, mas näo o suficiente para superar esse... criatura... seja lá o que for.<END>
 <BEGIN>Como você o persegue há um tempo agora, sem dúvida já observou que ele näo é o que parece ser. Sua sombra está... errada. Há outras coisas também. Quando o confrontei, ele disse apenas uma coisa, algo muito curioso. Ele disse: 'A única verdade está no ódio' e entäo ele se foi. Desapareceu através dos portöes. Muito perturbador.<END>
 <BEGIN>Selava o passagem para as Cavernas dos Caídos, temendo que ele pudesse retornar, mas muitos dias se passaram desde entäo. Agora que a bomba está funcional, deve ser seguro reabrir a passagem, mas eu aviso você. Criaturas perigosas espreitam nessa regiäo, e eu só deveria ir lá se você tiver uma necessidade extrema.<END>
-<BEGIN>Xagmor Caronni Hostal! Pare e recue-se! Deixe o overworlder em paz!<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue-se! Deixe o ser do mundo superior em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles säo excessivamente vigilantes às vezes, mas prestam bons serviços em nome do povo de Blackdelve Reach.<END>
 <BEGIN>Meus criaturas estäo ordenadas a atacar qualquer um que passe por este lugar quando a lava cessa de fluir. De fato, eles atacaram aquele orc feio que você persegue quando ele sabotou a bomba, mas causaram pouco dano a ele, e ele a eles. Meus feitiços säo poderosos, mas näo o suficiente para superar esse... criatura... seja lá o que for.<END>
 <BEGIN>Como você o persegue há um tempo agora, sem dúvida já observou que ele näo é o que parece ser. Sua sombra está... errada. Há outras coisas também. Quando o confrontei, ele disse apenas uma coisa, algo muito curioso. Ele disse: 'A única verdade está no ódio' e entäo ele se foi. Desapareceu através dos portöes. Muito perturbador.<END>
 <BEGIN>Selava o passagem para as Cavernas dos Caídos, temendo que ele pudesse retornar, mas muitos dias se passaram desde entäo. Agora que a bomba está funcional, deve ser seguro reabrir a passagem, mas eu aviso você. Criaturas perigosas espreitam nessa regiäo, e eu só deveria ir lá se você tiver uma necessidade extrema.<END>
-<BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o overworlder em paz!<END>
+<BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o ser do mundo superior em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles säo um pouco... excessivamente vigilantes.<END>
 <BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava para. Eles ficaram agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer um arranhäo. Duvido que essa besta seja um orc de verdade. Há alguma magia ao redor dele, e sua sombra está... errada.<END>
 <BEGIN>Selava o passagem para as Cavernas dos Caídos caso ele retornasse. Agora que a bomba está funcionando, deve ser seguro reabrir a passagem. Eu näo iria lá a menos que seja necessário, mas entendo se você precisar.<END>
@@ -5198,7 +5198,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Para o Campo de Lava Inferior<END>
 <BEGIN>Para o Campo de Lava Inferior<END>
 <BEGIN>Kol<END>
-<BEGIN>Conserte a bomba de lava.<END>
+<BEGIN>Consertar a bomba de lava.<END>
 <BEGIN>Você precisa do Trocador para consertar a bomba.<END>
 <BEGIN>Gnomo Mecânico<END>
 <BEGIN>Gnomo Mecânico<END>
