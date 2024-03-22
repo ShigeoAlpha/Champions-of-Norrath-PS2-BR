@@ -331,17 +331,17 @@ sem ódio?<END>
 <BEGIN>Exército de Mortos-vivos<END>
 <BEGIN>Desbloqueie o Castelo.<END>
 <BEGIN>Portal inativo durante o combate.<END>
-<BEGIN>Fácil, fácil... você levou uma surra, quase pensei que aquela tempestade tinha te matado. Você tem coragem de enfrentar as águas por aqui. Näo chamam isso de Ilha das Facas à toa. Aquelas ondas lá fora podem cortar um navio em pedaços.<END>
-<BEGIN>Você é o único que vi escapar daquele navio seu. Espero que näo houvesse mais ninguém a bordo além de você. Se houvesse, bem, eu lamento por eles. Ninguém merece morrer no fundo do oceano, näo importa o que tenham feito em suas vidas.<END>
-<BEGIN>Posso adivinhar por que você está aqui, atrás daquele grande orc, talvez? Ele e seus escravos têm sido um terror nessas ilhas por meses, capturando prisioneiros e levando-os até Blackdelve para serem transformados nos mortos-vivos por algum vampiro ou outro.<END>
-<BEGIN>Aquele orc foi quem saqueou a vila de Water's Edge no lado oeste da ilha. Näo sobrou ninguém lá, todos foram levados para Blackdelve ou para prisöes aqui no Abismo. Por isso tenho me escondido aqui deste lado da ilha. Näo queria ser capturado.<END>
-<BEGIN>Parece que estamos juntos nessa. Näo há mais navios por aqui. Aquele orc deve ter te dado como morto quando aquela tempestade atingiu seu navio. Vi ele indo para o sul, em direçäo às cavernas do outro lado da ilha. Há um daqueles portais que ele usa para se mover pelo Abismo. Näo deve estar guardado, duvido que estejam esperando algum problema.<END>
+<BEGIN>Devagar, devagar... você levou uma surra, quase pensei que aquela tempestade tinha te matado. Você tem coragem de enfrentar as águas por aqui. Näo chamam isso de Ilha das Facas à toa. Aquelas ondas lá fora podem cortar um navio em pedaços.<END>
+<BEGIN>Você é o único que vi escapar daquele seu navio. Espero que näo tenha mais ninguém a bordo além de você. Se houver, bem, eu lamento por eles. Ninguém merece morrer no fundo do oceano, näo importa o que tenham feito em suas vidas.<END>
+<BEGIN>Acho que posso adivinhar por que você está aqui, está atrás daquele grande orc, talvez? Ele e seus escravos têm sido um terror nessas ilhas por meses, capturando prisioneiros e os levando até Blackdelve para serem transformados nos mortos-vivos por algum vampiro ou algo do tipo.<END>
+<BEGIN>Foi aquele orc quem saqueou a vila de Water's Edge no lado oeste da ilha. Näo sobrou ninguém lá, todos foram levados para Blackdelve ou para prisöes aqui no Abismo. Por isso tenho me escondido aqui deste lado da ilha. Näo quero ser capturado.<END>
+<BEGIN>Parece que estamos juntos nessa. Näo há mais navios por aqui. Aquele orc deve achar que você morreu quando aquela tempestade atingiu seu navio. Vi ele indo para o sul, em direçäo às cavernas do outro lado da ilha. Há um daqueles portais que ele usa para se mover pelo Abismo. Näo deve estar sendo vigiado, duvido que estejam esperando algum problema.<END>
 <BEGIN>Portais?<END>
-<BEGIN>Sim, portais. Coisas antigas, por todo o Abismo. Eles conectam todas as ilhas... e outros lugares também. Ninguém sabe quem os construiu ou por quê, mas a teoria é que säo algum tipo de nó planar louco. Se você encontrar o caminho certo através deles, supostamente levam a algum grande tesouro. Talvez até mesmo o Chifre do Mau Presságio. Näo seria uma descoberta e tanto?<END>
+<BEGIN>Sim, portais. Coisas antigas, por todo o Abismo. Eles conectam todas as ilhas... e outros lugares também. Ninguém sabe quem os construiu ou por quê, mas a teoria é que säo algum tipo de nó planar louco. Se você encontrar o caminho certo através deles, supostamente eles levam pra algum grande tesouro. Talvez até mesmo ao Chifre do Mau Presságio. Näo seria uma descoberta e tanto?<END>
 <BEGIN>O Chifre do Mau Presságio?<END>
-<BEGIN>O Chifre é o motivo pelo qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui em busca dele há tanto tempo que consigo me lembrar. Até mesmo eu procurei o chifre por algumas temporadas, e meu pai ainda mais do que eu. Ele me ensinou a usar o chifre se ele fosse encontrado, mas ele nunca conseguiu colocar as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
+<BEGIN>O Chifre é o motivo pelo qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui em busca dele há tanto tempo quanto consigo me lembrar. Até mesmo eu procurei pelo chifre por algum tempo, e meu pai ainda mais do que eu. Ele me ensinou a usar o chifre se ele fosse encontrado, mas ele nunca conseguiu colocar as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Ouça aqui. Se você encontrar esse chifre, traga-o de volta, e eu te ensinarei como usá-lo. Dizem que o chifre tem algum tipo de poder sobre barreiras planares. Eu posso ser capaz de usá-lo para te levar onde você precisa ir, até mesmo te mandar para casa, se quiser.<END>
+<BEGIN>Ouça aqui. Se você encontrar esse chifre, traga ele de volta, e eu te ensinarei como usá-lo. Dizem que o chifre tem algum tipo de poder sobre barreiras planares. Eu posso ser capaz de usá-lo para te levar pra onde você precisar ir, até mesmo te mandar para casa, se quiser.<END>
 <BEGIN>Tem ideia de onde o chifre possa estar?<END>
 <BEGIN>Bem, eu aposto que alguns dos aldeöes podem ter algumas pistas sobre onde encontrá-lo. Talvez até mesmo o velho maluco do Lazlo. Ele foi capturado quando o orc e seus escravos atacaram Water's Edge, no entanto, näo o vi desde entäo. Ele pode estar em uma das outras ilhas, ainda vivo, mas quem sabe? Se for o caso, você provavelmente o encontraria através de um dos portais que conectam as ilhas.<END>
 <BEGIN>Fim.<END>
@@ -351,16 +351,16 @@ sem ódio?<END>
 <BEGIN>Procure ao redor da ilha pelos portais antigos dos quais Davel falou.<END>
 <BEGIN>Você já encontrou aquele Chifre do Mau Presságio? Se encontrar, traga-o de volta aqui, e eu te mostrarei como usá-lo.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Pelos Deuses de Norrath, você encontrou a coisa maldita! Dê aqui, eu vou te mostrar como usar. Suponho que agora você quer alguma recompensa...<END>
+<BEGIN>Pelos Deuses de Norrath, você encontrou a coisa maldita! Me dê aqui, eu vou te mostrar como usar. Suponho que agora você quer alguma recompensa...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Obtenha o Chifre do Mau Presságio<END>
 <BEGIN>Este lugar näo é täo ruim. Talvez mais gnomos devessem vir aqui, torná-lo um pouco mais acolhedor.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Eu estava vasculhando a praia e olhe o que eu encontrei - uma concha linda. Você quer? É seu.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Tire esse chifre de perto do Lazlo. É feio, odioso, é.<END>
+<BEGIN>Tire esse chifre de perto do Lazlo. É feio, odioso, completamente.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Onde está o chifre? Lazlo te disse onde está. Você precisa encontrá-lo. Antes que aquele orc o faça.<END>
+<BEGIN>Onde está o chifre? Lazlo te disse onde está. Você precisa encontrá-lo. Antes daquele orc.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mas o mar está cheio de água, sabe. Você precisará encontrar um jeito de ser um peixe, respirar como um peixe, ou nunca verá aquele chifre. Você vai se afogar no lugar.<END>
 <BEGIN>Fim.<END>
@@ -376,7 +376,7 @@ sem ódio?<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>...cäo de Leithkorias.<END>
-<BEGIN>Você me perseguiu até aqui, matou meus aliados, mas agora você encontrou a única coisa que tenho procurado há meses e a última coisa necessária para a guerra em Norrath realmente começar.<END>
+<BEGIN>Você me perseguiu até aqui, matou meus aliados, mas agora você encontrou a única coisa que tenho procurado há meses, e a última coisa necessária para a guerra em Norrath realmente começar.<END>
 <BEGIN>Quando invoquei aquela tempestade que destruiu seu navio, pensei que você fosse Vanarhost. Ele encomendou aquele navio dos gnomos, e eu tinha certeza de que ele planejava algum tipo de traiçäo. Imagine minha surpresa quando encontrei você no comando em vez dele.<END>
 <BEGIN>Quando você rastejou até a costa, foi tudo o que pude fazer para näo te matar. Você tem mais vidas do que qualquer oponente que já conheci. Mas entäo me ocorreu que eu poderia usar sua força a meu favor.<END>
 <BEGIN>O Chifre do Mau Presságio sempre me escapou... mas talvez você consiga encontrá-lo. E se você falhasse, entäo sem dúvida morreria na tentativa.<END>
@@ -1542,15 +1542,15 @@ sem ódio?<END>
 <BEGIN>Ouvi dizer que você convenceu Melman a lhe dar o rubi. Deve ter usado um pé-de-cabra para arrancá-lo de suas mäos. Me dê o rubi, e o navio é seu. Näo encontrará um negócio muito melhor que este para onde você está indo, amigo.<END>
 <BEGIN>É um acordo entäo, vou comprar o navio!<END>
 <BEGIN>Vou considerar um pouco mais.<END>
-<BEGIN>Ela é toda sua entäo! Melhor navio que já construí... dê uma olhada nele e depois o carregue.<END>
+<BEGIN>Ela é toda sua entäo! Melhor navio que já construí... dê uma olhada e depois o carregue.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
 <BEGIN>No entanto, antes de levantar a âncora, seu navegador e eu deveríamos ter uma pequena conversa. Você tem um navegador, näo tem? O Poço do Mau Presságio näo é um riacho preguiçoso, e näo passei meses construindo este navio apenas para vê-lo ser despedaçado. Encontre um navegador antes de zarpar ou sua jornada será muito mais rápida do que você pensava.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Entäo você voltou para reivindicar o navio. Gostaria de poder ajudá-lo, mas até que eu tenha o Rubi de Mistmoore, näo posso correr o risco de irritar o Senhor Vanarhost. Caso contrário, da próxima vez que você me visse, eu teria dois buracos perfurados no pescoço e estaria täo enrugado quanto uma ameixa seca. Olhe, posso adiá-lo por enquanto, mas näo posso fazer isso para sempre.<END>
+<BEGIN>Entäo você veio reivindicar o navio? Gostaria de ajudar, mas até que eu tenha o Rubi de Mistmoore, näo posso correr o risco de irritar o Senhor Vanarhost. Caso contrário, da próxima vez que você me ver, terei dois buracos no pescoço e estaria täo enrugado quanto uma ameixa seca. Veja, posso enrolar por enquanto, mas näo posso fazer isso para sempre.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Entäo você voltou para reivindicar o navio, e você tem o rubi. Acho que podemos fazer negócios.<END>
-<BEGIN>É um acordo entäo, vou comprar o navio!<END>
+<BEGIN>Entäo você veio reivindicar o navio, e você tem o rubi. Acho que podemos fazer negócios.<END>
+<BEGIN>Negócio fechado entäo, vou comprar o navio!<END>
 <BEGIN>Desculpe, mas näo posso deixar você levar o navio até que tenha um navegador que possa mantê-lo vivo! Volte quando encontrar algum idiota qu... quer dizer, alguém que possa fazer o trabalho.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Hmmm... entäo agora alguém trouxe problemas da superfície para cá. Isso é a última coisa que precisamos. Agora, näo duvido que os orcs lá em cima sejam selvagens, mas temos problemas próprios.<END>
@@ -1899,20 +1899,20 @@ sem ódio?<END>
 <BEGIN>E eu farei questäo de que você esteja lá para ver. Vou ver seu cadáver marchar para a batalha com meus exércitos de mortos-vivos. Eu verei você...<END>
 <BEGIN>...traído.<END>
 <BEGIN>Uma vida por uma vida, overworlder. Nossas dívidas de sangue estäo quitadas.<END>
-<BEGIN>Aqui está a chave, você agora pode escapar. Mas deve se apressar, pois Vanarhost apenas dormita. Fuja de Blackdelve Reach e näo retorne. A partir de agora, ambas as nossas vidas estäo marcadas.<END>
+<BEGIN>Aqui está a chave, agora você pode escapar. Mas deve se apressar, pois Vanarhost está apenas adormecido. Fuja de Blackdelve Reach e näo retorne. A partir de agora, ambas as nossas vidas estäo marcadas.<END>
 <BEGIN>Você demorou para me alcançar, overlander. Eu estava ficando impaciente.<END>
-<BEGIN>Ah sim, eu sabia que você estava aqui em meu castelo há algum tempo. Permiti que você vivesse até este momento na esperança de que seguisse Pelys e ferisse ainda mais o seu orgulho. Mas você escolheu me incomodar ao invés disso.<END>
-<BEGIN>Vamos dar uma olhada em você, hmmm. Depois do que Pelys me contou sobre você... eu esperava algo mais.<END>
-<BEGIN>Você cheira a mundo superior, o suor. Dificilmente uma refeiçäo para saciar meu apetite. Mas, felizmente, este castelo está cheio daqueles com paladares mais apagados, cujos gostos näo säo täo refinados quanto o meu. Acho que eles apreciariam a diversäo em uma refeiçäo que ainda tem alguma luta.<END>
-<BEGIN>Pela sua presença aqui, suponho que você tenha matado o nosferatu... uma pena, mas tais bestas säo substituíveis. Após tal batalha, você deveria ter abençoado sua boa fortuna e fugido enquanto teve a chance.<END>
-<BEGIN>Mas aqui está você, arriscando sua sorte demais. Muito bem. Vamos acabar com isso... indignidade.<END>
-<BEGIN>Você deveria se sentir honrado, overlander. Você é o primeiro em um século a ficar desafiante na presença do senhor dos vampiros. Acho que é melhor saborearmos este momento.<END>
-<BEGIN>Eu sei que nunca nos encontramos, mas só posso pedir que confie em mim. Näo tenho tempo nem força para contar minha história ou por que nossos destinos estäo entrelaçados. Eu sou Firiona Vie. Fui aprisionada pelas forças cruéis que se opöem a você, mas através de minhas artes, ainda consigo te dar este aviso.<END>
-<BEGIN>Permaneça em seu caminho, meu campeäo, e näo desespere. Ajudarei você se puder.<END>
+<BEGIN>Ah sim, eu sabia que você estava aqui em meu castelo há algum tempo. Permiti que você vivesse até este momento na esperança de que seguisse a Pelys e ferisse ainda mais o orgulho dela. Mas ao invés disso, você escolheu me incomodar.<END>
+<BEGIN>Vamos dar uma olhada em você, hmmm. Depois que Pelys me contou sobre você... eu esperava algo melhor.<END>
+<BEGIN>Você cheira ao mundo superior, o suor. Dificilmente seria uma refeiçäo para saciar meu apetite. Mas, felizmente, este castelo está cheio daqueles com paladares mais grosseiros, cujos gostos näo säo täo refinados quanto o meu. Acho que eles apreciariam a diversäo em uma refeiçäo que ainda pode lutar.<END>
+<BEGIN>Pela sua presença aqui, suponho que você tenha matado os nosferatu... uma pena, mas tais bestas säo substituíveis. Após tal batalha, você deveria ter abençoado sua boa fortuna e fugido enquanto teve a chance.<END>
+<BEGIN>Mas aqui está você, arriscando sua sorte mais uma vez. Muito bem. Vamos acabar com logo com isso... indígno.<END>
+<BEGIN>Você deveria se sentir honrado, overlander. Você é o primeiro em um século a permanecer desafiante na presença do senhor dos vampiros. Acho que é melhor saborearmos este momento.<END>
+<BEGIN>Eu sei que nunca nos encontramos, mas só posso pedir que confie em mim. Näo tenho tempo nem força para te contar minha história ou por que nossos destinos estäo entrelaçados. Eu sou Firiona Vie. Fui aprisionada pelas forças cruéis que se opöem a você, mas através de minhas artes, ainda consigo te dar este aviso.<END>
+<BEGIN>Permaneça em seu caminho, meu campeäo, e näo se desespere. Ajudarei você se puder.<END>
 <BEGIN>Näo há controle no slot %s. Por favor, insira um controle analógico DUALSHOCK™2 para continuar o jogo.<END>
 <BEGIN>Aumenta a Velocidade<END>
-<BEGIN>Você precisa de uma arma corpo a corpo^ ou escudo equipado para bloquear.<END>
-<BEGIN>Pressione o botäo SELECT para Evoluir de Nível<END>
+<BEGIN>Necessário arma corpo a corpo ou escudo.<END>
+<BEGIN>Pressione SELECT para subir de Nível<END>
 <BEGIN>A Porta Está Trancada.<END>
 <BEGIN>Cura: %d-%d<END>
 <BEGIN>Dano: %d-%d<END>
@@ -1922,7 +1922,7 @@ sem ódio?<END>
 <BEGIN>Abrir porta<END>
 <BEGIN>Salvar Jogo<END>
 <BEGIN>Salvar Jogo<END>
-<BEGIN>Salvar Ponto de Checagem Anterior (Jogadores Ocupados)<END>
+<BEGIN>Salvar Ponto de controle Anterior (Jogadores Ocupados)<END>
 <BEGIN>Buscar Suporte de Armas<END>
 <BEGIN>Pegar<END>
 <BEGIN>Acender<END>
@@ -2103,7 +2103,7 @@ sem ódio?<END>
 <BEGIN>Flecha de Ácido de Melf<END>
 <BEGIN>Flechas de Gelo<END>
 <BEGIN>Flechas Elétricas<END>
-<BEGIN>Este skill encanta flechas com uma aura elétrica, aumentando o dano e chocando oponentes.<END>
+<BEGIN>Esta habilidade encanta flechas com uma aura elétrica, aumentando o dano e chocando oponentes.<END>
 <BEGIN>Flecha Elétrica<END>
 <BEGIN>Flecha de Gelo<END>
 <BEGIN>Flecha Flamejante<END>
@@ -2113,7 +2113,7 @@ sem ódio?<END>
 <BEGIN>Escudo de Fogo<END>
 <BEGIN>Este feitiço cria uma coroa flamejante ao redor do conjurador que causa danos aos inimigos.<END>
 <BEGIN>Chuva de Meteoros<END>
-<BEGIN>Missäo Mágica<END>
+<BEGIN>Míssel Mágico<END>
 <BEGIN>Rubi<END>
 <BEGIN>Esmeralda<END>
 <BEGIN>Safira<END>
@@ -2237,13 +2237,13 @@ sem ódio?<END>
 <BEGIN>Habilitar<END>
 <BEGIN>Verificaçäo de Microfone<END>
 <BEGIN>Gravar<END>
-<BEGIN>Limiar<END>
+<BEGIN>Limitar<END>
 <BEGIN>Reproduçäo<END>
 <BEGIN>Volume<END>
 <BEGIN>MemcardImportRaceTakenPost (Raça Já Em Uso)<END>
 <BEGIN>(Em Uso)<END>
 <BEGIN>Disponível<END>
-<BEGIN>(Controlador Necessário)<END>
+<BEGIN>(Controle Necessário)<END>
 <BEGIN>%c Voltar para o Menu Principal<END>
 <BEGIN>Insira o cartäo de memória original (8MB)(para PlayStation%c2)<END>
 <BEGIN>:  2 (%s e %s)<END>
@@ -2348,7 +2348,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Selecionar este jogo salvo iniciará um jogo de dois<END>
 <BEGIN>jogadores. Continuar?<END>
 <BEGIN>Modo Extremo %d Jogador<END>
-<BEGIN>Saving is disabled during combat!<END>
+<BEGIN>Salvar está desabilitado durante o combate!<END>
 <BEGIN>%d minutos restantes.<END>
 <BEGIN>%d segundos restantes.<END>
 <BEGIN>No Modo Extremo, personagens importados teräo<END>
@@ -2673,19 +2673,19 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Caverna dos Orcs 1<END>
 <BEGIN>Caverna dos Orcs 2<END>
 <BEGIN>Caverna dos Orcs 3<END>
-<BEGIN>Interior Ruínas da Floresta 1<END>
-<BEGIN>Interior Ruínas da Floresta 2<END>
+<BEGIN>Inter. Ruínas da Floresta 1<END>
+<BEGIN>Inter. Ruínas da Floresta 2<END>
 <BEGIN>Formigueiro<END>
-<BEGIN>Castelo de Vanarhost Nível 1<END>
-<BEGIN>Castelo de Vanarhost Nível 2<END>
+<BEGIN>Castelo Vanarhost Nível 1<END>
+<BEGIN>Castelo Vanarhost Nível 2<END>
 <BEGIN>Cume do Blackdelve<END>
 <BEGIN>O Submundo<END>
 <BEGIN>O Submundo 2<END>
 <BEGIN>Cavernas das Formigas 1<END>
 <BEGIN>Cavernas das Formigas 2<END>
-<BEGIN>Campos de Lava Blackdelve 1<END>
-<BEGIN>Campos de Lava Blackdelve 2<END>
-<BEGIN>Campos de Lava Blackdelve 3<END>
+<BEGIN>Campos Lava Blackdelve 1<END>
+<BEGIN>Campos Lava Blackdelve 2<END>
+<BEGIN>Campos Lava Blackdelve 3<END>
 <BEGIN>Cavernas dos Caídos 1<END>
 <BEGIN>Cavernas dos Caídos 2<END>
 <BEGIN>Cavernas dos Caídos 2<END>
@@ -3588,7 +3588,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Pedra de Amolar<END>
 <BEGIN>Parte de Jangada<END>
 <BEGIN>Vinha Sanguínea<END>
-<BEGIN>Permutador<END>
+<BEGIN>Trocador<END>
 <BEGIN>Concha de Caramujo<END>
 <BEGIN>Planos de Batalha<END>
 <BEGIN>Chifre do Mau Presságio<END>
@@ -4652,13 +4652,13 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Garrafa de Mana<END>
 <BEGIN>Garrafa de Mana Maior<END>
 <BEGIN>Nenhum inimigo morto-vivo presente para converter<END>
-<BEGIN>Uma arma de combate corpo a corpo^ é necessária para esta habilidade<END>
-<BEGIN>Apenas para Ranger<END>
-<BEGIN>Apenas para Cavaleiro das Sombras<END>
-<BEGIN>Apenas para Clérigo<END>
-<BEGIN>Apenas para Ranger<END>
-<BEGIN>Apenas para Mago<END>
-<BEGIN>Apenas para Guerreiro<END>
+<BEGIN>Necessário arma de combate corpo a corpo<END>
+<BEGIN>Apenas Ranger<END>
+<BEGIN>Apenas Cavaleiro das Sombras<END>
+<BEGIN>Apenas Clérigo<END>
+<BEGIN>Apenas Ranger<END>
+<BEGIN>Apenas Mago<END>
+<BEGIN>Apenas Guerreiro<END>
 <BEGIN>taxa de regeneraçäo de mana<END>
 <BEGIN>Sair do menu Online exigirá que você reconecte ao seu provedor de internet (se aplicável) e faça login novamente. Ainda deseja sair?<END>
 <BEGIN>Näo é possível salvar enquanto o veículo está em uso!<END>
@@ -4692,7 +4692,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Todas as almas morreram!<END>
 <BEGIN>Você deve garantir que pelo menos uma alma chegue ao Plano do Ar.<END>
 <BEGIN>Firiona Vie<END>
-<BEGIN>Que Tunare agradeço por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Você vê os selos? Quebre-os, e eu estarei livre.<END>
+<BEGIN>Agradeço Tunare por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Consegue ver os selos? Quebre-os, e eu estarei livre.<END>
 <BEGIN>Depressa, näo há muito...<END>
 <BEGIN>VOCÊ FOI UM TOLO EM VIR AQUI.<END>
 <BEGIN>EU VOU ENSINAR O QUE SIGNIFICA SOFRER.<END>
@@ -4702,11 +4702,11 @@ Você ganha 750 de experiência.<END>
 <BEGIN>VOCÊ MASSACROU LEGIÖES ABRINDO SEU CAMINHO ATÉ MIM. E VOCÊ MENTE SE NEGAR QUE SENTIU PRAZER NO SANGUE QUE PULSAVA EM SUAS VEIAS A CADA INIMIGO QUE CAùA DIANTE DE VOCÊ. ERA O FOGO DO ÓDIO QUE ARDIA EM SEU CORAÜÄO.<END>
 <BEGIN>ISSO FAZ DE VOCÊ MEU DISCùPULO, NÄO IMPORTA QUAL DEUS VOCÊ SIRVA. EU AGORA OFEREÜO A VOCÊ A CHANCE DE SE COMPROMETER COMIGO.<END>
 <BEGIN>SUA ALMA... É MINHA.<END>
-<BEGIN>Que Tunare agradeço por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Você vê os selos? Quebre-os, e eu estarei livre.<END>
+<BEGIN>Agradeço Tunare por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Consegue ver os selos? Quebre-os, e eu estarei livre.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Depressa, venha comigo!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Que Tunare agradeço por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Você vê os selos? Quebre-os, e eu estarei livre.<END>
+<BEGIN>Agradeço Tunare por você ter chegado. Liberte-me e posso ajudá-lo a acabar com o plano insano de Innoruuk. Consegue ver os selos? Quebre-os, e eu estarei livre.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Depressa, venha comigo!<END>
 <BEGIN>Fim.<END>
@@ -4750,7 +4750,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Guie as almas do Caldeiräo do Ódio, através dos Salöes do Desespero, até o Plano do Ar.<END>
 <BEGIN>Todas as almas morreram!<END>
 <BEGIN>Você deve garantir que pelo menos uma alma chegue ao Plano do Ar.<END>
-<BEGIN>Esta porta näo se abre<END>
+<BEGIN>Esta porta näo abre<END>
 <BEGIN>Para o Caldeiräo das Almas<END>
 <BEGIN>Esse som marca o fim de uma era e o surgimento de uma nova era. Nossa era.<END>
 <BEGIN>Mas você näo viverá para v...<END>
@@ -4886,20 +4886,20 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Cuidado. É uma armadilha!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Agradeça aos Deuses por me resgatar. Esses escravistas estavam me usando como uma mula para carregar o que restou da cidade de Água Rasa até o acampamento deles na ilha oeste. De repente, algum orc aparece pelo portal e diz para eles prepararem uma emboscada para você. Acho que eles näo se prepararam o suficiente, hein?<END>
-<BEGIN>Lá está o portal para a ilha oeste. Tenha cuidado. Os orcs estäo por toda parte lá. Eles têm meu pobre irmäo, Lazlo. Eles o enlouqueceram com tortura tentando descobrir o segredo desses portais.<END>
-<BEGIN>Olha, eu sei que você já salvou minha vida hoje, mas se houver alguma maneira de você resgatar meu irmäo Lazlo desses escravistas, eu ficaria grato. Logo eles perceberäo que ele näo pode lhes dizer nada do que querem saber, e eles... bem, eu nunca mais o verei.<END>
-<BEGIN>Encontre-me de volta em Água Rasa se puder. Dependendo do que eu puder recuperar dos bens roubados aqui, talvez eu consiga reconstruir minha loja. Até mesmo reabastecê-la. Se precisar de alguma coisa, passe por lá e te darei a ajuda que puder.<END>
+<BEGIN>Agradeça aos Deuses por me resgatar. Esses escravistas estavam me usando como uma mula para carregar o que restou da cidade de Water's Edge até o acampamento deles na ilha oeste. De repente, algum orc apareceu pelo portal e disse para eles prepararem uma emboscada para você. Acho que eles näo se prepararam o suficiente, né?<END>
+<BEGIN>Lá está o portal para a ilha oeste. Tenha cuidado. Os orcs estäo por toda parte lá. Eles têm meu pobre irmäo, Lazlo. Eles o enlouqueceram com tanta tortura, tentando descobrir o segredo desses portais.<END>
+<BEGIN>Olha, eu sei que você já salvou minha vida hoje, mas se puder resgatar meu irmäo Lazlo desses escravistas, eu ficaria muito grato. Logo eles perceberäo que ele näo pode dizer nada do que querem saber, e eles... bem, eu nunca mais o verei.<END>
+<BEGIN>Encontre-me de volta em Water's Edge se puder. Dependendo do que eu puder recuperar dos bens roubados aqui, talvez eu consiga reconstruir minha loja. Até mesmo reabastecê-la. Se precisar de alguma coisa, passe por lá e te darei a ajuda que puder.<END>
 <BEGIN>Ainda restam 15 escravistas!<END>
 <BEGIN>Ainda restam 10 escravistas!<END>
 <BEGIN>Ainda restam 5 escravistas!<END>
 <BEGIN>Só resta 1 escravista!<END>
 <BEGIN>Esta caverna está limpa.<END>
-<BEGIN>Verifique a ilha por mais cavernas com mais escravistas.<END>
+<BEGIN>Verifique a ilha por mais cavernas com escravistas.<END>
 <BEGIN>A caverna está limpa.<END>
 <BEGIN>Ainda há escravistas na ilha.<END>
 <BEGIN>Esta caverna está limpa.<END>
-<BEGIN>Verifique a ilha por mais cavernas com mais escravistas.<END>
+<BEGIN>Verifique a ilha por mais cavernas com escravistas.<END>
 <BEGIN>A caverna está limpa.<END>
 <BEGIN>Ainda há escravistas na ilha.<END>
 <BEGIN>Mate os escravistas.<END>
@@ -5242,7 +5242,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Conseguir um Lava Runner, encontrar o Trocador e inseri-lo na Bomba de Lava.<END>
 <BEGIN>Por que você voltou? A bomba de lava ainda está quebrada. Olhe. Consiga um lava runner e o trocador, atravesse o campo de lava e conserte a maldita bomba. É simples, näo é?<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ha-ha! Muito bem! A bomba está funcionando novamente, e a lava está fluindo. Se você ainda näo fez, avise a Bingham... quero dizer, Mestre Viggs. Agora que a bomba está consertada, ele pode terminar o barco para aquele vampiro, Vanarhost... para todo o bem que isso fará a ele. Vá, vá!<END>
+<BEGIN>Ha-ha! Muito bem! A bomba está funcionando novamente, e a lava está fluindo. Se você ainda näo fez, avise o Bingham... quero dizer, Mestre Viggs. Agora que a bomba está consertada, ele pode terminar o barco para aquele vampiro, Vanarhost... para todo o bem que isso fará a ele. Vá, vá!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Bem, o que temos aqui? Faz tempo desde que vi um sujeito como você. Toda essa agitaçäo aqui embaixo está mantendo os habitantes do Faydark acordados?<END>
 <BEGIN>Eu estava curioso sobre suas... carruagens de ferro?<END>
