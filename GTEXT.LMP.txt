@@ -334,10 +334,10 @@ sem ódio?<END>
 <BEGIN>Devagar, devagar... você levou uma surra, quase pensei que aquela tempestade tinha te matado. Você tem coragem de enfrentar as águas por aqui. Näo chamam isso de Ilha das Facas à toa. Aquelas ondas lá fora podem cortar um navio em pedaços.<END>
 <BEGIN>Você é o único que vi escapar daquele seu navio. Espero que näo tenha mais ninguém a bordo além de você. Se houver, bem, eu lamento por eles. Ninguém merece morrer no fundo do oceano, näo importa o que tenham feito em suas vidas.<END>
 <BEGIN>Acho que posso adivinhar por que você está aqui, está atrás daquele grande orc, talvez? Ele e seus escravos têm sido um terror nessas ilhas por meses, capturando prisioneiros e os levando até Blackdelve para serem transformados nos mortos-vivos por algum vampiro ou algo do tipo.<END>
-<BEGIN>Foi aquele orc quem saqueou a vila de Water's Edge no lado oeste da ilha. Näo sobrou ninguém lá, todos foram levados para Blackdelve ou para prisöes aqui no Abismo. Por isso tenho me escondido aqui deste lado da ilha. Näo quero ser capturado.<END>
-<BEGIN>Parece que estamos juntos nessa. Näo há mais navios por aqui. Aquele orc deve achar que você morreu quando aquela tempestade atingiu seu navio. Vi ele indo para o sul, em direçäo às cavernas do outro lado da ilha. Há um daqueles portais que ele usa para se mover pelo Abismo. Näo deve estar sendo vigiado, duvido que estejam esperando algum problema.<END>
+<BEGIN>Foi aquele orc quem saqueou a vila de Water's Edge no lado oeste da ilha. Näo sobrou ninguém lá, todos foram levados para Blackdelve ou para prisöes aqui no Poço. Por isso tenho me escondido aqui deste lado da ilha. Näo quero ser capturado.<END>
+<BEGIN>Parece que estamos juntos nessa. Näo há mais navios por aqui. Aquele orc deve achar que você morreu quando aquela tempestade atingiu seu navio. Vi ele indo para o sul, em direçäo às cavernas do outro lado da ilha. Há um daqueles portais que ele usa para se mover pelo Poço. Näo deve estar sendo vigiado, duvido que estejam esperando algum problema.<END>
 <BEGIN>Portais?<END>
-<BEGIN>Sim, portais. Coisas antigas, por todo o Abismo. Eles conectam todas as ilhas... e outros lugares também. Ninguém sabe quem os construiu ou por quê, mas a teoria é que säo algum tipo de nó planar louco. Se você encontrar o caminho certo através deles, supostamente eles levam pra algum grande tesouro. Talvez até mesmo ao Chifre do Mau Presságio. Näo seria uma descoberta e tanto?<END>
+<BEGIN>Sim, portais. Coisas antigas, por todo o Poço. Eles conectam todas as ilhas... e outros lugares também. Ninguém sabe quem os construiu ou por quê, mas a teoria é que säo algum tipo de nó planar louco. Se você encontrar o caminho certo através deles, supostamente eles levam pra algum grande tesouro. Talvez até mesmo ao Chifre do Mau Presságio. Näo seria uma descoberta e tanto?<END>
 <BEGIN>O Chifre do Mau Presságio?<END>
 <BEGIN>O Chifre é o motivo pelo qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui em busca dele há tanto tempo quanto consigo me lembrar. Até mesmo eu procurei pelo chifre por algum tempo, e meu pai ainda mais do que eu. Ele me ensinou a usar o chifre se ele fosse encontrado, mas ele nunca conseguiu colocar as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
 <BEGIN>Mais...<END>
@@ -399,10 +399,10 @@ sem ódio?<END>
 <BEGIN>Calma lá, calma... você levou uma bela surra, quase pensei que aquela tempestade tinha te matado. Você tem coragem de enfrentar as águas por aqui. Näo chamam essa ilha de Ilha das Facas à toa. Aquelas ondas lá fora podem cortar um navio em pedaços.<END>
 <BEGIN>Você é o único que eu vi escapar daquele navio seu. Espero que näo houvesse mais ninguém a bordo além de você. Se houvesse, bem, eu lamento por eles. Ninguém merece morrer no fundo do oceano, näo importa o que tenham feito em suas vidas.<END>
 <BEGIN>Posso adivinhar por que você está aqui. Atrás daquele grande orc, talvez... hein? Ele e seus escravos têm aterrorizado essas ilhas há meses, capturando prisioneiros e levando-os para Blackdelve para serem transformados em mortos-vivos por algum vampiro ou outro.<END>
-<BEGIN>Aquele orc é o mesmo que saqueou a vila de Water's Edge no lado ocidental da ilha. Näo sobrou ninguém lá, todos foram levados para Blackdelve ou para prisöes aqui no Abismo. Por isso que eu tenho me escondido aqui deste lado da ilha. Näo queria ser capturado.<END>
-<BEGIN>Parece que estamos presos juntos. Näo há mais navios por aqui. Aquele orc deve ter pensado que você estava morto quando aquela tempestade atingiu o seu navio. Eu o vi indo para o sul, em direçäo às cavernas do outro lado da ilha. Há um daqueles portais que ele usa para se mover pelo Abismo lá. Näo deve estar guardado, duvido que estejam esperando por qualquer problema.<END>
+<BEGIN>Aquele orc é o mesmo que saqueou a vila de Water's Edge no lado oeste da ilha. Näo sobrou ninguém lá, todos foram levados para Blackdelve ou para prisöes aqui no Poço. Por isso que eu tenho me escondido aqui deste lado da ilha. Näo queria ser capturado.<END>
+<BEGIN>Parece que estamos presos juntos. Näo há mais navios por aqui. Aquele orc deve ter pensado que você estava morto quando aquela tempestade atingiu o seu navio. Eu o vi indo para o sul, em direçäo às cavernas do outro lado da ilha. Há um daqueles portais que ele usa para se mover pelo Poço lá. Näo deve estar guardado, duvido que estejam esperando por qualquer problema.<END>
 <BEGIN>Portais?<END>
-<BEGIN>Sim, portais. Coisas antigas, espalhadas por todo o Abismo. Eles conectam todas as ilhas... e outros lugares também. Ninguém sabe quem os construiu ou por quê, mas a teoria é que säo uma espécie de nó louco no plano. Se você descobrir o caminho certo por eles, supostamente levaräo a algum grande tesouro. Talvez até mesmo o Chifre do Mau Presságio. Näo seria uma descoberta e tanto?<END>
+<BEGIN>Sim, portais. Coisas antigas, espalhadas por todo o Poço. Eles conectam todas as ilhas... e outros lugares também. Ninguém sabe quem os construiu ou por quê, mas a teoria é que säo uma espécie de nó louco no plano. Se você descobrir o caminho certo por eles, supostamente levaräo a algum grande tesouro. Talvez até mesmo o Chifre do Mau Presságio. Näo seria uma descoberta e tanto?<END>
 <BEGIN>O Chifre do Mau Presságio?<END>
 <BEGIN>O Chifre é a razäo pela qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui procurando por ele há tanto tempo quanto consigo me lembrar. Eu mesmo procurei pelo chifre por algumas temporadas, e meu pai ainda mais do que eu. Ele me ensinou como usar o chifre se ele fosse encontrado, mas nunca colocou as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
 <BEGIN>Mais...<END>
@@ -783,28 +783,28 @@ sem ódio?<END>
 <BEGIN>Ah... enfim... um belo fim... para um rei.<END>
 <BEGIN>A maldiçäo sobre a Planície Cinzenta persiste. Encontre um caminho para o Templo Selado e apague as tochas de ódio que queimam lá. Somente entäo eu te ajudarei a encontrar o que busca.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você fez como ordenei, e será recompensado. A porta atrás de mim leva a um portal. Um dos muitos portöes antigos espalhados pelo interior do Abismo. Ele o levará ao chifre que você procura... mas só se abrirá depois que eu estiver morto e partir deste lugar.<END>
+<BEGIN>Você fez como ordenei, e será recompensado. A porta atrás de mim leva a um portal. Um dos muitos portöes antigos espalhados pelo interior do Poço. Ele o levará ao chifre que você procura... mas só se abrirá depois que eu estiver morto e partir deste lugar.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Sim. Morto, pois agora que vivi para ver a maldiçäo de Innoruuk terminada, posso me permitir morrer. Mas minha morte näo será a execuçäo de um rei enfraquecido. Será uma morte forte, uma morte nobre. Jurei há muito tempo que se morresse, morreria em batalha, e que seria morto por nenhuma criatura mais fraca do que eu.<END>
 <BEGIN>Mais...<END>
 <BEGIN>A você, concedo a honra de ser meu executor real. Você deve me matar em batalha se desejar continuar sua jornada. Näo há outro jeito.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você é o primeiro visitante ao meu reino desde a maldiçäo de Innoruuk. Foi seu ódio que transformou esta terra em cinzas, roubou a vontade dos meus discípulos e me deixou viver, aqui, nestes salöes.<END>
-<BEGIN>Eu sei por que você veio. Você busca o Chifre do Presságio Sinistro, que jaz aqui no abismo. Oh, sim, o chifre ainda está aqui, esperando para ser encontrado.<END>
-<BEGIN>É uma coisa poderosa. Uma única nota de suas profundezas pode despedaçar as barreiras planares como mil bélicos arietes. Eu o ajudarei a encontrá-lo. Mas primeiro, você deve fazer como eu ordeno.<END>
-<BEGIN>Jurei que viveria para ver a maldiçäo de Innoruuk sobre esta terra dissipada. E para fazer isso, você deve encontrar um meio de entrar no Templo Selado do outro lado da Planície Cinzenta. Lá, você deve extinguir as tochas de ódio que ardem dentro.<END>
-<BEGIN>Para isso, você precisará de uma parte de mim. Meu coraçäo. Ele jaz enterrado em meu peito, mas já näo bate mais e näo tenho uso para ele. Pegue-o. Leve-o para o templo e o arremesse em cada uma das tochas. O amor que tenho pelo meu povo ainda flui em meu sangue, e ele apagará o fogo do ódio.<END>
+<BEGIN>Eu sei por que você veio. Você busca o Chifre do Presságio Sinistro, que jaz aqui no poço. Ah, sim, o chifre ainda está aqui, esperando para ser encontrado.<END>
+<BEGIN>É uma coisa poderosa. Uma única nota de seu interior pode despedaçar as barreiras entre os planos como mil arietes bélicos. Eu o ajudarei a encontrá-lo. Mas primeiro, você deve fazer como eu ordeno.<END>
+<BEGIN>Jurei que viveria para ver a maldiçäo de Innoruuk sobre esta terra ser dissipada. E para fazer isso, você deve encontrar um meio de entrar no Templo Selado do outro lado da Planície Cinzenta. Lá, você deve extinguir as tochas de ódio que queimam lá dentro.<END>
+<BEGIN>Para isso, você precisará de uma parte de mim. Meu coraçäo. Ele jaz enterrado em meu peito, mas já näo bate mais e näo tenho uso para ele. Pegue-o. Leve para o templo e o arremesse em cada uma das tochas. O amor que tenho pelo meu povo ainda flui em meu sangue, e ele apagará o fogo do ódio.<END>
 <BEGIN>Vá agora. E näo retorne até que tenha feito como ordenei.<END>
 <BEGIN>A maldiçäo sobre a Planície Cinzenta persiste. Encontre um meio de entrar no Templo Selado e apague as tochas de ódio que queimam lá. Somente entäo eu o ajudarei a encontrar o que busca.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você fez como ordenei, e será recompensado. A porta atrás de mim leva a um portal. Um dos muitos portöes antigos espalhados pelo interior do Abismo. Ele o levará ao chifre que você procura... mas só se abrirá depois que eu estiver morto e partir deste lugar.<END>
+<BEGIN>Você fez como ordenei, e será recompensado. A porta atrás de mim leva a um portal. Um dos muitos portöes antigos espalhados pelo interior do Poço. Ele o levará ao chifre que você procura... mas só se abrirá depois que eu estiver morto e partir deste lugar.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Sim. Morto, pois agora que vivi para ver a maldiçäo de Innoruuk terminada, posso me permitir morrer. Mas minha morte näo será a execuçäo de um rei enfraquecido. Será uma morte forte, uma morte nobre. Jurei há muito tempo que se morresse, morreria em batalha, e que seria morto por nenhuma criatura mais fraca do que eu.<END>
 <BEGIN>Mais...<END>
-<BEGIN>A você, concedo a honra de ser meu executor real. Você deve me matar em batalha se desejar continuar sua jornada. Näo há outro jeito.<END>
+<BEGIN>A você, concedo a honra de ser meu executor real. Você deve me matar em batalha se deseja continuar sua jornada. Näo há outro jeito.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Apague as Tochas<END>
-<BEGIN>Encontre um meio de entrar no templo selado e desbloqueá-lo apagando todas as tochas que ardem dentro dele.<END>
+<BEGIN>Encontre um meio de entrar no templo selado e desbloqueá-lo apagando todas as tochas que queimam dentro dele.<END>
 <BEGIN>Mate Mormaz!<END>
 <BEGIN>Mormaz morreu.<END>
 <BEGIN>O portal agora foi ativado!<END>
@@ -837,9 +837,9 @@ sem ódio?<END>
 <BEGIN>Mas apenas o ódio em si é permitido passar. Cabe a você encontrar um caminho.<END>
 <BEGIN>Bem, bem... näo costumamos ver estranhos por aqui, pelo menos... näo vivos. Você deve ser mais resistente do que parece para ter chegado até aqui... ou apenas desesperado, talvez?<END>
 <BEGIN>Mais...<END>
-<BEGIN>Entäo... você é do tipo silencioso, vejo. Näo importa. Dizem que o silêncio é de ouro. Falando em ouro, posso ver que você näo gosta dos meus preços. Tudo bem. Há outras negociaçöes que podemos fazer em vez disso.<END>
+<BEGIN>Entäo... você é do tipo silencioso, entendo. Näo importa. Dizem que o silêncio é de ouro. Falando em ouro, posso ver que você näo gosta dos meus preços. Tudo bem. Há outras negociaçöes que podemos fazer em vez disso.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Que tipo de negócio, você pergunta? simplesmente Buscar e carregar, nada mais. Veja bem, existem sete... curiosidades espalhadas pelos Calabouços de Khathuun. Meros bagatelas, na verdade, mas cada uma tem valor sentimental para mim. Por cada uma que você me trouxer, eu baixarei meus preços. Me traga todas as sete, e pode haver algo mais para você.<END>
+<BEGIN>Que tipo de negócio, você pergunta? simplesmente Buscar e carregar, nada mais. Veja bem, existem sete... curiosidades espalhadas pelos Calabouços de Khathuun. Meras bagatelas, na verdade, mas cada uma tem valor sentimental para mim. Por cada uma que você me trouxer, eu baixarei meus preços. Me traga todas as sete, e pode haver algo mais para você.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Entäo, temos um acordo?<END>
 <BEGIN>Sim, temos um acordo.<END>
@@ -847,11 +847,11 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Excelente. E sem cobrar nada, um conselho. Tenha cuidado por estas bandas. Preferem matar um estranho a olhar para ele.<END>
 <BEGIN>Entrar na Loja.<END>
-<BEGIN>Junte os 7 bibelôs para Gol<END>
-<BEGIN>Escondidos nos Calabouços de Khathuun estäo sete bibelôs, reúna todos e traga-os para Gol Nazyn em troca de uma recompensa.<END>
+<BEGIN>Junte os 7 bugigangas para Gol<END>
+<BEGIN>Escondidos nos Calabouços de Khathuun estäo sete bugigangas, reúna todos e traga-os para Gol Nazyn em troca de uma recompensa.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Junte os 7 bibelôs para Gol<END>
-<BEGIN>Escondidos nos Calabouços de Khathuun estäo sete bibelôs, reúna todos e traga-os para Gol Nazyn em troca de uma recompensa.<END>
+<BEGIN>Junte os 7 bugigangas para Gol<END>
+<BEGIN>Escondidos nos Calabouços de Khathuun estäo sete bugigangas, reúna todos e traga-os para Gol Nazyn em troca de uma recompensa.<END>
 <BEGIN>Como desejar. Mas os meus preços, no entanto, permanecem.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
@@ -873,7 +873,7 @@ sem ódio?<END>
 <BEGIN>Você me impressiona. O prêmio que prometi está quase em suas mäos. Traga-me as duas peças restantes, e seus esforços seräo recompensados.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você quase conseguiu. Recuperou todas menos uma. Infelizmente, sem a última, as outras seis säo nada mais que bibelôs. Encontre a sétima, e a recompensa será sua.<END>
+<BEGIN>Você quase conseguiu. Recuperou todas menos uma. Infelizmente, sem a última, as outras seis säo nada mais que bugigangas. Encontre a sétima, e a recompensa será sua.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Louvor a Innoruuk! Você conseguiu todos eles! Você me fez um grande serviço, estranho. Acho que você achará meus preços razoáveis - muito razoáveis, de fato.<END>
@@ -1836,8 +1836,8 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Me coloque em um barco, e eu te levarei aonde você quiser. Até de olhos vendados, com as mäos amarradas atrás das costas.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Eu acho que poderia ser pior. Eu poderia estar morto. Mas por algum motivo, o velho dente-de-sabre está me mantendo vivo. Acho que ele quer que eu o guie até o Abismo dos Maus Presságios. Depois disso... hrrrrrk. Ele vai me esvaziar como um barril de vinho e me sugar até a última gota.<END>
-<BEGIN>Olha, vou fazer um acordo com você. Me tire daqui, e eu te levarei a qualquer lugar, aonde você quiser ir. Até o fundo do Abismo! Mas o problema é que a chave näo está por aqui... você terá que ir até, uh, o castelo de Vanarhost e pegá-la.<END>
+<BEGIN>Eu acho que poderia ser pior. Eu poderia estar morto. Mas por algum motivo, o velho dente-de-sabre está me mantendo vivo. Acho que ele quer que eu o guie até o Poço dos Maus Presságios. Depois disso... hrrrrrk. Ele vai me esvaziar como um barril de vinho e me sugar até a última gota.<END>
+<BEGIN>Olha, vou fazer um acordo com você. Me tire daqui, e eu te levarei a qualquer lugar, aonde você quiser ir. Até o fundo do Poço! Mas o problema é que a chave näo está por aqui... você terá que ir até, uh, o castelo de Vanarhost e pegá-la.<END>
 <BEGIN>Se você fizer isso, porém, tome cuidado. Vanarhost tem essa dama vampira dele que anda pelos corredores de seu castelo, e ela é um verdadeiro trabalho. Acredite em mim, você a reconhecerá se a ver. Ela quase me faz pensar que ser um vampiro näo seria täo ruim.<END>
 <BEGIN>Um visitante.<END>
 <BEGIN>Você sabe por que veio? É o fascínio deste lugar... o fascínio do senhor deste castelo. Todos os de nossa espécie carregam tal poder. Você sabe do que estou falando.<END>
@@ -2512,7 +2512,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Prateado:<END>
 <BEGIN>Obsidiana:<END>
 <BEGIN>Sombreado:<END>
-<BEGIN>Falchion:<END>
+<BEGIN>Falchion<END>
 <BEGIN>de<END>
 <BEGIN>Chamas<END>
 <BEGIN>Gelo<END>
@@ -2690,8 +2690,8 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Cavernas dos Caídos 2<END>
 <BEGIN>Cavernas dos Caídos 2<END>
 <BEGIN>Masmorras Castelo Vanarhost<END>
-<BEGIN>Borda da Água<END>
-<BEGIN>Ilha Ocidental<END>
+<BEGIN>Water's Edge<END>
+<BEGIN>Ilha Oeste<END>
 <BEGIN>Costa Escondida<END>
 <BEGIN>Caverna Tropical<END>
 <BEGIN>Caverna Marinha 2<END>
@@ -4636,7 +4636,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>%c Iniciar Agora   %c Voltar<END>
 <BEGIN>Tem certeza de que deseja iniciar o jogo antes que todos tenham se juntado?<END>
 <BEGIN>O anfitriäo iniciou o jogo sem você.<END>
-<BEGIN>taxa de regeneraçäo de saúde<END>
+<BEGIN> taxa de regeneraçäo de saúde<END>
 <BEGIN>Nome Incompleto<END>
 <BEGIN>Você deve inserir um nome antes de continuar.<END>
 <BEGIN>Tônico de Cura<END>
@@ -4762,26 +4762,26 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Entäo você sobreviveu. Suponho que näo deveria me surpreender. Devemos combater uma última vez, campeäo de Norrath?<END>
 <BEGIN>Diga-me, campeäo de Norrath, você pode ouvir isso?<END>
 <BEGIN>Aquele foi o Chifre do Mau Presságio, seu presente para nós. A única chave que pode abrir o portal de todos os planos de todos os deuses conhecidos em Norrath.<END>
-<BEGIN>Ah, mais uma coisa. Encontrei isso escondido no fundo da gaiola. Acho que aquele humano louco que teve a gaiola antes de mim o enterrou lá. Pegue. Pode ser importante se você encontrar com ele novamente.<END>
-<BEGIN>Certo, agora estou indo. Te vejo de volta naquela vila na outra ilha quando você terminar de matar tudo aqui no Abismo.<END>
+<BEGIN>Ah, mais uma coisa. Encontrei isso escondido no fundo da gaiola. Acho que aquele humano maluco que esteve na gaiola antes de mim, enterrou lá. Pegue. Pode ser importante você se encontrar com ele novamente.<END>
+<BEGIN>Certo, agora estou indo. Te vejo novamente naquela vila da outra ilha quando você terminar de matar tudo por aqui no Poço.<END>
 <BEGIN>Você. Fique longe de mim. Näo abra esta gaiola. Estou te avisando.<END>
 <BEGIN>Babik? Você está vivo!<END>
-<BEGIN>Vivo? Ha! Claro que estou vivo, näo graças a você! A morte aparentemente me evita como a peste, mas o sofrimento parece gostar de mim muito bem.<END>
+<BEGIN>Vivo? Ha! Claro que estou vivo, näo graças a você! A morte aparentemente me evita como a peste, mas o sofrimento parece gostar muito de mim.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo posso vencer. Estou destinado a ser punido por tentar ajudar as pessoas.<END>
 <BEGIN>Deixe-me te tirar daí - onde está a chave?<END>
 <BEGIN>Chave? A porta näo está trancada. Simplesmente näo havia muita razäo para sair até você aparecer. E isso näo é muita razäo. Para onde eu iria? Esta é uma ilha bastante pequena, e está infestada de escravistas.<END>
 <BEGIN>Você viu um homem chamado Lazlo?<END>
-<BEGIN>Havia um humano maluco correndo por aí acorrentado. Esta costumava ser sua gaiola, aliás. Os escravistas estavam fazendo todo tipo de perguntas para ele e obtendo respostas muito estranhas. Acho que eles se cansaram de seu papo de esquilo e o mandaram por um daqueles portais estranhos, mas näo sei para onde. Ele provavelmente ainda está vivo em algum lugar.<END>
+<BEGIN>Havia um humano maluco correndo por aí acorrentado. Esta costumava ser gaiola dele, aliás. Os escravistas estavam fazendo todo tipo de perguntas para ele e obtendo respostas muito estranhas. Acho que eles se cansaram de seu papo de maluco e o mandaram por um daqueles portais estranhos, mas näo sei para onde. Ele provavelmente ainda está vivo em algum lugar.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você näo vai me tirar daqui. Ainda posso sentir os escravistas nesta ilha, e näo sairei desta gaiola até que a costa esteja limpa. Por assim dizer.<END>
 <BEGIN>Matem os escravistas.<END>
 <BEGIN>Encontrem todos os escravistas escondidos na ilha e matem-nos.<END>
-<BEGIN>Você diz que foi parar em outra ilha por um daqueles portais? Entäo irei para lá e descansarei um pouco. Mas nada de nadar. Já tive o suficiente de estar sobre as ondas por bastante tempo, muito obrigado.<END>
+<BEGIN>Você diz que foi parar em outra ilha por um daqueles portais? Entäo vou pra lá e descansarei um pouco. Mas nada de nadar. Já tive ondas o suficiente por bastante tempo, muito obrigado.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Ah, mais uma coisa. Encontrei isso escondido no fundo da gaiola. Acho que aquele humano louco que teve a gaiola antes de mim o enterrou lá. Pegue. Pode ser importante se você encontrar com ele novamente.<END>
+<BEGIN>Ah, mais uma coisa. Encontrei isso escondido no fundo da gaiola. Acho que aquele humano maluco que esteve na gaiola antes de mim o enterrou lá. Pegue. Pode ser importante caso você encontrar com ele novamente.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Certo, agora estou indo. Te vejo de volta naquela vila na outra ilha quando você terminar de matar tudo aqui no Abismo.<END>
+<BEGIN>Certo, agora estou indo. Te vejo novamente naquela vila na outra ilha quando você terminar de matar tudo por aqui no Poço.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Para as cavernas da ilha<END>
 <BEGIN>Para as cavernas da ilha<END>
@@ -4822,7 +4822,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Você diz que foi parar em outra ilha por um daqueles portais? Entäo irei para lá e descansarei um pouco. Mas nada de nadar. Já tive o suficiente de estar sobre as ondas por bastante tempo, muito obrigado.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Ah, mais uma coisa. Encontrei isso escondido no fundo da gaiola. Acho que aquele humano louco que teve a gaiola antes de mim o enterrou lá. Pegue. Pode ser importante se você encontrar com ele novamente.<END>
-<BEGIN>Certo, agora estou indo. Te vejo de volta naquela vila na outra ilha quando você terminar de matar tudo aqui no Abismo.<END>
+<BEGIN>Certo, agora estou indo. Te vejo de volta naquela vila na outra ilha quando você terminar de matar tudo aqui no Poço.<END>
 <BEGIN>Para as cavernas da ilha<END>
 <BEGIN>Para as cavernas da ilha<END>
 <BEGIN>Para as cavernas da ilha<END>
@@ -4886,7 +4886,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Cuidado. É uma armadilha!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Agradeça aos Deuses por me resgatar. Esses escravistas estavam me usando como uma mula para carregar o que restou da cidade de Water's Edge até o acampamento deles na ilha oeste. De repente, algum orc apareceu pelo portal e disse para eles prepararem uma emboscada para você. Acho que eles näo se prepararam o suficiente, né?<END>
+<BEGIN>Agradeço aos Deuses por você me resgatar. Esses escravistas estavam me usando como uma mula para carregar o que restou da cidade de Water's Edge até o acampamento deles na ilha oeste. De repente, algum orc apareceu pelo portal e disse para eles prepararem uma emboscada para você. Acho que eles näo se prepararam o suficiente, né?<END>
 <BEGIN>Lá está o portal para a ilha oeste. Tenha cuidado. Os orcs estäo por toda parte lá. Eles têm meu pobre irmäo, Lazlo. Eles o enlouqueceram com tanta tortura, tentando descobrir o segredo desses portais.<END>
 <BEGIN>Olha, eu sei que você já salvou minha vida hoje, mas se puder resgatar meu irmäo Lazlo desses escravistas, eu ficaria muito grato. Logo eles perceberäo que ele näo pode dizer nada do que querem saber, e eles... bem, eu nunca mais o verei.<END>
 <BEGIN>Encontre-me de volta em Water's Edge se puder. Dependendo do que eu puder recuperar dos bens roubados aqui, talvez eu consiga reconstruir minha loja. Até mesmo reabastecê-la. Se precisar de alguma coisa, passe por lá e te darei a ajuda que puder.<END>
@@ -4964,7 +4964,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Claro.<END>
 <BEGIN>Herói, hein? Näo vejo um de sua espécie desde que os Doze Cavaleiros do Desespero passaram por aqui alguns séculos atrás. Espero que, ao contrário deles, você realmente tenha a cortesia de me pagar.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Os Goblins saquearam muitos de nossos estoques, mas ainda temos alguns bibelôs e até mesmo uma arma ou duas por aí.<END>
+<BEGIN>Os Goblins saquearam muitos de nossos estoques, mas ainda temos algumas bugigangas e até mesmo uma arma ou duas por aí.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Se você está indo para a batalha, precisará de tudo o que puder conseguir.<END>
 <BEGIN>Entrar na loja.<END>
@@ -5131,11 +5131,11 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Kerriel<END>
 <BEGIN>Oh! Eu näo te ouvi chegando. Uh, com licença - você poderia dar um passo para trás? Você está na minha luz solar.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Eu estaria mais do que disposto a me mover, mas é essa coisa toda de cauda. Você näo tem ideia de como é. Vocês, terráqueos, podem ir e vir quando quiserem, mas nós, seres do mar, estamos presos na água. E você näo tem ideia de como é entediante embaixo das ondas.<END>
+<BEGIN>Eu estaria mais do que disposta a me mover, mas é toda essa coisa de cauda. Você näo tem ideia de como é. Vocês, terráqueos, podem ir e vir quando quiserem, mas nós, seres do mar, estamos presos na água. E você näo tem ideia de como é entediante embaixo das ondas.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Mas você, por outro lado... poderia fazer um pequeno favor para mim? Eu nadei até aqui procurando conchas. Uma concha de búzio, na verdade. Se você encontrar uma, poderia me trazer? Eu lhe recompensarei.<END>
-<BEGIN>Se ao menos você pudesse encontrar uma concha de búzio. Eu sei que é muito trabalho, mas eu ficaria muito grato.<END>
-<BEGIN>Ei, isso é uma concha de búzio? Eu nadei até aqui procurando por uma dessas, e essa é linda. Você poderia, por gentileza, me dar? Eu lhe recompensarei.<END>
+<BEGIN>Mas você, por outro lado... poderia fazer um pequeno favor para mim? Eu nadei até aqui procurando conchas. Uma concha de búzio, na verdade. Se você encontrar uma, poderia me trazer? Eu te recompensarei.<END>
+<BEGIN>Se ao menos você pudesse encontrar uma concha de búzio. Eu sei que é muito trabalho, mas eu ficaria muito grata.<END>
+<BEGIN>Ei, isso é uma concha de búzio? Eu nadei até aqui procurando por uma dessas, e essa é linda. Você poderia, por gentileza, me dar? Eu te recompensarei.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Você é täo doce. Você merece uma recompensa.<END>
 <BEGIN>Mais...<END>
@@ -5143,14 +5143,14 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Apenas para garantir, melhor verificar se funciona, embora. Já faz um tempo desde que eu lancei isso. Mas onde? Ah, eu sei exatamente o lugar!<END>
 <BEGIN>Eu ainda estou aqui. Morrendo de tédio.<END>
-<BEGIN>Eu estaria mais do que disposto a me mover, mas é essa coisa toda de cauda. Você näo tem ideia de como é. Vocês, terráqueos, podem ir e vir quando quiserem, mas nós, seres do mar, estamos presos na água. E você näo tem ideia de como é entediante embaixo das ondas.<END>
+<BEGIN>Eu estaria mais do que disposta a me mover, mas é toda essa coisa de cauda. Você näo tem ideia de como é. Vocês, terráqueos, podem ir e vir quando quiserem, mas nós, seres do mar, estamos presos na água. E você näo tem ideia de como é entediante embaixo das ondas.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Mas você, por outro lado... poderia fazer um pequeno favor para mim? Eu nadei até aqui procurando conchas. Uma concha de búzio, na verdade. Se você encontrar uma, poderia me trazer? Eu lhe recompensarei.<END>
+<BEGIN>Mas você, por outro lado... poderia fazer um pequeno favor para mim? Eu nadei até aqui procurando conchas. Uma concha de búzio, na verdade. Se você encontrar uma, poderia me trazer? Eu te recompensarei.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Encontre uma concha de búzio<END>
 <BEGIN>Kerriel, a sereia, irá recompensá-lo se você encontrar uma concha de búzio e trazê-la para ela.<END>
 <BEGIN>Se ao menos você pudesse encontrar uma concha de búzio. Eu sei que é muito trabalho, mas eu ficaria muito grato.<END>
-<BEGIN>Ei, isso é uma concha de búzio? Eu nadei até aqui procurando por uma dessas, e essa é linda. Você poderia, por gentileza, me dar? Eu lhe recompensarei.<END>
+<BEGIN>Ei, isso é uma concha de búzio? Eu nadei até aqui procurando por uma dessas, e essa é linda. Você poderia, por gentileza, me dar? Eu te recompensarei.<END>
 <BEGIN>Leve-a, é sua.<END>
 <BEGIN>Eu ainda estou aqui. Morrendo de tédio.<END>
 <BEGIN>Oh! Eu näo te ouvi chegando. Uh, com licença - você poderia dar um passo para trás? Você está na minha luz solar.<END>
@@ -5525,7 +5525,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós lidaremos com os assuntos aqui por enquanto. Seu negócio está em outro lugar. Mantenha-se no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Nós podemos näo parecer muito, mas somos a última linha de defesa. Devemos segurar os orcs de volta.<END>
+<BEGIN>Nós podemos näo parecer muito, mas somos a última linha de defesa. Devemos segurar os orcs.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Mal passaram onze anos desde que expulsamos os orcs de Crushbone, mas eles retornaram mais fortes do que nunca. Devem ter forjado novas alianças no oeste.<END>
 <BEGIN>Fim.<END>
