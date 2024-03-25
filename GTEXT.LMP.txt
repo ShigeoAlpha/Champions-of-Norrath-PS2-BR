@@ -1303,14 +1303,14 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você encontrou todas as peças da jangada! Leve-as através da neve até onde o gelo termina. A correnteza o levará para onde você quer ir. Até o fundo do mar.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você vê, para pegar o chifre, você precisará nadar fundo, mais fundo do que você já foi. Mas isso näo é tudo.<END>
+<BEGIN>Entende, para pegar o chifre, você precisará nadar fundo, mais fundo do que você já foi. Mas isso näo é tudo.<END>
 <BEGIN>Diga a eles a pior parte, Lazlo. A pior, vá em frente.<END>
 <BEGIN>O chifre näo está sozinho. Tem algo lá embaixo com ele. Algo terrível. Ele tem o chifre agora, e näo vai largá-lo.<END>
-<BEGIN>Lazlo precisa ir agora. Lazlo vai voltar para a cidade de Water's Edge, para meu irmäo, Rondo. Eu quero te ajudar mais, mas näo posso ir com você. Eu näo vou.<END>
+<BEGIN>Lazlo precisa ir agora. Lazlo vai voltar para a cidade de Water's Edge, para meu irmäo, Rondo. Eu queria ajudar mais, mas näo posso ir com você. Eu näo vou.<END>
 <BEGIN>Fazer uma jangada<END>
 <BEGIN>Reúna as peças da jangada que Lazlo escondeu dentro dos navios.<END>
 <BEGIN>Você reuniu todas as peças.<END>
-<BEGIN>Volte para Lazlo e encontre um bom lugar para construir a jangada.<END>
+<BEGIN>Volte até Lazlo e encontre um bom lugar para construir a jangada.<END>
 <BEGIN>Fazer uma jangada<END>
 <BEGIN>peças restantes<END>
 <BEGIN>Guarda Elfo da Floresta<END>
@@ -2727,7 +2727,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Nenhum cartäo de memória (8MB)(para PlayStation%c2) inserido.<END>
 <BEGIN>Falha na formataçäo! Por favor, verifique o cartäo de memória (8MB)(para PlayStation%c2) e tente novamente.<END>
 <BEGIN>Formatando o cartäo de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÄO DE MEMÓRIA %s. Näo remova o cartäo de memória (8MB)(para PlayStation%c2), reinicie ou desligue o console.<END>
-<BEGIN>Selecione o SLOT DO CARTÄO DE MEMÓRIA<END>
+<BEGIN>[BETA] git ref: 6fd7aa5   https://github.com/LeonamMiiller/Champions-of-Norrath-PS2-BR.git                                            Selecione o CARTÄO DE MEMÓRIA<END>
 <BEGIN>Qual SLOT DO CARTÄO DE MEMÓRIA você deseja usar?
 
 <END>
