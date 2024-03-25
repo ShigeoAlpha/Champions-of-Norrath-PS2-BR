@@ -467,10 +467,10 @@ sem ódio?<END>
 <BEGIN>Doca<END>
 <BEGIN>Este parece ser um bom lugar para construir uma jangada.<END>
 <BEGIN>Lazlo<END>
-<BEGIN>Toda essa confusäo por causa de alguém täo pequeno como você. Em meus muitos anos, nunca vi alguém täo pequeno causar tanto problema como você agora, com todos os seus acordos, juramentos e decepçöes... Lamento ter permitido que Pelys passasse pelo meu portäo - e lamento o juramento que fiz para ajudá-lo.<END>
-<BEGIN>Quando ele me disse que você estava vindo aqui e ordenou que eu te matasse, pensei que você devia ser um gigante, algum grande herói da lenda. Na verdade, pensei que você poderia ser capaz de me matar. Mas vejo que Pelys me insultou mais uma vez entregando um incômodo à minha porta.<END>
-<BEGIN>Em outro momento, talvez eu tivesse te deixado seguir seu caminho, sem derramar sangue. Mas dei minha palavra a Pelys de que me livraria de você, e näo sou quebrador de juramentos.<END>
-<BEGIN>Você pode ter um momento para rezar para quaisquer deuses que deseje, pequeno. É o mínimo que posso fazer antes de você se juntar a eles.<END>
+<BEGIN>Toda essa confusäo por causa de alguém täo pequeno como você. Em meus muitos anos, nunca vi alguém täo pequeno causar tanto problema como você, com todos os seus acordos, juramentos e decepçöes... Lamento ter permitido que Pelys passasse pelo meu portäo - e lamento o juramento que fiz para ajudá-lo.<END>
+<BEGIN>Quando ele me disse que você estava vindo aqui e ordenou que eu te matasse, pensei que você devia ser um gigante, algum grande herói de lenda. Na verdade, pensei que você poderia ser capaz de me matar. Mas vejo que Pelys me insultou mais uma vez, entregando um incômodo à minha porta.<END>
+<BEGIN>Em outro momento, talvez eu pudesse dexar você seguir seu caminho, sem derramar sangue. Mas dei minha palavra a Pelys de que me livraria de você, e näo sou um quebrador de juramentos.<END>
+<BEGIN>Você tem um momento para rezar para quaisquer deuses que deseje, pequenino. É o mínimo que posso fazer antes de você se juntar a eles.<END>
 <BEGIN>A chave! Você encontrou minha chave. Eu a tinha, estava esperando para usá-la, mas os escravagistas me venderam antes que eu pudesse escapar... agora, agora Lazlo está livre!<END>
 <BEGIN>Mais...<END>
 <BEGIN>Você quer algo de Lazlo, entäo Lazlo lhe dará algo. Mas o que devo lhe dar? Näo tenho nada. Eu tinha algo uma vez, mas joguei fora. Perdido, no fundo do mar.<END>
@@ -3010,7 +3010,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Paralisia<END>
 <BEGIN>Usar Portal<END>
 <BEGIN>Destinos do Portal<END>
-<BEGIN>Outros jogadores necessários para entrar no portal<END>
+<BEGIN>Necessário outros jogadores para entrar no portal<END>
 <BEGIN>Encontre outro portal para retornar aqui<END>
 <BEGIN>Portal agora está ativo<END>
 <BEGIN>Este portal parece estar danificado<END>
@@ -3392,7 +3392,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>%cEscolher %cVoltar<END>
 <BEGIN>Rainha Formiga<END>
 <BEGIN>Fera da Arena<END>
-<BEGIN>Rei Gigante das Nuvens<END>
+<BEGIN>Rei Gigante em Nuvens<END>
 <BEGIN>Minion Superior<END>
 <BEGIN>Innoruuk<END>
 <BEGIN>Rei Mormaz<END>
@@ -3756,7 +3756,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Bastäo Ousado<END>
 <BEGIN>Bastäo Nodoso<END>
 <BEGIN>Bastäo de Sarnak<END>
-<BEGIN>Fogofátuo<END>
+<BEGIN>Fogo da Manhä<END>
 <BEGIN>Martelo de Sílex<END>
 <BEGIN>Martelo de Zek<END>
 <BEGIN>Martelo de Geada de Ferro<END>
@@ -3933,7 +3933,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Espada do Shissar<END>
 <BEGIN>Espada de Valorous<END>
 <BEGIN>Validus Castodus<END>
-<BEGIN>Zweihander Gigante<END>
+<BEGIN>Gigante Zweihander<END>
 <BEGIN>Espada de Guerra Gravada em Ácido<END>
 <BEGIN>Espada de Cavaleiro de Acrylia<END>
 <BEGIN>Grande Espada Combinada dos Árbitros<END>
@@ -4557,7 +4557,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Luvas de Seda de Brasas<END>
 <BEGIN>Botas de Seda de Brasas<END>
 <BEGIN>Elmo de Seda de Brasas<END>
-<BEGIN>Este é um jogo para %d jogador, %d controladores analógicos DUALSHOCK%c2 säo necessários para jogar.<END>
+<BEGIN>Este é um jogo para %d jogador, %d controles analógicos DUALSHOCK%c2 säo necessários para jogar.<END>
 <BEGIN>Escudo de Bronze<END>
 <BEGIN>Escudo Gravado<END>
 <BEGIN>Escudo Escamado<END>
@@ -4619,7 +4619,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Bracelete<END>
 <BEGIN>Bracelete<END>
 <BEGIN>Bracelete<END>
-<BEGIN>Ponto de Verificaçäo: Aguardando jogador ocupado...<END>
+<BEGIN>Ponto de Controle: Aguardando jogador ocupado...<END>
 <BEGIN>%c Próximo<END>
 <BEGIN>Texto do Chat<END>
 <BEGIN>Alguns jogadores estäo inacessíveis. O lançamento do jogo falhou.<END>
