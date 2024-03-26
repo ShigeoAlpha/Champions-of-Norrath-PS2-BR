@@ -25,7 +25,7 @@ teria sua vingança.<END>
 Certo de que o campeäo de Leithkorias havia sido morto,
 o líder orc avançou profundamente no Submundo.
 Mas sua arrogância seria sua ruína,
-pois o campeäo ainda vivia,
+pois o campeäo continuava vivo,
 e estava se aproximando rapidamente de seu rastro.<END>
 <BEGIN>ATO III
 
@@ -33,7 +33,7 @@ Uma grande ferida no rosto de Norrath,
 o Poço do Mau Presságio era um poderoso mar
 aprisionado em todos os lados por penhascos imponentes.
 Era um mundo escondido,
- contendo pradarias, ilhas tropicais,
+ contendo campos, ilhas tropicais,
 e até mesmo trechos de deserto
 em seu interior caótico,
 todos entrelaçados por misteriosos portais antigos,
@@ -41,9 +41,9 @@ parte de um enigma antigo que nenhum explorador
 ainda tinha sido capaz de resolver.
 Mal sobrevivendo à jornada perigosa para o Poço,
 o barco de madeira, precisando urgentemente de reparos,
-logo se viu presa de outra força.
+logo se viu emboscao por outra força.
 Näo muito depois de sua chegada,
-magia maligna encheu o céu do Poço,
+uma magia maligna preencheu o céu do Poço,
 e relâmpagos caíram do alto.
 O navio cansado descobriu que näo tinha para onde fugir,
 e as tempestades despedaçaram o navio.
@@ -71,7 +71,7 @@ No entanto, enquanto o Exército do Ódio se preparava para a guerra,
 uma presença estranha foi sentida
 nos becos escuros do Plano de Innoruuk.
 Uma adaga, que näo apenas ameaçava o coraçäo de seu exército,
-mas o negro coraçäo do próprio Príncipe.
+mas o coraçäo negro do próprio Príncipe.
 E assim, com a vitória e a ruína equilibradas
 na ponta de uma lâmina,
 Innoruuk foi forçado a intervir
