@@ -339,7 +339,7 @@ sem ódio?<END>
 <BEGIN>Portais?<END>
 <BEGIN>Sim, portais. Coisas antigas, por todo o Poço. Eles conectam todas as ilhas... e outros lugares também. Ninguém sabe quem os construiu ou por quê, mas a teoria é que säo algum tipo de nó planar louco. Se você encontrar o caminho certo através deles, supostamente eles levam pra algum grande tesouro. Talvez até mesmo ao Chifre do Mau Presságio. Näo seria uma descoberta e tanto?<END>
 <BEGIN>O Chifre do Mau Presságio?<END>
-<BEGIN>O Chifre é o motivo pelo qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui em busca dele há tanto tempo quanto consigo me lembrar. Até mesmo eu procurei pelo chifre por algum tempo, e meu pai ainda mais do que eu. Ele me ensinou a usar o chifre se ele fosse encontrado, mas ele nunca conseguiu colocar as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
+<BEGIN>O Chifre é o motivo pelo qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui em busca dele há tanto tempo quanto consigo me lembrar. Até mesmo eu procurei pelo chifre por algum tempo, e meu pai ainda mais do que eu. Ele me ensinou a usar o chifre caso ele fosse encontrado, mas ele nunca conseguiu colocar as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Ouça aqui. Se você encontrar esse chifre, traga ele de volta, e eu te ensinarei como usá-lo. Dizem que o chifre tem algum tipo de poder sobre barreiras dos planos. Eu posso ser capaz de usá-lo para te levar pra onde você precisar ir, até mesmo te mandar para casa, se quiser.<END>
 <BEGIN>Tem ideia de onde o chifre possa estar?<END>
@@ -404,7 +404,7 @@ sem ódio?<END>
 <BEGIN>Portais?<END>
 <BEGIN>Sim, portais. Coisas antigas, espalhadas por todo o Poço. Eles conectam todas as ilhas... e outros lugares também. Ninguém sabe quem os construiu ou por quê, mas a teoria é que säo uma espécie de nó louco no plano. Se você descobrir o caminho certo por eles, supostamente levaräo a algum grande tesouro. Talvez até mesmo o Chifre do Mau Presságio. Näo seria uma descoberta e tanto?<END>
 <BEGIN>O Chifre do Mau Presságio?<END>
-<BEGIN>O Chifre é a razäo pela qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui procurando por ele há tanto tempo quanto consigo me lembrar. Eu mesmo procurei pelo chifre por algumas temporadas, e meu pai ainda mais do que eu. Ele me ensinou como usar o chifre se ele fosse encontrado, mas nunca colocou as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
+<BEGIN>O Chifre é a razäo pela qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui procurando por ele há tanto tempo quanto consigo me lembrar. Eu mesmo procurei pelo chifre por alguns anos, e meu pai ainda mais do que eu. Ele me ensinou como usar o chifre caso ele fosse encontrado, mas nunca colocou as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Sabe de uma coisa. Se você conseguir encontrar esse chifre, traga-o de volta, e eu te mostrarei como usá-lo. Dizem que o chifre tem algum tipo de poder sobre as barreiras dos planos. Eu talvez consiga usá-lo para te levar para onde você precisa ir, até mesmo te enviar para casa, se quiser.<END>
 <BEGIN>Tem ideia de onde o chifre possa estar?<END>
@@ -2193,7 +2193,7 @@ sem ódio?<END>
 <BEGIN>Acessando cartäo de memória (8MB)(para PlayStation%c2)...<END>
 <BEGIN>Nenhum cartäo de memória (8MB)(para PlayStation%c2) encontrado. Este jogo requer<END>
 <BEGIN>%dKB de espaço livre para salvar seus dados de jogo.<END>
-<BEGIN>Salvos corrompidos encontrados. Deletá-los agora?<END>
+<BEGIN>Dados salvos estäo corrompidos. Deletá-los agora?<END>
 <BEGIN>Qual SLOT do MEMORY CARD você deseja usar?<END>
 <BEGIN>Memory Card Slot 1<END>
 <BEGIN>Memory Card Slot 2<END>
