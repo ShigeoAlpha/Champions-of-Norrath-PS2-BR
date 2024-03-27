@@ -193,8 +193,8 @@ sem ódio?<END>
 <BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes planares, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
 <BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
 <BEGIN>Näo me decepcione morrendo rapidamente, pequeno campeäo - você tem um talento para escapar da morte... entäo tente sobreviver o máximo que puder.<END>
-<BEGIN>Lasca de Ódio.<END>
-<BEGIN>Você removeu uma Lasca de Ódio da fera morta.<END>
+<BEGIN>Fragmento de Ódio.<END>
+<BEGIN>Você removeu uma Fragmento de Ódio da fera morta.<END>
 <BEGIN>Você falhou, campeäo de Norrath. Enquanto você estava me perseguindo, reuni minhas forças. Mais uma vez, o sangue élfico corre pelas florestas acima. E em Blackdelve Reach, Vanarhost se recuperou de seu ataque, ressuscitando os caídos para lutar novamente.<END>
 <BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes dos planos, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
 <BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
@@ -1574,7 +1574,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Desta vez, bem, parece que ela vagou um pouco longe, de fato. Parece que de alguma forma ela atravessou o Campo de Lava Blackdelve e está vagando nas, uh, Cavernas dos Caídos.<END>
 <BEGIN>Mais...<END>
-<BEGIN>As Cavernas näo estäo täo longe, suponho, ficam do outro lado do Desfiladeiro Blackfire. Alguns dos gnomos chamam o Desfiladeiro de um lugar traiçoeiro, mas näo se preocupe. O Desfiladeiro Blackfire é monitorado pela Torre de Ferro por Xorin Shadowson. Ele é um pouco imprevisível, mas näo vai incomodá-lo, apenas cuidado com os pets dele. Eles säo os que väo te despedaçar.<END>
+<BEGIN>As Cavernas näo estäo täo longe, eu acho, ficam do outro lado do Desfiladeiro Blackfire. Alguns dos gnomos chamam o Desfiladeiro de um lugar traiçoeiro, mas näo se preocupe. O Desfiladeiro Blackfire é monitorado pela Torre de Ferro por Xorin Shadowson. Ele é um pouco imprevisível, mas näo vai incomodá-lo, apenas cuidado com os pets dele. Eles säo os que väo te despedaçar.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Devolver a Filha do Nobre<END>
 <BEGIN>Encontre Tenya e a envie de volta para seu pai.<END>
@@ -1724,7 +1724,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Desta vez, bem, ela parece ter vagado um tanto longe, de fato. Parece que ela de alguma forma atravessou o Campo de Lava Blackdelve e está vagando nas, uh, Cavernas dos Caídos.<END>
 <BEGIN>Mais...<END>
-<BEGIN>As Cavernas näo estäo muito longe, eu suponho, elas ficam do outro lado do Desfiladeiro Blackfire. Alguns dos gnomos o chamam de: Desfiladeiro de um lugar traiçoeiro, mas näo se preocupe. O Desfiladeiro Blackfire é monitorado da Torre de Ferro por Xorin Shadowson. Ele é um tanto imprevisível, mas ele näo vai te incomodar, apenas fique de olho nos bichos dele. Säo eles que väo te despedaçar.<END>
+<BEGIN>As Cavernas näo estäo muito longe, eu acho, elas ficam do outro lado do Desfiladeiro Blackfire. Alguns dos gnomos o chamam de: Desfiladeiro de um lugar traiçoeiro, mas näo se preocupe. O Desfiladeiro Blackfire é monitorado da Torre de Ferro por Xorin Shadowson. Ele é um tanto imprevisível, mas ele näo vai te incomodar, apenas fique de olho nos bichos dele. Säo eles que väo te despedaçar.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Retornar a Filha do Nobre<END>
 <BEGIN>Encontre Tenya e a mande de volta para o pai dela.<END>
@@ -1904,7 +1904,7 @@ sem ódio?<END>
 <BEGIN>Ah sim, eu sabia que você estava aqui em meu castelo há algum tempo. Permiti que você vivesse até este momento na esperança de que seguisse a Pelys e ferisse ainda mais o orgulho dela. Mas ao invés disso, você escolheu me incomodar.<END>
 <BEGIN>Vamos dar uma olhada em você, hmmm. Depois que Pelys me contou sobre você... eu esperava algo melhor.<END>
 <BEGIN>Você cheira ao mundo superior, o suor. Dificilmente seria uma refeiçäo para saciar meu apetite. Mas, felizmente, este castelo está cheio daqueles com paladares mais grosseiros, cujos gostos näo säo täo refinados quanto o meu. Acho que eles apreciariam a diversäo em uma refeiçäo que ainda pode lutar.<END>
-<BEGIN>Pela sua presença aqui, suponho que você tenha matado os nosferatu... uma pena, mas tais bestas säo substituíveis. Após tal batalha, você deveria ter abençoado sua boa fortuna e fugido enquanto teve a chance.<END>
+<BEGIN>Pela sua presença aqui, acredito que você tenha matado os nosferatu... uma pena, mas tais bestas säo substituíveis. Após tal batalha, você deveria ter abençoado sua boa fortuna e fugido enquanto teve a chance.<END>
 <BEGIN>Mas aqui está você, arriscando sua sorte mais uma vez. Muito bem. Vamos acabar com logo com isso... indígno.<END>
 <BEGIN>Você deveria se sentir honrado, overlander. Você é o primeiro em um século a permanecer desafiante na presença do senhor dos vampiros. Acho que é melhor saborearmos este momento.<END>
 <BEGIN>Eu sei que nunca nos encontramos, mas só posso pedir que confie em mim. Näo tenho tempo nem força para te contar minha história ou por que nossos destinos estäo entrelaçados. Eu sou Firiona Vie. Fui aprisionada pelas forças cruéis que se opöem a você, mas através de minhas artes, ainda consigo te dar este aviso.<END>
@@ -4673,10 +4673,10 @@ Você ganha 750 de experiência.<END>
 <BEGIN>EU TENHO OBSERVADO VOCÊ PERCORRER SEU CAMINHO, PELYS. TUDO O QUE VOCÊ TOCOU ACABOU EM FRACASSO E RUùNA. SE NÄO FOSSE POR VOCÊ, NORRATH JÁ SERIA MEU.<END>
 <BEGIN>VOCÊ BUSCOU SE TORNAR O FILHO DO ÓDIO, PELYS T'YVL. MAS PARA ODIAR, UM DEVE SOFRER.<END>
 <BEGIN>Senhor Innoruuk, eu lhe imploro, por favor...<END>
-<BEGIN>Entäo você sobreviveu. Suponho que näo deveria me surpreender. Devemos combater uma última vez, campeäo de Norrath?<END>
+<BEGIN>Entäo você sobreviveu. Acho que eu näo deveria ficar surpreso. Devemos lutar uma última vez, campeäo de Norrath?<END>
 <BEGIN>Diga-me, campeäo de Norrath, você pode ouvir isso?<END>
-<BEGIN>Esse chifre foi seu presente para nós. A única chave que pode abrir o portal de todos os planos de todos os deuses conhecidos em Norrath.<END>
-<BEGIN>Esse som marca o fim de uma era e o surgimento de uma nova era. Nossa era.<END>
+<BEGIN>Esse chifre foi seu presente para nós. A única chave que pode abrir o portal de todos os planos, de todos os deuses conhecidos em Norrath.<END>
+<BEGIN>Esse som marca o fim de uma era, e o surgimento de uma nova era. Nossa era.<END>
 <BEGIN>Você näo tem o poder para me derrotar.<END>
 <BEGIN>Eu lhe ensinarei o verdadeiro significado da dor.<END>
 <BEGIN>Seus gritos väo rachar as pedras deste Plano - e seu sangue vai encher essas rachaduras.<END>
