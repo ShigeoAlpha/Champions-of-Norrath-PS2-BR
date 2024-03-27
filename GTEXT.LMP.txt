@@ -321,7 +321,7 @@ sem ódio?<END>
 <BEGIN>Você deve destruir o Exército de Mortos-vivos<END>
 <BEGIN>Para o nível superior<END>
 <BEGIN>Você deve destruir o Exército de Mortos-vivos<END>
-<BEGIN>Agurde seu tempo. O ódio, por natureza, se consome, e em sua raiva, essa fera se tornará vulnerável.<END>
+<BEGIN>Aguarde seu tempo. O ódio, por natureza, se consome, e em sua raiva, essa fera se tornará vulnerável.<END>
 <BEGIN>Vença o Exército de Mortos-vivos para desbloquear o Castelo.<END>
 <BEGIN>Desbloqueie o Castelo.<END>
 <BEGIN>Destrua o Exército de Mortos-vivos para desbloquear o Castelo.<END>
@@ -3594,15 +3594,15 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Chifre do Mau Presságio<END>
 <BEGIN>Coraçäo de Mormaz<END>
 <BEGIN>Curiosidade<END>
-<BEGIN>Lasca de Ódio<END>
+<BEGIN>Fragmento de Ódio<END>
 <BEGIN>Conclusäo do Jogo Requerida<END>
 <BEGIN>Duplicaçäo da Conclusäo do Jogo Requerida<END>
-<BEGIN>Lasca de Ódio<END>
-<BEGIN>Lasca de Osso Curto<END>
-<BEGIN>Lasca de Osso Fraturada<END>
-<BEGIN>Lasca de Osso<END>
-<BEGIN>Lasca de Osso Lisa<END>
-<BEGIN>Lasca de Osso Gelada<END>
+<BEGIN>Fragmento de Ódio<END>
+<BEGIN>Fragmento de Osso Curto<END>
+<BEGIN>Fragmento de Osso Fraturada<END>
+<BEGIN>Fragmento de Osso<END>
+<BEGIN>Fragmento de Osso Lisa<END>
+<BEGIN>Fragmento de Osso Gelada<END>
 <BEGIN>Pequeno Saco de Veneno<END>
 <BEGIN>Saco de Veneno Perfurado<END>
 <BEGIN>Saco de Veneno<END>
@@ -3999,7 +3999,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Gnawer Frenético<END>
 <BEGIN>Esfolador de Faces<END>
 <BEGIN>Ligador do Túmulo<END>
-<BEGIN>Fio do Ódio<END>
+<BEGIN>Limite do Ódio<END>
 <BEGIN>Norgetal<END>
 <BEGIN>Machado de Paládio<END>
 <BEGIN>Defilador de Almas<END>
