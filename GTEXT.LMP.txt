@@ -191,7 +191,7 @@ sem ódio?<END>
 <BEGIN>Para a Cidade de Khathuun.<END>
 <BEGIN>Você falhou, campeäo de Norrath. Enquanto você estava me perseguindo, reuni minhas forças. Mais uma vez, o sangue élfico corre pelas florestas acima. E em Blackdelve Reach, Vanarhost se recuperou de seu ataque, ressuscitando os caídos para lutar novamente.<END>
 <BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes planares, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
-<BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu o atrai aqui, e agora você lutará até a morte para meu prazer.<END>
+<BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você lutará até a morte para meu prazer.<END>
 <BEGIN>Näo me decepcione morrendo rapidamente, pequeno campeäo - você tem um talento para escapar da morte... entäo tente sobreviver o máximo que puder.<END>
 <BEGIN>Caco de Ódio.<END>
 <BEGIN>Você removeu um Caco de Ódio da besta morta.<END>
@@ -460,7 +460,7 @@ sem ódio?<END>
 <BEGIN>Lazlo<END>
 <BEGIN>Rondo Blackwright<END>
 <BEGIN>Você näo pode respirar debaixo d'água.<END>
-<BEGIN>Launch the raft<END>
+<BEGIN>Lançar jangada<END>
 <BEGIN>Para o Mar Congelado<END>
 <BEGIN>Para o Mar Congelado<END>
 <BEGIN>Para o Mar Congelado<END>
