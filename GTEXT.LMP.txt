@@ -194,7 +194,7 @@ sem ódio?<END>
 <BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
 <BEGIN>Näo me decepcione morrendo rapidamente, pequeno campeäo - você tem um talento para escapar da morte... entäo tente sobreviver o máximo que puder.<END>
 <BEGIN>Fragmento de Ódio.<END>
-<BEGIN>Você removeu uma Fragmento de Ódio da fera morta.<END>
+<BEGIN>Você removeu um Fragmento de Ódio da fera morta.<END>
 <BEGIN>Você falhou, campeäo de Norrath. Enquanto você estava me perseguindo, reuni minhas forças. Mais uma vez, o sangue élfico corre pelas florestas acima. E em Blackdelve Reach, Vanarhost se recuperou de seu ataque, ressuscitando os caídos para lutar novamente.<END>
 <BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes dos planos, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
 <BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
@@ -469,7 +469,7 @@ sem ódio?<END>
 <BEGIN>Lazlo<END>
 <BEGIN>Toda essa confusäo por causa de alguém täo pequeno como você. Em meus muitos anos, nunca vi alguém täo pequeno causar tanto problema como você, com todos os seus acordos, juramentos e decepçöes... Lamento ter permitido que Pelys passasse pelo meu portäo - e lamento o juramento que fiz para ajudá-lo.<END>
 <BEGIN>Quando ele me disse que você estava vindo aqui e ordenou que eu te matasse, pensei que você devia ser um gigante, algum grande herói de lenda. Na verdade, pensei que você poderia ser capaz de me matar. Mas vejo que Pelys me insultou mais uma vez, entregando um incômodo à minha porta.<END>
-<BEGIN>Em outro momento, talvez eu pudesse dexar você seguir seu caminho, sem derramar sangue. Mas dei minha palavra a Pelys de que me livraria de você, e näo sou um quebrador de juramentos.<END>
+<BEGIN>Em uma outra era, talvez eu pudesse deixar você seguir seu caminho, sem derramar sangue. Mas dei minha palavra a Pelys de que me livraria de você, e näo sou um quebrador de juramentos.<END>
 <BEGIN>Você tem um momento para rezar para quaisquer deuses que deseje, pequenino. É o mínimo que posso fazer antes de você se juntar a eles.<END>
 <BEGIN>A chave! Você encontrou minha chave. Eu a tinha, estava esperando para usá-la, mas os escravagistas me venderam antes que eu pudesse escapar... agora, agora Lazlo está livre!<END>
 <BEGIN>Mais...<END>
