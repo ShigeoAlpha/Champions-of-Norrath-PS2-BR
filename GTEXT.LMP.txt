@@ -25,7 +25,7 @@ teria sua vingança.<END>
 Certo de que o campeäo de Leithkorias havia sido morto,
 o líder orc avançou profundamente no Submundo.
 Mas sua arrogância seria sua ruína,
-pois o campeäo ainda vivia,
+pois o campeäo continuava vivo,
 e estava se aproximando rapidamente de seu rastro.<END>
 <BEGIN>ATO III
 
@@ -33,7 +33,7 @@ Uma grande ferida no rosto de Norrath,
 o Poço do Mau Presságio era um poderoso mar
 aprisionado em todos os lados por penhascos imponentes.
 Era um mundo escondido,
- contendo pradarias, ilhas tropicais,
+ contendo campos, ilhas tropicais,
 e até mesmo trechos de deserto
 em seu interior caótico,
 todos entrelaçados por misteriosos portais antigos,
@@ -41,9 +41,9 @@ parte de um enigma antigo que nenhum explorador
 ainda tinha sido capaz de resolver.
 Mal sobrevivendo à jornada perigosa para o Poço,
 o barco de madeira, precisando urgentemente de reparos,
-logo se viu presa de outra força.
+logo se viu emboscao por outra força.
 Näo muito depois de sua chegada,
-magia maligna encheu o céu do Poço,
+uma magia maligna preencheu o céu do Poço,
 e relâmpagos caíram do alto.
 O navio cansado descobriu que näo tinha para onde fugir,
 e as tempestades despedaçaram o navio.
@@ -65,13 +65,13 @@ a Era do Ódio.<END>
 Parecia ser o começo do fim
 para o povo de Norrath.
 O Exército de Innoruuk havia se reunido,
-as barreiras planares estavam prestes a cair,
+as barreiras dos planos estavam prestes a cair,
 e parecia que nada poderia deter seu avanço.
 No entanto, enquanto o Exército do Ódio se preparava para a guerra,
 uma presença estranha foi sentida
 nos becos escuros do Plano de Innoruuk.
 Uma adaga, que näo apenas ameaçava o coraçäo de seu exército,
-mas o negro coraçäo do próprio Príncipe.
+mas o coraçäo negro do próprio Príncipe.
 E assim, com a vitória e a ruína equilibradas
 na ponta de uma lâmina,
 Innoruuk foi forçado a intervir
@@ -84,7 +84,7 @@ pelos planos
 e venceram os deuses de Norrath um por um.
 Os planos se tornaram um grande campo de batalha,
 e correram täo cheios de sangue
-que transbordou pelas barreiras planares
+que transbordou pelas barreiras dos planos
 e uma chuva vermelha caiu sobre toda Norrath.
 Onde a chuva caía,
 gritos ensurdecedores abalavam a terra,
@@ -112,7 +112,7 @@ foram curtas e decisivas,
 e a força do inimigo foi quebrada.
 Em outros lugares pelos planos,
 os deuses de Norrath repeliram os invasores.
-Grandes barreiras foram formadas em torno dos portais planares,
+Grandes barreiras foram formadas em torno dos portais dos planos,
 selando-os.
 Norrath novamente se tornou uma terra em equilíbrio,
 e tudo estava bem.
@@ -187,19 +187,19 @@ sem ódio?<END>
 <BEGIN>Descer para o nível inferior.<END>
 <BEGIN>Seguir túnel para cima.<END>
 <BEGIN>Matar Rainha Formiga Gigante<END>
-<BEGIN>Esta porta está trancada do outro lado.<END>
+<BEGIN>Esta porta está trancada pelo outro lado.<END>
 <BEGIN>Para a Cidade de Khathuun.<END>
 <BEGIN>Você falhou, campeäo de Norrath. Enquanto você estava me perseguindo, reuni minhas forças. Mais uma vez, o sangue élfico corre pelas florestas acima. E em Blackdelve Reach, Vanarhost se recuperou de seu ataque, ressuscitando os caídos para lutar novamente.<END>
 <BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes planares, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
-<BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você lutará até a morte para meu prazer.<END>
+<BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
 <BEGIN>Näo me decepcione morrendo rapidamente, pequeno campeäo - você tem um talento para escapar da morte... entäo tente sobreviver o máximo que puder.<END>
 <BEGIN>Caco de Ódio.<END>
 <BEGIN>Você removeu um Caco de Ódio da besta morta.<END>
 <BEGIN>Você falhou, campeäo de Norrath. Enquanto você estava me perseguindo, reuni minhas forças. Mais uma vez, o sangue élfico corre pelas florestas acima. E em Blackdelve Reach, Vanarhost se recuperou de seu ataque, ressuscitando os caídos para lutar novamente.<END>
-<BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes planares, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
-<BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu o atrai aqui, e agora você lutará até a morte para meu prazer.<END>
+<BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes dos planos, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
+<BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
 <BEGIN>Näo me decepcione morrendo rapidamente, pequeno campeäo - você tem um talento para escapar da morte... entäo tente sobreviver o máximo que puder.<END>
-<BEGIN>Esta porta está trancada do outro lado.<END>
+<BEGIN>Esta porta está trancada pelo outro lado.<END>
 <BEGIN>Para a Cidade de Khathuun.<END>
 <BEGIN>Subir para o Campo de Lava<END>
 <BEGIN>Subir para o Campo de Lava<END>
@@ -214,7 +214,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Se você quiser ajudar, entäo me ajude a encontrar meus gatinhos. Depois que eu tiver todos os cinco de volta, entäo eu pensarei em voltar. Essa é a minha condiçäo.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Retorne os gatinhos de Tenya<END>
+<BEGIN>Resgate os gatinhos de Tenya<END>
 <BEGIN>Encontre os gatinhos de Tenya e os traga para ela.<END>
 <BEGIN>Kewkew! Esse ser do mundo superior nojento te assustou?<END>
 <BEGIN>Mais...<END>
@@ -245,8 +245,8 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Mas agora vocês estäo todos juntos novamente.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Retorne os gatinhos de Tenya<END>
-<BEGIN>Retorne a Filha do Nobre<END>
+<BEGIN>Resgate os gatinhos de Tenya<END>
+<BEGIN>Resgate a Filha do Nobre<END>
 <BEGIN>Gatinho! Aqui, gatinho, gatinho, gatinho! Onde está... você? Ohhhh!<END>
 <BEGIN>Mais...<END>
 <BEGIN>Deixe-me adivinhar. Meu pai te mandou aqui porque ele achou que eu estava em algum perigo mortal por... oh, quem sabe o que desta vez!<END>
@@ -257,7 +257,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Se você quiser ajudar, entäo me ajude a encontrar meus gatinhos. Eles estäo por aqui em algum lugar. Depois que eu encontrar todos eles, entäo eu vou pensar em voltar com você.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Retorne os gatinhos de Tenya<END>
+<BEGIN>Resgate os gatinhos de Tenya<END>
 <BEGIN>Encontre os gatinhos de Tenya e os traga para ela.<END>
 <BEGIN>Kewkew! Esse ser do mundo superior nojento te assustou?<END>
 <BEGIN>Mais...<END>
@@ -288,10 +288,10 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você me deixou täo preocupada! Mas agora vocês estäo todos juntos novamente...<END>
 <BEGIN>Mais...<END>
-<BEGIN>Retorne os gatinhos de Tenya<END>
-<BEGIN>Retorne a Filha do Nobre<END>
+<BEGIN>Resgate os gatinhos de Tenya<END>
+<BEGIN>Resgate a Filha do Nobre<END>
 <BEGIN>Suponho que eu deva te agradecer mesmo sabendo que meu pai está te pagando para fazer isso. Mas você encontrou todos os meus preciosos gatinhos, entäo eu vou voltar. Mas apenas porque a Choie precisa cuidar da pata dela, näo porque meu pai te disse para me pegar.<END>
-<BEGIN>de 5 retornados<END>
+<BEGIN>de 5 resgatados<END>
 <BEGIN>Leve 'Kewkew' de volta para Tenya.<END>
 <BEGIN>Um gatinho!<END>
 <BEGIN>Leve 'Kewkew' de volta para Tenya.<END>
@@ -341,7 +341,7 @@ sem ódio?<END>
 <BEGIN>O Chifre do Mau Presságio?<END>
 <BEGIN>O Chifre é o motivo pelo qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui em busca dele há tanto tempo quanto consigo me lembrar. Até mesmo eu procurei pelo chifre por algum tempo, e meu pai ainda mais do que eu. Ele me ensinou a usar o chifre se ele fosse encontrado, mas ele nunca conseguiu colocar as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Ouça aqui. Se você encontrar esse chifre, traga ele de volta, e eu te ensinarei como usá-lo. Dizem que o chifre tem algum tipo de poder sobre barreiras planares. Eu posso ser capaz de usá-lo para te levar pra onde você precisar ir, até mesmo te mandar para casa, se quiser.<END>
+<BEGIN>Ouça aqui. Se você encontrar esse chifre, traga ele de volta, e eu te ensinarei como usá-lo. Dizem que o chifre tem algum tipo de poder sobre barreiras dos planos. Eu posso ser capaz de usá-lo para te levar pra onde você precisar ir, até mesmo te mandar para casa, se quiser.<END>
 <BEGIN>Tem ideia de onde o chifre possa estar?<END>
 <BEGIN>Bem, eu aposto que alguns dos aldeöes podem ter algumas pistas sobre onde encontrá-lo. Talvez até mesmo o velho maluco do Lazlo. Ele foi capturado quando o orc e seus escravos atacaram Water's Edge, no entanto, näo o vi desde entäo. Ele pode estar em uma das outras ilhas, ainda vivo, mas quem sabe? Se for o caso, você provavelmente o encontraria através de um dos portais que conectam as ilhas.<END>
 <BEGIN>Fim.<END>
@@ -351,20 +351,20 @@ sem ódio?<END>
 <BEGIN>Procure ao redor da ilha pelos portais antigos dos quais Davel falou.<END>
 <BEGIN>Você já encontrou aquele Chifre do Mau Presságio? Se encontrar, traga-o de volta aqui, e eu te mostrarei como usá-lo.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Pelos Deuses de Norrath, você encontrou a coisa maldita! Me dê aqui, eu vou te mostrar como usar. Suponho que agora você quer alguma recompensa...<END>
+<BEGIN>Pelos Deuses de Norrath, você encontrou a maldita coisa! Me dê aqui, vou te mostrar como usar. Suponho que agora você quer alguma recompensa...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Obtenha o Chifre do Mau Presságio<END>
 <BEGIN>Este lugar näo é täo ruim. Talvez mais gnomos devessem vir aqui, torná-lo um pouco mais acolhedor.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Eu estava vasculhando a praia e olhe o que eu encontrei - uma concha linda. Você quer? É seu.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Tire esse chifre de perto do Lazlo. É feio, odioso, completamente.<END>
+<BEGIN>Tire esse chifre de perto do Lazlo. É feio, odioso, de fato.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Onde está o chifre? Lazlo te disse onde está. Você precisa encontrá-lo. Antes daquele orc.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mas o mar está cheio de água, sabe. Você precisará encontrar um jeito de ser um peixe, respirar como um peixe, ou nunca verá aquele chifre. Você vai se afogar no lugar.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você voltou! Algum sinal do Lazlo? Estou preocupado que os orcs possam tê-lo matado. Consegui consertar minha loja. Se houver algo aqui que possa ajudar a resgatar o Lazlo, me avise.<END>
+<BEGIN>Você voltou! Algum sinal do Lazlo? Estou preocupado que os orcs possam ter matado ele. Consegui consertar minha loja. Se houver algo aqui que possa ajudar a resgatar o Lazlo, me avise.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nenhum sinal do Lazlo? Espero que ele esteja bem. Se houver algo aqui que possa ajudar a resgatá-lo, me avise.<END>
@@ -381,19 +381,19 @@ sem ódio?<END>
 <BEGIN>Quando você rastejou até a costa, foi tudo o que pude fazer para näo te matar. Você tem mais vidas do que qualquer oponente que já conheci. Mas entäo me ocorreu que eu poderia usar sua força a meu favor.<END>
 <BEGIN>O Chifre do Mau Presságio sempre me escapou... mas talvez você consiga encontrá-lo. E se você falhasse, entäo sem dúvida morreria na tentativa.<END>
 <BEGIN>Mas você sobreviveu... até agora. E aqui estamos novamente, cara a cara. Mas o ódio assume muitas faces, e meu verdadeiro rosto é o que desejo que você veja antes de morrer.<END>
-<BEGIN>Näo menti para você antes. Meu pai e eu temos procurado por este chifre por um tempo. Ele tem o poder de quebrar barreiras planares, de derrubar as paredes entre dimensöes. E ao contrário de você, eu sei como usá-lo.<END>
+<BEGIN>Näo menti para você antes. Meu pai e eu temos procurado por este chifre por um tempo. Ele tem o poder de quebrar barreiras dos planos, de derrubar as paredes entre dimensöes. E ao contrário de você, eu sei como usá-lo.<END>
 <BEGIN>Você me perseguiu até aqui, matou meus aliados, mas agora você encontrou a única coisa que tenho procurado há meses e a última coisa necessária para a guerra em Norrath realmente começar.<END>
 <BEGIN>Quando invoquei aquela tempestade que destruiu seu navio, pensei que você fosse Vanarhost. Ele encomendou aquele navio dos gnomos, e eu estava certo de que ele planejava algum tipo de traiçäo. Imagine minha surpresa quando encontrei você no comando em vez dele.<END>
 <BEGIN>Quando você rastejou até a costa, foi tudo o que pude fazer para näo te matar. Você tem mais vidas do que qualquer oponente que já conheci. Mas entäo me ocorreu que eu poderia usar sua força a meu favor.<END>
 <BEGIN>O Chifre do Mau Presságio sempre me escapou... mas talvez você consiga encontrá-lo. E se você falhasse, entäo sem dúvida morreria na tentativa.<END>
 <BEGIN>Mas você sobreviveu... até agora. E aqui estamos novamente, cara a cara. Mas o ódio assume muitas faces, e meu verdadeiro rosto é o que desejo que você veja antes de morrer.<END>
-<BEGIN>Näo menti para você antes. Meu pai e eu temos procurado por este chifre por um tempo. Ele tem o poder de quebrar barreiras planares, de derrubar as paredes entre dimensöes. E ao contrário de você, eu sei como usá-lo.<END>
+<BEGIN>Näo menti para você antes. Meu pai e eu temos procurado por este chifre por um tempo. Ele tem o poder de quebrar barreiras dos planos, de derrubar as paredes entre dimensöes. E ao contrário de você, eu sei como usá-lo.<END>
 <BEGIN>Você me perseguiu até aqui, matou meus aliados, mas agora você encontrou a única coisa que tenho procurado há meses e a última coisa necessária para a guerra em Norrath realmente começar.<END>
 <BEGIN>Quando invoquei aquela tempestade que destruiu seu navio, pensei que você fosse Vanarhost. Ele encomendou aquele navio dos gnomos, e eu estava certo de que ele planejava algum tipo de traiçäo. Imagine minha surpresa quando encontrei você no comando em vez dele.<END>
 <BEGIN>Quando você rastejou até a costa, foi tudo o que pude fazer para näo te matar. Você tem mais vidas do que qualquer oponente que já conheci. Mas entäo me ocorreu que eu poderia usar sua força a meu favor.<END>
 <BEGIN>O Chifre do Mau Presságio sempre me escapou... mas talvez você consiga encontrá-lo. E se você falhasse, entäo sem dúvida morreria na tentativa.<END>
 <BEGIN>Mas você sobreviveu... até agora. E aqui estamos novamente, cara a cara. Mas o ódio assume muitas faces, e meu verdadeiro rosto é o que desejo que você veja antes de morrer.<END>
-<BEGIN>Eu näo menti para você antes. Meu pai e eu temos procurado por este chifre há algum tempo. Ele tem o poder de quebrar barreiras planares, de derrubar as paredes entre dimensöes. E ao contrário de você, eu sei como usá-lo.<END>
+<BEGIN>Eu näo menti para você antes. Meu pai e eu temos procurado por este chifre há algum tempo. Ele tem o poder de quebrar barreiras dos planos, de derrubar as paredes entre dimensöes. E ao contrário de você, eu sei como usá-lo.<END>
 <BEGIN>Este lugar näo é täo ruim. Talvez mais gnomos devessem vir para cá, torná-lo um pouco mais acolhedor.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Calma lá, calma... você levou uma bela surra, quase pensei que aquela tempestade tinha te matado. Você tem coragem de enfrentar as águas por aqui. Näo chamam essa ilha de Ilha das Facas à toa. Aquelas ondas lá fora podem cortar um navio em pedaços.<END>
@@ -406,7 +406,7 @@ sem ódio?<END>
 <BEGIN>O Chifre do Mau Presságio?<END>
 <BEGIN>O Chifre é a razäo pela qual a cidade de Water's Edge foi fundada. As pessoas vêm aqui procurando por ele há tanto tempo quanto consigo me lembrar. Eu mesmo procurei pelo chifre por algumas temporadas, e meu pai ainda mais do que eu. Ele me ensinou como usar o chifre se ele fosse encontrado, mas nunca colocou as mäos nele. Talvez seja melhor assim, considerando o nome que ele tem.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Sabe de uma coisa. Se você conseguir encontrar esse chifre, traga-o de volta, e eu te mostrarei como usá-lo. Dizem que o chifre tem algum tipo de poder sobre as barreiras planares. Eu talvez consiga usá-lo para te levar para onde você precisa ir, até mesmo te enviar para casa, se quiser.<END>
+<BEGIN>Sabe de uma coisa. Se você conseguir encontrar esse chifre, traga-o de volta, e eu te mostrarei como usá-lo. Dizem que o chifre tem algum tipo de poder sobre as barreiras dos planos. Eu talvez consiga usá-lo para te levar para onde você precisa ir, até mesmo te enviar para casa, se quiser.<END>
 <BEGIN>Tem ideia de onde o chifre possa estar?<END>
 <BEGIN>Bem, aposto que alguns dos moradores podem ter algumas pistas sobre onde encontrá-lo. Talvez até mesmo o velho maluco do Lazlo. Ele foi capturado quando o orc e seus escravos atacaram Water's Edge, embora näo o tenha visto desde entäo. Ele pode estar em uma das outras ilhas, ainda vivo, mas quem sabe? Se for o caso, você provavelmente o encontrará através de um dos portais que conectam as ilhas.<END>
 <BEGIN>Fim.<END>
@@ -450,7 +450,7 @@ sem ódio?<END>
 <BEGIN>Quando você rastejou até a costa, foi tudo o que pude fazer para näo matá-lo. Você tem mais vidas do que qualquer oponente que eu já conheci. Mas entäo me ocorreu que eu poderia usar sua força a meu favor.<END>
 <BEGIN>O Chifre do Mau Presságio sempre me escapou... mas talvez você possa ser capaz de encontrá-lo. E se falhasse, entäo sem dúvida morreria na tentativa.<END>
 <BEGIN>Mas você sobreviveu... até agora. E aqui estamos novamente, cara a cara. Mas o ódio veste muitas faces, e minha verdadeira face é aquela que desejo que você veja antes de morrer.<END>
-<BEGIN>Näo menti para você antes. Meu pai e eu temos procurado por este chifre há algum tempo. Ele tem o poder de quebrar barreiras planares, de derrubar as paredes entre dimensöes. E ao contrário de você, eu sei como usá-lo.<END>
+<BEGIN>Näo menti para você antes. Meu pai e eu temos procurado por este chifre há algum tempo. Ele tem o poder de quebrar barreiras dos planos, de derrubar as paredes entre dimensöes. E ao contrário de você, eu sei como usá-lo.<END>
 <BEGIN>Obter o Chifre do Mau Presságio<END>
 <BEGIN>Nas Cavernas da Ilha<END>
 <BEGIN>Nas Cavernas da Ilha<END>
@@ -467,10 +467,10 @@ sem ódio?<END>
 <BEGIN>Doca<END>
 <BEGIN>Este parece ser um bom lugar para construir uma jangada.<END>
 <BEGIN>Lazlo<END>
-<BEGIN>Toda essa confusäo por causa de alguém täo pequeno como você. Em meus muitos anos, nunca vi alguém täo pequeno causar tanto problema como você agora, com todos os seus acordos, juramentos e decepçöes... Lamento ter permitido que Pelys passasse pelo meu portäo - e lamento o juramento que fiz para ajudá-lo.<END>
-<BEGIN>Quando ele me disse que você estava vindo aqui e ordenou que eu te matasse, pensei que você devia ser um gigante, algum grande herói da lenda. Na verdade, pensei que você poderia ser capaz de me matar. Mas vejo que Pelys me insultou mais uma vez entregando um incômodo à minha porta.<END>
-<BEGIN>Em outro momento, talvez eu tivesse te deixado seguir seu caminho, sem derramar sangue. Mas dei minha palavra a Pelys de que me livraria de você, e näo sou quebrador de juramentos.<END>
-<BEGIN>Você pode ter um momento para rezar para quaisquer deuses que deseje, pequeno. É o mínimo que posso fazer antes de você se juntar a eles.<END>
+<BEGIN>Toda essa confusäo por causa de alguém täo pequeno como você. Em meus muitos anos, nunca vi alguém täo pequeno causar tanto problema como você, com todos os seus acordos, juramentos e decepçöes... Lamento ter permitido que Pelys passasse pelo meu portäo - e lamento o juramento que fiz para ajudá-lo.<END>
+<BEGIN>Quando ele me disse que você estava vindo aqui e ordenou que eu te matasse, pensei que você devia ser um gigante, algum grande herói de lenda. Na verdade, pensei que você poderia ser capaz de me matar. Mas vejo que Pelys me insultou mais uma vez, entregando um incômodo à minha porta.<END>
+<BEGIN>Em outro momento, talvez eu pudesse dexar você seguir seu caminho, sem derramar sangue. Mas dei minha palavra a Pelys de que me livraria de você, e näo sou um quebrador de juramentos.<END>
+<BEGIN>Você tem um momento para rezar para quaisquer deuses que deseje, pequenino. É o mínimo que posso fazer antes de você se juntar a eles.<END>
 <BEGIN>A chave! Você encontrou minha chave. Eu a tinha, estava esperando para usá-la, mas os escravagistas me venderam antes que eu pudesse escapar... agora, agora Lazlo está livre!<END>
 <BEGIN>Mais...<END>
 <BEGIN>Você quer algo de Lazlo, entäo Lazlo lhe dará algo. Mas o que devo lhe dar? Näo tenho nada. Eu tinha algo uma vez, mas joguei fora. Perdido, no fundo do mar.<END>
@@ -773,7 +773,7 @@ sem ódio?<END>
 <BEGIN>Ainda restam 15 tochas!<END>
 <BEGIN>Ainda restam 10 tochas!<END>
 <BEGIN>Ainda restam 5 tochas!<END>
-<BEGIN>Apenas resta 1 tocha!<END>
+<BEGIN>Resta apenas 1 tocha!<END>
 <BEGIN>O selo do templo foi quebrado.<END>
 <BEGIN>Tochas restantes<END>
 <BEGIN>Abrir porta<END>
@@ -837,7 +837,7 @@ sem ódio?<END>
 <BEGIN>Mas apenas o ódio em si é permitido passar. Cabe a você encontrar um caminho.<END>
 <BEGIN>Bem, bem... näo costumamos ver estranhos por aqui, pelo menos... näo vivos. Você deve ser mais resistente do que parece para ter chegado até aqui... ou apenas desesperado, talvez?<END>
 <BEGIN>Mais...<END>
-<BEGIN>Entäo... você é do tipo silencioso, entendo. Näo importa. Dizem que o silêncio é de ouro. Falando em ouro, posso ver que você näo gosta dos meus preços. Tudo bem. Há outras negociaçöes que podemos fazer em vez disso.<END>
+<BEGIN>Entäo... você é do tipo silencioso, entendo. Näo importa. Dizem que o silêncio é como ouro. Falando em ouro, posso ver que você näo gosta dos meus preços. Tudo bem. Há outras negociaçöes que podemos fazer em vez disso.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Que tipo de negócio, você pergunta? simplesmente Buscar e carregar, nada mais. Veja bem, existem sete... curiosidades espalhadas pelos Calabouços de Khathuun. Meras bagatelas, na verdade, mas cada uma tem valor sentimental para mim. Por cada uma que você me trouxer, eu baixarei meus preços. Me traga todas as sete, e pode haver algo mais para você.<END>
 <BEGIN>Mais...<END>
@@ -1850,7 +1850,7 @@ sem ódio?<END>
 <BEGIN>Na beira do mar, perto da vila dos gnomos, cresce uma flor chamada vinha-de-sangue. Quando eu a como, ela... diminui meu impulso para me alimentar.<END>
 <BEGIN>Siga este corredor e você emergirá perto de onde a vinha-de-sangue cresce. Traga-a de volta para mim, e eu o conduzirei por este castelo até este Pelys que você busca... talvez.<END>
 <BEGIN>Mas você deve se apressar. Sem a vinha-de-sangue, meus impulsos se tornam cada vez mais fortes... em breve, eles devoraräo o último de minha resistência, e entäo nada poderá deter meus desejos.<END>
-<BEGIN>Você retornou, mas nenhuma vinha-de-sangue enfeita sua mäo. E quanto à nossa barganha? Minhas palavras caíram em ouvidos surdos? Entäo escute isso. Você näo encontrará aquele que busca até fazer este favor por mim. Volte com a vinha-de-sangue, e só entäo eu exporei a garganta deste castelo para você.<END>
+<BEGIN>Você retornou, mas nenhuma vinha-de-sangue enfeita sua mäo. E quanto à nossa barganha? Minhas palavras caíram em ouvidos surdos? Entäo escute isso. Você näo encontrará aquele que busca até fazer este favor por mim. Volte com a vinha-de-sangue, e só entäo vou expor a garganta deste castelo para você.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Eu te aviso. Você nunca encontrará o que busca até trazer a vinha-de-sangue para mim.<END>
 <BEGIN>Fim.<END>
@@ -1895,7 +1895,7 @@ sem ódio?<END>
 <BEGIN>O que é isso?<END>
 <BEGIN>O que é isso?<END>
 <BEGIN>Para o Calabouço do Castelo.<END>
-<BEGIN>Você pensa que pode me vencer?! Eu sou Vanarhost, senhor dos vampiros. Já vi séculos morrerem, nem mesmo o sol pode me matar. Já massacrei exércitos com minhas próprias mäos, me alimentei das linhagens reais, exterminei inúmeras raças até a extinçäo e vou exterminar muitas mais até que toda Norrath esteja exaurida de sangue!<END>
+<BEGIN>Você acha que pode me vencer?! Eu sou Vanarhost, senhor dos vampiros. Já vi séculos morrerem, nem mesmo o sol pode me matar. Já massacrei exércitos com minhas próprias mäos, me alimentei das linhagens reais, exterminei inúmeras raças até a extinçäo e vou exterminar muitas mais até que toda Norrath esteja exaurida de sangue!<END>
 <BEGIN>E eu farei questäo de que você esteja lá para ver. Vou ver seu cadáver marchar para a batalha com meus exércitos de mortos-vivos. Eu verei você...<END>
 <BEGIN>...traído.<END>
 <BEGIN>Uma vida por uma vida, overworlder. Nossas dívidas de sangue estäo quitadas.<END>
@@ -2294,7 +2294,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Aventureiro (1-20)<END>
 <BEGIN>Corajoso (20-35)<END>
 <BEGIN>Campeäo (35-50)<END>
-<BEGIN>Prossiga para a próxima sala para começar o tutorial. Você pode sair do tutorial a qualquer momento pressionando START e selecionando Sair para o Menu. O tutorial usa a configuraçäo padräo do controlador.<END>
+<BEGIN>Prossiga para a próxima sala para começar o tutorial. Você pode sair do tutorial a qualquer momento pressionando START e selecionando Sair para o Menu. O tutorial usa a configuraçäo padräo do controle.<END>
 <BEGIN>Uma misteriosa força mágica bloqueia seu caminho.<END>
 <BEGIN>1 Míssil<END>
 <BEGIN>%d Mísseis<END>
@@ -2393,7 +2393,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Curar Ferimentos<END>
 <BEGIN>Bárbaro Guerreiro<END>
 <BEGIN>Alta Elfa Clériga<END>
-<BEGIN>Cavaleiro das Sombras Elfo Negro<END>
+<BEGIN>Elfo Negro Cavaleiro Sombrio<END>
 <BEGIN>Ranger Elfo da Floresta<END>
 <BEGIN>Defesa<END>
 <BEGIN>Esta habilidade concede +3 pontos de vida permanentemente.<END>
@@ -2568,14 +2568,14 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Melhora sua habilidade de liderar com precisäo alvos com armas de longo alcance.<END>
 <BEGIN>Montar Veículo<END>
 <BEGIN>Dirigir Veículo<END>
-<BEGIN>Despedir Mortos-Vivos<END>
+<BEGIN>Desaparecer Mortos-Vivos<END>
 <BEGIN>Um feitiço de dano direto que só funciona contra os mortos-vivos.<END>
 <BEGIN>Martelo da Ira<END>
 <BEGIN>Este feitiço invoca um martelo espectral flutuante que segue o conjurador e ataca inimigos próximos.<END>
 <BEGIN>Ressurreiçäo<END>
-<BEGIN>Este feitiço ressuscita camaradas caídos.<END>
+<BEGIN>Este feitiço ressuscita parceiros caídos.<END>
 <BEGIN>Portäo<END>
-<BEGIN>O feitiço de portäo teleporta você para e do centro de qualquer ato.<END>
+<BEGIN>O feitiço de portäo teleporta você para o centro de qualquer ato.<END>
 <BEGIN>Escudo Mortos-Vivos<END>
 <BEGIN>Este poderoso aura faz com que 100% do dano corpo a corpo causado a você seja também refletido de volta ao seu atacante se ele for um morto-vivo.<END>
 <BEGIN>Repulsäo de Mortos-Vivos<END>
@@ -3010,7 +3010,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Paralisia<END>
 <BEGIN>Usar Portal<END>
 <BEGIN>Destinos do Portal<END>
-<BEGIN>Outros jogadores necessários para entrar no portal<END>
+<BEGIN>Necessário outros jogadores para entrar no portal<END>
 <BEGIN>Encontre outro portal para retornar aqui<END>
 <BEGIN>Portal agora está ativo<END>
 <BEGIN>Este portal parece estar danificado<END>
@@ -3098,7 +3098,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Suportar Doenças<END>
 <BEGIN>Suportar o Fogo<END>
 <BEGIN>Escuridäo Abrasadora<END>
-<BEGIN>Cria uma nuvem de escuridäo que confunde e prejudica os inimigos. Ranks mais altos aumentam o dano e a confusäo.<END>
+<BEGIN>Cria uma nuvem de escuridäo que confunde e machuca os inimigos. Ranks mais altos aumentam o dano e a confusäo.<END>
 <BEGIN>Dano de área de %d-%d, %d%% de chance de confusäo, %d segundos de confusäo.<END>
 <BEGIN>Carga<END>
 <BEGIN>Um ataque em corrida que causa um dano tremendo quando o inimigo é atingido. Ranks mais altos adicionam dano radial e melhoram a direçäo.<END>
@@ -3392,7 +3392,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>%cEscolher %cVoltar<END>
 <BEGIN>Rainha Formiga<END>
 <BEGIN>Fera da Arena<END>
-<BEGIN>Rei Gigante das Nuvens<END>
+<BEGIN>Rei Gigante em Nuvens<END>
 <BEGIN>Minion Superior<END>
 <BEGIN>Innoruuk<END>
 <BEGIN>Rei Mormaz<END>
@@ -3756,7 +3756,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Bastäo Ousado<END>
 <BEGIN>Bastäo Nodoso<END>
 <BEGIN>Bastäo de Sarnak<END>
-<BEGIN>Fogofátuo<END>
+<BEGIN>Fogo da Manhä<END>
 <BEGIN>Martelo de Sílex<END>
 <BEGIN>Martelo de Zek<END>
 <BEGIN>Martelo de Geada de Ferro<END>
@@ -3933,7 +3933,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Espada do Shissar<END>
 <BEGIN>Espada de Valorous<END>
 <BEGIN>Validus Castodus<END>
-<BEGIN>Zweihander Gigante<END>
+<BEGIN>Gigante Zweihander<END>
 <BEGIN>Espada de Guerra Gravada em Ácido<END>
 <BEGIN>Espada de Cavaleiro de Acrylia<END>
 <BEGIN>Grande Espada Combinada dos Árbitros<END>
@@ -4557,7 +4557,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Luvas de Seda de Brasas<END>
 <BEGIN>Botas de Seda de Brasas<END>
 <BEGIN>Elmo de Seda de Brasas<END>
-<BEGIN>Este é um jogo para %d jogador, %d controladores analógicos DUALSHOCK%c2 säo necessários para jogar.<END>
+<BEGIN>Este é um jogo para %d jogador, %d controles analógicos DUALSHOCK%c2 säo necessários para jogar.<END>
 <BEGIN>Escudo de Bronze<END>
 <BEGIN>Escudo Gravado<END>
 <BEGIN>Escudo Escamado<END>
@@ -4619,7 +4619,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Bracelete<END>
 <BEGIN>Bracelete<END>
 <BEGIN>Bracelete<END>
-<BEGIN>Ponto de Verificaçäo: Aguardando jogador ocupado...<END>
+<BEGIN>Ponto de Controle: Aguardando jogador ocupado...<END>
 <BEGIN>%c Próximo<END>
 <BEGIN>Texto do Chat<END>
 <BEGIN>Alguns jogadores estäo inacessíveis. O lançamento do jogo falhou.<END>
