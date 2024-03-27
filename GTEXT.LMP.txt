@@ -193,8 +193,8 @@ sem ódio?<END>
 <BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes planares, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
 <BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
 <BEGIN>Näo me decepcione morrendo rapidamente, pequeno campeäo - você tem um talento para escapar da morte... entäo tente sobreviver o máximo que puder.<END>
-<BEGIN>Caco de Ódio.<END>
-<BEGIN>Você removeu um Caco de Ódio da besta morta.<END>
+<BEGIN>Lasca de Ódio.<END>
+<BEGIN>Você removeu uma Lasca de Ódio da fera morta.<END>
 <BEGIN>Você falhou, campeäo de Norrath. Enquanto você estava me perseguindo, reuni minhas forças. Mais uma vez, o sangue élfico corre pelas florestas acima. E em Blackdelve Reach, Vanarhost se recuperou de seu ataque, ressuscitando os caídos para lutar novamente.<END>
 <BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes dos planos, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
 <BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
@@ -321,7 +321,7 @@ sem ódio?<END>
 <BEGIN>Você deve destruir o Exército de Mortos-vivos<END>
 <BEGIN>Para o nível superior<END>
 <BEGIN>Você deve destruir o Exército de Mortos-vivos<END>
-<BEGIN>Agurde seu tempo. O ódio, por natureza, se consome, e em sua raiva, essa besta se tornará vulnerável.<END>
+<BEGIN>Agurde seu tempo. O ódio, por natureza, se consome, e em sua raiva, essa fera se tornará vulnerável.<END>
 <BEGIN>Vença o Exército de Mortos-vivos para desbloquear o Castelo.<END>
 <BEGIN>Desbloqueie o Castelo.<END>
 <BEGIN>Destrua o Exército de Mortos-vivos para desbloquear o Castelo.<END>
@@ -1109,7 +1109,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ao se aproximar da caverna dos orcs, fique perto do leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelas laterais.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a essas bestas orcs como lutar!<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Se o mecanismo do portäo existe, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
 <BEGIN>Fim.<END>
@@ -1166,7 +1166,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ao se aproximar da caverna dos orcs, fique perto do leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelas laterais.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a essas bestas orcs como lutar!<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Se o mecanismo do portäo existe, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
 <BEGIN>Fim.<END>
@@ -1176,7 +1176,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar qualquer problema inesperado pelos flancos.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a essas bestas orcs como lutar!<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Se o mecanismo do portäo existe, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
 <BEGIN>Fim.<END>
@@ -1186,7 +1186,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar qualquer problema inesperado pelos flancos.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a essas bestas orcs como lutar!<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Se o mecanismo do portäo existe, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
 <BEGIN>Fim.<END>
@@ -1429,7 +1429,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Já haverá perigo suficiente dos orcs sem convidar problemas inesperados pelos flancos.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a essas bestas orcs como lutar!<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Se o mecanismo do portäo existe, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
 <BEGIN>Fim.<END>
@@ -1470,7 +1470,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelos flancos.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a essas bestas orcs como lutar!<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Se o mecanismo do portäo existir, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
 <BEGIN>Fim.<END>
@@ -1480,7 +1480,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelos flancos.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a essas bestas orcs como lutar!<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Se o mecanismo do portäo existir, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
 <BEGIN>Fim.<END>
@@ -1490,7 +1490,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelos flancos.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a essas bestas orcs como lutar!<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
 <BEGIN>Se o mecanismo do portäo existir, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
 <BEGIN>Fim.<END>
@@ -1846,7 +1846,7 @@ sem ódio?<END>
 <BEGIN>Vampiro. Bebedor de vida.<END>
 <BEGIN>Eu sou Sylea, e sei o motivo de você estar aqui. Você está atrás daquele chamado Pelys, que usa o rosto de um orc e trata até mesmo meu Senhor Vanarhost como servo.<END>
 <BEGIN>Eu te direi onde encontrar este Pelys, mas tal conhecimento tem um preço.<END>
-<BEGIN>Antes de falar, meu preço näo é sangue. Acredite no que quiser, mas näo tenho desejo de cravar minhas presas em qualquer criatura mortal como um parasita inchado. Eu desejo lutar contra esses... impulsos, para näo ceder ao que resta da Sylea que era e me tornar nada mais que uma besta.<END>
+<BEGIN>Antes de falar, meu preço näo é sangue. Acredite no que quiser, mas näo tenho desejo de cravar minhas presas em qualquer criatura mortal como um parasita inchado. Eu desejo lutar contra esses... impulsos, para näo ceder ao que resta da Sylea que era e me tornar nada mais que uma fera.<END>
 <BEGIN>Na beira do mar, perto da vila dos gnomos, cresce uma flor chamada vinha-de-sangue. Quando eu a como, ela... diminui meu impulso para me alimentar.<END>
 <BEGIN>Siga este corredor e você emergirá perto de onde a vinha-de-sangue cresce. Traga-a de volta para mim, e eu o conduzirei por este castelo até este Pelys que você busca... talvez.<END>
 <BEGIN>Mas você deve se apressar. Sem a vinha-de-sangue, meus impulsos se tornam cada vez mais fortes... em breve, eles devoraräo o último de minha resistência, e entäo nada poderá deter meus desejos.<END>
@@ -1856,7 +1856,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>A vinha-de-sangue... você a trouxe. Oro para que você nunca saiba o que é precisar de algo täo desesperadamente quanto eu preciso desta flor.<END>
 <BEGIN>Ah... nnnnh.<END>
-<BEGIN>É o suficiente. Estou em sua dívida. Se ainda deseja alimentar-se da garganta de Pelys, entäo venha comigo. Eu o levarei à besta, mas a partir daí, seu caminho é seu.<END>
+<BEGIN>É o suficiente. Estou em sua dívida. Se ainda deseja alimentar-se da garganta de Pelys, entäo venha comigo. Eu o levarei à fera, mas a partir daí, seu caminho é seu.<END>
 <BEGIN>Parece que Pelys se encontra com meu Senhor Vanarhost neste momento... observe, mas faça-o em silêncio, para que näo sejamos ouvidos.<END>
 <BEGIN>Pegar a chave da cela<END>
 <BEGIN>Encontre o Senhor Vanarhost e liberte Babik Nurn.<END>
@@ -5091,7 +5091,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>A loja fica logo após o elevador... Sugiro que se prepare para a batalha.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Ah, uma visäo bem-vinda de fato! Meu coraçäo se alegra! Se nada mais, sou rico em amigos. Mas eu o aviso, o caminho à frente näo será fácil. Você pode pensar que o inimigo näo passa de uma ralé de orcs e goblins indisciplinados. Näo seja enganado.<END>
-<BEGIN>Essas bestas säo traiçoeiras, e säo lideradas por um orc que é maior, mais forte e mais astuto do que qualquer um que já conheci. Sua simples presença incita esses orcs e goblins a se transformarem no exército que corta seu caminho em direçäo a nós mesmo agora.<END>
+<BEGIN>Essas feras säo traiçoeiras, e säo lideradas por um orc que é maior, mais forte e mais astuto do que qualquer um que já conheci. Sua simples presença incita esses orcs e goblins a se transformarem no exército que corta seu caminho em direçäo a nós mesmo agora.<END>
 <BEGIN>Mas se alguém, um herói, levar a batalha até este chefe orc, entäo talvez nossas fortunas possam ser revertidas.<END>
 <BEGIN>Preciso que você entre na Floresta de Faydark Superior, descubra quem é este chefe orc, quais säo seus planos e, se possível, derrote-o.<END>
 <BEGIN>Você precisará de suprimentos e armas para a batalha que se aproxima. Visite nosso comerciante, Nenmar. Eu o instruí a lhe fornecer tudo o que precisar por um preço justo.<END>
@@ -5104,7 +5104,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Guarda dos Elfos da Floresta<END>
 <BEGIN>Rei dos Elfos da Floresta<END>
 <BEGIN>Ah, uma visäo bem-vinda de fato! Meu coraçäo se alegra! Se nada mais, sou rico em amigos. Mas eu te aviso, o caminho à frente näo será fácil. Você pode pensar que o inimigo näo passa de uma multidäo de orcs e goblins mal disciplinados. Näo se engane.<END>
-<BEGIN>Essas bestas säo traiçoeiras, e säo lideradas por um orc que é maior, mais forte e mais astuto do que qualquer um que já conheci. Sua presença sozinha incita esses orcs e goblins no exército que avança em nossa direçäo até mesmo agora.<END>
+<BEGIN>Essas feras säo traiçoeiras, e säo lideradas por um orc que é maior, mais forte e mais astuto do que qualquer um que já conheci. Sua presença sozinha incita esses orcs e goblins no exército que avança em nossa direçäo até mesmo agora.<END>
 <BEGIN>Mas se alguém, um herói, levasse a batalha para este chefe orc, entäo talvez nossa sorte pudesse ser revertida.<END>
 <BEGIN>Eu preciso que você entre na Floresta Faydark Superior, descubra quem é este chefe orc, quais säo seus planos e, se possível, o derrote.<END>
 <BEGIN>Você precisará de suprimentos e armas para a batalha que está por vir. Visite nosso lojista, Nenmar. Eu o instruí a lhe fornecer o que você precisar por um preço justo.<END>
@@ -5191,7 +5191,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Selava o passagem para as Cavernas dos Caídos, temendo que ele pudesse retornar, mas muitos dias se passaram desde entäo. Agora que a bomba está funcional, deve ser seguro reabrir a passagem, mas eu aviso você. Criaturas perigosas espreitam nessa regiäo, e eu só deveria ir lá se você tiver uma necessidade extrema.<END>
 <BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o ser do mundo superior em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles säo um pouco... excessivamente vigilantes.<END>
-<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava para. Eles ficaram agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer um arranhäo. Duvido que essa besta seja um orc de verdade. Há alguma magia ao redor dele, e sua sombra está... errada.<END>
+<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava para. Eles ficaram agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer um arranhäo. Duvido que essa fera seja um orc de verdade. Há alguma magia ao redor dele, e sua sombra está... errada.<END>
 <BEGIN>Selava o passagem para as Cavernas dos Caídos caso ele retornasse. Agora que a bomba está funcionando, deve ser seguro reabrir a passagem. Eu näo iria lá a menos que seja necessário, mas entendo se você precisar.<END>
 <BEGIN>Reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que seja necessário, mas entendo se você precisar.<END>
 <BEGIN>Kol<END>
@@ -5316,16 +5316,16 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Consertar Bomba<END>
 <BEGIN>Xagmor, Caronni, Hostal! Pare e recue! Deixe o ser de cima em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles estäo um pouco... super vigilantes.<END>
-<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estäo agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhäo. Duvido que essa besta seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
+<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estäo agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhäo. Duvido que essa fera seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
 <BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que seja realmente necessário, mas entendo se você precisar.<END>
 <BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o ser de cima em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles estäo um pouco... super vigilantes.<END>
-<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estäo agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhäo. Duvido que essa besta seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
+<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estäo agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhäo. Duvido que essa fera seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
 <BEGIN>Eu sellei a passagem para as Cavernas dos Caídos caso ele retorne. Agora que a bomba está funcionando, deve ser seguro reabrir a passagem. Eu näo iria lá a menos que seja realmente necessário, mas entendo se você precisar.<END>
 <BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que seja realmente necessário, mas entendo se você precisar.<END>
 <BEGIN>Xagmor Caronni Hostal! Pare e recue! Deixe o ser de cima em paz!<END>
 <BEGIN>Perdoe meus animais de estimaçäo. Eles estäo um pouco... super vigilantes.<END>
-<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estäo agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhäo. Duvido que essa besta seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
+<BEGIN>Eles atacam qualquer um que passe quando o fluxo de lava pára. Eles estäo agitados desde que encontraram aquele enorme orc que sabotou a bomba. Eles o atacaram, mas ele passou por eles sem sofrer nenhum arranhäo. Duvido que essa fera seja um orc de verdade. Há alguma magia ao seu redor, e sua sombra está... errada.<END>
 <BEGIN>Eu reabri a passagem para as Cavernas dos Caídos. Eu näo iria lá a menos que seja realmente necessário, mas entendo se você precisar.<END>
 <BEGIN>Você está em 1º lugar!<END>
 <BEGIN>Você está em 2º lugar!<END>
