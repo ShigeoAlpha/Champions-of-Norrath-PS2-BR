@@ -980,7 +980,7 @@ sem ódio?<END>
 <BEGIN>Para o Campo de Lava Superior de Blackdelve<END>
 <BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Olha, até você conseguir uma armadura melhor, näo permitirei que entre no Grande Faydark. É muito perigoso.<END>
+<BEGIN>Olha, até você conseguir uma armadura melhor, näo permitirei que entre na Grande Faydark. É muito perigoso.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Lidaremos com os assuntos aqui por enquanto. Seus negócios estäo em outro lugar. Fique no caminho, mas mantenha suas armas prontas.<END>
 <BEGIN>Fim.<END>
@@ -1095,9 +1095,9 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Nós planejamos nos reunir perto do rio, rápido!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você está ansioso... a batalha em a Grande Faydark vai esperar. Volte com mais proteçäo ou você näo fará nem vinte metros.<END>
+<BEGIN>Você está ansioso... a batalha na Grande Faydark vai esperar. Volte com mais proteçäo ou você näo andará nem vinte metros.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Näo podemos deixá-lo entrar em a Grande Faydark usando essa pouca armadura que você tem.<END>
+<BEGIN>Näo podemos deixá-lo entrar na Grande Faydark usando essa pouca armadura que você tem.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Em seu caminho agora. Mantenha-se no caminho e nossos soldados ajudaräo a afastar os Goblins.<END>
 <BEGIN>Fim.<END>
