@@ -136,7 +136,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Finalmente, você está aqui. Seus ferimentos eram graves, mas consegui curá-lo. Eu sou Natasla - estou aqui para ajudá-lo.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Näo tema, você não está morto, isso näo é a vida após a morte - é o Plano do Ar. Eu consegui trazê-lo aqui depois que a ponte no Plano do Ódio foi destruída. Eu tive pouca escolha - pois acredito que você possa ser nossa única chance de evitar a escuridäo que está por vir.<END>
+<BEGIN>Näo tema, você näo está morto, isso näo é a vida após a morte - é o Plano do Ar. Eu consegui trazê-lo aqui depois que a ponte no Plano do Ódio foi destruída. Eu tive pouca escolha - pois acredito que você possa ser nossa única chance de evitar a escuridäo que está por vir.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Entenda, a tradiçäo divina dita que eu... e aqueles que sirvo... näo podemos intervir diretamente neste assunto. No entanto, posso me desfazer de qualquer coisa que você veja aqui por uma oferta apropriada.<END>
 <BEGIN>Mais...<END>
@@ -210,7 +210,7 @@ sem ódio?<END>
 <BEGIN>Tenya Froes<END>
 <BEGIN>Gatinho! Aqui, gatinho, gatinho! Onde está... você? Ohhhh!<END>
 <BEGIN>Mais...<END>
-<BEGIN>Deixe-me adivinhar. Meu pai te enviou aqui porque ele pensou que eu estava em algum perigo mortal por... oh, quem sabe o que desta vez! Ele näo suporta que eu tenha crescido! Eu tenho andado por essas cavernas desde que eu tinha nove invernos de idade. Eu näo preciso de algum grandalhäo overlander aqui embaixo para me proteger.<END>
+<BEGIN>Deixe-me adivinhar. Meu pai te enviou aqui porque ele pensou que eu estava em algum perigo mortal por... oh, quem sabe o que desta vez! Ele näo suporta que eu tenha crescido! Eu tenho andado por essas cavernas desde que eu tinha nove invernos de idade. Eu näo preciso de algum grandalhäo do mundo superior aqui embaixo para me proteger.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Se você quiser ajudar, entäo me ajude a encontrar meus gatinhos. Depois que eu tiver todos os cinco de volta, entäo eu pensarei em voltar. Essa é a minha condiçäo.<END>
 <BEGIN>Fim.<END>
@@ -284,7 +284,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo se preocupe... näo vamos para casa até que eu tenha todos os seus irmäos e irmäs de volta.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Alguém cortou sua cabeça e a substituiu por um saco de pedras? Eu disse, eu näo vou sair daqui até encontrar todos os meus gatinhos. Se você quiser me arrastar para fora daqui, entäo é melhor começar a procurar rápido, ou eu vou começar a chamar algumas coisas mortas-vivas que eu näo acho que você gostaria de encontrar.<END>
+<BEGIN>Alguém cortou sua cabeça e a substituiu por um saco de pedras? Eu já te falei, näo vou sair daqui até encontrar todos os meus gatinhos. Se você quiser me arrastar para fora daqui, entäo é melhor começar a procurar rápido, ou eu vou começar a chamar algumas coisas mortas-vivas que acho que você não gostaria de encontrar.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você me deixou täo preocupada! Mas agora vocês estäo todos juntos novamente...<END>
 <BEGIN>Mais...<END>
@@ -396,7 +396,7 @@ sem ódio?<END>
 <BEGIN>Eu näo menti para você antes. Meu pai e eu temos procurado por este chifre há algum tempo. Ele tem o poder de quebrar barreiras dos planos, de derrubar as paredes entre dimensöes. E ao contrário de você, eu sei como usá-lo.<END>
 <BEGIN>Este lugar näo é täo ruim. Talvez mais gnomos devessem vir para cá, torná-lo um pouco mais acolhedor.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Calma lá, calma... você levou uma bela surra, quase pensei que aquela tempestade tinha te matado. Você tem coragem de enfrentar as águas por aqui. Näo chamam essa ilha de Ilha das Facas à toa. Aquelas ondas lá fora podem cortar um navio em pedaços.<END>
+<BEGIN>Devagar, devagar... você levou uma bela surra, quase pensei que aquela tempestade tinha te matado. Você tem coragem de enfrentar as águas por aqui. Näo chamam essa ilha de Ilha das Facas à toa. Aquelas ondas lá fora podem cortar um navio em pedaços.<END>
 <BEGIN>Você é o único que eu vi escapar daquele navio seu. Espero que näo houvesse mais ninguém a bordo além de você. Se houvesse, bem, eu lamento por eles. Ninguém merece morrer no fundo do oceano, näo importa o que tenham feito em suas vidas.<END>
 <BEGIN>Posso adivinhar por que você está aqui. Atrás daquele grande orc, talvez... hein? Ele e seus escravos têm aterrorizado essas ilhas há meses, capturando prisioneiros e levando-os para Blackdelve para serem transformados em mortos-vivos por algum vampiro ou outro.<END>
 <BEGIN>Aquele orc é o mesmo que saqueou a vila de Water's Edge no lado oeste da ilha. Näo sobrou ninguém lá, todos foram levados para Blackdelve ou para prisöes aqui no Poço. Por isso que eu tenho me escondido aqui deste lado da ilha. Näo queria ser capturado.<END>
@@ -430,7 +430,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Eu estava caminhando pela praia e olha o que eu encontrei - uma concha linda. Você quer? É sua.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Tire aquele chifre de perto do Lazlo. É feio, odioso, é.<END>
+<BEGIN>Tire aquele chifre de perto do Lazlo. É feio, odioso, de fato.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Onde está o chifre? Lazlo te disse onde está. Você precisa encontrá-lo. Antes que o orc o faça.<END>
 <BEGIN>Fim.<END>
@@ -468,7 +468,7 @@ sem ódio?<END>
 <BEGIN>Este parece ser um bom lugar para construir uma jangada.<END>
 <BEGIN>Lazlo<END>
 <BEGIN>Toda essa confusäo por causa de alguém täo pequeno como você. Em meus muitos anos, nunca vi alguém täo pequeno causar tanto problema como você, com todos os seus acordos, juramentos e decepçöes... Lamento ter permitido que Pelys passasse pelo meu portäo - e lamento o juramento que fiz para ajudá-lo.<END>
-<BEGIN>Quando ele me disse que você estava vindo aqui e ordenou que eu te matasse, pensei que você devia ser um gigante, algum grande herói de lenda. Na verdade, pensei que você poderia ser capaz de me matar. Mas vejo que Pelys me insultou mais uma vez, entregando um incômodo à minha porta.<END>
+<BEGIN>Quando ele me disse que você estava vindo aqui e ordenou que eu te matasse, pensei que você devia ser um gigante, algum grande herói de lenda. Na verdade, pensei que você poderia ser capaz de me matar. Mas vejo que Pelys me insultou mais uma vez, trazendo um incômodo à minha porta.<END>
 <BEGIN>Em uma outra era, talvez eu pudesse deixar você seguir seu caminho, sem derramar sangue. Mas dei minha palavra a Pelys de que me livraria de você, e näo sou um quebrador de juramentos.<END>
 <BEGIN>Você tem um momento para rezar para quaisquer deuses que deseje, pequenino. É o mínimo que posso fazer antes de você se juntar a eles.<END>
 <BEGIN>A chave! Você encontrou minha chave. Eu a tinha, estava esperando para usá-la, mas os escravagistas me venderam antes que eu pudesse escapar... agora, agora Lazlo está livre!<END>
@@ -2352,7 +2352,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>%d minutos restantes.<END>
 <BEGIN>%d segundos restantes.<END>
 <BEGIN>No Modo Extremo, personagens importados teräo<END>
-<BEGIN>apenas armas/armor básicas, a menos que sejam<END>
+<BEGIN>apenas armas/armaduras básicas, a menos que sejam<END>
 <BEGIN>de outro jogo salvo do Modo Extremo.<END>
 <BEGIN>Continuar?<END>
 <BEGIN>Näo é Possível Vender<END>
@@ -2611,52 +2611,52 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Calças Acolchoadas<END>
 <BEGIN>Botas Acolchoadas<END>
 <BEGIN>Luvas Acolchoadas<END>
-<BEGIN>Capacete Acolchoado<END>
+<BEGIN>Elmo Acolchoado<END>
 <BEGIN>Armadura de Retalhos<END>
 <BEGIN>Calças de Retalhos<END>
 <BEGIN>Botas de Retalhos<END>
 <BEGIN>Luvas de Retalhos<END>
-<BEGIN>Capacete de Retalhos<END>
+<BEGIN>Elmo de Retalhos<END>
 <BEGIN>Armadura de Couro<END>
 <BEGIN>Calças de Couro<END>
 <BEGIN>Botas de Couro<END>
 <BEGIN>Luvas de Couro<END>
-<BEGIN>Capacete de Couro<END>
+<BEGIN>Elmo de Couro<END>
 <BEGIN>Armadura de Couro Cravada<END>
 <BEGIN>Calças de Couro Cravado<END>
 <BEGIN>Botas de Couro Cravado<END>
 <BEGIN>Luvas de Couro Cravado<END>
-<BEGIN>Capacete de Couro Cravado<END>
+<BEGIN>Elmo de Couro Cravado<END>
 <BEGIN>Calças de Cota de Malha<END>
 <BEGIN>Cota de Malha<END>
 <BEGIN>Botas de Cota de Malha<END>
 <BEGIN>Luvas de Cota de Malha<END>
-<BEGIN>Capacete de Cota de Malha<END>
+<BEGIN>Elmo de Cota de Malha<END>
 <BEGIN>Calças de Cinto<END>
 <BEGIN>Armadura de Cinto<END>
 <BEGIN>Botas de Cinto<END>
 <BEGIN>Luvas de Cinto<END>
-<BEGIN>Capacete de Cinto<END>
+<BEGIN>Elmo de Cinto<END>
 <BEGIN>Calças de Corrente<END>
 <BEGIN>Corrente de Corrente<END>
 <BEGIN>Botas de Corrente<END>
 <BEGIN>Luvas de Corrente<END>
-<BEGIN>Capacete de Corrente<END>
+<BEGIN>Elmo de Corrente<END>
 <BEGIN>Calças de Placa<END>
 <BEGIN>Placa de Metal<END>
 <BEGIN>Botas de Placa<END>
 <BEGIN>Luvas de Placa<END>
-<BEGIN>Capacete de Placa<END>
+<BEGIN>Elmo de Placa<END>
 <BEGIN>Calças Imperiais<END>
 <BEGIN>Armadura Imperial<END>
 <BEGIN>Botas Imperiais<END>
 <BEGIN>Luvas Imperiais<END>
-<BEGIN>Capacete Imperial<END>
+<BEGIN>Elmo Imperial<END>
 <BEGIN>Calças de Rathesteel<END>
 <BEGIN>Armadura de Rathesteel<END>
 <BEGIN>Botas de Rathesteel<END>
 <BEGIN>Luvas de Rathesteel<END>
-<BEGIN>Capacete de Rathesteel<END>
+<BEGIN>Elmo de Rathesteel<END>
 <BEGIN>Planos de Batalha<END>
 <BEGIN>Pocäo Élfica<END>
 <BEGIN>Gatinho<END>
@@ -3018,22 +3018,22 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Calças de Pano<END>
 <BEGIN>Luvas de Pano<END>
 <BEGIN>Botas de Pano<END>
-<BEGIN>Capacete de Pano<END>
+<BEGIN>Elmo de Pano<END>
 <BEGIN>Armadura de Estopa<END>
 <BEGIN>Calças de Estopa<END>
 <BEGIN>Luvas de Estopa<END>
 <BEGIN>Botas de Estopa<END>
-<BEGIN>Capacete de Estopa<END>
+<BEGIN>Elmo de Estopa<END>
 <BEGIN>Armadura de Lä<END>
 <BEGIN>Calças de Lä<END>
 <BEGIN>Luvas de Lä<END>
 <BEGIN>Botas de Lä<END>
-<BEGIN>Capacete de Lä<END>
+<BEGIN>Elmo de Lä<END>
 <BEGIN>Armadura de Seda<END>
 <BEGIN>Calças de Seda<END>
 <BEGIN>Luvas de Seda<END>
 <BEGIN>Botas de Seda<END>
-<BEGIN>Capacete de Seda<END>
+<BEGIN>Elmo de Seda<END>
 <BEGIN>Peles<END>
 <BEGIN>Estilo de Cabelo<END>
 <BEGIN>Cor do Cabelo<END>
@@ -3067,32 +3067,32 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Calças de Guerálios<END>
 <BEGIN>Luvas de Guerálios<END>
 <BEGIN>Botas de Guerálios<END>
-<BEGIN>Capacete de Guerálios<END>
+<BEGIN>Elmo de Guerálios<END>
 <BEGIN>Armadura de Seda Gélida<END>
 <BEGIN>Calças de Seda Gélida<END>
 <BEGIN>Luvas de Seda Gélida<END>
 <BEGIN>Botas de Seda Gélida<END>
-<BEGIN>Capacete de Seda Gélida<END>
+<BEGIN>Elmo de Seda Gélida<END>
 <BEGIN>Armadura de Veludo<END>
 <BEGIN>Calças de Veludo<END>
 <BEGIN>Luvas de Veludo<END>
 <BEGIN>Botas de Veludo<END>
-<BEGIN>Capacete de Veludo<END>
+<BEGIN>Elmo de Veludo<END>
 <BEGIN>Armadura de Gaze<END>
 <BEGIN>Calças de Gaze<END>
 <BEGIN>Luvas de Gaze<END>
 <BEGIN>Botas de Gaze<END>
-<BEGIN>Capacete de Gaze<END>
+<BEGIN>Elmo de Gaze<END>
 <BEGIN>Armadura de Damasco<END>
 <BEGIN>Calças de Damasco<END>
 <BEGIN>Luvas de Damasco<END>
 <BEGIN>Botas de Damasco<END>
-<BEGIN>Capacete de Damasco<END>
+<BEGIN>Elmo de Damasco<END>
 <BEGIN>Armadura de Seda de Aço<END>
 <BEGIN>Calças de Seda de Aço<END>
 <BEGIN>Luvas de Seda de Aço<END>
 <BEGIN>Botas de Seda de Aço<END>
-<BEGIN>Capacete de Seda de Aço<END>
+<BEGIN>Elmo de Seda de Aço<END>
 <BEGIN>Resistir a Veneno<END>
 <BEGIN>Suportar o Frio<END>
 <BEGIN>Suportar Doenças<END>
@@ -3683,7 +3683,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Pedra de Amolar<END>
 <BEGIN>Pedra de Amolar Lisa<END>
 <BEGIN>Pedra de Amolar Aperfeiçoada<END>
-<BEGIN>Näo é Possível Combinar Item<END>
+<BEGIN>Näo é Possível Combinar o Item<END>
 <BEGIN>Você näo pode combinar estes dois itens.<END>
 <BEGIN>Você näo pode combinar isto com um item que já tenha um encantamento base.<END>
 <BEGIN>Onda %d -- Prepare-se!!<END>
@@ -4054,8 +4054,8 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Botas Marcadas de Cralaras<END>
 <BEGIN>Botas de Algas Tricotadas<END>
 <BEGIN>Botas Tecido de Neve<END>
-<BEGIN>Casquete da Água Longínqua<END>
-<BEGIN>Casquete do Escavador<END>
+<BEGIN>Elmo da Água Longínqua<END>
+<BEGIN>Elmo do Escavador<END>
 <BEGIN>Touca Banhada em Bile<END>
 <BEGIN>Touca Trançada de Bragen<END>
 <BEGIN>Touca Marcada de Cralaras<END>
@@ -4221,13 +4221,13 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Luvas de Escamas de Baned<END>
 <BEGIN>Luvas de Malha Forjada pelo Ódio<END>
 <BEGIN>Luvas de Malha de Escamas Escuras<END>
-<BEGIN>Capacete de Folvous Darkscale<END>
-<BEGIN>Capacete de Malha Serena<END>
-<BEGIN>Capacete de Escamas do Crepúsculo<END>
-<BEGIN>Capacete de Malha dos Estriders Planetários<END>
-<BEGIN>Capacete de Escamas de Baned<END>
-<BEGIN>Capacete de Malha Forjada pelo Ódio<END>
-<BEGIN>Capacete de Malha de Escamas Escuras<END>
+<BEGIN>Elmo de Folvous Darkscale<END>
+<BEGIN>Elmo de Malha Serena<END>
+<BEGIN>Elmo de Escamas do Crepúsculo<END>
+<BEGIN>Elmo de Malha dos Estriders Planetários<END>
+<BEGIN>Elmo de Escamas de Baned<END>
+<BEGIN>Elmo de Malha Forjada pelo Ódio<END>
+<BEGIN>Elmo de Malha de Escamas Escuras<END>
 <BEGIN>Leggings de Folvous Darkscale<END>
 <BEGIN>Leggings de Malha Serena<END>
 <BEGIN>Leggings de Escamas do Crepúsculo<END>
@@ -4524,9 +4524,9 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Luvas de Seda<END>
 <BEGIN>Botas de Seda<END>
 <BEGIN>Elmo de Seda<END>
-<BEGIN>: Aventureiro<END>
-<BEGIN>: Corajoso<END>
-<BEGIN>: Campeäo<END>
+<BEGIN>:  Aventureiro<END>
+<BEGIN>:  Corajoso<END>
+<BEGIN>:  Campeäo<END>
 <BEGIN>Armadura de Remendo<END>
 <BEGIN>Calças de Remendo<END>
 <BEGIN>Botas de Remendo<END>
