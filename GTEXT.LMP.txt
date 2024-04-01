@@ -2766,8 +2766,8 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Descriçäo:<END>
 <BEGIN>Principalmente um tanque que absorve e causa dano.<END>
 <BEGIN>Principalmente um tanque que absorve e causa dano.<END>
-<BEGIN>Mestre do arco. Algumas habilidades em combate corpo a corpo, aprendem ataques poderosos com arco.<END>
-<BEGIN>Mestre do arco. Algumas habilidades em combate corpo a corpo, aprendem ataques poderosos com arco.<END>
+<BEGIN>Mestre do arco. Pouca habilidade em luta corpo a corpo, aprendem ataques poderosos com arco.<END>
+<BEGIN>Mestre do arco. Pouca habilidade em luta corpo a corpo, aprendem ataques poderosos com arco.<END>
 <BEGIN>Classe corpo a corpo forte com habilidade mágica substancial. Aprendem feitiços ofensivos e defensivos.<END>
 <BEGIN>Classe corpo a corpo forte com habilidade mágica substancial. Aprendem feitiços ofensivos e defensivos.<END>
 <BEGIN>Uma classe corpo a corpo com alguns feitiços de doença e invocaçäo de mascotes.<END>
@@ -2791,9 +2791,9 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Capaz de causar dano a grandes distâncias. Pode imbuir armas com energia elemental.<END>
 <BEGIN>Näo proficiente em combate corpo a corpo. Limitado no uso de armas. Näo pode usar escudos.<END>
 <BEGIN>Pode invocar os mortos-vivos. Usa feitiços corrosivos de curto e longo alcance.<END>
-<BEGIN>Mais fraco contra inimigos imunes a doenças. Feitiços custam mais porcentagem de mana.<END>
+<BEGIN>Mais fraco contra inimigos imunes a doenças. Feitiços custam mais mana.<END>
 <BEGIN>Pode invocar os mortos-vivos. Usa feitiços corrosivos de curto e longo alcance.<END>
-<BEGIN>Mais fraco contra inimigos imunes a doenças. Feitiços custam mais porcentagem de mana.<END>
+<BEGIN>Mais fraco contra inimigos imunes a doenças. Feitiços custam mais mana.<END>
 <BEGIN>%cCombinar com... %cCancelar<END>
 <BEGIN>Alterar Aparência:<END>
 <BEGIN>Você pode modificar a aparência do seu personagem agora. Use o direcional esquerdo para alterar a cor da pele e do cabelo. Pressione %c quando terminar.<END>
@@ -4939,7 +4939,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Nunca se sabe o que pode ser útil durante uma batalha, entäo é uma boa ideia encher sua mochila.<END>
 <BEGIN>Entrar na loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ah, você voltou. O que posso pegar para você?<END>
+<BEGIN>Ah, você voltou. O que posso fazer por você?<END>
 <BEGIN>Entrar na loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Obrigado pela sua ajuda. Boa sorte.<END>
