@@ -284,7 +284,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo se preocupe... näo vamos para casa até que eu tenha todos os seus irmäos e irmäs de volta.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Alguém cortou sua cabeça e a substituiu por um saco de pedras? Eu já te falei, näo vou sair daqui até encontrar todos os meus gatinhos. Se você quiser me arrastar para fora daqui, entäo é melhor começar a procurar rápido, ou eu vou começar a chamar algumas coisas mortas-vivas que acho que você não gostaria de encontrar.<END>
+<BEGIN>Alguém cortou sua cabeça e a substituiu por um saco de pedras? Eu já te falei, näo vou sair daqui até encontrar todos os meus gatinhos. Se você quiser me arrastar para fora daqui, entäo é melhor começar a procurar rápido, ou eu vou começar a chamar algumas coisas mortas-vivas que acho que você näo gostaria de encontrar.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você me deixou täo preocupada! Mas agora vocês estäo todos juntos novamente...<END>
 <BEGIN>Mais...<END>
@@ -473,7 +473,7 @@ sem ódio?<END>
 <BEGIN>Você tem um momento para rezar para quaisquer deuses que deseje, pequenino. É o mínimo que posso fazer antes de você se juntar a eles.<END>
 <BEGIN>A chave! Você encontrou minha chave. Eu a tinha, estava esperando para usá-la, mas os escravagistas me venderam antes que eu pudesse escapar... agora, agora Lazlo está livre!<END>
 <BEGIN>Mais...<END>
-<BEGIN>Você quer algo de Lazlo, entäo Lazlo lhe dará algo. Mas o que devo lhe dar? Näo tenho nada. Eu tinha algo uma vez, mas joguei fora. Perdido, no fundo do mar.<END>
+<BEGIN>Você quer algo de Lazlo, entäo Lazlo vai dar algo. Mas o que devo te dar? Näo tenho nada. Eu tinha algo uma vez, mas joguei fora. Perdido, no fundo do mar.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Era um chifre, todo feio e enferrujado. O gigante nos fez cavar no gelo além do portal para encontrá-lo, mas quando o encontrei, era täo feio... täo cheio de ódio... tive que jogá-lo fora. Ele afundou no oceano e desapareceu, desapareceu, desapareceu.<END>
 <BEGIN>Mais...<END>
@@ -839,7 +839,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Entäo... você é do tipo silencioso, entendo. Näo importa. Dizem que o silêncio é como ouro. Falando em ouro, posso ver que você näo gosta dos meus preços. Tudo bem. Há outras negociaçöes que podemos fazer em vez disso.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Que tipo de negócio, você pergunta? simplesmente Buscar e carregar, nada mais. Veja bem, existem sete... curiosidades espalhadas pelos Calabouços de Khathuun. Meras bagatelas, na verdade, mas cada uma tem valor sentimental para mim. Por cada uma que você me trouxer, eu baixarei meus preços. Me traga todas as sete, e pode haver algo mais para você.<END>
+<BEGIN>Que tipo de negócio, você pergunta? simplesmente Buscar e carregar, nada mais. Veja bem, existem sete... curiosidades espalhadas pelos Calabouços de Khathuun. Meras bugigangas, na verdade, mas cada uma tem valor sentimental para mim. Por cada uma que você me trouxer, eu baixarei meus preços. Me traga todas as sete, e pode haver algo mais para você.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Entäo, temos um acordo?<END>
 <BEGIN>Sim, temos um acordo.<END>
@@ -878,7 +878,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Louvor a Innoruuk! Você conseguiu todos eles! Você me fez um grande serviço, estranho. Acho que você achará meus preços razoáveis - muito razoáveis, de fato.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Mas isso é apenas um pequeno presente comparado a este - aqui, pegue. Parece ser uma pedra simples, mas eu lhe asseguro, é muito, muito mais.<END>
+<BEGIN>Mas isso é apenas um pequeno presente comparado a este - aqui, pegue. Parece ser uma pedra simples, mas eu te garanto, é muito, muito mais.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo deixe sua aparência te enganar. Você näo consegue sentir? O leve pulsar? O jeito como seu coraçäo dispara quando você o segura, o jeito como ele desperta memórias odiosas, as revigora?<END>
 <BEGIN>Mais...<END>
@@ -894,41 +894,41 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mas näo desanime. Seu destino será diferente do meu. Pois você é mais forte do que eu, muito mais forte, e tenho certeza de que sua vontade pode resistir ao poder da pedra, até mesmo ao poder de um Deus. E uma pedra dessas pode ser útil para você. É um pedaço de Innoruuk, e tal coisa pode ajudá-lo em sua jornada.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Reúna os 7 trinkets para Gol<END>
+<BEGIN>Reúna os 7 bugigangas para Gol<END>
 <BEGIN>Chega disso. Nosso acordo está concluído. Se desejar comprar algo, encontrará meus preços quase um roubo. É o mínimo que posso fazer pela liberdade que você me deu.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Bem-vindo de volta, amigo... você trouxe a pedra com você? Näo importa, eu näo quero saber. Compre algo, se quiser, e seja rápido.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>De volta novamente, vejo. Devo mostrar-lhe o que tenho?<END>
+<BEGIN>De volta novamente, entendo. Devo te mostrar o que tenho?<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Bem, agora... nós näo costumamos ver estranhos por aqui, pelo menos... näo vivos. Você deve ser mais resistente do que parece para ter chegado täo longe... ou apenas desesperado, talvez?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Entäo... você é do tipo silencioso, vejo. Näo importa. Dizem que o silêncio é de ouro. Falando em ouro, vejo que você näo gosta dos meus preços. Tudo bem. Existem outros negócios que podemos fazer em vez disso.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Que tipo de negócio, você pergunta? Simples, pegar e carregar, nada mais. Você vê que existem sete... curiosidades espalhadas nos Calabouços de Khathuun. Meras bagatelas, na verdade, mas cada uma tem valor sentimental para mim. Para cada uma que você me trouxer, eu baixarei meus preços. Traga todas as sete, e pode haver algo mais para você.<END>
+<BEGIN>Que tipo de negócio, você pergunta? Simples, pegar e carregar, nada mais. Sabia que existem sete... curiosidades espalhadas nos Calabouços de Khathuun. Meras bugigangas na verdade, mas cada uma tem valor sentimental para mim. Para cada uma que você me trouxer, eu baixarei meus preços. Traga todas as sete, e pode haver algo mais para você.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Nós temos um acordo?<END>
 <BEGIN>Sim, temos um acordo.<END>
 <BEGIN>Näo, eu näo negocio com ratos.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Excelente. E sem cobrar nada, um conselho. Tome cuidado nestas partes. Prefeririam matar um estranho a olhar para ele.<END>
+<BEGIN>Excelente. E sem cobrar nada, um conselho. Tome cuidado nestas partes. Preferem matar um estranho a olhar para ele.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Reúna os 7 trinkets para Gol<END>
-<BEGIN>Escondidos nos Calabouços de Khathuun estäo sete trinkets, reúna todos eles e traga-os para Gol Nazyn por uma recompensa.<END>
+<BEGIN>Reúna os 7 bugigangas para Gol<END>
+<BEGIN>Escondidos nos Calabouços de Khathuun estäo sete bugigangas, reúna todos eles e traga-os para Gol Nazyn por uma recompensa.<END>
 <BEGIN>Como quiser. No entanto, meus preços permanecem os mesmos.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você acha que estou fazendo caridade? Vou baixar meus preços quando você cumprir o que prometeu. Näo gosta disso? Entäo vá para outro lugar.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>É isso aí! Você me surpreende... com um trabalho bem feito. Mas há muitas mais peças por aí, me chamando. Traga-as, e verei sobre baixar ainda mais meus preços.<END>
+<BEGIN>É isso aí! Você me surpreende... com um trabalho bem feito. Mas há muitas mais peças por aí me chamando. Traga-as, e verei sobre baixar ainda mais meus preços.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ah, você näo me decepciona. Isso é lindo... mas isso é apenas parte disso. Pegue os outros, todos eles, e seu tempo será bem gasto.<END>
+<BEGIN>Ah, você näo me decepciona. Isso é lindo... mas isso é apenas parte. Pegue os outros, todos eles, e seu tempo será bem gasto.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Esplêndido... a habilidade nesta peça é deslumbrante. Traga-me os outros, eu devo ter o conjunto completo.<END>
@@ -940,37 +940,37 @@ sem ódio?<END>
 <BEGIN>Você me impressiona. O prêmio que prometi está quase em suas mäos. Traga-me as duas peças restantes, e seus esforços seräo recompensados.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você quase conseguiu. Você recuperou todas menos uma. Infelizmente, sem a última, as outras seis säo apenas bagatelas. Encontre a sétima, e a recompensa será sua.<END>
+<BEGIN>Você quase conseguiu. Você recuperou todas menos uma. Infelizmente, sem a última, as outras seis säo apenas bugigangas. Encontre a sétima, e a recompensa será sua.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Louvor a Innoruuk! Você conseguiu todos eles! Você me fez um grande serviço, estranho. Acho que você achará meus preços razoáveis - muito razoáveis, de fato.<END>
+<BEGIN>Louvor a Innoruuk! Você conseguiu todas elas! Você me fez um grande serviço, estranho. Acho que você achará meus preços razoáveis - muito razoáveis, de fato.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Mas isso é apenas um pequeno presente comparado a este - aqui, pegue. Parece ser uma pedra simples, mas eu lhe asseguro, é muito, muito mais.<END>
+<BEGIN>Mas isso é apenas um pequeno presente comparado a este - aqui, pegue. Parece ser uma pedra simples, mas eu te garanto, é muito, muito mais.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Näo deixe sua aparência te enganar. Você näo consegue sentir? O leve pulsar? O jeito como seu coraçäo dispara quando você o segura, o jeito como ele desperta memórias odiosas, as aviva?<END>
+<BEGIN>Näo deixe sua aparência te enganar. Você näo consegue sentir? O leve pulsar? O jeito como seu coraçäo dispara quando você o segura, o jeito como ele desperta memórias odiosas, as revivem?<END>
 <BEGIN>Mais...<END>
-<BEGIN>É um pedaço de um deus - um pedaço do próprio Innoruuk, Príncipe do Ódio. Foi arrancado do corpo do obscuro em uma batalha esquecida há muito tempo e ainda retém uma parte de seu poder.<END>
+<BEGIN>É um pedaço de um deus - um pedaço do próprio Innoruuk, Príncipe do Ódio. Foi arrancado do corpo das trevas em uma batalha esquecida há muito tempo e ainda retém uma parte de seu poder.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Eu o encontrei por acaso, se é que você pode acreditar. Eu näo tinha ideia do que era... e nos últimos cinco décadas eu o carreguei comigo, sem saber de seu poder. Sem saber por que minha visäo às vezes ficava turva de vermelho, por que eu ficaria enfurecido com os outros, e por que minha raiva só poderia ser saciada com derramamento de sangue. Eu näo era forte o suficiente para lutar contra seu poder. Nunca fui.<END>
+<BEGIN>Eu o encontrei por acaso, se é que você pode acreditar. Eu näo tinha ideia do que era... e nos últimos cinco décadas eu o carreguei comigo, sem saber de seu poder. Sem saber por que minha visäo às vezes ficava borrada de vermelho, por que eu ficaria enfurecido com os outros, e por que minha raiva só poderia ser saciada com derramamento de sangue. Eu näo era forte o suficiente para lutar contra seu poder. Nunca fui.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Já tentei me livrar disso centenas de vezes... mas sempre acaba voltando para mim. Näo há como escapar disso. Até agora.<END>
+<BEGIN>Já tentei me livrar disso centenas de vezes... mas sempre acaba voltando para mim. Näo havia como escapar disso. Até agora.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mas agora o pergaminho do feiticeiro me diz que essas sete curiosidades que você me trouxe säo pedaços de um encantamento. Talvez agora eu possa me libertar dessa pedra maldita.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Essas sete curiosidades que você me trouxe säo pedaços de um encantamento. Talvez agora eu possa me libertar dessa pedra maldita.<END>
+<BEGIN>Essas sete curiosidades que você me trouxe säo pedaços de um encantamento. Talvez agora eu possa me libertar dessa maldita pedra.<END>
 <BEGIN>Mais...<END>
 <BEGIN>A pedra agora é sua. Você verá que näo pode me devolvê-la. Ela está ligada a você agora.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mas näo desespere. Seu destino será diferente do meu. Pois você é mais forte do que eu, muito mais forte, e tenho certeza de que sua vontade pode resistir ao poder da pedra, até mesmo ao poder de um Deus. E tal pedra pode ser útil para você. É um pedaço de Innoruuk, e tal coisa pode ajudá-lo em sua jornada.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Reúna os 7 trinkets para Gol<END>
-<BEGIN>Chega disso. Nosso acordo está concluído. Se deseja comprar algo, encontrará meus preços quase um roubo. É o mínimo que posso fazer pela liberdade que me concedeu.<END>
+<BEGIN>Reúna os 7 bugigangas para Gol<END>
+<BEGIN>Chega disso. Nosso acordo está concluído. Se deseja comprar algo, vai achar que meus preços säo quase um roubo. É o mínimo que posso fazer pela liberdade que me concedeu.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Bem-vindo de volta, amigo... você trouxe a pedra com você? Näo importa, näo quero saber. Compre algo, se quiser, e seja rápido.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>De volta, eu vejo. Devo lhe mostrar o que tenho?<END>
+<BEGIN>De volta, percebo. Devo lhe mostrar o que tenho?<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Escadas inferiores<END>
@@ -978,7 +978,7 @@ sem ódio?<END>
 <BEGIN>Para o Calabouço de Khathuun<END>
 <BEGIN>Kol<END>
 <BEGIN>Para o Campo de Lava Superior de Blackdelve<END>
-<BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas ainda näo está pronto. Volte quando estiver melhor equipado.<END>
+<BEGIN>Calma! Eu sei que você está ansioso para matar orcs, mas você ainda näo está pronto. Volte quando estiver melhor equipado.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Olha, até você conseguir uma armadura melhor, näo permitirei que entre na Grande Faydark. É muito perigoso.<END>
 <BEGIN>Fim.<END>
@@ -1077,15 +1077,15 @@ sem ódio?<END>
          Retorne ao menu principal<END>
 <BEGIN>Você näo está um pouco vestido demais para um passeio pela Floresta Faydark? Talvez você näo tenha ouvido, mas estamos lutando contra orcs hoje.<END>
 <BEGIN>Suas palavras säo desperdiçadas com este, Iurdain. É apenas mais um tolo que pensa ser um herói.<END>
-<BEGIN>Quando Leithkorias vai parar de enviá-los para nós? Eles näo vêm preparados, näo seguem ordens e näo se banham! Säo mais problema do que valem! Marque minhas palavras, acabaremos enterrando este ao lado dos outros.<END>
+<BEGIN>Quando Leithkorias vai parar de enviá-los para nós? Eles näo vêm preparados, näo seguem ordens e näo se banham! Säo mais problema do que ajuda! Marque minhas palavras, acabaremos enterrando este ao lado dos outros.<END>
 <BEGIN>Com seu charme, Hathnul, näo é de se admirar que näo consigamos mais recrutas dos Campeöes de Faydark.<END>
 <BEGIN>Você terá que desculpar meu amigo, mas ele tem um ponto. Se você está aqui para lutar contra os orcs ou goblins, precisará se equipar melhor...<END>
 <BEGIN>Equipar com o quê? Näo temos nenhuma provisäo extra. Os goblins levaram tudo o que puderam pegar. Você pode muito bem voltar para casa.<END>
-<BEGIN>O Mestre da Madeira do Coraçäo näo ficaria satisfeito em ouvir seu guerreiro ser recebido com tais palavras, Koail. Este cavaleiro viajou muito para lutar a pedido de meu pai, em nome de nosso povo.<END>
+<BEGIN>O Mestre Heartwood näo ficaria satisfeito em ouvir seu guerreiro ser recebido com tais palavras, Koail. Este cavaleiro viajou muito para lutar a pedido de meu pai, em nome de nosso povo.<END>
 <BEGIN>Perdoe as palavras de Koail. Estes têm sido tempos difíceis para todos nós. Eu sou Elgoain, tenente do Batalhäo Faydark, e filho de Leithkorias. Você é bem-vindo aqui entre nós, campeäo. Vejo que meu pai escolheu sabiamente, de fato.<END>
 <BEGIN>Você näo poderia ter vindo em melhor hora. Se deseja se armar com melhores armas e armaduras, entäo talvez possamos nos ajudar mutuamente.<END>
 <BEGIN>Além da gruta de pedra, há duas árvores caídas que marcam a caverna dos goblins. Nesta caverna, você encontrará os despojos que os goblins saquearam quando atacaram nossa casa em Kelethin. Em troca de derramar o sangue dos goblins, você também pode encontrar outras coisas lá que podem ser de grande utilidade para você em sua missäo.<END>
-<BEGIN>Os orcs estäo recuando mais fundo na floresta. Espalhem a palavra... todos que forem capazes devem se reportar imediatamente ao Comandante perto do rio.<END>
+<BEGIN>Os orcs estäo recuando mais fundo na floresta. Espalhem a informaçäo... todos que forem capazes, devem se reportar imediatamente ao Comandante perto do rio.<END>
 <BEGIN>Fim.<END>
 <BEGIN>O que você está esperando? Encontre o Comandante. Ele vai colocá-lo para trabalhar.<END>
 <BEGIN>Fim.<END>
@@ -1107,7 +1107,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Quando você tentar abrir o portäo, mantenha os olhos abertos para o Príncipe Elgoain. Eu näo sei seu destino, mas ele é um soldado valente e honrado, e eu näo o abandonarei para morrer naquele buraco vil. Se ele ainda estiver vivo, faça o que puder por ele.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ao se aproximar da caverna dos orcs, fique perto do leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelas laterais.<END>
+<BEGIN>Ao se aproximar da caverna dos orcs, fique perto do leito do rio. Haverá bastante perigo vindo dos orcs, sem falar dos problemas inesperados pelos flancos.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
@@ -1155,16 +1155,16 @@ sem ódio?<END>
 <BEGIN>Para as Ruínas da Floresta de Faydark<END>
 <BEGIN>Encontre o interruptor nas Cavernas dos Orcs para abrir os portöes.<END>
 <BEGIN>Abrir os Portöes<END>
-<BEGIN>Siga o rio até as cavernas dos Orcs inferiores, encontre o interruptor e abra os Portöes das Ruínas.<END>
+<BEGIN>Siga o rio até as cavernas inferiores dos Orcs, encontre o interruptor e abra os Portöes das Ruínas.<END>
 <BEGIN>Abrir os Portöes<END>
-<BEGIN>Siga o rio até as cavernas dos Orcs inferiores, encontre o interruptor e abra os Portöes das Ruínas.<END>
+<BEGIN>Siga o rio até as cavernas inferiores dos Orcs, encontre o interruptor e abra os Portöes das Ruínas.<END>
 <BEGIN>Abrir os Portöes<END>
-<BEGIN>Siga o rio até as cavernas dos Orcs inferiores, encontre o interruptor e abra os Portöes das Ruínas.<END>
+<BEGIN>Siga o rio até as cavernas inferiores dos Orcs, encontre o interruptor e abra os Portöes das Ruínas.<END>
 <BEGIN>Abrir os Portöes<END>
-<BEGIN>Siga o rio até as cavernas dos Orcs inferiores, encontre o interruptor e abra os Portöes das Ruínas.<END>
-<BEGIN>Quando você tentar abrir o portäo, mantenha os olhos abertos para o Príncipe Elgoain. Eu näo sei seu destino, mas ele é um soldado valente e honrado, e eu näo o abandonarei para morrer naquele buraco vil. Se ele ainda estiver vivo, faça o que puder por ele.<END>
+<BEGIN>Siga o rio até as cavernas inferiores dos Orcs, encontre o interruptor e abra os Portöes das Ruínas.<END>
+<BEGIN>Quando você for tentar abrir o portäo, mantenha os olhos atentos para o Príncipe Elgoain. Eu näo sei seu destino, mas ele é um soldado valente e honrado, e eu näo o abandonarei para morrer naquele buraco maldito. Se ele ainda estiver vivo, faça o que puder por ele.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ao se aproximar da caverna dos orcs, fique perto do leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelas laterais.<END>
+<BEGIN>Ao se aproximar da caverna dos orcs, fique perto do leito do rio. Haverá bastante perigo vindo dos orcs, sem falar problemas inesperados pelos flancos.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
@@ -1172,19 +1172,9 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Adeus e boa caçada. Os Campeöes de Faydark estäo contando com sua bravura!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Quando você tentar abrir o portäo, mantenha os olhos abertos para o Príncipe Elgoain. Eu näo sei seu destino, mas ele é um soldado valente e honrado, e eu näo o abandonarei para morrer naquele buraco vil. Se ele ainda estiver vivo, faça o que puder por ele.<END>
+<BEGIN>Quando você tentar abrir o portäo, mantenha os olhos atentos para o Príncipe Elgoain. Eu näo sei seu destino, mas ele é um soldado valente e honrado, e eu näo o abandonarei para morrer naquele buraco maldito. Se ele ainda estiver vivo, faça o que puder por ele.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar qualquer problema inesperado pelos flancos.<END>
-<BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
-<BEGIN>Fim.<END>
-<BEGIN>Se o mecanismo do portäo existe, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
-<BEGIN>Fim.<END>
-<BEGIN>Adeus e boa caçada. Os Campeöes de Faydark estäo contando com sua bravura!<END>
-<BEGIN>Fim.<END>
-<BEGIN>Ao tentar abrir o portäo, mantenha os olhos abertos para o Príncipe Elgoain. Näo sei qual é o seu destino, mas ele é um soldado corajoso e honrado, e näo o abandonarei para morrer naquele buraco vil. Se ele ainda estiver vivo, faça o que puder por ele.<END>
-<BEGIN>Fim.<END>
-<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar qualquer problema inesperado pelos flancos.<END>
+<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá bastante perigo vindo dos orcs, sem falar de qualquer problema inesperado pelos flancos.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
@@ -1192,15 +1182,25 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Adeus e boa caçada. Os Campeöes de Faydark estäo contando com sua bravura!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Elgoain foi tentar encontrar uma maneira de abrir o portäo por si mesmo... Temo por suas chances, mas ele parece determinado a repelir os invasores sozinho.<END>
+<BEGIN>Ao tentar abrir o portäo, mantenha os olhos atentos para o Príncipe Elgoain. Näo sei qual é o seu destino, mas ele é um soldado corajoso e honrado, e näo o abandonarei para morrer naquele buraco maldito. Se ele ainda estiver vivo, faça o que puder por ele.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá bastante perigo vindo dos orcs, sem falar de qualquer problema inesperado pelos flancos.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Se o mecanismo do portäo existe, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Adeus e boa caçada. Os Campeöes de Faydark estäo contando com sua bravura!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Elgoain foi tentar encontrar uma maneira de abrir o portäo por conta própria... Temo por suas chances, mas ele parece determinado a repelir os invasores sozinho.<END>
 <BEGIN>Siga o rio até as cavernas dos orcs e encontre o mecanismo do portäo. Precisamos abrir esses portöes agora, antes que os orcs ataquem!<END>
 <BEGIN>Abra os portöes, e mostraremos como nós, os elfos, os verdadeiros Campeöes de Faydark, lidamos com orcs e goblins!<END>
 <BEGIN>Que bom que você voltou. Com você ao nosso lado, acho que há esperança de vencer esta guerra.<END>
-<BEGIN>Os orcs se selaram dentro das ruínas da floresta e nossos batedores avistaram o séquito de seu chefe entrando no acampamento. Isso significa que eles atacaräo em breve com tudo o que têm.<END>
-<BEGIN>Temos que abrir este portäo, e você pode nos ajudar. Pode haver uma maneira de abrir o portäo das cavernas dos orcs rio abaixo, mas até agora, ninguém conseguiu alcançar as cavernas... ou pelo menos voltar.<END>
-<BEGIN>Ao procurar abrir este portäo, olhe também pelo destino do Príncipe Elgoain. Ele é uma alma corajosa e honrada, e näo permitirei que seja abandonado a uma morte solitária naquele buraco orque. Se ele estiver vivo, faça o que puder por ele.<END>
+<BEGIN>Os orcs se trancaram dentro das ruínas da floresta e nossos batedores avistaram a comitiva de seu chefe entrando no acampamento. Isso significa que eles atacaräo em breve e com tudo o que têm.<END>
+<BEGIN>Temos que abrir este portäo, e você pode nos ajudar. Pode haver uma maneira de abrir o portäo pela cavernas dos orcs rio abaixo, mas até agora, ninguém conseguiu alcançar as cavernas... ou pelo menos voltar.<END>
+<BEGIN>Ao buscar abrir este portäo, atente-se também pelo destino do Príncipe Elgoain. Ele é uma alma corajosa e honrada, e näo permitirei que seja abandonado a uma morte solitária naquele buraco de orc. Se ele estiver vivo, faça o que puder por ele.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ao se dirigir para a caverna dos orcs, mantenha-se próximo ao leito do rio. Você terá problemas suficientes lidando com os orcs sem convidar problemas pelo caminho.<END>
+<BEGIN>Ao se dirigir para a caverna dos orcs, mantenha-se próximo ao leito do rio. Você terá problemas suficientes lidando com os orcs, sem falar dos problemas pelo caminho.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Abra esses portöes e mostraremos a esses cäes orcs como lutar!<END>
 <BEGIN>Fim.<END>
@@ -1231,11 +1231,11 @@ sem ódio?<END>
 <BEGIN>Destrua as Catapultas!<END>
 <BEGIN>Você fez um excelente trabalho com as catapultas dos orcs, meus homens e eu estamos gratos. Näo vemos muitos rostos amigáveis em Faydark atualmente.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Näo muito tempo atrás, recebemos a notícia de que os orcs e goblins haviam roubado um pergaminho de Mayong Mistmoore, um dos vampiros mais perigosos da Faydark.<END>
+<BEGIN>Pouco tempo atrás, recebemos a notícia de que os orcs e goblins haviam roubado um pergaminho de Mayong Mistmoore, um dos vampiros mais perigosos de Faydark.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Seja qual for a informaçäo, seja qual for o poder que esse pergaminho contém, enquanto o líder orc o tiver em mäos, ele também terá o destino de Kelethin em mäos.<END>
+<BEGIN>Seja qual for a informaçäo, seja qual for o poder que esse pergaminho contém, enquanto o líder orc o tiver em mäos, ele também terá em mäos destino de Kelethin.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Sei que estou pedindo muito, mas ou paramos esses invasores aqui e agora, ou näo os paramos mais.<END>
+<BEGIN>Sei que estou pedindo muito mas, ou paramos esses invasores aqui e agora, ou näo os paramos mais.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Boa sorte. Nossa única esperança de vitória viaja com você.<END>
 <BEGIN>Fim.<END>
@@ -1251,25 +1251,25 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>As coisas näo melhoraram em sua ausência, no entanto, e tenho outra missäo para a qual preciso da sua força.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Näo muito depois de você partir, meus homens descobriram um acampamento orc nas proximidades e entraram em combate com o inimigo. A luta tem sido feroz. O que deveria ser apenas um confronto menor está se provando mais desafiador do que pensávamos.<END>
+<BEGIN>Pouco depois de você partir, meus homens descobriram um acampamento orc nas proximidades e entraram em combate com o inimigo. A luta tem sido feroz. O que deveria ser apenas um confronto pequeno está se provando mais desafiador do que pensávamos.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Um xamä orc entre o inimigo está ressuscitando os orcs mortos à medida que caem, impedindo nossos homens de ganhar terreno.<END>
+<BEGIN>Um xamä orc que está entre os inimigos, está ressuscitando os orcs mortos à medida que caem, impedindo nossos homens de ganhar terreno.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Preciso que você entre no acampamento e mate o xamä. Uma vez que o xamä caia, deveríamos conseguir acabar rapidamente com o inimigo e retomar o ofensivo.<END>
+<BEGIN>Preciso que você entre no acampamento e mate o xamä. Uma vez que o xamä caia, devemos conseguir acabar rapidamente com o inimigo e retomar a ofensiva.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Eu desejaria sorte a você, mas tenho mais fé em sua habilidade e sua força. Enquanto isso, decifraremos este pergaminho e veremos o que podemos aprender com ele.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Mate o Xamä Orc<END>
-<BEGIN>Penetre no acampamento dos orcs e mate o Xamä Orc.<END>
+<BEGIN>Entre no acampamento dos orcs e mate o Xamä Orc.<END>
 <BEGIN>Ouvi falar de sua vitória. Novamente, você tem meu agradecimento. Suas açöes provaram ser o ponto de virada nesta guerra, e devemos continuar antes que nossa vantagem seja perdida.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Em sua ausência, conseguimos decifrar o pergaminho que você recuperou do líder orc. Parece ser um tipo de mapa, mostrando túneis abaixo das Ruínas da Floresta que escondem uma entrada para o Submundo. Suspeito que a resposta para nossos problemas esteja lá.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Enviei homens adiante para desenterrar a entrada para os túneis indicados no mapa. Tenha cuidado. E que você encontre amigos em lugares inesperados.<END>
+<BEGIN>Enviei homens na frente para desenterrar a entrada para os túneis indicados no mapa. Tenha cuidado. E que você encontre amigos em lugares inesperados.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Localize a Entrada para o Submundo<END>
 <BEGIN>Encontre o elfo da floresta dentro das Ruínas da Floresta. Ele o guiará até a entrada para o Submundo.<END>
-<BEGIN>Você precisa chegar aos túneis inferiores das Ruínas da Floresta. Tenho um escoteiro esperando lá. Ele irá ajudá-lo.<END>
+<BEGIN>Você precisa chegar aos túneis inferiores das Ruínas da Floresta. Tenho um batedore esperando lá. Ele irá ajudá-lo.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Vá para o Submundo. Acredito que seja a única maneira de acabarmos com esses ataques dos orcs de uma vez por todas.<END>
 <BEGIN>Fim.<END>
@@ -1295,7 +1295,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Lazlo<END>
 <BEGIN>Para Bronzeholt<END>
-<BEGIN>Lá fora está um cemitério de navios, congelados no gelo. Dentro de cada um, Lazlo escondeu a jangada, um pedaço, um pouco aqui, um pouco ali, esperando pelo momento certo.<END>
+<BEGIN>Lá fora está um cemitério de navios, congelados no gelo. Dentro de cada um, Lazlo escondeu a jangada, por pedaço, um pouco aqui, um pouco ali, esperando pelo momento certo.<END>
 <BEGIN>Reúna todos eles e leve-os através da neve até onde o gelo termina, e siga a correnteza. Ela o levará para onde você precisa ir. Para o chifre, no fundo do mar.<END>
 <BEGIN>Mas o mar está cheio de água, você sabe. Você precisará encontrar uma maneira de ser um peixe, respirar como um peixe, ou nunca verá aquele chifre. Você se afogará em vez disso.<END>
 <BEGIN>O gigante fez Lazlo e os outros escravos cavarem aqui. Todos mortos agora, exceto Lazlo. Lazlo sabia que acabaria como eles, entäo Lazlo ficou esperto, planejou escapar, coletou peças para uma jangada.<END>
@@ -1303,7 +1303,7 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você encontrou todas as peças da jangada! Leve-as através da neve até onde o gelo termina. A correnteza o levará para onde você quer ir. Até o fundo do mar.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Entende, para pegar o chifre, você precisará nadar fundo, mais fundo do que você já foi. Mas isso näo é tudo.<END>
+<BEGIN>Sabe, para pegar o chifre, você precisará nadar fundo, mais fundo do que você já foi. Mas isso näo é tudo.<END>
 <BEGIN>Diga a eles a pior parte, Lazlo. A pior, vá em frente.<END>
 <BEGIN>O chifre näo está sozinho. Tem algo lá embaixo com ele. Algo terrível. Ele tem o chifre agora, e näo vai largá-lo.<END>
 <BEGIN>Lazlo precisa ir agora. Lazlo vai voltar para a cidade de Water's Edge, para meu irmäo, Rondo. Eu queria ajudar mais, mas näo posso ir com você. Eu näo vou.<END>
@@ -1466,19 +1466,9 @@ sem ódio?<END>
 <BEGIN>Siga o rio até as cavernas inferiores dos orcs, encontre o interruptor e abra os Portöes das Ruínas.<END>
 <BEGIN>Abrir os Portöes<END>
 <BEGIN>Siga o rio até as cavernas inferiores dos orcs, encontre o interruptor e abra os Portöes das Ruínas.<END>
-<BEGIN>Quando tentar abrir o portäo, mantenha os olhos abertos para o Príncipe Elgoain. Näo sei o destino dele, mas ele é um soldado corajoso e honrado, e näo o abandonarei para morrer naquele buraco vil. Se ele ainda estiver vivo, faça o que puder por ele.<END>
+<BEGIN>Quando tentar abrir o portäo, mantenha os olhos atentos para o Príncipe Elgoain. Näo sei o destino dele, mas ele é um soldado corajoso e honrado, e näo o abandonarei para morrer naquele buraco maldito. Se ele ainda estiver vivo, faça o que puder por ele.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelos flancos.<END>
-<BEGIN>Fim.<END>
-<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
-<BEGIN>Fim.<END>
-<BEGIN>Se o mecanismo do portäo existir, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
-<BEGIN>Fim.<END>
-<BEGIN>Adeus e boa caçada. Os Campeöes de Faydark estäo contando com sua bravura!<END>
-<BEGIN>Fim.<END>
-<BEGIN>Quando tentar abrir o portäo, mantenha os olhos abertos para o Príncipe Elgoain. Näo sei seu destino, mas ele é um soldado corajoso e honrado, e näo o abandonarei para morrer naquele buraco vil. Se ele ainda estiver vivo, faça o que puder por ele.<END>
-<BEGIN>Fim.<END>
-<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelos flancos.<END>
+<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs, sem falar problemas inesperados pelos flancos.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
@@ -1486,9 +1476,19 @@ sem ódio?<END>
 <BEGIN>Fim.<END>
 <BEGIN>Adeus e boa caçada. Os Campeöes de Faydark estäo contando com sua bravura!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Quando tentar abrir o portäo, mantenha os olhos abertos para o Príncipe Elgoain. Näo sei seu destino, mas ele é um soldado corajoso e honrado, e näo o abandonarei para morrer naquele buraco vil. Se ele ainda estiver vivo, faça o que puder por ele.<END>
+<BEGIN>Quando tentar abrir o portäo, mantenha os olhos atentos para o Príncipe Elgoain. Näo sei seu destino, mas ele é um soldado corajoso e honrado, e näo o abandonarei para morrer naquele buraco maldito. Se ele ainda estiver vivo, faça o que puder por ele.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem convidar problemas inesperados pelos flancos.<END>
+<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem falar problemas inesperados pelos flancos.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Se o mecanismo do portäo existir, confio que você o encontrará. As cavernas dos orcs säo perigosas, mas em algum lugar lá dentro está a chave para abrir este portäo.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Adeus e boa caçada. Os Campeöes de Faydark estäo contando com sua bravura!<END>
+<BEGIN>Fim.<END>
+<BEGIN>Quando tentar abrir o portäo, mantenha os olhos atentos para o Príncipe Elgoain. Näo sei seu destino, mas ele é um soldado corajoso e honrado, e näo o abandonarei para morrer naquele buraco maldito. Se ele ainda estiver vivo, faça o que puder por ele.<END>
+<BEGIN>Fim.<END>
+<BEGIN>Ao se aproximar da caverna dos orcs, mantenha-se próximo ao leito do rio. Haverá perigo suficiente dos orcs sem falar problemas inesperados pelos flancos.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Abra esses portöes e mostraremos a esses malditos orcs como lutar!<END>
 <BEGIN>Fim.<END>
@@ -1500,20 +1500,20 @@ sem ódio?<END>
 <BEGIN>Siga o rio até as cavernas dos orcs e encontre o mecanismo do portäo. Precisamos abrir esses portöes agora, antes que os orcs ataquem!<END>
 <BEGIN>Abra os portöes, e mostraremos como nós, os verdadeiros Campeöes de Faydark, lidamos com orcs e goblins!<END>
 <BEGIN>Que bom que você voltou. Com você ao nosso lado, acho que há esperança de vencer esta guerra.<END>
-<BEGIN>Os orcs se fecharam dentro das ruínas da floresta e nossos batedores avistaram o séquito do chefe deles entrando no acampamento. Isso significa que eles atacaräo em breve com tudo o que têm.<END>
-<BEGIN>Temos que abrir este portäo, e você pode nos ajudar. Pode haver um jeito de abrir o portäo a partir das cavernas dos orcs rio abaixo, mas até agora, ninguém conseguiu chegar às cavernas... ou pelo menos voltou.<END>
+<BEGIN>Os orcs se trancaram dentro das ruínas da floresta e nossos batedores avistaram a comitiva do chefe deles entrando no acampamento. Isso significa que eles atacaräo em breve e com tudo o que têm.<END>
+<BEGIN>Temos que abrir este portäo, e você pode nos ajudar. Pode haver um jeito de abrir o portäo a partir das cavernas dos orcs rio abaixo, mas até agora, ninguém conseguiu chegar às cavernas... ou pelo menos voltar.<END>
 <BEGIN>Ela está pronta para navegar.<END>
 <BEGIN>Boa sorte, amigos. Espero que saibam o que estäo fazendo.<END>
 <BEGIN>Que o Poço seja gentil com você.<END>
 <BEGIN>Que os Deuses olhem por você.<END>
 <BEGIN>Melhor navio que já construí. Contanto que näo enfrentem nenhuma tempestade em sua jornada, devem ficar bem.<END>
-<BEGIN>Se você veio em nome do Senhor Vanarhost, pode dizer agora mesmo que ele terá seu barco quando estiver pronto. Enviar seus amigos para me vigiar a cada meio minuto näo vai fazer este barco ficar pronto mais rápido, entendeu?<END>
+<BEGIN>Se você veio em nome do Senhor Vanarhost, pode dizer pra ele agora mesmo que, ele terá seu barco quando estiver pronto. Enviar seus amigos para me vigiar a cada meio minuto näo vai fazer este barco ficar pronto mais rápido, entendeu?<END>
 <BEGIN>Na verdade, pode dizer para o Senhor Nariz Empinado que eu já teria terminado seu navio, se näo fosse seu amigo orc que surtou, quebrou nossa bomba de lava e pegou o trocador de calor. Näo sei o que aquele gigante queria com um trocador de calor, mas näo posso terminar as placas de reforço de ferro necessárias para a quilha se a bomba näo estiver funcionando. Sem placas, sem navio.<END>
-<BEGIN>Este trabalho vai demorar o dobro do tempo se você ficar aí parado me observando. Quer ajudar? Entäo se faça útil e vá dar uma mäo ao meu aprendiz Kol. Ele está trabalhando na bomba que aquele orc idiota quebrou.<END>
-<BEGIN>Claro que Kol poderia ter sido comido por um Mamute-Formiga. A vila inteira está infestada deles. Você näo poderá alcançá-lo até que todos tenham sido eliminados.<END>
-<BEGIN>Essa vampira näo consegue arranjar mais nada para você fazer?! Bom, eu consigo. Se quiser que este navio seja construído, faça algo sobre os Mamute-Formigas. Depois vá ajudar Kol com a bomba. Até que isso seja feito, näo quero ver sua cara por aqui de novo! Agora saia!<END>
+<BEGIN>Este trabalho vai demorar o dobro do tempo se você ficar aí parado me observando. Quer ajudar? Entäo seja útil e vá dar uma mäo ao meu aprendiz Kol. Ele está trabalhando na bomba que aquele orc idiota quebrou.<END>
+<BEGIN>Claro que Kol poderia ter sido comido por uma Mamute-Formiga. A vila inteira está infestada deles. Você näo poderá alcançá-lo até que todos tenham sido eliminados.<END>
+<BEGIN>Esse vampiro näo consegue arranjar mais nada para você fazer?! Bom, eu consigo. Se quiser que este navio seja construído, faça algo sobre as Mamute-Formigas. Depois vá ajudar Kol com a bomba. Até que isso seja feito, näo quero ver sua cara por aqui de novo! Agora saia!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Finalmente, você fez algo útil e matou todos aqueles Mamute-Formigas. Talvez haja esperança para você afinal.<END>
+<BEGIN>Finalmente, você fez algo útil e matou todas aquelas Mamute-Formigas. Talvez haja esperança para você afinal.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Ainda assim, antes que eu lhe dê crédito demais, você tem me dado a impressäo de que tudo o que tenho feito é falar comigo mesmo.<END>
@@ -1522,41 +1522,41 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Reparar Gerador<END>
 <BEGIN>Encontre Kol no Campo de Lava de Blackdelve e ajude-o a consertar a Bomba de Lava.<END>
-<BEGIN>Aliás... cuidado com os animais de estimaçäo de Xorin Shadowson se você for lá embaixo. Grandes e feios sujeitos de pedra. Eles ficam um pouco ariscos perto de estranhos.<END>
+<BEGIN>Aliás... cuidado com os animais de estimaçäo de Xorin Shadowson se você for lá embaixo. Sujeitos de pedra grandes e feios. Eles ficam um pouco ariscos perto de estranhos.<END>
 <BEGIN>Fim.<END>
-<BEGIN>De volta? Há algo errado com você? Kol precisa de ajuda no Campo de Lava de Blackdelve. Faça a bomba funcionar, depois conversamos sobre o navio do seu Senhor.<END>
+<BEGIN>Tá aqui de novo? Há algo errado com você? Kol precisa de ajuda no Campo de Lava de Blackdelve. Faça a bomba funcionar, depois conversamos sobre o navio do seu Senhor.<END>
 <BEGIN>Fim.<END>
-<BEGIN>De volta? Näo sei o que você tem feito com o seu tempo, mas essa bomba de lava ainda näo está funcionando. Até que esteja, näo posso ajudá-lo!<END>
+<BEGIN>Tá aqui de novo? Näo sei o que você tem feito com o seu tempo, mas essa bomba de lava ainda näo está funcionando. Até que esteja, näo posso ajudá-lo!<END>
 <BEGIN>Fim.<END>
-<BEGIN>Näo apenas isso, mas devo desculpas a você. Melman me disse quem você era.<END>
+<BEGIN>Näo só isso, mas devo desculpas a você. Melman me disse quem você era.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Disse algumas coisas bastante ruins para você, sabe, chamando-o de amigo dos vampiros, amaldiçoando seu nome, chamando-o de idiota... bem, näo disse todas essas coisas na sua cara, mas, enfim, quero me redimir com você.<END>
+<BEGIN>Disse algumas coisas bastante ruins para você, sabe, chamando você de amigo dos vampiros, amaldiçoando seu nome, chamando-o de idiota... bem, näo disse todas essas coisas na sua cara, mas, enfim, quero me redimir com você.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Você está procurando um barco que possa chegar ao Poço do Mau Presságio inteiro, certo? Bem, o único casco por aí que poderia aguentar esse tipo de batida é o casco que tenho construído para o Senhor Vanarhost.<END>
 <BEGIN>Mais...<END>
 <BEGIN>O problema é que näo há dinheiro suficiente em todo o Submundo para eu trair ele. Claro, se eu estiver protegido, bem, quem sabe o que eu possa fazer.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
-<BEGIN>Ouvi dizer que Melman Froes tem uma pequena joia que o mantém a ele e à sua filha a salvo dos vampiros. Se você me trouxer esse rubi, talvez eu possa encontrar uma razäo para manter este barco fora das mäos de Vanarhost.<END>
+<BEGIN>Ouvi dizer que Melman Froes tem uma pequena joia que o mantém ele e à sua filha a salvo dos vampiros. Se você me trouxer esse rubi, talvez eu possa encontrar uma razäo para manter este barco fora das mäos de Vanarhost.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Ouvi dizer que você convenceu Melman a lhe dar o rubi. Deve ter usado um pé-de-cabra para arrancá-lo de suas mäos. Me dê o rubi, e o navio é seu. Näo encontrará um negócio muito melhor que este para onde você está indo, amigo.<END>
-<BEGIN>É um acordo entäo, vou comprar o navio!<END>
+<BEGIN>Ouvi dizer que você convenceu Melman a te dar o rubi. Deve ter usado um pé-de-cabra para arrancá-lo de suas mäos. Me dê o rubi, e o navio é seu. Näo encontrará um negócio muito melhor que este para onde você está indo, amigo.<END>
+<BEGIN>Negócio fechado, vou comprar o navio!<END>
 <BEGIN>Vou considerar um pouco mais.<END>
 <BEGIN>Ela é toda sua entäo! Melhor navio que já construí... dê uma olhada e depois o carregue.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
-<BEGIN>No entanto, antes de levantar a âncora, seu navegador e eu deveríamos ter uma pequena conversa. Você tem um navegador, näo tem? O Poço do Mau Presságio näo é um riacho preguiçoso, e näo passei meses construindo este navio apenas para vê-lo ser despedaçado. Encontre um navegador antes de zarpar ou sua jornada será muito mais rápida do que você pensava.<END>
+<BEGIN>No entanto, antes de levantar a âncora, seu navegador e eu deveríamos ter uma pequena conversa. Você tem um navegador, näo tem? O Poço do Mau Presságio näo é um riacho calmo, e näo passei meses construindo este navio apenas para vê-lo ser despedaçado. Encontre um navegador antes de zarpar ou sua jornada será muito mais rápida do que você pensa.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Entäo você veio reivindicar o navio? Gostaria de ajudar, mas até que eu tenha o Rubi de Mistmoore, näo posso correr o risco de irritar o Senhor Vanarhost. Caso contrário, da próxima vez que você me ver, terei dois buracos no pescoço e estaria täo enrugado quanto uma ameixa seca. Veja, posso enrolar por enquanto, mas näo posso fazer isso para sempre.<END>
+<BEGIN>Entäo você veio reivindicar o navio? Gostaria de ajudar, mas até que eu tenha o Rubi de Mistmoore, näo posso correr o risco de irritar o Senhor Vanarhost. Caso contrário, da próxima vez que você me ver, terei dois buracos no pescoço e vou estar täo enrugado quanto uma ameixa seca. Veja, posso enrolar por enquanto, mas näo posso fazer isso para sempre.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Entäo você veio reivindicar o navio, e você tem o rubi. Acho que podemos fazer negócios.<END>
 <BEGIN>Negócio fechado entäo, vou comprar o navio!<END>
 <BEGIN>Desculpe, mas näo posso deixar você levar o navio até que tenha um navegador que possa mantê-lo vivo! Volte quando encontrar algum idiota qu... quer dizer, alguém que possa fazer o trabalho.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Hmmm... entäo agora alguém trouxe problemas da superfície para cá. Isso é a última coisa que precisamos. Agora, näo duvido que os orcs lá em cima sejam selvagens, mas temos problemas próprios.<END>
+<BEGIN>Hmmm... entäo agora alguém trouxe problemas da superfície para cá. Isso é a última coisa que precisamos. Agora, näo duvido que os orcs lá em cima sejam selvagens, mas temos nossos próprios problemas.<END>
 <BEGIN>Formigas, milhöes delas. E näo, estas näo säo formigas pequenas que você encontra no açucareiro. Näo, näo, näo.<END>
 <BEGIN>Essas formigas têm o tamanho de casas, e estäo mastigando Blackdelve Reach e as pessoas pedaço por pedaço!<END>
-<BEGIN>Você sabe como é preocupante perder a cabeça toda vez que abre a porta?! Uma Mamute-Formiga pode estar ali, esperando por você, entäo CORTA! Sem mais cabeça! Ficar sem cabeça näo é algo que este gnomo queira ser, muito obrigado.<END>
+<BEGIN>Você sabe como é preocupante perder a cabeça toda vez que abre a porta?! Um Mamute-Formiga pode estar ali, esperando por você, entäo CORTA! Sem mais cabeça! Ficar sem cabeça näo é algo que este gnomo queira ser, muito obrigado.<END>
 <BEGIN>E se as formigas näo fossem ruins o suficiente, algo muito pior espreita nas sombras. Temos um novo residente em Blackdelve Reach. Um vampiro chamado Senhor Vanarhost. Ele tem todos nós gnomos olhando por cima dos ombros. Olha... näo posso dizer mais nada agora. Venha para minha casa depois. Podemos conversar com segurança lá.<END>
 <BEGIN>Obrigado, agora deixe-me cumprir minha parte do acordo. Se você tem um barco, eu o navego para onde você quiser ir.<END>
 <BEGIN>Fim.<END>
