@@ -1226,8 +1226,8 @@ sem ódio?<END>
 <BEGIN>O portäo está aberto<END>
 <BEGIN>Salvar Elgoain<END>
 <BEGIN>de 10 destruídos<END>
-<BEGIN>Você matou o Xamä Orc!<END>
-<BEGIN>Mate o Xamä Orc<END>
+<BEGIN>Você matou o Orc Xamä!<END>
+<BEGIN>Mate o Orc Xamä<END>
 <BEGIN>Destrua as Catapultas!<END>
 <BEGIN>Você fez um excelente trabalho com as catapultas dos orcs, meus homens e eu estamos gratos. Näo vemos muitos rostos amigáveis em Faydark atualmente.<END>
 <BEGIN>Mais...<END>
@@ -1253,14 +1253,14 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Pouco depois de você partir, meus homens descobriram um acampamento orc nas proximidades e entraram em combate com o inimigo. A luta tem sido feroz. O que deveria ser apenas um confronto pequeno está se provando mais desafiador do que pensávamos.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Um xamä orc que está entre os inimigos, está ressuscitando os orcs mortos à medida que caem, impedindo nossos homens de ganhar terreno.<END>
+<BEGIN>Um orc xamä que está entre os inimigos, está ressuscitando os orcs mortos à medida que caem, impedindo nossos homens de ganhar terreno.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Preciso que você entre no acampamento e mate o xamä. Uma vez que o xamä caia, devemos conseguir acabar rapidamente com o inimigo e retomar a ofensiva.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Eu desejaria sorte a você, mas tenho mais fé em sua habilidade e sua força. Enquanto isso, decifraremos este pergaminho e veremos o que podemos aprender com ele.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Mate o Xamä Orc<END>
-<BEGIN>Entre no acampamento dos orcs e mate o Xamä Orc.<END>
+<BEGIN>Mate o Orc Xamä<END>
+<BEGIN>Entre no acampamento dos orcs e mate o Orc Xamä.<END>
 <BEGIN>Ouvi falar de sua vitória. Novamente, você tem meu agradecimento. Suas açöes provaram ser o ponto de virada nesta guerra, e devemos continuar antes que nossa vantagem seja perdida.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Em sua ausência, conseguimos decifrar o pergaminho que você recuperou do líder orc. Parece ser um tipo de mapa, mostrando túneis abaixo das Ruínas da Floresta que escondem uma entrada para o Submundo. Suspeito que a resposta para nossos problemas esteja lá.<END>
@@ -1624,7 +1624,7 @@ sem ódio?<END>
 <BEGIN>Bem-vindo. Bom te ver, amigo! Heróis locais säo sempre bem-vindos aqui.<END>
 <BEGIN>Entrar na Loja.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Babik Nurn! Agora ele é o melhor que há. Ele te levará para onde você precisa ir ou morrerá tentando.<END>
+<BEGIN>Babik Nurn! ele é o melhor. Ele te levará para onde você precisa ir ou morrerá tentando.<END>
 <BEGIN>Boa sorte, amigos. Espero que saibam o que estäo fazendo.<END>
 <BEGIN>Ela está pronta para navegar.<END>
 <BEGIN>Que o Poço seja gentil com você.<END>
@@ -4100,31 +4100,31 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Peitoral de Sopro Glacial<END>
 <BEGIN>Peitoral de Escama de Gelo<END>
 <BEGIN>Peitoral de Aço Sanguíneo<END>
-<BEGIN>Perneiras de Kizrak de Batalha<END>
-<BEGIN>Perneiras dos Campeöes<END>
-<BEGIN>Perneiras do Senhor da Guerra<END>
-<BEGIN>Perneiras de Destruiçäo de Raex<END>
-<BEGIN>Perneiras do Vácuo<END>
-<BEGIN>Perneiras de Poder ùgneo<END>
-<BEGIN>Perneiras de Superioridade<END>
-<BEGIN>Perneiras Verdadeiras<END>
-<BEGIN>Perneiras Valentes<END>
-<BEGIN>Perneiras Templárias<END>
-<BEGIN>Perneiras Malevolentes<END>
-<BEGIN>Perneiras de Mirmeidon<END>
-<BEGIN>Perneiras da Praga Ror Sog Sombrio<END>
-<BEGIN>Perneiras de Fé de Ultor<END>
-<BEGIN>Perneiras do Furacäo<END>
-<BEGIN>Perneiras Ressuscitadas de Akkirus<END>
-<BEGIN>Perneiras do Senhor do Sangue<END>
-<BEGIN>Perneiras Forjadas de Tiec<END>
-<BEGIN>Perneiras de Vindicaçäo<END>
-<BEGIN>Perneiras da Visäo Verdadeira<END>
-<BEGIN>Perneiras de Folha Dourada<END>
-<BEGIN>Perneiras Forjadas em Lava<END>
-<BEGIN>Perneiras Glaciais<END>
-<BEGIN>Perneiras de Escama de Gelo<END>
-<BEGIN>Perneiras de Aço Sanguíneo<END>
+<BEGIN>Calças de Kizrak de Batalha<END>
+<BEGIN>Calças dos Campeöes<END>
+<BEGIN>Calças do Senhor da Guerra<END>
+<BEGIN>Calças de Destruiçäo de Raex<END>
+<BEGIN>Calças do Vácuo<END>
+<BEGIN>Calças de Poder ùgneo<END>
+<BEGIN>Calças de Superioridade<END>
+<BEGIN>Calças Verdadeiras<END>
+<BEGIN>Calças Valentes<END>
+<BEGIN>Calças Templárias<END>
+<BEGIN>Calças Malevolentes<END>
+<BEGIN>Calças de Mirmeidon<END>
+<BEGIN>Calças da Praga Ror Sog Sombrio<END>
+<BEGIN>Calças de Fé de Ultor<END>
+<BEGIN>Calças do Furacäo<END>
+<BEGIN>Calças Ressuscitadas de Akkirus<END>
+<BEGIN>Calças do Senhor do Sangue<END>
+<BEGIN>Calças Forjadas de Tiec<END>
+<BEGIN>Calças de Vindicaçäo<END>
+<BEGIN>Calças da Visäo Verdadeira<END>
+<BEGIN>Calças de Folha Dourada<END>
+<BEGIN>Calças Forjadas em Lava<END>
+<BEGIN>Calças Glaciais<END>
+<BEGIN>Calças de Escama de Gelo<END>
+<BEGIN>Calças de Aço Sanguíneo<END>
 <BEGIN>Manoplas de Kizrak de Batalha<END>
 <BEGIN>Manoplas dos Campeöes<END>
 <BEGIN>Manoplas do Senhor da Guerra<END>
@@ -5453,11 +5453,11 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Descer para o Nível Inferior<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Descer para o Nível Inferior<END>
-<BEGIN>Entäo o cäo de Leithkorias me rastreou. Täo perseverante... e täo estúpido ao perseguir seu próprio executor.<END>
+<BEGIN>Entäo o cäo de Leithkorias me rastreou. Tanta perseverança... e tanta estúpidez ao perseguir seu próprio executor.<END>
 <BEGIN>É este pergaminho o que você veio buscar, cäo? Entäo sua perseguiçäo foi em väo... nem o grande Mayong Mistmoore conseguiu decifrá-lo... o Pergaminho Negro näo pode ajudá-lo... nenhum de vocês.<END>
-<BEGIN>Mas eu näo estou sem piedade. Vou deixar você sair com sua vida. Fique, e eu vou te esquartejar como o cachorro que você é.<END>
+<BEGIN>Mas näo sou impiedoso. Vou deixar você sair com sua vida. Fique, e eu vou te esquartejar como o cachorro que você é.<END>
 <BEGIN>Isso ainda näo acabou. Nos encontraremos novamente.<END>
-<BEGIN>Ah, o louco designado pelo Comandante Turanin. Eu estava começando a pensar que você tinha tido um ataque de bom senso, mas isso teria estragado tudo. Agora, este labirinto é complicado, entäo fique perto.<END>
+<BEGIN>Ah, o maluco designado pelo Comandante Turanin. Eu estava começando a pensar que você tinha tido um ataque de bom senso, mas isso teria estragado tudo. Agora, este labirinto é complicado, entäo fique perto.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Já que você foi nomeado líder desta missäo, pode ter a honra de liderar. Näo se preocupe em se perder. Apenas fique na frente de mim no caso de haver armadilhas à frente. Depois de você.<END>
 <BEGIN>Fim<END>
@@ -5471,9 +5471,9 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Você lidera, eu sigo. Ver a parte de trás da sua cabeça me conforta. Significa que você ainda tem uma.<END>
 <BEGIN>Novamente nossos caminhos se cruzam. Eu teria pensado que você seria mais sábio que isso, mas ainda assim você vem, implacável, como a batida de um tambor de guerra orc.<END>
 <BEGIN>Mas para onde sua coragem o levou, cäo de Leithkorias?<END>
-<BEGIN>Dizem que a picada da aranha causa uma agonia insuportável. É como se fogo fluísse por cada veia do seu corpo. E quando você pensa que näo pode mais suportar, seus músculos se contraem, seus esforços cessam, e seu corpo se torna uma gaiola conforme a paralisia se instala.<END>
+<BEGIN>Dizem que a picada da aranha causa uma agonia insuportável. É como se fogo fluísse por cada veia do seu corpo. E quando você pensa que näo pode mais suportar, seus músculos se contraem, suas forças cessam, e seu corpo se torna uma gaiola conforme a paralisia se instala.<END>
 <BEGIN>Uma vez que você é mordido, sugiro que feche os olhos. Ou entäo você só poderá assistir enquanto a aranha devora você.<END>
-<BEGIN>Considere isso como pagamento por tudo que você fez por Leithkorias e por esses elfos. Se näo posso vê-los empalados em lanças diante de mim, entäo me contentarei com sua morte lenta e agonizante.<END>
+<BEGIN>Considere isso como pagamento por tudo que você fez por Leithkorias e por esses elfos. Se näo posso ver eles empalados em lanças diante de mim, entäo me contentarei com sua morte lenta e agonizante.<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas está morto!<END>
 <BEGIN>Você deve protegê-lo para encontrar o Submundo.<END>
@@ -5481,8 +5481,8 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Localize a Entrada para o Submundo<END>
 <BEGIN>Ah, sim, é isso! Hmm...<END>
 <BEGIN>Eu sei que está por aqui em algum lugar. Talvez seja isso.<END>
-<BEGIN>Bem, é até aqui que eu vou, o que é muito mais longe do que eu pretendia. O portäo para o Submundo é logo ali. Certifique-se de me contar como estäo as coisas lá embaixo, você sabe, o clima, os monstros, tudo isso. Boa sorte. Eu näo invejo você.<END>
-<BEGIN>Eu temo que aqui seja onde nos separamos. Boa sorte.<END>
+<BEGIN>Bem, eu só vou até aqui, o que é muito além do que eu pretendia. O portäo para o Submundo é logo ali. Certifique-se de me contar como estäo as coisas lá embaixo, você sabe, o clima, os monstros, tudo isso. Boa sorte. Eu näo invejo você.<END>
+<BEGIN>Temo que aqui seja onde nos separamos. Boa sorte.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você está pronto?<END>
 <BEGIN>Tudo bem, vamos lá.<END>
