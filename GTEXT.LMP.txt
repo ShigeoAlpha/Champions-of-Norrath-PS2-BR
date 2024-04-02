@@ -105,7 +105,7 @@ Sem o poder de Innoruuk,
 o ódio que alimentava seus exércitos
 começou a consumir a si mesmo.
 Em Faydwer, as hordas de orcs e goblins
-lembraram antigas animosidades e se voltaram uns contra os outros,
+lembraram antigas desavenças e se voltaram uns contra os outros,
 deixando-os vulneráveis aos exércitos dos elfos.
 As batalhas que se seguiram
 foram curtas e decisivas,
@@ -2013,7 +2013,7 @@ sem ódio?<END>
 <BEGIN>Golpe Fatal<END>
 <BEGIN>Esta habilidade faz com que golpes críticos causem mais dano.<END>
 <BEGIN>Desviar Mísseis<END>
-<BEGIN>Esta habilidade lhe dá uma chance de bloquear automaticamente armas de projéteis.<END>
+<BEGIN>Esta habilidade te concede uma chance de bloquear automaticamente armas de projéteis.<END>
 <BEGIN>Encantar Flechas<END>
 <BEGIN>Esta habilidade encanta todas as flechas normais que você dispara, causando mais dano.<END>
 <BEGIN>Espada e Punho<END>
@@ -2023,7 +2023,7 @@ sem ódio?<END>
 <BEGIN>+1 Bônus de Armadura por classificaçäo enquanto você tiver um escudo equipado.<END>
 <BEGIN>Sangue de Feiticeiro<END>
 <BEGIN>+1 ponto de mana ganho por nível. Isso näo é retroativo.<END>
-<BEGIN>Você näo pode ser ensinado.<END>
+<BEGIN>Você näo pode aprender.<END>
 <BEGIN>Sem Pontos Restantes<END>
 <BEGIN>Ponto Restante<END>
 <BEGIN>Pontos Restantes<END>
@@ -2331,7 +2331,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>:  Normal<END>
 <BEGIN>:  Difícil<END>
 <BEGIN>:  Extremo<END>
-<BEGIN>Corrupçäo de dados foi encontrada. Todos os dados seräo<END>
+<BEGIN>Dados corrompidos foram encontrados. Todos os dados seräo<END>
 <BEGIN>apagados e re-inicializados. Continuar?<END>
 <BEGIN>Salvar Jogo<END>
 <BEGIN>Seu jogo foi salvo!<END>
@@ -2718,9 +2718,9 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Ruínas Interiores<END>
 <BEGIN>%c Para Acelerar  %c Para Frear/Ré<END>
 <BEGIN>Esperando por passageiros.<END>
-<BEGIN>Foi encontrada corrupçäo de dados. Todos os dados seräo apagados e re-inicializados. Continuar?<END>
+<BEGIN>Dados corrompidos foram encontrados. Todos os dados seräo apagados e re-inicializados. Continuar?<END>
 <BEGIN>O cartäo de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÄO DE MEMÓRIA %s näo está formatado.<END>
-<BEGIN>Dados de Champions Of Norrath näo estäo presentes. Este jogo requer %dKB de espaço livre. Inicializar?<END>
+<BEGIN>Dados de Champions Of Norrath näo foram encontrados. Este jogo requer %dKB de espaço livre. Inicializar?<END>
 <BEGIN>Nenhum dado de salvamento presente.<END>
 <BEGIN>Espaço insuficiente no cartäo de memória (8MB)(para PlayStation%c2) no SLOT DO CARTÄO DE MEMÓRIA %s. Este jogo requer %dKB de espaço livre para salvar dados.<END>
 <BEGIN>Cuidado! Se você deseja salvar seus dados de jogo, insira um cartäo de memória (8MB)(para PlayStation%c2) com pelo menos %dKB de espaço livre.<END>
@@ -2812,7 +2812,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>O vigor aumenta a saúde total e a regeneraçäo de saúde.<END>
 <BEGIN>Nome do Personagem:<END>
 <BEGIN>FEITO<END>
-<BEGIN>ESP<END>
+<BEGIN>ESPC<END>
 <BEGIN>%c Shift<END>
 <BEGIN>%c Apagar<END>
 <BEGIN>%c Aceitar<END>
@@ -3098,7 +3098,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Suportar Doenças<END>
 <BEGIN>Suportar o Fogo<END>
 <BEGIN>Escuridäo Abrasadora<END>
-<BEGIN>Cria uma nuvem de escuridäo que confunde e machuca os inimigos. Ranks mais altos aumentam o dano e a confusäo.<END>
+<BEGIN>Cria uma nuvem de escuridäo que confunde e danifica os inimigos. Ranks mais altos aumentam o dano e a confusäo.<END>
 <BEGIN>Dano de área de %d-%d, %d%% de chance de confusäo, %d segundos de confusäo.<END>
 <BEGIN>Carga<END>
 <BEGIN>Um ataque em corrida que causa um dano tremendo quando o inimigo é atingido. Ranks mais altos adicionam dano radial e melhoram a direçäo.<END>
@@ -3122,18 +3122,18 @@ Você ganha 750 de experiência.<END>
 <BEGIN>%d-%d de dano por segundo dentro de um raio de %d pés por %d segundo.<END>
 <BEGIN>%d-%d de dano por segundo dentro de um raio de %d pés por %d segundos.<END>
 <BEGIN>Flares de Fogo<END>
-<BEGIN>Cria flares que orbitam o conjurador. Ranks mais altos fornecem mais flares, dano de impacto e dano de área de efeito.<END>
-<BEGIN>%d-%d de dano no impacto, %d flare que dura %d segundos.<END>
-<BEGIN>%d-%d de dano no impacto, %d flares que duram %d segundos.<END>
-<BEGIN>%d-%d de dano no impacto, %d-%d de dano de área, %d flares que duram %d segundos.<END>
+<BEGIN>Cria chamas que orbitam o conjurador. Ranks mais altos fornecem mais chamas, dano de impacto e dano de área de efeito.<END>
+<BEGIN>%d-%d de dano no impacto, %d chama que dura %d segundos.<END>
+<BEGIN>%d-%d de dano no impacto, %d chamas que duram %d segundos.<END>
+<BEGIN>%d-%d de dano no impacto, %d-%d de dano de área, %d chamas que duram %d segundos.<END>
 <BEGIN>Riposte<END>
 <BEGIN>Uma criatura que ataca o jogador tem uma chance de ser atingida de volta.<END>
 <BEGIN>%d-%d de dano no contra-ataque, com uma chance de sucesso de %d%%.<END>
 <BEGIN>Abençoado<END>
-<BEGIN>Um personagem abençoado recuperará seu mana mais rapidamente. Uma bênçäo de ranking mais alto dará uma maior velocidade de regeneraçäo.<END>
+<BEGIN>Um personagem abençoado recuperará sua mana mais rapidamente. Uma bênçäo de ranking mais alto dará uma maior velocidade de regeneraçäo.<END>
 <BEGIN>%d%% de regeneraçäo de mana mais rápida durante a duraçäo do feitiço.<END>
 <BEGIN>Invocar Esqueleto<END>
-<BEGIN>Levanta um esqueleto guerreiro para ajudar na batalha. Ranks mais altos adicionam uma arma encantada.<END>
+<BEGIN>Levanta um guerreiro esqueleto para ajudar na batalha. Ranks mais altos adicionam uma arma encantada.<END>
 <BEGIN>Esqueleto de nível %d com uma chance de %d%% de ter uma arma encantada.<END>
 <BEGIN>Armas de Raios<END>
 <BEGIN>Dá uma carga elétrica às suas armas, ranks mais altos aumentam o dano, duraçäo, tamanho da aura e efeito da aura.<END>
@@ -3161,7 +3161,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Lança um cone de chama na frente do conjurador. Um rank mais alto dá mais dano e um cone maior.<END>
 <BEGIN>%d-%d de dano por segundo. O cone tem %d graus de largura.<END>
 <BEGIN>Regeneraçäo<END>
-<BEGIN>Um personagem com regeneraçäo recuperará seu mana mais rapidamente. Um rank mais alto dá uma velocidade maior de regeneraçäo.<END>
+<BEGIN>Um personagem com regeneraçäo recuperará sua mana mais rapidamente. Um rank mais alto dá uma velocidade maior de regeneraçäo.<END>
 <BEGIN>%d%% de regeneraçäo de mana mais rápida.<END>
 <BEGIN>Raio de Raios<END>
 <BEGIN>Um fluxo de raios é lançado pelo conjurador. Um rank mais alto dá mais dano e alcance maior ao feixe.<END>
@@ -3257,13 +3257,13 @@ Você ganha 750 de experiência.<END>
 <BEGIN>%d%% de dano, %d%% de velocidade, duraçäo de %ds.<END>
 <BEGIN>%d%% de dano, %d%% de velocidade, duraçäo de %ds, raio de aura %d pés.<END>
 <BEGIN>Raiz<END>
-<BEGIN>Interrompe os inimigos onde estäo quando bem-sucedido. Ranks mais altos aumentam quantos säo afetados, duraçäo e porcentagem de sucesso.<END>
+<BEGIN>Segura os inimigos onde estäo quando bem-sucedido. Ranks mais altos aumentam quantos säo afetados, duraçäo e porcentagem de sucesso.<END>
 <BEGIN>Até %d %u por %d segundos. %d%% de chance de sucesso por inimigo.<END>
 <BEGIN>Raiz<END>
-<BEGIN>Interrompe os inimigos onde estäo quando bem-sucedido. Ranks mais altos aumentam quantos säo afetados, duraçäo e porcentagem de sucesso.<END>
+<BEGIN>Segura os inimigos onde estäo quando bem-sucedido. Ranks mais altos aumentam quantos säo afetados, duraçäo e porcentagem de sucesso.<END>
 <BEGIN>Até %d %u por %d segundos. %d%% de chance de sucesso por inimigo.<END>
-<BEGIN>Enredar<END>
-<BEGIN>Interrompe os inimigos onde estäo quando bem-sucedido. Ranks mais altos aumentam quantos säo afetados, duraçäo e porcentagem de sucesso.<END>
+<BEGIN>Emaranhar<END>
+<BEGIN>Segura os inimigos onde estäo quando bem-sucedido. Ranks mais altos aumentam quantos säo afetados, duraçäo e porcentagem de sucesso.<END>
 <BEGIN>Até %d %u por %d segundos. %d%% de chance de sucesso por inimigo.<END>
 <BEGIN>Golpe Crítico<END>
 <BEGIN>Melhora suas chances de registrar um golpe crítico durante um ataque. Fornece habilidades semelhantes para os companheiros de equipe dentro do alcance da aura.<END>
@@ -4813,7 +4813,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo consigo vencer. Estou destinado a ser punido por tentar ajudar as pessoas.<END>
 <BEGIN>Deixe-me te tirar daí - onde está a chave?<END>
-<BEGIN>Chave? A porta näo está trancada. Simplesmente näo havia muita razäo para sair até você aparecer. E isso näo é muita razäo. Para onde eu iria? Esta é uma ilha bastante pequena, e está infestada de escravistas.<END>
+<BEGIN>Chave? A porta näo está trancada. Simplesmente näo havia muita razäo para sair até você aparecer. E isso näo é muita razäo. Para onde eu iria? Esta é uma ilha bem pequena, e está infestada de escravistas.<END>
 <BEGIN>Você viu um homem chamado Lazlo?<END>
 <BEGIN>Havia um humano maluco correndo por aí acorrentado. Esta costumava ser sua gaiola, aliás. Os escravistas estavam fazendo todo tipo de perguntas para ele e obtendo respostas muito estranhas. Acho que eles se cansaram de seu papo de esquilo e o mandaram por um daqueles portais estranhos, mas näo sei para onde. Ele provavelmente ainda está vivo em algum lugar.<END>
 <BEGIN>Mais...<END>
@@ -4841,7 +4841,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo consigo vencer. Estou destinado a ser punido por tentar ajudar as pessoas.<END>
 <BEGIN>Deixe-me te tirar daí - onde está a chave?<END>
-<BEGIN>Chave? A porta näo está trancada. Simplesmente näo havia muita razäo para sair até você aparecer. E isso näo é muita razäo. Para onde eu iria? Esta é uma ilha bastante pequena, e está infestada de escravistas.<END>
+<BEGIN>Chave? A porta näo está trancada. Simplesmente näo havia muita razäo para sair até você aparecer. E isso näo é muita razäo. Para onde eu iria? Esta é uma ilha bem pequena, e está infestada de escravistas.<END>
 <BEGIN>Você viu um homem chamado Lazlo?<END>
 <BEGIN>Havia um humano maluco correndo por aí acorrentado. Esta costumava ser sua gaiola, aliás. Os escravistas estavam fazendo todo tipo de perguntas para ele e obtendo respostas muito estranhas. Acho que eles se cansaram de seu papo de esquilo e o mandaram por um daqueles portais estranhos, mas näo sei para onde. Ele provavelmente ainda está vivo em algum lugar.<END>
 <BEGIN>Mais...<END>
@@ -5455,7 +5455,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Descer para o Nível Inferior<END>
 <BEGIN>Entäo o cäo de Leithkorias me rastreou. Tanta perseverança... e tanta estúpidez ao perseguir seu próprio executor.<END>
 <BEGIN>É este pergaminho o que você veio buscar, cäo? Entäo sua perseguiçäo foi em väo... nem o grande Mayong Mistmoore conseguiu decifrá-lo... o Pergaminho Negro näo pode ajudá-lo... nenhum de vocês.<END>
-<BEGIN>Mas näo sou impiedoso. Vou deixar você sair com sua vida. Fique, e eu vou te esquartejar como o cachorro que você é.<END>
+<BEGIN>Mas näo sou impiedoso. Permitirei você sair com vida. Fique, e eu vou te esquartejar como o cachorro que você é.<END>
 <BEGIN>Isso ainda näo acabou. Nos encontraremos novamente.<END>
 <BEGIN>Ah, o maluco designado pelo Comandante Turanin. Eu estava começando a pensar que você tinha tido um ataque de bom senso, mas isso teria estragado tudo. Agora, este labirinto é complicado, entäo fique perto.<END>
 <BEGIN>Mais...<END>
