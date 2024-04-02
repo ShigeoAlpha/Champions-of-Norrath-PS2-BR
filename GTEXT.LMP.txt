@@ -4670,18 +4670,18 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Mas você näo viverá para v...<END>
 <BEGIN>Nossa Era?!<END>
 <BEGIN>Innoruuk... Senhor Innoruuk, eu näo quis insultar, apenas...<END>
-<BEGIN>EU TENHO OBSERVADO VOCÊ PERCORRER SEU CAMINHO, PELYS. TUDO O QUE VOCÊ TOCOU ACABOU EM FRACASSO E RUùNA. SE NÄO FOSSE POR VOCÊ, NORRATH JÁ SERIA MEU.<END>
+<BEGIN>EU TENHO OBSERVADO VOCÊ PERCORRER SEU CAMINHO, PELYS. TUDO O QUE VOCÊ TOCOU ACABOU EM FRACASSO E RUùNA. SE NÄO FOSSE POR VOCÊ, NORRATH JÁ SERIA MINHA.<END>
 <BEGIN>VOCÊ BUSCOU SE TORNAR O FILHO DO ÓDIO, PELYS T'YVL. MAS PARA ODIAR, UM DEVE SOFRER.<END>
 <BEGIN>Senhor Innoruuk, eu lhe imploro, por favor...<END>
 <BEGIN>Entäo você sobreviveu. Acho que eu näo deveria ficar surpreso. Devemos lutar uma última vez, campeäo de Norrath?<END>
-<BEGIN>Diga-me, campeäo de Norrath, você pode ouvir isso?<END>
+<BEGIN>Diga-me, campeäo de Norrath, você consegue ouvir isso?<END>
 <BEGIN>Esse chifre foi seu presente para nós. A única chave que pode abrir o portal de todos os planos, de todos os deuses conhecidos em Norrath.<END>
 <BEGIN>Esse som marca o fim de uma era, e o surgimento de uma nova era. Nossa era.<END>
 <BEGIN>Você näo tem o poder para me derrotar.<END>
-<BEGIN>Eu lhe ensinarei o verdadeiro significado da dor.<END>
-<BEGIN>Seus gritos väo rachar as pedras deste Plano - e seu sangue vai encher essas rachaduras.<END>
+<BEGIN>Eu te ensinarei o verdadeiro significado da dor.<END>
+<BEGIN>Seus gritos väo rachar as pedras deste Plano - e seu sangue vai preencher essas rachaduras.<END>
 <BEGIN>Vou vê-lo queimar no fogo do ódio.<END>
-<BEGIN>Todas as almas restantes devem estar próximas para ativar o portal.<END>
+<BEGIN>Todas as almas devem estar próximas para ativar o portal.<END>
 <BEGIN>Para o Plano do Ar<END>
 <BEGIN>Todas as almas devem estar próximas para ativar o portal.<END>
 <BEGIN>Para o Plano do Ar<END>
